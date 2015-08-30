@@ -1,0 +1,21 @@
+#+POSTID: 4461
+#+DATE: [2010-01-22 Fri 18:37]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: ML, OCaml, Programming Language
+#+TITLE: OUnit
+
+Via the [[http://www.xs4all.nl/~mmzeeman/ocaml/][homepage]]:
+
+
+
+#+BEGIN_QUOTE
+  OUnit is a unit test framework for OCaml. It allows one to easily create unit-tests for OCaml code. It is based on HUnit, a unit testing framework for Haskell. It is similar to JUnit, and other XUnit testing frameworks.
+#+END_QUOTE
+
+
+
+
+
+
+

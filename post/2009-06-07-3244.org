@@ -1,0 +1,58 @@
+#+POSTID: 3244
+#+DATE: [2009-06-07 Sun 01:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Bazaar, Mac, Revision control system
+#+TITLE: Setting up QBZR on OS X
+
+[[http://bazaar-vcs.org/][Bzr]] is nice to use. It is tailored for the masses (of which I am a member). It has the usual UNIX support, but it has first-class Windows support, too. It has a nice UI if you want it. The community is great, too. 
+
+A few days ago I installed it on OS X and found that there was no UI support via Qt. Fortunately there are directions for setting it up [[https://answers.launchpad.net/qbzr/+question/10213][here]]. Here are the steps that I followed:
+
+
+
+1. Installed [[http://bazaar-vcs.org/Download][bzr]] 1.14.1
+2. Installed [[http://www.qtsoftware.com/downloads][Qt]] for Mac OS X Cocoa, qt-mac-cocoa-opensource-4.5.1.dmg, to the default location
+3. Verified its installation by running 'qtdemo'
+4. Installed [[http://www.riverbankcomputing.co.uk/software/sip/download][sip]], sip-4.7.9.tar.gz
+5. Installed [[http://www.riverbankcomputing.co.uk/software/pyqt/download][PyQt]], PyQt-mac-gpl-4.4.4.tar.gz (build took a relatively long time)
+6. Tried out qlog and qdiff and they worked fine
+
+
+
+Now I am wondering if I should have just installed this using MacPorts.
+
+*Addendum: 06/21/09*
+
+Here are the directions that I followed from that link:
+
+
+
+#+BEGIN_EXAMPLE
+    
+In order to install PyQt, you need to have SIP installed.
+1) download and install QT4.x
+
+2) get SIP from http://www.riverbankcomputing.co.uk/sip/download.php
+$> python configure.py -d /Library/Python/2.5/site-packages
+$> make
+$> sudo make install
+
+3) get PyQT from http://www.riverbankcomputing.co.uk/pyqt/download.php
+$> python configure.py -q /bin/qmake -d /Library/Python/2.5/site-packages
+$> make
+$> sudo make install
+
+Hope this helps to get qbzr working
+
+#+END_EXAMPLE
+
+
+
+BZR as of today works with Python 2.4 or greater. Leopard comes with both 2.3 and 2.5 installed; but defaults to 2.5.
+
+I didn't know where qmake was installed; and typing 'type -a qmake' seemed to be the quickest way to find it.
+
+
+
+

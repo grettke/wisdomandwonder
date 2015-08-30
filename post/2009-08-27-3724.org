@@ -1,0 +1,21 @@
+#+POSTID: 3724
+#+DATE: [2009-08-27 Thu 15:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Ikarus, Programming Language, Scheme
+#+TITLE: A very rough proposal for a Scheme package manager
+
+#+BEGIN_QUOTE
+  
+I've started working on a package manager implementation, dubbed "dorodango"[0]. I post this as a feedback request, not because there's working code to show yet.
+
+dorodango is/will (ATM) be based upon these concepts, which I hereby put up for discussion:
+
+#+END_QUOTE
+
+
+
+Read the rest [[http://groups.google.com/group/ikarus-users/browse_thread/thread/fabb890e3015f6f1][here]].
+
+
+

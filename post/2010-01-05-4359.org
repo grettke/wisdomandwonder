@@ -1,0 +1,21 @@
+#+POSTID: 4359
+#+DATE: [2010-01-05 Tue 17:04]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: OCaml, Programming Language
+#+TITLE: Some Favorite OCaml Editors
+
+Being interested in a good editor for OCaml, I was happy to have people share what are their favorite editors [[http://caml.inria.fr/pub/ml-archives/caml-list/2010/01/dd006b47d7caaacbb1a2427ddbcd16b1.en.html][here]] (caml-list):
+
+
+-  [[http://home.gna.org/cameleon/chamo.en.html][Chamo]]
+-  [[http://www.eclipse.org/][Eclipse]] + [[http://www.algo-prog.info/ocaide/][OcaIDE]]
+-  [[http://www.gnu.org/software/emacs/][Emacs]] + [[http://www-rocq.inria.fr/~acohen/tuareg/index.html.en][tuareg-mode]]
+-  [[http://kate-editor.org/][Kate]]
+-  [[http://www.nedit.org/][NEdit]] + syntax highlighting patterns available from [[http://www.n8gray.org/code/nedit/][n8gray.org]]
+-  [[http://www.scintilla.org/SciTE.html][SciTE]]
+-  [[http://www.vim.org/][VIM]]
+-  [[http://www.xemacs.org/][XEmacs]]
+
+
+

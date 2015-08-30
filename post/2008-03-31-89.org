@@ -1,0 +1,17 @@
+#+POSTID: 89
+#+DATE: [2008-03-31 Mon 16:31]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Macros, Programming Language
+#+TITLE: Companies using DSLs with Functional Programming Languages
+
+One of the questions that has been lingering in the back of my mind for a long time is "When should a company use a DSL?". My stock answer has always been "When it makes sense."
+
+Perhaps a better way is to answer that question is to look at /how/ companies are actually using them today, rather then to simply guess! 
+
+Have a look at the "case studies" section in [[http://www.montages.com/presentation/20070901Stefansen.pdf][this presentation]] on ContractML to see how companies are using DSLs today.
+
+(via [[http://groups.google.com/group/cufp][cufp]])
+
+
+

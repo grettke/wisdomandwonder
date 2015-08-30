@@ -1,0 +1,11 @@
+#+POSTID: 9226
+#+DATE: [2014-10-10 Fri 02:21]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: How can I overwrite a method in R?
+
+[[http://r.789695.n4.nabble.com/How-can-I-overwrite-a-method-in-R-td4698099.html][This]] is a nice overview of the problem and one or two solutions.
+
+
+

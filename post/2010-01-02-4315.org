@@ -1,0 +1,15 @@
+#+POSTID: 4315
+#+DATE: [2010-01-02 Sat 19:41]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Linux, ML, OCaml, Programming Language, Software
+#+TITLE: Using VirtualBox for OCaml
+
+I would like to try out OCaml. From what I have read, though, it is only happy running on UNIX. Without a UNIX box at the moment I decided to try out Sun's VirtualBox with Ubuntu. 
+
+Setup, configuration, and installation took less than an hour. Directories can easily be shared between the host and the guest (Windows XP and Ubuntu in this case), which is convenient for me because I share my Bazaar checkout folder. The NAT network adapter is configured "out of the box". Everything "just worked"; it was a really pleasant experience.
+
+These days there really aren't many obstacles to running, or even just trying out, Linux.
+
+
+

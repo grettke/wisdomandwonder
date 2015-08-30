@@ -1,0 +1,11 @@
+#+POSTID: 9042
+#+DATE: [2014-08-31 Sun 21:45]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: 10 R packages I wish I knew about earlier by yhat
+
+yhat [[http://blog.yhathq.com/posts/10-R-packages-I-wish-I-knew-about-earlier.html][posted]] a nice detailed and light overview.
+
+
+

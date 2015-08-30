@@ -1,0 +1,19 @@
+#+POSTID: 8243
+#+DATE: [2014-02-25 Tue 01:46]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide, Lisp, Programming Language, elisp, org-mode
+#+TITLE: org-mode Observations 2014-02-24
+
+org-mode style structural editing is available anywhere with the [[http://orgmode.org/manual/Orgstruct-mode.html][orgstruct-mode]] minor-mode running.
+
+[[http://orgmode.org/worg/org-tutorials/non-beamer-presentations.html#sec-6][org-reveal]] exports Org documents to Reveal.js
+
+[[http://orgmode.org/worg/org-contrib/org-protocol.html][org-protocol]] lets you use emacsclient as a sort of unlimited general purpose API vehicle.
+
+When exporting to LaTeX, you may specify the table width as an attribute.
+
+A Babel session may be "none" to prevent session creation.
+
+
+

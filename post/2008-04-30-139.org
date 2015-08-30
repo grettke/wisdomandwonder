@@ -1,0 +1,103 @@
+#+POSTID: 139
+#+DATE: [2008-04-30 Wed 02:05]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Working with DrScheme 372
+
+[[http://www.drscheme.org/][DrScheme]] is a delightful environment for working with Scheme. It is has the right balance between power and ease-of-use that makes it perfect for just about anyone. Its goal is to be an excellent vehicle for both working with Scheme and facilitating learning via its teach-pack facilities. While DrScheme works pretty really well “out of the box”, you ought to dig deeper into the documentation and configuration options. Over the past year or so I've used DrScheme exclusively for editing Scheme and found that there are a few key-bindings, settings, tools, and ideas that were very helpful to me. 
+
+
+
+*** Key-bindings
+
+
+
+Key commands are critical for making programmers feel at home. DrScheme has no shortage of them! You should take a look at all of them just to sate your curiosity. I've attached the default bindings [[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/04/v371-bindings.xls][here]].
+
+Your ultimate goal in using the key-bindings should be to facilitate your style of programming. I've got my preferred approach, of course, and for that I've attached my [[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/04/drschemekeysonly.txt][favorite key-bindings]]. In lieu of pasting all of those into this post, I've included my “Top 5 List” of DrScheme key-bindings that should get you going in the right direction (use the big list as a reference for these):
+
+
+1. Navigate among s-expressions
+ - Move the cursor between s-expressions within a given s-expression
+ - meta + arrow keys
+ - Add shift to make selections
+
+2. Navigate among words
+ - Move the cursor among words
+ - control + arrow keys
+ - Add shift to make selections
+
+3. Insert pairs of operators
+ - "", (), [], {}, ||, or lambda template (lambda () )
+ - meta + shift, or (m:s:l) or (ESC;s:l) for lambda template
+ - Combine with selection to safely wrap s-expressions during refactoring
+ - For example, select an expression, insert a pair, that pair gets inserted around the selection you just made
+
+4. Tabs
+ - control + "=" opens a new tab
+ - control + "page up" or "page down" moves between tabs
+
+5. Editors
+ - control + m splits the editor
+ - control + r collapses the editor
+ - control + x p|o navigate backward|foward among split editors
+ - control + d toggles editor hiding
+ - control + e toggles REPL hiding
+ - control + f6 toggle-focus-between-definitions-and-interactions window
+ - The difference between stop and kill is that kill is not catchable by an exception handler
+
+
+
+
+
+*** Settings
+
+
+
+There are just two settings that made a big difference for me. The first was to set the syntax color highlighting to something that I liked, that is probably a no-brainer. The second was to tell DrScheme to always open files in a new tab. Under Edit->Preferences->Editing->General make sure that "Open files in separate tabs (not separate windows)" is checked, and that “Reuse existing frames when opening new files” is unchecked.
+
+
+
+*** Tools
+
+
+
+DrScheme has some very nice built-in tooling. For example, an integrated debugger, macro expander, profiler, and check-syntax tool that allows for a number of things including name refactoring.
+
+One "tool" included with DrScheme is the notion of different "language levels". The idea is that you can use the IDE for any number of different languages tailored for a given scenario. For example, students might use the beginner language, whereas you would probably use the "Pretty Big Language". This is not something that you need to investigate right off the bat, but it is definitely worth taking a look.
+
+
+
+*** Plug-ins
+
+
+
+If DrScheme doesn't come with it, you can probably find a plug-in for it over at [[http://planet.plt-scheme.org/][Planet]]. 
+
+"PLaneT is PLT Scheme's centralized package distribution system. [It is where] you will find user-contributed Scheme packages along with instructions for using them.".
+
+There are a lot of very, very nice plug-ins over there, you should definitely have a look.
+
+
+
+*** Ideas
+
+
+
+Anyone coming to Lisp for the first time has surely head about the Read-Evaluate-Print-Loop ([[http://en.wikipedia.org/wiki/REPL][REPL]]) "style of development". Indeed, it sounds magical. In practice, it is not magical, but it /is/ pretty nice once you get use to it. You see the the key is that you need to get really comfortable with the key-bindings so that you can navigate back and forth between the REPL and the editor, and along with that you need to really get on board with navigating and refactoring s-expressions so that you pluck whatever you like from the REPL and quickly turn that into a function in your editor. All in all it is pretty straightforward once you get a hang of the keys and a sense for that "style" of development. It is a lot of fun when it makes sense.
+
+Since mzscheme supports Unicode "out of the box", you can use whatever symbols you like within DrScheme (limited only by font support of course). This lets you implement some pretty interesting ideas about how your code should look since you are limited only by the Unicode feature set. Stuff like this, while seemingly quite small, can really make coding delightful. 
+
+
+
+*** Conclusion
+
+
+
+DrScheme is a really brilliant tool. You can probably do a lot more with it, but I've found the features listed above to be "just right" for me. Hopefully that was helpful to you, too.
+
+Thanks to all of the hard work by both the PLT folks and volunteers who contribute to it, we've got a wonderful Scheme IDE available for all to use for free. Thanks guys!
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 111
+#+DATE: [2008-04-21 Mon 00:29]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, elisp
+#+TITLE: emacs analog clock
+
+For when a digital clock won't do: [[http://yrk.livejournal.com/212721.html][analog-clock.el]].
+
+
+

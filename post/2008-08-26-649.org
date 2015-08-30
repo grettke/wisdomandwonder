@@ -1,0 +1,11 @@
+#+POSTID: 649
+#+DATE: [2008-08-26 Tue 14:13]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Playing Audio In PLT-Scheme Scheme - Using MCI
+
+Ben explains how to perform non-trivial audio operations in Windows using PLT Scheme [[http://benjisimon.blogspot.com/2008/08/playing-audio-in-plt-scheme-scheme.html][here]].
+
+
+

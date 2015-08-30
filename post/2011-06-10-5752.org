@@ -1,0 +1,11 @@
+#+POSTID: 5752
+#+DATE: [2011-06-10 Fri 00:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Graphviz, Utility
+#+TITLE: Graphviz on Windows 7 64-bit Works on CMD but not Powershell
+
+My friend at work struggled for hours to get Graphviz on Windows 7 64-bit working. We tried everything, and finally narrowed it down to one difference: he was using Powershell and I was using CMD.
+
+
+

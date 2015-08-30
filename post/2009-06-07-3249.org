@@ -1,0 +1,17 @@
+#+POSTID: 3249
+#+DATE: [2009-06-07 Sun 01:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Business, iPhone, model
+#+TITLE: iPhone Barcode Scanners and Boosting Innovation
+
+[[http://www.ismashphone.com/2009/05/red-laser-the-first-accurate-iphone-barcode-scanner-hits-the-app-store.html][Here]] is a good article about a barcode scanner library for the iPhone. One interesting thing is that the imaging library used in the app is available in a [[http://www.occipital.com/ClearCam][SDK]] sold by the company. 
+
+It seems that the application is meant to drive sales of the API.
+
+I suppose this is not a new idea, but I have never done something like this so it was new to me :).
+
+Seem interesting?
+
+
+

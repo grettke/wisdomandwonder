@@ -1,0 +1,13 @@
+#+POSTID: 4690
+#+DATE: [2013-08-11 Sun 19:49]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: BiwaScheme: A Scheme interpreter for browsers
+
+[[http://www.biwascheme.org/development.html][BiwaScheme]] is a Scheme interpreter for web browsers.
+
+(via [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/7456c2e184f0e8bc#][leppie]])
+
+
+

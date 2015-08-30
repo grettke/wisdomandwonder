@@ -1,0 +1,11 @@
+#+POSTID: 268
+#+DATE: [2008-07-18 Fri 12:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Update
+#+TITLE: Updated: Mosh Scheme
+
+See [[http://www.wisdomandwonder.com/link/262/mosh-scheme][here]]
+
+
+

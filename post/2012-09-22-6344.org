@@ -1,0 +1,17 @@
+#+POSTID: 6344
+#+DATE: [2012-09-22 Sat 00:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Fun, Functional, Learning, Lisp, Programming, Programming Language, Racket, Scheme, mathematics
+#+TITLE: Understanding the Y-Combinator with Racket
+
+Understanding the Y-Combinator seems to be one of the functional programming right-of-passage things, and for good reason, it is fun. Not all of the articles out there spoke to me, so I took notes while coding it up in a way that I understood it.
+
+My notes are attached in the form of a Scribble here [[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/09/How-the-Y-Works.zip][How the Y Works]], viewable [[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/09/y.html][here]], and the source code version here [[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/09/y.zip][y]].
+
+It is Racket, but it is really close to Scheme and if you wrote a couple of macros it would probably run on Clojure pretty easily.
+
+The goal is for there to be no gaps in the code, it should be pretty obvious how each step was taken. Hand-coding it made it clear what was happening. This is what worked for me :).
+
+
+

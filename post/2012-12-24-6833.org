@@ -1,0 +1,25 @@
+#+POSTID: 6833
+#+DATE: [2012-12-24 Mon 03:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 02947, CB750, CB750F, Honda, Motorcycle, Repair
+#+TITLE: CB750F: Day 09
+
+Tonight was preparation for break. Hooked up the adapter cable to the battery for the trickle charger and learned about what it means to ground a circuit (fireworks in face) along with a trick of wrapping the screwdriver in a layer of electric tape to insulate it. 
+
+It was real hassle getting the bolts into the nut on the battery posts, so I stuck some paper tape underneath to jack it up and pulled it out once it was gripped.
+
+Finding a carb kit is still a work in progress, I suspect that I will buy individual jets.
+
+Debating buying an ultrasonic cleaner; though it is certainly easier than building one. One interesting item I found though was a drop-in transducer, which could turn any container into an ultrasonic cleaner!
+
+The cheapo nitrile gloves aren't cutting it, they break too much, got a recommendation for the Microflex MidKnight Nitrile gloves instead.
+
+Brandon shared his carb gaskets with me, they look like they will fit (thanks!). I might break apart that rack so I can replace/clean all of the diaphragms.
+
+The rest of the night I just cleaned off the bike; she is in rough shape and deserves to be clean.
+
+[gallery]
+
+
+

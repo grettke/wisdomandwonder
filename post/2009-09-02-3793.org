@@ -1,0 +1,11 @@
+#+POSTID: 3793
+#+DATE: [2009-09-02 Wed 19:04]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Statistics, applied statistics
+#+TITLE: Statistics is the New MBA
+
+Check out [[http://www.nytimes.com/2009/08/06/technology/06stats.html][this]] NY Times article discussing the demand for statisticians today.
+
+
+

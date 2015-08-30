@@ -1,0 +1,13 @@
+#+POSTID: 4022
+#+DATE: [2009-10-04 Sun 05:01]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Business, Tools
+#+TITLE: A Native PDF Editor
+
+[[http://pagehand.com/][Here]], for OS X, is a native PDF editor (or PDF based word-processor, depending on how you look at it). It seems interesting; and perhaps "easier" than LaTeX.
+
+(via [[http://www.downloadsquad.com/2009/07/25/pagehand-lets-you-compose-pdf-files-natively/][downloadsquad]])
+
+
+

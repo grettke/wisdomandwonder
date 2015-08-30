@@ -1,0 +1,11 @@
+#+POSTID: 4239
+#+DATE: [2009-12-23 Wed 01:35]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: A Bucket Full of Scheme Videos
+
+jao posted [[http://programming-musings.org/2009/12/23/scheme-lectures-mostly/][here]]on a big list of Scheme related videos that came up in the PLT discussion list.
+
+
+

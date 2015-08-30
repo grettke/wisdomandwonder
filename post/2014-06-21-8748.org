@@ -1,0 +1,13 @@
+#+POSTID: 8748
+#+DATE: [2014-06-21 Sat 14:29]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Be sure to configure org-startup-folded for large org documents
+
+Be sure to configure [[http://orgmode.org/manual/Initial-visibility.html][org-startup-folded]] for large org documents. 
+
+org quite nicely handles navigating a collapsed document. Large ones though get a nagging slowdown, and nofold remedies this.
+
+
+

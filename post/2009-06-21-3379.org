@@ -1,0 +1,13 @@
+#+POSTID: 3379
+#+DATE: [2009-06-21 Sun 20:50]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Revision control system, Subversion
+#+TITLE: Adding Version Control to Your Application with Subversion
+
+[[http://people.apache.org/~rooneg/talks/version-control/version-control.html][Here]] is a good presentation about the Subversion C API.
+
+I attended it at OSCON 2006; which was all around a lot of good fun.
+
+
+

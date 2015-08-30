@@ -1,0 +1,19 @@
+#+POSTID: 9385
+#+DATE: [2014-12-26 Fri 15:38]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: Expanding and Using Abbreviations in Emacs
+
+#+BEGIN_QUOTE
+  A defined [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Abbrevs.html#Abbrevs][abbrev]] is a word which expands, if you insert it, into some different text.
+#+END_QUOTE
+
+
+
+They are really simple and really helpful if you like this kind of thing. If you grew up hacking on Java, then you surely already use this in IntelliJ IDEA!
+
+[[https://groups.google.com/forum/#!topic/gnu.emacs.help/kHvUcFdiXFM][Here]] is a nice post on how to choose and define abbrevs based upon actual usage.
+
+
+

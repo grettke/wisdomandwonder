@@ -1,0 +1,30 @@
+#+POSTID: 1216
+#+DATE: [2008-11-18 Tue 01:42]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Eclipse, Ide, Revision control system, Subversion
+#+TITLE: Uninstall Subversive
+
+Although [[http://www.eclipse.org/subversive/][Subversive]] is the official Eclipse Subversion provider, the plugin itself doesn't behave very well. In particular, it is impossible to uninstall it (v0.7) using the "Software Updates" dialog. The only option is to delete the jar files yourself (in 2001 I remember hoping that soon, we wouldn't have to do stuff like this). Here are the files to delete:
+
+(Disclaimer: this worked for me, I make no promises for what it might do to your Eclipse installation)
+
+
+
+#+BEGIN_EXAMPLE
+    
+org.eclipse.team.svn.core_0.7.5.I20081029-1900.jar
+org.eclipse.team.svn.help_0.7.5.I20081029-1900.jar
+org.eclipse.team.svn.resource.ignore.rules.jdt_0.7.5.I20081029-1900.jar
+org.eclipse.team.svn.ui_0.7.5.I20081029-1900.jar
+org.eclipse.team.svn_0.7.5.I20081029-1900.jar
+org.polarion.eclipse.team.svn.connector.javahl15_2.0.5.I20081024-1200.jar
+org.polarion.eclipse.team.svn.connector.javahl_2.0.5.I20081024-1200.jar
+org.polarion.eclipse.team.svn.connector.svnkit15_2.0.5.I20081024-1200.jar
+org.polarion.eclipse.team.svn.connector.svnkit_2.0.5.I20081024-1200.jar
+org.polarion.eclipse.team.svn.connector_2.0.5.I20081024-1200.jar
+
+#+END_EXAMPLE
+
+
+

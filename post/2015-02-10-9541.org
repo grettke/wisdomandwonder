@@ -1,0 +1,262 @@
+#+POSTID: 9541
+#+DATE: [2015-02-10 Tue 21:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: .NET, C Sharp, Entity Framework, Javascript, PluralSight, Programming, Programming Language
+#+TITLE: Entity Framework 4.1 - Code First
+
+[[http://www.pluralsight.com/courses/ef41-code-first][Entity Framework 4.1 - Code First]] is a good next-step from [[http://www.pluralsight.com/courses/entity-framework5-getting-started][this]]. Guessing that all of the courses referenced in the latter are going to be good next steps, so I will watch all of them. My neighbor at work asked me why I'm using PluralSight instead of just reading all of the EF material. 
+
+Normally I read all of the literature on a topic, in depth, at least a couple of times. Every time I've done that before, there has been a lot of energy and desire surrounding the pursuit. Learning EF though I feel like I am late to the game. That means that people aren't really excited about sharing their experiences with EF anymore, so I can't draw from their energy at all regarding EF, and, I want that. That is why I want to use PluralSight here. 
+
+Lerman is sharing 3 things here: facts, values and personal preference. That is exactly what you get interacting with your professional peers. For an experienced programmer, this is the sweet spot for learning new things. Yes my peers are totally up for sharing those things, too, just not 10 hours of it! This is where courses like this are valuable.
+
+The fact that Lerman is vouching for EF means a lot, and sharing her values and beliefs about how to do EF is energizing, and that makes it fun. Lerman's courses on PluralSight provide a very pleasant learning experience in a very short time-span.
+
+My personal notes on EF follow.
+
+
+
+
+#+BEGIN_HTML
+  <div id="content">
+#+END_HTML
+
+
+
+
+
+
+#+BEGIN_HTML
+  <div id="outline-container-sec-1" class="outline-2">
+#+END_HTML
+
+
+
+** 1 Introduction
+
+
+
+
+#+BEGIN_HTML
+  <div id="text-1" class="outline-text-2">
+#+END_HTML
+
+
+
+
+-  EF 4.1 added CodeFirst and DbContext.
+
+-  CodeFirst==Model-less EF.
+
+-  DbContext is a lightweight ObjectContext for most normal stuff.
+
+-  How can EF support code-first (model-less)?
+
+
+   -  Entity Data Model
+
+   -  Entity Client API
+
+   -  Object Services API
+
+
+   
+
+-  Metadata model kinda explained
+
+-  CodeFirst can provide metadata either via annotations or fluent API
+
+-  Property name =Id= binds to DB PK
+
+-  FK relationships inferred by name
+
+-  Entity validation
+
+-  FluentAPI represents all metadata; annotations are a large subset
+
+-  DbModelBuilder, OnModelCreating
+
+-  TimeStamp RowVersion, yes!
+
+-  Many2one, One2many mappings
+
+-  Database.SetInitializer
+
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+
+#+BEGIN_HTML
+  <div id="outline-container-sec-2" class="outline-2">
+#+END_HTML
+
+
+
+** 2 CodeFirst Data Annotations
+
+
+
+
+#+BEGIN_HTML
+  <div id="text-2" class="outline-text-2">
+#+END_HTML
+
+
+
+
+-  ConventionOverConfiguration
+
+-  System.ComponentModel.DataAnnotations
+
+
+   -  EF.dll has most of them
+
+   -  System.ComponentModel.DataAnnotations.dll has some of em
+
+
+   
+
+-  OptimisticConcurrencyChecking
+
+
+   -  Timestamp, RowVersion
+
+
+   
+
+-  Teacher prefers to always have FK available instead of auto-gen'd
+
+-  ForeignKey annotation tells entities what property to use for FKs of
+referenced entities
+
+
+   -  Eg Tweet(Author) autogens Author_{AuthorKey} vs using AuthorId
+
+
+   
+
+-  Autogen: <Type><Property><PrimaryKey>
+
+-  InverseProperty is really simple, just need a good example
+
+-  ComplexType is neat, forgot Hibernate name
+
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+
+#+BEGIN_HTML
+  <div id="outline-container-sec-3" class="outline-2">
+#+END_HTML
+
+
+
+** 3 CodeFirst Fluent API
+
+
+
+
+#+BEGIN_HTML
+  <div id="text-3" class="outline-text-2">
+#+END_HTML
+
+
+
+
+-  Extend EntityTypeConfiguration<Type>
+
+-  Can specify different required'ness between model and database
+
+-  IsUnicode, good
+
+-  TableSplitting
+
+
+   -  great example
+
+   -  don't want to pull big images, just once in a while
+
+   -  What are the risks?
+
+
+   
+
+-  Bi-directional constraint example,e HasRequired WithRequiredPrincipal
+
+-  More ConcurrencyConfiguration, great
+
+
+   -  IsConcurrencyToken
+
+   -  IsRowversion
+
+
+   
+
+-  Fixing Unconventional Foreign Keys at 3m or so, great example
+
+-  EF defaults to table per hierarchy, choose your discriminator
+
+
+   -  Also TablePerType if you spec it out manually
+
+   -  Also TablePerConcreteType
+
+
+   
+
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+

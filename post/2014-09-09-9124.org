@@ -1,0 +1,11 @@
+#+POSTID: 9124
+#+DATE: [2014-09-09 Tue 00:31]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: Testing Emacs Packages: surprisingly non-awful
+
+[[http://jamesporter.me/2014/05/15/testing-elisp.html][Testing Emacs Packages: surprisingly non-awful]] is a nice example of one approach to testing Emacs Lisp.
+
+
+

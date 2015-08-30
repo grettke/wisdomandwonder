@@ -1,0 +1,25 @@
+#+POSTID: 2700
+#+DATE: [2009-04-19 Sun 20:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Why there is not restart exception handling in PLT Scheme
+
+YC asked [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-July/025883.html][here[1]]]:
+
+
+
+#+BEGIN_QUOTE
+  Is it possible to handle exceptions like Common Lisp, specifically restarts?
+
+Scenario: undefined variables - handling by defining the variable, and continue past the exception.
+#+END_QUOTE
+
+
+
+Matthew explained what is and is not possible in the following threads [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-July/025888.html][here]], [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-July/025936.html][here]], and [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-July/025939.html][here]].
+
+[1]: PLT Scheme Mailing list, "restart exception handling?", Thu Jul 10 17:35:57 EDT 2008
+
+
+

@@ -1,0 +1,23 @@
+#+POSTID: 78
+#+DATE: [2008-03-23 Sun 19:55]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Ur-Scheme: Compiling a Subset of R5RS Scheme to Asm
+
+The [[http://www.canonical.org/~kragen/sw/urscheme/][home page]] for Ur-Scheme tells the tale of one mans journey implementing a compiler from a subset of Scheme to Assembly on Linux.
+
+For folks interested in almost totally pure functional programs, here is a teaser:
+
+
+
+#+BEGIN_QUOTE
+  It contains relatively little mutation. Although almost every line of the compiler has "side effects" like outputting lines of assembly code, there are fairly few locations where the compiler's internal state is mutated. I count 25 calls to set! and string-set! in the 1600 lines of code, including the standard library.
+#+END_QUOTE
+
+
+
+
+
+
+

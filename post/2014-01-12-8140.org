@@ -1,0 +1,17 @@
+#+POSTID: 8140
+#+DATE: [2014-01-12 Sun 01:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Java, Programming Language, Scheme
+#+TITLE: Schluessel - A Scheme Implementation on Java
+
+#+BEGIN_QUOTE
+  [[http://schluessel.morilib.net/index.html?0.4.4][Schluessel]] is an R5RS Scheme implementation based on Java. Schluessel can manipulate Java libraries by using reflection. Scheme applications written by Schluessel can also embed in Java applications.
+#+END_QUOTE
+
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 6144
+#+DATE: [2012-01-25 Wed 03:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Data Modeling, Database, Learning, Teaching
+#+TITLE: ENTERPRISE DATA MODELING
+
+Last semester (Fall 2011) I taught "ENTERPRISE DATA MODELING" at [[http://www.carrollu.edu/][Carroll University]]. Carroll is a great school and teaching the class was a lot of fun. 
+
+A mentor of mine shared that "A teacher's job is to create an environment in which learning is likely to occur.". Thank you for sharing that.
+
+
+

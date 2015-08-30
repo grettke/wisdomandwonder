@@ -1,0 +1,19 @@
+#+POSTID: 8224
+#+DATE: [2014-02-02 Sun 01:31]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Emacs Lisp, Programming Language, Utility
+#+TITLE: Encript-ing Emacs Lisp
+
+A little "busy", but all good.
+
+
+
+#+BEGIN_EXAMPLE
+    
+enscript --word-wrap --underlay=Master --ul-gray=0.9 --line-numbers -M Letter --pretty-print=elisp --landscape --columns=2 --output=/home/gcr/tmp/emacs.el.ps ./.emacs.el
+
+#+END_EXAMPLE
+
+
+

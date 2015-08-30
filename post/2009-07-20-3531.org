@@ -1,0 +1,11 @@
+#+POSTID: 3531
+#+DATE: [2009-07-20 Mon 02:41]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming, philosophy
+#+TITLE: If you believe in continuous integration then show it
+
+It might be interesting for groups who promote agile software development practices to start introducing transparency, gently and slowly, simply by including a single number on their web page: the percentage of their projects that are successfully building, and nothing more.
+
+
+

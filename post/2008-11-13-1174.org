@@ -1,0 +1,11 @@
+#+POSTID: 1174
+#+DATE: [2008-11-13 Thu 20:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming, philosophy
+#+TITLE: Beating the Odds: 3 Tenets of Good Software
+
+Lately I've noticed three key traits about software that is generally recognized as "excellent" by technical folks. At its core, said software is simple (it does a few things, very, very well), it its highly reliable (correct, predictable, stable), and it is extensible (by the user).
+
+
+

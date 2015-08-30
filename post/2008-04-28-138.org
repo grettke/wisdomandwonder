@@ -1,0 +1,13 @@
+#+POSTID: 138
+#+DATE: [2008-04-28 Mon 03:11]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming, philosophy
+#+TITLE: Never Trust Thoughtleaders
+
+Never trust "a thought leader": they are supposed to teach you how to think, not tell you what to think!
+
+Now of course you /can/ trust them, but it is your duty never to just "take their word for it".
+
+
+

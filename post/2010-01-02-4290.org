@@ -1,0 +1,101 @@
+#+POSTID: 4290
+#+DATE: [2010-01-02 Sat 03:09]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Software
+#+TITLE: Snow Leopard Can't Access Windows XP Over SMB Woes
+
+Recently I switched back to a Windows XP box (XPB) from an OS X Leopard (OSXBL) machine. Since OSXBL would have a new user, I figured that I might as well install Snow Leopard (OSXBSL) on the machine. Everything worked out pretty well; but I was surprised to find that OSXBSL could no access SMB shares on XPB. This surprised me as nothing changed on XPB; so seemingly it was Snow Leopard to blame. I went through a standard checklist, followed by "tips" from the web:
+
+
+
+-  Reboot both machines
+-  Confirm share settings (passwords, share name)
+-  Turn off share passwords
+-  Verify firewall on XPB; also tried out turning off firewall (both McAfee and built in)
+-  [[http://www.laptop-junction.com/toast/content/windows-xp-file-and-printer-sharing-hell-firewall-configuration-mcafee][Enabled ports]] that windows sharing might use
+-  Can ping XPB from OSXBSL
+-  Set a workgroup name on OSXBSL
+-  Turned on SMB sharing on OSXBSL (via a tip, it sounds odd, but I gave it a try)
+-  Turned off IPV6 on OSXBSL
+
+
+
+None of that helped. 
+
+Reading on I found a lot of people angry about this kind of issue. Posts go back to at least 2005, and they seem to be facing the exact same problem. Eventually I came upon a post that mentioned the problem is that finder can't mount the shares, but you can mount them just fine using 'mount' command. While that did not work for me, it got me going in the direction of trying to access the share using 'smbclient' (via [[http://forums.macosxhints.com/archive/index.php/t-33399.html][this]] post), and that is when things got a lot more interesting (there were literally hours and hours of banging my head against the wall to reach this point). 
+
+Here is what it reported:
+
+
+#+BEGIN_EXAMPLE
+    
+zen:~ admin$ smbclient -L stargate
+Password: 
+Domain=[STARGATE] OS=[Windows 5.1] Server=[Windows 2000 LAN Manager]
+
+   Sharename       Type      Comment
+ ---------       ----      -------
+ IPC$            IPC       Remote IPC
+  R$              Disk      Default share
+   Grant           Disk      
+    O$              Disk      Default share
+   ADMIN$          Disk      Remote Admin
+    C$              Disk      Default share
+   S$              Disk      Default share
+Domain=[STARGATE] OS=[Windows 5.1] Server=[Windows 2000 LAN Manager]
+
+   Server               Comment
+  ---------            -------
+
+    Workgroup            Master
+   ---------            -------
+
+#+END_EXAMPLE
+
+
+
+That confirms that OSXBSL can "see" XPB's SMB shares. Next I tried mounting a share and found this:
+
+
+
+#+BEGIN_EXAMPLE
+    
+zen:~ admin$ smbclient \\\\stargate\\Grant --user=grettke
+Password: 
+Domain=[STARGATE] OS=[Windows 5.1] Server=[Windows 2000 LAN Manager]
+tree connect failed: NT_STATUS_INSUFF_SERVER_RESOURCES
+
+#+END_EXAMPLE
+
+
+
+Here are the errors that showed up in the System Event Log on XPB:
+
+
+
+#+BEGIN_EXAMPLE
+    
+Type: Error
+Source: Srv
+Description:
+The server's configuration parameter "irpstacksize" is 
+too small for the server to use a local device.  Please 
+increase the value of this parameter.
+
+#+END_EXAMPLE
+
+
+
+Searching for this error message, I found [[http://forums.techarena.in/small-business-server/1124237.htm][this]] thread (and /many/ like it) that essentially says that you get this error when you use virus scan software. McAfee lives on this computer (while I've never had a problem with a Windows box, /ever/, I don't want there to be one and I don't want to have to spend /too/ much time administrating this thing). [[https://kc.mcafee.com/corporate/index?page=content&id=KB59932&pmv=print][Here]] is what McAfee had to say.
+
+After making the changes I reset everything to its normal state (OSXBSL no sharing, IPV6 automatic, no workgroup name and on XPB turned on the firewall and set the share permissions again). Testing out smbclient, no errors were reported, and finder quite happily mounted the shares, too. 
+
+What a time-consuming problem; the solution was not obvious at all!
+
+*Addendum: 09/14/10*
+
+Added a local copy of the solution [[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/01/McAfeeKnowledgeBaseirpstacksize.pdf][here]].
+
+
+

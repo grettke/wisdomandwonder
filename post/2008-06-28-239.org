@@ -1,0 +1,17 @@
+#+POSTID: 239
+#+DATE: [2008-06-28 Sat 12:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, forth
+#+TITLE: colorForth
+
+#+BEGIN_QUOTE
+  [[http://www.colorforth.com/][colorForth]] is a redesign of [Forth] for the 21st century. It also draws upon a 20-year evolution of minimal instruction-set microprocessors. Now implemented on modern PCs, it runs stand-alone without an operating system. Applications are recompiled from source with a simple optimizing compiler.
+#+END_QUOTE
+
+
+
+It is the child of Chuck Moore, the creator of Forth.
+
+
+

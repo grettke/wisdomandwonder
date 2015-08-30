@@ -1,0 +1,58 @@
+#+POSTID: 8626
+#+DATE: [2014-06-02 Mon 00:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Homebrew, OSX, R-Project, Statistics, Utility, applied statistics, emacs speaks statistics
+#+TITLE: How to install R on OSX 10.9 Mavericks as of 2014-06-01T19:29:55-0500
+
+Here is how to install R on OSX 10.9 Mavericks as of 2014-06-01T19:29:55-0500:
+
+
+
+#+BEGIN_EXAMPLE
+    
+brew install gcc
+brew tap homebrew/science
+brew install R
+
+#+END_EXAMPLE
+
+
+
+Details:
+
+
+#+BEGIN_EXAMPLE
+    
+gcr@orion:~> gcc --version
+gcc (GCC) 4.8.3
+Copyright (C) 2013 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+gcr@orion:~> r --version
+R version 3.1.0 (2014-04-10) -- "Spring Dance"
+Copyright (C) 2014 The R Foundation for Statistical Computing
+Platform: x86_64-apple-darwin13.2.0 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under the terms of the
+GNU General Public License versions 2 or 3.
+For more information about these matters see
+http://www.gnu.org/licenses/.
+
+#+END_EXAMPLE
+
+
+
+
+Kind of a funny timing occurred when I was researching how both the gcc and R formulas worked. My goal was just to understand what was being compiled, from where, and how... a "due diligence" sort of thing. 
+
+There was a change "recently" from the gfortran formula satisfying the fortran requirement for R, to the gcc formula satisfying it. Taking perhaps too deep a dive in to how it worked, it took me 14 hours to figure out what was an issue in the formula. Since it was a leisurely investigation, it was "no big deal". Perhaps I should have been a little more stressed out about it though, because it turns out, the formula was updated with the correction just one day after I had begun digging! So, even though I had made sure to be on the right version, it was just funny timing, and I should have been updating on a daily basis instead! Enough reminding myself now... 
+
+The interesting thing was that the issue only manifested if you did not use a bottle to install R. When you install R via a bottle then it would install gfortran via a bottle. Strangely, gfortran is no longer available as a formula, it was replaced by gcc. Gcc would not satisfy the formula since 4.8.2 didn't install 'gfortran', rather only 'gfortran-4.8', into the path. What am I saying here?
+
+There was a small window of time where if you had tried to install R and specifically wanted it to use a custom compile of GCC that you had performed, then due to the aforementioned twist, the only way that you could have used your GCC built version of gfortran was to set FC in your environment by hand because gfortran never ended up in the path. Sure you could have linked it yourself, but that defeats the purpose of having an automated, reusable, and redistributable solution, and of course, it was resolved 1 day later due to the kind and generous efforts of the GCC and Homebrew maintainers.
+
+
+

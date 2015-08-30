@@ -1,0 +1,11 @@
+#+POSTID: 4769
+#+DATE: [2010-05-08 Sat 17:11]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: ML, OCaml, Programming Language
+#+TITLE: Use Amazon SimpleDB with OCaml
+
+[[http://code.google.com/p/simpledb-ec2-ocaml][simpledb-ec2-ocaml]] via [[http://caml.inria.fr/pub/ml-archives/caml-list/2010/03/3dae0d996648684a0ee2d5507548eb45.en.html][caml-list]]
+
+
+

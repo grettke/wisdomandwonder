@@ -1,0 +1,13 @@
+#+POSTID: 993
+#+DATE: [2008-10-20 Mon 16:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming, philosophy
+#+TITLE: Controversial or difficult but necessary
+
+While reading a discussion on the [[http://lambda-the-ultimate.org/node/2429][R6RS ratification]], I came upon a comment explaining that there were features under consideration that were considered to be "Controversial or difficult /but necessary/".
+
+It is a virtuous goal towards which all of us ought to work in both our personal and professional life.
+
+
+

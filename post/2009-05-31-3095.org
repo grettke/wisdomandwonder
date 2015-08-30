@@ -1,0 +1,80 @@
+#+POSTID: 3095
+#+DATE: [2009-05-31 Sun 04:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Is eqv? the portable way of checking object equality?
+
+I asked [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/68d077a9560bf1a8/08ed5dcd946bbdb4#08ed5dcd946bbdb4][here]]: "Is eqv? the portable way of checking object equality?".
+
+Will explained:
+
+
+
+#+BEGIN_EXAMPLE
+    
+Grant Rettke wrote: 
+> From what I have read, eq? is a way of determing whether two objects 
+> are the same based on whether they point to the same location in 
+> memory; and generally that eqv? works the same way as eq? but for 
+> numbers and characters; numbers and characters equality will not be 
+> determined consistently across different implementations. 
+
+There are a few other differences as well, but numbers 
+and characters are indeed the most commonly encountered. 
+
+> Additionally 
+> I have read that as a result of this one ought to use eqv? as a 
+> portable means for checking for object equality unless performance is 
+> such an issue that eq? should be used instead. 
+
+That's reasonable, modulo the quibble with "object 
+equality" below. 
+
+> Is eqv? the portable way of checking object equality? 
+
+Yes to the first half of that sentence, provided you 
+replace "portable" by "most portable standard". 
+
+As for the second half of the sentence, I have this 
+quibble:  In general, there is no such thing as *the* 
+notion of object equality; the appropriate notion of 
+object equality depends upon the context.  In particular, 
+it depends on whether you want to compare two objects 
+with respect to mutability (that is, does a side 
+effect to one object imply the same side effect to 
+the other?) or with respect to their current state. 
+
+In Scheme (whether IEEE/ANSI/R5RS or R6RS), eqv? is 
+the most implementation-independent of the pre-defined 
+equivalence predicates that are defined on all objects 
+and are guaranteed to distinguish two distinct mutable 
+objects.  Similarly, equal? is the pre-defined partial 
+equivalence predicate that distinguishes on the basis 
+of current state but not on the basis of mutation; the 
+R6RS equal? is also total. 
+
+In Scheme, eq? is basically an efficiency hack that 
+can be used as an alternative to eqv? when you know 
+for sure that at least one of the arguments is a 
+boolean, symbol, empty list, pair, procedure, non-empty 
+string, non-empty vector, non-empty bytevector (R6RS 
+only), or record (R6RS only).  The rationale for eq? 
+is that it is often about ten times as fast as eqv?, 
+which is enough to matter for some applications, and 
+the specific list of situations for which eq? is 
+guaranteed to behave the same as eqv? is about as 
+inclusive as it can be without sacrificing speed in 
+typical implementations. 
+
+Will
+
+#+END_EXAMPLE
+
+
+
+Basically, eq? is pointer equality.
+
+
+
+

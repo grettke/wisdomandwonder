@@ -1,0 +1,13 @@
+#+POSTID: 2161
+#+DATE: [2009-03-29 Sun 23:10]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Java, Programming Language
+#+TITLE: Massively multiplayer online game with Java on a mainframe
+
+[[http://www.hoplon.com/home/index][HOPLON Infotainment]] write MMOG's with Java on a mainframe. More [[http://www.google.com/search?hl=en&q=hoplon+mainframe+Java&btnG=Search][here]].
+
+(via IEEE Spectrum Volume 45 Number 8, 2008)
+
+
+

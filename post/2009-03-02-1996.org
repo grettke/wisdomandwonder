@@ -1,0 +1,22 @@
+#+POSTID: 1996
+#+DATE: [2009-03-02 Mon 20:27]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming, philosophy
+#+TITLE: 90% of the stuff you read is BS
+
+In regards to programming: 
+
+
+
+#+BEGIN_QUOTE
+  bonaldi: what's the best way to learn that stuff? 
+b1tr0t: Read books, google around, check wikipedia. When you start, it will look like most of what is said is reasonable. You are in good shape when you think that 90% of the stuff you read is BS.
+#+END_QUOTE
+
+
+
+(via [[http://kk.org/ct2/2007/11/how-to-know-you-know.php][CT2]] via [[http://www.ccs.neu.edu/home/wand/][Mitchell Wand]])
+
+
+

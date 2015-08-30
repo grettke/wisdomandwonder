@@ -1,0 +1,13 @@
+#+POSTID: 1210
+#+DATE: [2008-11-17 Mon 03:04]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Fun, LaTeX, Programming Language, TeX
+#+TITLE: An ICFP 2008 Programming Contest Solution in TeX
+
+[[http://sdh33b.blogspot.com/2008/07/icfp-contest-2008.html][Here]] is a solution to the [[http://en.wikipedia.org/wiki/Ant_Wars][2008 ICFP Programming Contest]] in [[http://en.wikipedia.org/wiki/TeX][TeX]].
+
+(via [[http://blog.expandrive.com/2008/08/11/unnecessarily-hardcore-coder-shout-out/][expandrive blog]])
+
+
+

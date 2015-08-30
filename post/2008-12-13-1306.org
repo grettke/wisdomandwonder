@@ -1,0 +1,211 @@
+#+POSTID: 1306
+#+DATE: [2008-12-13 Sat 04:03]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, PLT, Programming Language, Scheme, Teaching
+#+TITLE: Undergrad Scheme Projects
+
+[[http://www.cs.uml.edu/~fredm/][Fred Martin]] wrote to the [[http://www.plt-scheme.org/maillist/][PLT Discussion List]] that:
+
+
+
+#+BEGIN_QUOTE
+  
+You may have noticed a number of emails from my students at UMass Lowell. I had assigned a final project in our required "[[http://www.cs.uml.edu/~holly/91.301/][Organization of Programming Languages]]" course which is based on the [[http://mitpress.mit.edu/sicp/full-text/book/book.html][SICP text]]. This is the first time that the course included a significant, independent project component, and I did encourage them to ask you for assistance.
+
+I am happy to report that the projects were wildly successful.
+
+#+END_QUOTE
+
+
+
+Here are some of the projects:
+
+
+-  [[http://www.cs.uml.edu/ecg/index.php/OrganizationProgrammingLanguagesFall2008/SchemeStock][SchemeStock]]
+-  [[http://www.cs.uml.edu/ecg/index.php/OrganizationProgrammingLanguagesFall2008/MusicDiscovery][MusicDiscovery]]
+-  [[http://www.cs.uml.edu/ecg/index.php/OrganizationProgrammingLanguagesFall2008/Scheme-in-C-Game-Engine][Scheme-in-C-Game-Engine]]
+-  [[http://www.cs.uml.edu/ecg/index.php/OrganizationProgrammingLanguagesFall2008/IRobotCreateSchemeAPI][IRobotCreateSchemeAPI]]
+-  [[http://www.cs.uml.edu/ecg/index.php/OrganizationProgrammingLanguagesFall2008/DesktopReliefEngraving][DesktopReliefEngraving]]
+
+
+
+(via [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-December/029167.html][PLT Discussion List]])
+
+*Addendum: 01/09/09*
+
+Today, in the original thread, Fred replied to some interesting questions about the projects:
+
+
+
+#+BEGIN_QUOTE
+  
+Hi everyone,
+
+This is a belated reply to Eric Tanter and Shriram Krishnamurthi's
+questions about how I structured student projects in my last
+semester's junior-level PL course, which was based on Scheme and SICP.
+
+This was the first time that students were required to do projects in
+our undergrad PL course, and they were quite successful. Since I
+wrote last, I graded the projects. Broadly, I'd categorize them as
+1/3 excellent, 1/3 decent, and 1/3 weak (I suppose that's a normal
+distribution of anything we do...). But that's still 2/3 of students
+really exercising ideas in Scheme and PLs (functional programming,
+map/filter, recursion) for their own purposes, which I think could be
+quite valuable in the long run.
+
+from Eric:
+
+> Can you tell us more about how the projects
+> were conceived? did they all pop up out of students' mind, if so,
+> under which guidelines if any? or did you have a pool of project ideas?
+
+I started out by telling them about the project on the first class
+meeting, letting students know that the project would be worth 25% of
+their overall grade (the final exam was only worth 20%!). Here's what
+I wrote in the syllabus:
+
+"In the final project, you will apply the ideas developed in the class
+in an original software implementation. You may thus connect the ideas
+of the class with your own interests---music, robotics, art, databases,
+the web, networking, gaming, etc. The learning goal of the project is
+to have you find some real-world relevance of the ideas in the class."
+
+Then, during the semester, I showed/mentioned real-world projects done
+in Scheme. I showed a movie of the real-time
+writing-scheme-code-as-a-musical-performance work done by the Impromtu
+team in Australia http://impromptu.moso.com.au/gallery.html. I
+discussed FP techniques practiced by Jane St. Capital, a Wall St
+trading firm, http://portal.acm.org/citation.cfm?id=1394798.
+
+In early November, I assigned preliminary work: students had to
+download and play with at least two different libraries from the
+PLaneT repository. I demonstrated in class the HTTP Get library. We
+also talked in class about project ideas, including the robotics,
+gaming, and networking concepts that ultimately students implemented
+(most networking stuff they did went far beyond any class
+discussions).
+
+Just before Thanksgiving, their project proposal was due. This was
+supposed to be based on the exploratory work they had already
+completed (and in many cases, it was). In giving them the guidelines
+for the proposal document, I also gave them the grading criteria for
+the final project. These were:
+
+* an explicit connection to ideas that were introduced in the course
+* an explicit connection to some outside piece of technology (e.g.,
+images, sound, networking, database, etc)
+* an interesting overall concept
+* something that you personally are interested in and care about
+* a writeup that explains what you accomplished
+* a demo that lets people (or yourself) interact with your project
+
+They had 2.5 weeks after the Thanksgiving holiday to work on their
+projects for real. In class, I was covering the metacircular
+interpreter, and they had a problem set on this that was due 5 days
+AFTER the project deadline had passed. (This was a bit squeezed.)
+
+I used the final class meeting date for a project open-house, which
+was set up in our department's main lobby. I provided drinks and
+snacks for that, and we had a decent turnout, including several other
+faculty.
+
+To me, the best projects were ones where students really did connect
+Scheme and the course's ideas to something of personal interest. As I
+look back over the project list, I'd say that in more than half of the
+projects, students really did something they were interested in, and
+made explicit connections in their implementations to course material.
+ (A number more did have the conceptual connections, but the thematic
+matter was not really something the student was passionate about.)
+
+As an example of a success story, there was a project where a student
+imported baseball stats from a public web site into Scheme via XML
+translation. A number of students did stuff with XML, but this one
+stood out because the student really cared about the baseball data.
+He was really excited that he was able to reveal data that the web
+site had collected, but did not make available in its standard web
+presentation. The project was not as advanced as some others, but
+because of the student's true interest in the material, it was quite
+well done.
+
+(All the projects are written up at
+http://www.cs.uml.edu/ecg/index.php/OrganizationProgrammingLanguagesFall2008/Project)
+
+Onto Shriram's questions:
+
+> - This is an impressive list of projects, but how much evaluation was
+> there of how well they did what they promised?
+
+At the public demo day, I visited each project and had a 5-minute
+conversation with each student, taking quick notes. Then students
+turned in their code, with additional documentation explaining it
+(e.g., drawing out the ways their code exemplified ideas in the
+class). (BTW - I didn't make them post the code and notes on their
+public project web pages.)
+
+I graded their projects based on the criteria previously discussed
+with them, with separate marks for: the quality of the proposal,
+explicit connection to course concepts, use of external technology, an
+innovation/creativity mark, the final writeup, and the quality of the
+live demonstration.
+
+I was lenient with the "did they do what they promised." In fact, I
+had told them that up front: if you end up getting stuck or otherwise
+needing to go in a different direction than you described in your
+proposal, that was fine. But I still used the same rubric for grading
+(I just didn't penalize if it was different than the proposal).
+
+> - How good is their code? What's the measure of goodness? Did they
+> get administered code-walks?
+
+This is a good/hard question. As I mentioned earlier, one of my star
+students commented that now he understood what people meant when they
+were talking about "elegant code," and that he wanted to go back and
+re-write code he had written in the past (code that was not written in
+Scheme). This was the person who built a hash table of lambda
+functions to process a variety of possible reply packets from a
+serially-connected hardware device.
+
+So, to answer -- no there wasn't an administered code-walk. That's a
+great idea -- I wish I had time for that. I did however read through
+all of their code, and sync'ing that with their documentation notes,
+was able to determine what kind of ideas they worked through in their
+implementations. This was the basis of the grading, particularly for
+the "connection to course concepts" category.
+
+One of the additional benefits of the project from my vantage point is
+that it gave me a brand-new window into my students' abilities. From
+quiz scores and class participation, I could tell that about 1/3 of
+the class was strong, and 1/3 was weak, but there was the middle band
+that I was mentally lumping with the "weak" category -- they didn't
+speak up in class, and their quiz scores were not great.
+
+But from the projects, a bunch of this middle band really shined, and
+I gained new appreciation for them. As it turned out, they *were*
+paying attention, and through the project, really engaged with the
+class material.
+
+So I'll definitely be running the projects again when I teach the
+course in the spring. I should be able to do a better job working
+through the main curriculum so that the metacircular material (which
+is clearly central) isn't so squeezed at the end. Hopefully too I'll
+be able to establish the value of the projects in my colleagues' eyes
+so they have a chance of living beyond my tenure with the course.
+
+There's one more Q&A below -- it's somewhat of a digression on
+integrating Scheme and C++, so I'll end this note here and leave it as
+a P.S.
+
+Thanks again everyone for your attention and encouragement.
+
+Fred
+
+#+END_QUOTE
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+#+POSTID: 4205
+#+DATE: [2009-12-21 Mon 20:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, Programming, Programming Language, Scheme, philosophy
+#+TITLE: The Bipolar Lisp Programmer
+
+Ben referred us to this [[http://www.lambdassociates.org/blog/bipolar.htm?repost][article]] (cached [[http://74.125.153.132/search?q=cache:NcGBpP8WxmwJ:www.lambdassociates.org/blog/bipolar.htm%3Frepost+Qi+%2BLIsp+%2Bbipolar&cd=4&hl=en&ct=clnk≷=jp&client=firefox-a][here]]) in the midst of a [[http://groups.google.com/group/comp.lang.scheme/msg/87270e6d3865824d][discussion]] about, among other things, why there is still no FFI in the Scheme standard. 
+
+That article is really interesting.
+
+What did you think about it?
+
+
+

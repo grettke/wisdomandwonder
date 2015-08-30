@@ -1,0 +1,11 @@
+#+POSTID: 96
+#+DATE: [2008-04-18 Fri 00:07]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, elisp
+#+TITLE: Catch elisp bugs with the compiler
+
+Juan Garcia has a post on [[http://juangarcia.890m.com/blog/2008/04/17/reducing-elisp-bugs-using-the-byte-code-compiler/][reducing elisp bugs using the byte-code compiler]].
+
+
+

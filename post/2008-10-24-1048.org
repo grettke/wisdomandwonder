@@ -1,0 +1,19 @@
+#+POSTID: 1048
+#+DATE: [2008-10-24 Fri 21:08]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Linux, Operating System
+#+TITLE: GoboLinux
+
+#+BEGIN_QUOTE
+  [[http://gobolinux.org/?page=at_a_glance][GoboLinux]] is a modular Linux distribution: it organizes the programs in your system in a new, logical way. Instead of having parts of a program thrown at /usr/bin, other parts at /etc and yet more parts thrown at /usr/share/something/or/another, each program gets its own directory tree, keeping them all neatly separated and allowing you to see everything that's installed in the system and which files belong to which programs in a simple and obvious way.
+#+END_QUOTE
+
+
+
+Gobo looks like it might be a nice Linux to try out!
+
+(via [[http://www.rebol.com/article/0375.html][Carl's REBOL Blog]])
+
+
+

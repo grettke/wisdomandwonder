@@ -1,0 +1,13 @@
+#+POSTID: 1520
+#+DATE: [2009-01-04 Sun 04:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: The superiority of Perl and Tcl over Scheme
+
+[[http://groups.google.com/group/comp.lang.scheme/msg/89120d79e5650d94][Comments]] on the superiority of Perl and Tcl over Scheme.
+
+(via [[http://funcall.blogspot.com/2007/05/oldie-but-goodie.html][jrm]])
+
+
+

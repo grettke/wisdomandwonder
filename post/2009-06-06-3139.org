@@ -1,0 +1,23 @@
+#+POSTID: 3139
+#+DATE: [2009-06-06 Sat 13:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Haskell, Programming Language
+#+TITLE: Standard Haskell
+
+#+BEGIN_QUOTE
+  This is the the [[http://hackage.haskell.org/platform/][Haskell Platform]], version 2009.2.0.1: a single, standard Haskell distribution for every system.
+
+The Haskell Platform is a blessed library and tool suite for Haskell distilled from Hackage, along with installers for a wide variety of systems. The contents of the platform are specified here: Haskell: Batteries Included.
+
+The platform saves you the task of picking and choosing the best Haskell libraries and tools to use for a task. Distro maintainers that support the Haskell Platform can be confident they're fully supporting Haskell as the developers intend it. Developers targetting the platform can be confident they have a trusted base of code to work with.
+#+END_QUOTE
+
+
+
+It looks interesting; a blessed package collection and a compiler ready to run on OS X, Windows, and Linux.
+
+(via [[http://donsbot.wordpress.com/2009/06/02/the-haskell-platform-2009-2-0-1/][Control.Monad.Writer]] via [[http://www.reddit.com/r/programming/comments/8pih1/the_haskell_platform_2009201_a_standard_haskell/][reddit]])
+
+
+

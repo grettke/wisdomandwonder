@@ -1,0 +1,19 @@
+#+POSTID: 3144
+#+DATE: [2009-06-06 Sat 13:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Computer Science, Programming Language
+#+TITLE: Standford Programming Paradigms Course Videos
+
+#+BEGIN_QUOTE
+  Programming Paradigms (CS107) introduces several programming languages, including C, Assembly, C++, Concurrent Programming, Scheme, and Python. The class aims to teach students how to write code for each of these individual languages and to understand the programming paradigms behind these languages.
+#+END_QUOTE
+
+
+
+The videos are available [[http://www.youtube.com/view_play_list?p=9D558D49CA734A02][here]].
+
+(via [[http://www.reddit.com/r/programming/comments/8p8qi/stanford_university_course_programming_paradigms/][reddit]])
+
+
+

@@ -1,0 +1,23 @@
+#+POSTID: 4535
+#+DATE: [2010-02-04 Thu 19:37]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Build, Maven, Programming
+#+TITLE: Maven and Idea
+
+Here is how to ask Maven to generate Idea project files for you:
+
+
+
+#+BEGIN_EXAMPLE
+    
+mvn idea:idea -DjdkName=1.5
+
+#+END_EXAMPLE
+
+
+
+(via [[http://maven.apache.org/plugins/maven-idea-plugin/usage.html][Maven]])
+
+
+

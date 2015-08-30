@@ -1,0 +1,28 @@
+#+POSTID: 9133
+#+DATE: [2014-09-12 Fri 01:46]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: zk-phi releases two perhaps necessary packages for Emacs
+
+You may not be totally sure why, but you will immediately feel like you ought to install the following two packages for Emacs:
+
+
+
+#+BEGIN_QUOTE
+  [[[https://github.com/zk-phi/indent-guide][indent-guide]]] show vertical lines to guide indentation
+#+END_QUOTE
+
+
+
+
+
+#+BEGIN_QUOTE
+  [[[https://github.com/zk-phi/highlight-stages][highlight-stages]]] highlight staged (quasi-quoted) expressions
+#+END_QUOTE
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+#+POSTID: 214
+#+DATE: [2008-06-16 Mon 16:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Conference, Functional, Programming Language
+#+TITLE: CUFP 2007 Videos available on Google Video
+
+Re: [[http://www.wisdomandwonder.com/link/157/cufp-2007-videos-in-the-acm-digital-library][CUFP 2007 Videos in the ACM Digital Library]], they are also now available on Google Video.
+
+You can find the talks by searching on CUFP07 or on the speaker's last name. 
+
+Here is the [[http://portal.acm.org/toc.cfm?id=1362702&coll=ACM&dl=ACM&type=proceeding&idx=SERIES824∂=series&WantType=Proceedings&title=ICFP&CFID=16603487&CFTOKEN=68446686][list of speakers and presentations]].
+
+(via [[http://groups.google.com.my/group/cufp/msg/0e6b1d97714490ad?hl=en][CUFP]])
+
+
+

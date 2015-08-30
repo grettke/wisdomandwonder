@@ -1,0 +1,17 @@
+#+POSTID: 9172
+#+DATE: [2014-09-22 Mon 20:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: C10, Concours, Kawasaki, Motorcycle
+#+TITLE: Help Changing the Throttle Cable on a C10
+
+#+BEGIN_QUOTE
+  When observing the bike from the RH side, rotate the center cable mechanism CW so the carbs are at full throttle. This will bring the "pull" cable access "notch" so it faces the rear of the bike, and more accessible from the top. During the time you are rotating the mechanism, pay attention to the individual carb linkages and you will see a gap form between a stop and a section of the linkage. When the carbs are at full throttle, find a suitable flat blade screw driver and wedge it in this gap to hold the carbs open once you've released the cable mechanism. This will give you ample time to fiddle with getting the cable end in the hole and engaged. A pair of long, long-nosed needle nose pliers, or a long hemostat works best in getting the cable end in place.
+#+END_QUOTE
+
+
+
+Via [[http://micapeak.com/mailman/listinfo/COG][COG]].
+
+
+

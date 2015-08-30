@@ -1,0 +1,75 @@
+#+POSTID: 3409
+#+DATE: [2009-06-21 Sun 23:32]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Ikarus, Programming Language, Scheme
+#+TITLE: A History of Bootstrapping Ikarus Scheme
+
+In [[http://groups.google.com/group/ikarus-users/browse_thread/thread/98c3b19fca8efc8c/a5fc240f75702fbb?lnk=gst&q=Branchable+repl#a5fc240f75702fbb][this]] post, Aziz explains the history of how he went about bootstrapping Ikarus Scheme.
+
+
+
+#+BEGIN_QUOTE
+  First, there was a Scheme->C compiler (running under Petite Chez). I 
+did not invest much in making it generate good code (details omitted) 
+since I know I was going to throw it away eventually. I would use it 
+to compile some minimal scheme runtime system (the usual R5RS stuff) 
+plus an interpreter (straight-forward environment-passing, 
+continuation-passing interpreter). The result of compiling this was 
+a huge C file that GCC took ages to compile, but eventually, you get 
+a repl that can interpret code (slowwwly). These were not good times. 
+
+Next, I wrote an in-core assembler: it can allocate a chunk of memory, 
+whack it with some powerpc instructions, and jump to it. I of course 
+did not compile the assembler, because any piece of code added to the 
+base system that was compiled to C was adding to the ages it took GCC 
+to compile. So, the assembler ran interpreted, but the code it makes 
+can be executed from the interpreter. 
+
+Next, I wrote the in-core compiler that uses the in-core assembler 
+but can compile Scheme code. So, you can compile a Scheme procedure, 
+and you can call it from the interpreter, and it can call other 
+compiled procedures, but it cannot call interpreted code, nor can it 
+call C code. So, once you call a compiled procedure, it's in another 
+universe until it returns. The compiler is still running interpreted 
+(under a bad interpreter too) so it was very very very slow, but the 
+code it generated was good (if it worked that is! the system was 
+still being debugged). 
+
+Next, I managed to compile the entire runtime system including the 
+interpreter, the assembler, and the compiler itself. 
+
+So, at that point, to compile ikarus from scratch, you first compile 
+a minimal runtime system and an interpreter to C, then you use the 
+interpreter to load the assembler and compiler (and some additional 
+runtime that I could not compile), then you use the interpreted 
+compiler to compile the run-time and assembler and compiler and some 
+startup code (initialization), then you execute the initialization 
+and lo and behold, you're running in the compiler! 
+
+IIRC, this process (if successful) took at least an hour, so, I was 
+not eager to do it frequently, and this is why I "invented" saved 
+code: so that I can compile everything, and save the initialization 
+code along with everything reachable from it and so that next time, 
+I can just load it and be immediately in the compiler. 
+
+Notice that running in the compiler was not (semantically) different 
+from running in the interpreter: it was only much faster since you 
+are not being interpreted by a poorly-written interpreter that was 
+compiled poorly to C. So, bootstrapping was now much faster since 
+I can load the already compiled system, compile everything, then 
+save the system. As that got more reliable, the interpreter and 
+Scheme->C compiler were not being used for anything other than for 
+loading and jumping to the pre-compiled code, so, I wrote a little 
+piece of C code that does just that and threw the rest away! At 
+the end, bootstrap time became 20~40 seconds on the 800MHz iBook 
+down from an hour or so. It was finally good times. 
+
+And that's how that incarnation of ikarus was born.
+#+END_QUOTE
+
+
+-- Aziz
+
+
+

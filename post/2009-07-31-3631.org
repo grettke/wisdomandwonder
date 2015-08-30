@@ -1,0 +1,15 @@
+#+POSTID: 3631
+#+DATE: [2009-07-31 Fri 03:46]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: OS X, Revision control system, Subversion
+#+TITLE: What is a good OS X Subversion client?
+
+What is a good OS X Subversion client?
+
+Paul [[http://www.eiffelroom.org/blog/paulbates/finally_a_decent_subversion_git_mac_client][recommended]] [[http://versionsapp.com/][this]].
+
+With all of the distributed VCSs out there Subversion tends to get shunned these days; but people seem to forget that sometimes dead simple is sometimes more than good enough. Besides, you can use git and bzr with svn just fine.
+
+
+

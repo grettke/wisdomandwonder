@@ -1,0 +1,11 @@
+#+POSTID: 9290
+#+DATE: [2014-11-03 Mon 15:05]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Algorithmic Trading, Big Data, Business Intelligence, Data Analysis and Modeling, Data Mining, Data Visualization, Data science, Financial Engineering, MDS, Machine Learning, Mathematical Modelling, Predictive Analytics, Quantitative Analysis, Quantitative Finance, R-Project, Risk Management, Statistical Computing
+#+TITLE: Milwaukee Data Science: Making Sense of Data Science via a Metromap & Lightning Talks
+
+[[http://www.meetup.com/Milwaukee-Data-Science/events/212811752/][This]] could be the start of something valuable community; can't wait to see wherever it leads!
+
+
+

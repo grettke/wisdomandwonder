@@ -1,0 +1,24 @@
+#+POSTID: 184
+#+DATE: [2008-05-19 Mon 19:10]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Java, Programming Language
+#+TITLE: Modularity in the Java platform
+
+This presentation at JavaOne 08 could have been called "Features in Java 7 that people will love and wonder why it took so long to get them".
+
+The topic was [[http://jcp.org/en/jsr/detail?id=277][JSR-277]]: The Java Module System. 
+
+Here is the 20K foot summary:
+
+
+
+-  Give modules (roughly jars) first class language support
+-  Provide support for module composition at deployment time
+
+
+
+The result: no more Jar (aka DLL) hell and a lot of flexibility in terms of how you configure and deploy your system.
+
+
+

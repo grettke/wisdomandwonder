@@ -1,0 +1,16 @@
+#+POSTID: 3363
+#+DATE: [2009-06-17 Wed 02:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Fun, Steampunk, philosophy
+#+TITLE: The Fun in Steampunk
+
+#+BEGIN_QUOTE
+  the Steampunk genre possess a look of craftsmanship and cobbling. It's an aesthetic that invites the touch of the human hand and it encourages engagement and foster curiosity and play.
+#+END_QUOTE
+
+
+-- [[http://www.adaptivepath.com/blog/2009/05/18/steampunk-a-mobile-device-concept-for-rural-india/][Rachel Hinman]]
+
+
+

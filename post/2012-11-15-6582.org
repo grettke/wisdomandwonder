@@ -1,0 +1,76 @@
+#+POSTID: 6582
+#+DATE: [2012-11-15 Thu 19:04]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Fun, Learning, Teaching, mathematics, philosophy
+#+TITLE: Some Thoughts on Mathematics
+
+#+BEGIN_QUOTE
+  
+R. L. E. Schwarzenberger, The Language of Geometry, in A Mathematical Spectrum Miscellany, Applied Probability Trust, 2000, p. 112: My own attitude, which I share with many of my colleagues, is simply that mathematics is a language. Like English, or Latin, or Chinese, there are certain concepts for which mathematics is particularly well suited: it would be as foolish to attempt to write a love poem in the language of mathematics as to prove the Fundamental Theorem of Algebra using the English language.
+
+Yu. Manin, Mathematics as profession and vocation, in Mathematics: Frontiers and Perspectives, (V. Arnold et al, ed), AMS, 200, p. 154: The basis of all human culture is language, and mathematics is a special kind of linguistic activity.
+
+A. Adler, Mathematics and Creativity, in The World Treasury of Physics, Astronomy and Mathematics, (T. Ferris, ed), Little, Brown and Co, 1991, p. 435: Mathematics is pure language - the language of science. It is unique among languages in its ability to provide precise expression for every thought or concept that can be formulated in its terms. (In a spoken language, there exist words, like "happiness", that defy definition.) It is also an art - the most intellectual and classical of the arts.
+
+J.-P. Changeux, A. Connes, Conversations on Mind, Matter and Mathematics, Princeton University Press, 1995, p. 10:
+Changeux: Mathematical language is plainly an authentic language. But is it therefore the only authentic language?
+Connes: It is unquestionably the only universal language.
+
+Bertrand Russell (1872-1970), Autobiography, George Allen and Unwin Ltd, 1967, v1, p158
+
+It seems to me now that mathematics is capable of an artistic excellence as great as that of any music, perhaps greater; not because the pleasure it gives (although very pure) is comparable, either in intensity or in the number of people who feel it, to that of music, but because it gives in absolute perfection that combination, characteristic of great art, of godlike freedom, with the sense of inevitable destiny; because, in fact, it constructs an ideal world where everything is perfect but true.
+Bertrand Russell (1872-1970), The Study of Mathematics
+
+Mathematics, rightly viewed, possesses not only truth, but supreme beauty -- a beauty cold and austere, like that of sculpture, without appeal to any part of our weaker nature, without the gorgeous trappings of painting or music, yet sublimely pure, and capable of a stern perfection such as only the greatest art can show.
+Aristotle (384 B.C.-322 B.C.), Poetics
+
+Beauty depends on size as well as symmetry.
+J.H.Poincare (1854-1912), (cited in H.E.Huntley, The Divine Proportion, Dover, 1970)
+
+The mathematician does not study pure mathematics because it is useful; he studies it because he delights in it and he delights in it because it is beautiful.
+J.Bronowski, Science and Human Values, Pelican, 1964.
+
+Mathematics in this sense is a form of poetry, which has the same relation to the prose of practical mathematics as poetry has to prose in any other language. The element of poetry, the delight of exploring the medium for its own sake, is an essential ingredient in the creative process.
+J.W.N.Sullivan (1886-1937), Aspects of Science, 1925.
+
+Mathematics, as much as music or any other art, is one of the means by which we rise to a complete self-consciousness. The significance of Mathematics resides precisely in the fact that it is an art; by informing us of the nature of our own minds it informs us of much that depends on our minds.
+G. H. Hardy (1877 - 1947), A Mathematician's Apology, Cambridge University Press, 1994.
+
+The mathematician's patterns, like the painter's or the poet's must be beautiful; the ideas, like the colors or the words must fit together in a harmonious way. Beauty is the first test: there is no permanent place in this world for ugly mathematics.
+Lawrence University catalog, Cited in Essays in Humanistic Mathematics, Alvin White, ed, MAA, 1993
+
+Born of man's primitive urge to seek order in his world, mathematics is an ever-evolving language for the study of structure and pattern. Grounded in and renewed by physical reality, mathematics rises through sheer intellectual curiosity to levels of abstraction and generality where unexpected, beautiful, and often extremely useful connections and patterns emerge. Mathematics is the natural home of both abstract thought and the laws of nature. It is at once pure logic and creative art.
+ I.Newton, Letter to H.Oldenburg, the Secretary of the Royal Society, October 24, 1676, in A Source Book in Mathematics, D. J. Struik, ed, Princeton University Press, 1990
+
+I can hardly tell with what pleasure I have read the letters of those very distinguished men Leibniz and Tschirnhaus. Leibniz's method for obtaining convergent series is certainly very elegant...
+Jane Muir, Of Men & Numbers, Dover, 1996.
+
+Gauss: You have no idea how much poetry there is in the calculation of a table of logarithms!
+F.Dyson, in Nature, March 10, 1956
+
+Characteristic of Weyl was an aesthetic sense which dominated his thinking on all subjects. He once said to me, half-joking, "My work always tried to unite the true with the beautiful; but when I had to choose one or the other, I usually chose the beautiful." (Herman Weyl (1885-1955))
+O. Spengler, in J. Newman, The World of Mathematics, Simon & Schuster, 1956
+
+To Goethe again we owe the profound saying: "the mathematician is only complete in so far as he feels within himself the beauty of the true."
+O. Spengler, in J. Newman, The World of Mathematics, Simon & Schuster, 1956
+
+"A mathematician," said old Weierstrass, "who is not at the same time a bit of a poet will never be a full mathematician."
+Jakob Bernoulli, Tractatus de Seriebus Infinitis, 1689 (quoted in From Five Fingers to Infinity, F.J.Swetz (ed), Open Court, 1996)
+
+ So the soul of immensity dwells in minutia.
+ And in narrowest limits no limits inhere.
+ What joy to discern the minute in infinity!
+ The vast to perceive in the small, what divinity!
+S.Lang, The Beauty of Doing Mathematics, Springer-Verlag, 1985
+
+Last time, I asked: "What does mathematics mean to you?" And some people answered: "The manipulation of numbers, the manipulation of structures." And if I had asked what music means to you, would you have answered: "The manipulation of notes?"
+
+#+END_QUOTE
+
+
+
+(via someone's comments [[http://www.wisdomandwonder.com/article/4120/what-is-so-bad-about-being-an-actuary#comments][here]])
+
+
+

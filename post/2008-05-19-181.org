@@ -1,0 +1,37 @@
+#+POSTID: 181
+#+DATE: [2008-05-19 Mon 18:39]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming, philosophy
+#+TITLE: Post Java One 08 Reflections on Programming Philosophy
+
+#+BEGIN_QUOTE
+  Don't be afraid to pursue jobs in which you are really interested.
+#+END_QUOTE
+
+
+
+
+
+#+BEGIN_QUOTE
+  You can't teach passion.
+#+END_QUOTE
+
+
+
+
+
+#+BEGIN_QUOTE
+  Hire good people, there are no workarounds.
+#+END_QUOTE
+
+
+
+
+
+#+BEGIN_QUOTE
+  Only hire people who get obsessed.
+#+END_QUOTE
+
+
+

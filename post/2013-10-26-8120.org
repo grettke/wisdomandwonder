@@ -1,0 +1,11 @@
+#+POSTID: 8120
+#+DATE: [2013-10-26 Sat 01:03]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language
+#+TITLE: Emacs package management with DELPS
+
+Part of my education on Emacs package management continues [[http://www.emacswiki.org/emacs/DELPS][here]] with DELPS.
+
+
+

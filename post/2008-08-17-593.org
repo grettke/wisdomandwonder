@@ -1,0 +1,11 @@
+#+POSTID: 593
+#+DATE: [2008-08-17 Sun 15:39]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Fractal, mathematics
+#+TITLE: Buddhabrot
+
+[[http://en.wikipedia.org/wiki/Buddhabrot][Buddhabrot]] is an alternate rendering of the [[http://en.wikipedia.org/wiki/Mandelbrot_set][Mandelbrot set]]. Have a look [[http://upload.wikimedia.org/wikipedia/en/8/8b/Buddhabrot-deep.jpg][here]].
+
+
+

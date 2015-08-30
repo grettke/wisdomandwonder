@@ -1,0 +1,21 @@
+#+POSTID: 5857
+#+DATE: [2011-07-18 Mon 01:45]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Programming Language, elisp
+#+TITLE: An asynchronous web server written in Emacs LISP
+
+#+BEGIN_QUOTE
+  [[https://github.com/nicferrier/elnode][Elnode]] is an asynchronous web server written in Emacs LISP.
+
+Emacs has had asynchronous socket programming facilities for some time and a few years ago asynchronous TCP server sockets were introduced. I couldn't quite believe that no one had written an asynchronous webserver with EmacsLISP before. So now I have.
+
+When I started looking at actually doing this I intended to knock up just a silly demo. But the more I got into it the more it seemed to me that this could be an important addition to Emacs and that, sometimes, an Emacs LISP async web server could actually be useful.
+#+END_QUOTE
+
+
+
+(via [[http://nic.ferrier.me.uk/blog/2010_10/elnode][nic]])
+
+
+

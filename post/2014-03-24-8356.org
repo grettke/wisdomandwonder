@@ -1,0 +1,14 @@
+#+POSTID: 8356
+#+DATE: [2014-03-24 Mon 01:08]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, LaTeX, Lisp, Literate Programming, Programming Language, R, Reproducible research, elisp, org-mode
+#+TITLE: Writing Books with Org Mode
+
+[[http://procomun.wordpress.com/2014/03/10/writing-a-book-with-emacs/][This]] is a wonderful post on publishing with R, org-mode, and LaTeX.
+
+
+(via [[http://irreal.org/blog/?p=2561][irreal]])
+
+
+

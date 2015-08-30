@@ -1,0 +1,13 @@
+#+POSTID: 5583
+#+DATE: [2011-02-27 Sun 00:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Linux, Operating System, Programming Language, Racket, Scheme, Ubuntu
+#+TITLE: Just Enough Ubuntu
+
+Running [[http://www.ubuntu.com/server/features/virtualisation][Linux in a virtual]] isn't a new idea, but from what [[http://patrick.wagstrom.net/weblog/2008/01/03/goodbye-openbsd/][Patrick]]said, it is fast and easy. 
+
+This might be a nice way to run a [[http://download.plt-scheme.org/doc/html/web-server/index.html][Racket]]web server locally on Linux.
+
+
+

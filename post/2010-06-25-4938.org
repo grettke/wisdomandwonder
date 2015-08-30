@@ -1,0 +1,13 @@
+#+POSTID: 4938
+#+DATE: [2010-06-25 Fri 12:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Fun
+#+TITLE: Fun in the sun
+
+[[http://www.instructables.com/id/Build-a-Sunburn-Alarm/][Here]]is a great article on how to safely have fun in the sun by minimizing your UV exposure. Perfect for summer and a fun little project.
+
+(via [[http://lifehacker.com/5572310/build-a-diy-electronic-sunburn-alarm][lifehacker]])
+
+
+

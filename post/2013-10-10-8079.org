@@ -1,0 +1,29 @@
+#+POSTID: 8079
+#+DATE: [2013-10-10 Thu 02:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: Deleting trailing whitespace for auto savers
+
+[[http://marmalade-repo.org/packages/real-auto-save][real-auto-save]] is a great package if you like that sort of thing. For example, I like every file to always be saved without me worrying about doing it myself, so I stick with the default save occurring every 10 seconds. A really nice function to call on [[https://www.gnu.org/software/emacs/manual/html_node/elisp/Standard-Hooks.html][write-file-hooks]] is [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Useless-Whitespace.html][delete-trailing-whitespace]], but, with 10s saves this means that in the middle of typing you have spaces eaten and this is clearly unacceptable!
+
+Here is an attempt at a tweaked cleanup function that cleans up every line in the file but for the current line on which your cursor sits:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(defun gcr/delete-trailing-whitespace ()
+  "Apply delete-trailing-whitespace to everything but the current line."
+  (interactive)
+  (let ((first-part-start (point-min))
+        (first-part-end (point-at-bol))
+        (second-part-start (point-at-eol))
+        (second-part-end (point-max)))
+    (delete-trailing-whitespace first-part-start first-part-end)
+    (delete-trailing-whitespace second-part-start second-part-end))) 
+
+#+END_EXAMPLE
+
+
+

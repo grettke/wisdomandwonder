@@ -1,0 +1,27 @@
+#+POSTID: 3493
+#+DATE: [2009-07-05 Sun 22:17]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: R6RS Scheme Libraries project and team
+
+In [[http://groups.google.com/group/ikarus-users/browse_thread/thread/cf831b33ae6faf4d][this]] thread, Derrick explains the purpose of the group:
+
+
+
+#+BEGIN_QUOTE
+  The intent is to organize arbitrary Scheme libraries, which aren't 
+already part of a project, in one place and to provide a place to report 
+and track bugs and questions about these libraries. 
+
+[[https://code.launchpad.net/scheme-libraries%20][https://code.launchpad.net/scheme-libraries]]
+[[https://bugs.launchpad.net/scheme-libraries%20][https://bugs.launchpad.net/scheme-libraries]]
+[[https://answers.launchpad.net/scheme-libraries]]
+#+END_QUOTE
+
+
+
+
+
+
+

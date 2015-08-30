@@ -1,0 +1,13 @@
+#+POSTID: 3114
+#+DATE: [2009-06-03 Wed 05:42]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Fun, Programming
+#+TITLE: A Programmer's Cover Letter
+
+If somehow all programmers were to [[http://www.37signals.com/svn/posts/1748-forget-the-resume-kill-on-the-cover-letter][read]] this article, and follow its advice by aspiring to the [[http://thinkcage.com/svn/][gold standard]] of cover letters (for their company at least), it would be good for all of them, but it would surely create a DOS attack of sorts for the hiring managers!
+
+(via [[http://www.37signals.com/svn/posts/1748-forget-the-resume-kill-on-the-cover-letter][Signal vs. Noise]])
+
+
+

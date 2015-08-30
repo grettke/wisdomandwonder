@@ -1,0 +1,11 @@
+#+POSTID: 2712
+#+DATE: [2009-04-21 Tue 14:38]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Java, ML, Programming Language
+#+TITLE: Hindley–Milner, Wadler, and Java
+
+[[http://wadler.blogspot.com/2009/04/famelab-what-does-logic-have-to-do-with.html][Here]] is a video of Philip Wadler talking about his (and others) history with logic and programming languages.
+
+
+

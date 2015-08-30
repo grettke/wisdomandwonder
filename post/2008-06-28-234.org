@@ -1,0 +1,20 @@
+#+POSTID: 234
+#+DATE: [2008-06-28 Sat 21:43]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning
+#+TITLE: Conference Paper Word Templates
+
+Back when my co-worker and I were preparing some white-papers (the research was the hard part), we decided to present them in "conference paper layout" initially. 
+
+SIGPLAN provides some such templates for MS Word [[http://www.sigplan.org/authorInformation.htm][here]].
+
+Alternately, here are some local copies:
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/06/sigplanconf.dot][sigplanconf.dot]]
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/06/sigplanconf-varsize.dot][sigplanconf-varsize.dot]]
+
+
+
+
+

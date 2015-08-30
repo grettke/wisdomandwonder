@@ -1,0 +1,15 @@
+#+POSTID: 3232
+#+DATE: [2009-06-07 Sun 01:31]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Smalltalk, iPhone
+#+TITLE: Smalltalk on the iPhone
+
+[[http://www.infoq.com/news/2009/05/squeak-smalltalk-iphone][Here]] is a great article about Smalltalk ([[http://www.squeak.org/][Squeak]] and [[http://code.google.com/p/pharo/][Pharo]]) on the iPhone.
+
+Pretty exciting to see what might be possible on that device.
+
+(via [[http://www.reddit.com/r/programming/comments/8nhkh/squeak_smalltalk_comes_to_the_iphone_interview/][reddit]])
+
+
+

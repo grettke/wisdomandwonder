@@ -1,0 +1,39 @@
+#+POSTID: 1501
+#+DATE: [2009-01-03 Sat 00:50]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: How to handle large data in DrScheme
+
+In the PLT discussion list thread titled [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-December/029238.html]["How to handle large data"]], Kenichi wanted to load a very large file into DrScheme, 120,000 lines long, and it was hanging. Noel explained that because of debugging and performance instrumentation, DrScheme adds a lot of overhead, and that MzScheme could load the file just fine. Eli explained that DrScheme's overhead could be made much smaller by making the contents of that file one big piece of quoted data, and that the overhead could be completely eliminated by putting the data in a file and then loading it.
+
+The following code is a generalization of the two approaches that he described there, which were tailored to Japanese postal data.
+
+
+
+#+BEGIN_EXAMPLE
+    
+(define info-list-data
+  '(("Alpha" "Bravo" 1)
+    ("Delta" "Echo" 2)))
+
+(define-struct info (fname lname budget))
+
+(define (info-data->info entry)
+  (make-info (first entry) (second entry) (third entry)))
+
+(define info-list
+  (map info-data->info info-list-data))
+
+(define info-list-from-file
+  (map info-data->info
+       (call-with-input-file "data-overhead-elimination.data" read)))
+
+(display "Total budget: ")
+(display (apply + (map (λ (info) (info-budget info)) info-list-from-file)))
+(newline)
+
+#+END_EXAMPLE
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 258
+#+DATE: [2008-07-12 Sat 23:57]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: XO
+#+TITLE: The OLPC Wiki
+
+[[http://wiki.laptop.org/go/Home][The OLPC Wiki]] is /the/ place to go to get information about XO.
+
+
+

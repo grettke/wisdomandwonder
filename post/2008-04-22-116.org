@@ -1,0 +1,13 @@
+#+POSTID: 116
+#+DATE: [2008-04-22 Tue 00:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Programming, SICP
+#+TITLE: Congratulations Eli!
+
+With a marked resolve and steadfast discipline, Eli has [[http://eli.thegreenplace.net/2008/04/18/sicp-conclusion/][completed his SICP study project]].
+
+Eli is an inspiration to, and fine example for, all students of programming.
+
+
+

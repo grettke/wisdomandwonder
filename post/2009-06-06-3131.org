@@ -1,0 +1,13 @@
+#+POSTID: 3131
+#+DATE: [2009-06-06 Sat 12:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Career, Programming
+#+TITLE: Top Ten Things You Don't Want at Your Next Job
+
+[[http://codezest.com/archive/2009/05/31/top-10-reasons-why-employees-leave-in-it.aspx][Here]] is a good article about the top 10 things that you don't want at your next job.
+
+(via [[http://www.reddit.com/r/programming/comments/8ou6c/top_10_reasons_why_employees_leave_in_it/][reddit]])
+
+
+

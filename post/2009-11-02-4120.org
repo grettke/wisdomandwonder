@@ -1,0 +1,13 @@
+#+POSTID: 4120
+#+DATE: [2009-11-02 Mon 17:13]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Career
+#+TITLE: What is so bad about being an actuary?
+
+Over the past couple of months I've done some very informal research on what it means to be an [[http://en.wikipedia.org/wiki/Actuary][actuary]]. From reading the Wikipedia article and also the [[http://www.beanactuary.org/][Be An Actuary]] website it seems like a pretty interesting job. Here is where it gets surprising, though: nearly everyone I know in the insurance industry has communicated that it is a very lonely and boring job. This leaves my question to you: what is so bad about being an actuary?
+
+Here are two other links I've yet to research: [[http://www.soa.org/][Society of Actuaries]]and [[http://www.casact.org/][Casuality Actuarial Society]] (thanks Dr. Rowe), and clearly I need to do more.
+
+
+

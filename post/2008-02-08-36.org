@@ -1,0 +1,11 @@
+#+POSTID: 36
+#+DATE: [2008-02-08 Fri 22:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: mathematics, philosophy
+#+TITLE: A beautiful monster
+
+Can we look to mathematics to find the [[http://www.hypatia-lovers.com/geometry/Divine_Proportion.html]["measure of beauty"]]?
+
+
+

@@ -1,0 +1,17 @@
+#+POSTID: 839
+#+DATE: [2008-10-05 Sun 20:36]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Programming, Scheme, Teaching
+#+TITLE: A Visual Interpreter for Students Learning Scheme
+
+#+BEGIN_QUOTE
+  Students who know procedural and object-oriented languages frequently have difficulty learning the functional paradigm. The purpose of this work is to facilitate this transition by designing and implementing a set of visual tools that help students understand how Scheme, a functional language, programs work. To achieve our goals we worked on the implementation of a Scheme interpreter and a set of visual tools for different key aspects of functional programming languages. [[http://www.davidpilo.com/pvts/][Pilo Visualization Tools for Scheme (PVTS)]] emphasizes on the functional programming language paradigm and its visual representations. PVTS can be used by teachers as a teaching tool as well as by students as a learning tool.
+#+END_QUOTE
+
+
+
+
+
+
+

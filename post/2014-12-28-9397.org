@@ -1,0 +1,54 @@
+#+POSTID: 9397
+#+DATE: [2014-12-28 Sun 00:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: Probably Try to Avoid local-set-key
+
+
+When I first learned how to set up Emacs, I really liked =local-set-key= because you didn't have to know about the keymap for the mode you just had to make the call in that mode's hook. That is simple and makes total sense. That has worked well for me for years until two things happened:
+
+
+
+
+
+
+-  Wanted to use prefix commands
+
+-  Re-started using Windows again on a daily basis
+
+
+
+
+
+
+
+The former is part of the natural expansion of use and its refinement. The latter is similar, but specific to running Emacs on Windows.
+
+
+
+
+
+
+
+The last time that I ran Emacs on Windows I did not use the Super key. Then I went off into the wilderness and use it a *lot* only to return and find that Windows owns lot of /my/ keybindings. Not only were they owned, but they would not let go of them no matter how I tried! Because if this major inconvenience, I've got no reasonable choice other than refactoring some of my perfect bindings into something, ahem, /better/. 
+
+
+
+
+
+
+
+This refactoring would have been pretty easy if I'd jus done normal keybindings against keymaps, but I didn't, I used =local-set-key=. So this becomes a good learning opportunity about the key-map names and additionally how, at least for myself, this is generally a bad approach because makes re-factoring harder.
+
+
+
+
+
+
+
+The good thing is that at least up front there is a good time savings, I suppose.
+
+
+
+

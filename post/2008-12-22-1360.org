@@ -1,0 +1,27 @@
+#+POSTID: 1360
+#+DATE: [2008-12-22 Mon 03:04]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: XO
+#+TITLE: Sugar - Release 8.2.0
+
+[[http://en.wikipedia.org/wiki/Sugar_(GUI)][Sugar]] is the UI portion of the Linux build that runs on the OLPC XO.
+
+It is a radical departure from what we would call "typical" user interfaces in 2008; and it really took some "getting used to it". With the [[http://wiki.laptop.org/go/Release_notes/8.2.0][release of 8.20]], it looks like they have made some "user friendly" Sugar and a few other things, too:
+
+
+
+-  A nice looking [[http://www.laptop.org/8.2.0/manual/][User Manual]]
+-  Better [[http://wiki.laptop.org/go/Feature_Longer_battery_life][Power Management]]
+-  Significant [[http://wiki.laptop.org/go/Feature_GUI_and_usability_improvements][changes to the UI]] "to improve the user experience".
+
+
+
+It took guts to come up with Sugar, and perhaps even more to make these kinds of changes. As minimal as they seem, they are not insignificant. 
+
+Disclaimer: I have not yet tried out this build as my XO is currently out on loan.
+
+(via [[http://www.olpcnews.com/forum/][OLPC News]])
+
+
+

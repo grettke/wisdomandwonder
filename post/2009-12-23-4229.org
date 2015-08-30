@@ -1,0 +1,13 @@
+#+POSTID: 4229
+#+DATE: [2009-12-23 Wed 01:22]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Microsoft Loves Scheme
+
+Seriously. Check it out [[http://msdn.microsoft.com/en-us/magazine/cc163729.aspx][here]].
+
+(via [[http://www.reddit.com/r/programming/comments/9ck6t/scheme_is_love/][digg]])
+
+
+

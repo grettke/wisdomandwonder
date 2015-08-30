@@ -1,0 +1,26 @@
+#+POSTID: 200
+#+DATE: [2008-05-30 Fri 22:04]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide
+#+TITLE: Choosing a font in Emacs on Windows
+
+The truth is that I haven't read the Emacs documentation yet. I /will/ read it, it is on the list. Until then, I've relied on other kinds folks to provide answers for my questions. [[http://www.crsr.net/Notes/Emacs.html][Tommy]] was kind enough to provide an answer for [[http://www.wisdomandwonder.com/link/189/lucida-console-font-on-emacs][this one]]. 
+
+Evaluate the following in the scratch buffer:
+
+
+#+BEGIN_EXAMPLE
+    
+(insert (w32-select-font)) 
+
+#+END_EXAMPLE
+
+
+
+For more information on Fonts in Emacs on Windows, go [[http://www.gnu.org/software/emacs/windows/Fonts-and-text-translation.html#Fonts-and-text-translation][here]].
+
+(via [[http://www.crsr.net/Notes/Emacs.html][Tommy]])
+
+
+

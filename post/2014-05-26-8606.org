@@ -1,0 +1,13 @@
+#+POSTID: 8606
+#+DATE: [2014-05-26 Mon 22:08]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: philosophy
+#+TITLE: First survive, then optimize
+
+First survive, then optimize.
+
+The alternative is effort, without reward.
+
+
+

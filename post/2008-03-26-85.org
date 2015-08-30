@@ -1,0 +1,13 @@
+#+POSTID: 85
+#+DATE: [2008-03-26 Wed 00:39]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide
+#+TITLE: Emacs looks to Eclipse
+
+Seems that RMS is [[http://lists.gnu.org/archive/html/emacs-devel/2008-03/msg02254.html][taking IDE design cues from Eclipse]]! (thanks [[http://yrk.livejournal.com/214319.html][Yoni]])
+
+Someone please point him at [[http://www.jetbrains.com/idea/][IntelliJ Idea]].
+
+
+

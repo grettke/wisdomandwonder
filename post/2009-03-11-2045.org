@@ -1,0 +1,68 @@
+#+POSTID: 2045
+#+DATE: [2009-03-11 Wed 01:35]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming
+#+TITLE: Random Art
+
+#+BEGIN_QUOTE
+  Suppose we take an expression in x and y, built by nesting simple primitives: product, average, sin(pi*\_), and cos(pi*\_). These four operations map arguments in the range -1 to 1 to results in this same range. Thus, at any point with -1 <= x,y <= 1, our expression built from these primitives will return a value between -1 and 1. By scaling the answer to a grayscale value 0-255, we can plot the function in this 2-by-2 square. (From three such expressions, we can get red, green, and blue values for each point.)
+#+END_QUOTE
+
+
+
+What you get is some very [[http://nifty.stanford.edu/2009/stone-random-art/][nifty art]]!
+
+(via [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-March/031189.html][PLT]])
+
+*Addendum: 03/11/09*
+
+Noel posted some PLT Scheme code for implementation [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-March/031198.html][here]]:
+
+
+
+#+BEGIN_EXAMPLE
+    
+#lang scheme/gui
+
+(define (make-plotter drawing-fn size)
+  (lambda (canvas dc)
+    (for* ((x (in-range size))
+           (y (in-range size)))
+      (let* ([intensity (inexact->exact (round (* (/ (add1
+                                                      (drawing-fn x y)) 2) 255)))]
+             [colour (make-object color% intensity intensity intensity)])
+        ;;(printf "~a ~a ~a\n" intensity x y)
+        (send dc set-pen colour 1 'solid)
+        (send dc draw-point x y)))))
+
+
+(define (draw-grayscale size drawing-fn)
+  (define frame (new frame%
+                     [label "Random Art"]
+                     [width size]
+                     [height size]))
+  (define canvas (new canvas%
+                      [parent frame]
+                      [paint-callback (make-plotter drawing-fn size)]))
+  (send frame show #t))
+
+(define (example1 x y)
+  ;; some random stuff
+  (sin (* (sin (* (cos x) y))
+          (cos (*
+                (sin (* (sin y) (cos x)))
+                (cos (*  (cos (* y x)))))))))
+
+
+(define (example2 x y)
+  (if (> x 200)
+      1
+      -1))
+
+;;(draw-grayscale 400 example1)
+
+#+END_EXAMPLE
+
+
+

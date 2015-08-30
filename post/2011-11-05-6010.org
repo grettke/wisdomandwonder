@@ -1,0 +1,13 @@
+#+POSTID: 6010
+#+DATE: [2011-11-05 Sat 16:04]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: OS X, Utility, Windows
+#+TITLE: UltraVNC Seems to Work Best for Windows to OSX
+
+For connecting Windows to OSX via VNC; UltraVNC seems to work the best. 
+
+The other clients drop frequently.
+
+
+

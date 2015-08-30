@@ -1,0 +1,46 @@
+#+POSTID: 28
+#+DATE: [2008-01-11 Fri 04:46]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: PLT, Programming Language, Scheme, XO
+#+TITLE: Scheme Lisp on the OLPC XO
+
+Out of the box, the OLPC XO comes loaded to the gills with Python, but sadly, no Lisp!
+
+To remedy that situation I enlisted the help of the kind folks on the PLT discussion list to help me write a script to build the PLT [[http://www.drscheme.org/][DrScheme]] (Lisp) development environment for the XO.
+
+[[http://www.wisdomandwonder.com/xo/plt/372/sugar-free/package.sh][This script]] is responsible for preparing the PLT application suite for the OLPC XO laptop computer. The script creates a typical binary, *not* a Sugar application (that is going to take a little more work!). You can download the application itself [[http://www.wisdomandwonder.com/xo/plt/372/sugar-free/plt-372.tar.bz2][here]], along with the [[http://www.wisdomandwonder.com/xo/plt/372/sugar-free/plt-372.tar.bz2.md5][md5 checksum]], and the [[http://www.wisdomandwonder.com/xo/plt/372/sugar-free/build.log.bz2][build log]]. A Flickr photoset is available [[http://www.flickr.com/photos/21470641@N07/sets/72157603690592461/][here]].
+
+If you do try it out, /please be sure to read the usage notes below/, and let me know if anything needs to be added to them. All of the documentation is pre-installed, so once you've downloaded it, extracted the archive, and executed 'drscheme' (or 'mzscheme' if you want command line Lisp) in the bin dir, you should be ready to roll.
+
+Thanks to all of the hard work by both the PLT and OLPC folks, /lives will be changed/.
+
+Usage Notes
+
+
+-  The apps run quickly. The slowest part is, of course, the disk I/O.
+-  [[http://www.plt-scheme.org/software/slideshow/][Slideshow]]works very well; it looks great and runs fast, turning the XO into a wonderful little [[http://www.flickr.com/photos/21470641@N07/2184838382/]["personal" presentation machine]].
+-  Out of the box, there is one setting in Edit->Preferences->Editing->General that is left unchecked: Open files in separate tabs (not separate windows). Left unchecked, opening a file will occur in a new window, and creating a new file will occur in the same editor. Check this feature. It will prevent multiple instances of DrScheme, conserving resources, and perhaps equally as important, it will make DrScheme more fun to use. "Reuse existing frames when opening new files" should not be checked!
+-  Help desk works wonderfully with one caveat. When you are running Sugar and you switch between applications, more than one "unknown app circle" will show up in the "Donut", each one corresponding to a DrScheme window. When you try to return to the help desk, you will find that you are always returned to the DrScheme IDE window. In order to get back to the help desk window, return to the DrScheme IDE window and then use alt+tab to switch to the help desk.
+-  In this build of DrScheme, the IDE will resize to accomodate long file names. Although the XO screen has a very high resolution, it is very small, and large fonts are used to accomodate this. As a result, when file names longer than 16 characters are loaded, the IDE will expand off of the right side of the screen. This behavior will not be present in the newer version of DrScheme.
+-  The Preferences window buttons “Revert to Defaults”, and “Cancel”, and "Ok" are not visible, appearing just below the bottom bound of the screen. The mouse cursor *can* click these, and in fact when you do click them, you can see the buttons are depressed. “Revert” is on the far left, and then "Cancel", and finally "Ok" is on the far right, appearing in that order. This is order is different than how it appears on Windows (Revert, Ok, Cancel)!
+
+
+
+*Addendum 03/22/08*:
+
+
+-  Updated the build script (now tag 004) comments with note about what settings to check in DrScheme, updated the usage notes to reflect this fact
+-  Someone asked "By the way, is there a reason that just typing yum install plt-scheme wouldn't work?". That is a good question. PLT builds against OpenGL. The XO does not have hardware acceleration. Consequently there are two ways to run PLT on the XO: install Mesa for software-based OpenGL emulation or build PLT without OpenGL support. I chose the latter, without testing the former.
+-  In case you are interested in building PLT for the XO using Microsoft Virtual PC, I've added my [[http://www.wisdomandwonder.com/xo/plt/372/sugar-free/vpc_setup.xml][setup notes]].
+
+
+
+
+*Addendum 05/29/08*:
+
+Made a big correction in the order of the preference buttons, also updated the reference to the script which reflects the change.
+
+
+
+

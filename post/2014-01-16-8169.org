@@ -1,0 +1,41 @@
+#+POSTID: 8169
+#+DATE: [2014-01-16 Thu 01:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Programming
+#+TITLE: Project Interaction With Projectile in Emacs
+
+#+BEGIN_QUOTE
+  [[http://batsov.com/projectile/][Projectile]] is a project interaction library for Emacs. Its goal is to provide a nice set of features operating on a project level without introducing external dependencies (when feasible).
+#+END_QUOTE
+
+
+
+After evaluating a couple of options, Projectile came out on top after months of daily use on a JavaScript/Python/Shell/Java project. It works quite beautifully; you don't even notice that it is there as it "just works" as expected. The feature list will probably jump out at you as pretty common expectations if you are coming from a "modern" IDE, and Projectile provides all of them quite nicely to the "modern programmer":
+
+
+
+-  jump to a file in project
+-  jump to a directory in project
+-  jump to a file in a directory
+-  jump to a project buffer
+-  jump to a test in project
+-  toggle between code and its test
+-  jump to recently visited files in the project
+-  switch between projects you have worked on
+-  kill all project buffers
+-  replace in project
+-  multi-occur in project buffers
+-  grep in project
+-  regenerate project etags
+-  visit project in dired
+-  run make in a project with a single key chord
+
+
+
+The "short of it" is that if you want to jump to a specific file, all you need to do is to type in that files name and choose the right one in the mini-buffer. 
+
+A very un-obtrusive, feature rich, uberly-configurable, and light-weight plugin; it is a real joy to use.
+
+
+

@@ -1,0 +1,17 @@
+#+POSTID: 3208
+#+DATE: [2009-06-07 Sun 01:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Business
+#+TITLE: Setting the bounds on infinity
+
+Working with partners or sub-contractors; you are bound to end up working with some very creative people. You have a vision that they need to fulfill; and you probably expect them to figure it out for you so you tell them "just make it happen; do whatever you like".
+
+When you give someone limitless possibilities, though, they are likely never to find a good one, at least not for you. 
+
+By giving even the most creative people just /some/ constraints, you are doing them a favor and you are likely to end up a much happier participant in the interaction.
+
+(via [[http://sethgodin.typepad.com/seths_blog/2009/05/a-clean-sheet-of-paper.html][Seth]])
+
+
+

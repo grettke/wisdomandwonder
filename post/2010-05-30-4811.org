@@ -1,0 +1,19 @@
+#+POSTID: 4811
+#+DATE: [2010-05-30 Sun 19:14]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Genetic programming in PLT Scheme
+
+#+BEGIN_QUOTE
+  If anyone here is interested in genetic programming, the PLT implementation of my Push/PushGP system, for which several of you provided help over the last few weeks, is posted at [[http://hampshire.edu/lspector/schush.ss%20][http://hampshire.edu/lspector/schush.ss]]
+
+#+END_QUOTE
+
+
+--Lee
+
+(via [[http://groups.google.com/group/plt-scheme/browse_thread/thread/c95d5268e44551b/771b4b542fb6d248?lnk=gst&q=SchushGP#771b4b542fb6d248][PLT]])
+
+
+

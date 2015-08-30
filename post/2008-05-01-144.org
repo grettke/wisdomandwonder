@@ -1,0 +1,11 @@
+#+POSTID: 144
+#+DATE: [2008-05-01 Thu 01:45]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: ML, OCaml, Programming Language
+#+TITLE: OCaml to get Concurrent Garbage Collection
+
+Check it out at [[http://ocamlnews.blogspot.com/2008/04/ocaml-to-get-concurrent-garbage.html][the Frog]].
+
+
+

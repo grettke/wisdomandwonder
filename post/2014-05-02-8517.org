@@ -1,0 +1,11 @@
+#+POSTID: 8517
+#+DATE: [2014-05-02 Fri 05:01]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Free Software, OSX, Utility
+#+TITLE: Cakebrew, a GUI for Homebew
+
+[[http://www.cakebrew.com/][Cakebrew]] seems to be a nice GUI for [[http://brew.sh/][Homebrew]].
+
+
+

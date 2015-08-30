@@ -1,0 +1,33 @@
+#+POSTID: 4584
+#+DATE: [2010-03-16 Tue 02:14]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: MIT, Programming Language, Scheme
+#+TITLE: Keywords added to MIT-Scheme
+
+#+BEGIN_QUOTE
+  I've [Joe Marshall] added `keyword' objects to MIT Scheme in a way that I hope keeps everyone happy. A keyword is a self-evaluating symbolic token, much like a symbol, but it never needs quoting because it can never mean anything but itself.
+
+The reading and printing of keywords is controlled by the variable *keyword-style*, which can be #f or one of these symbols: cl, dsssl, srfi-88, both
+
+If *keyword-style* is #F (the default), then there is no way to read keywords, and they are printed as #[keyword foo].
+
+If *keyword-style* is 'cl, then tokens with a leading colon are considered keywords and keywords are printed with a leading colon. Symbols with a leading colon are printed with vertical-bar quotes
+and you can create symbols with leading colons by using vertical-bar quotes.
+
+If *keyword-style* is 'srfi-88, then tokens with a trailing colon are considered keywords and keywords are printed with a trailing colon. Symbols with a trailing colon are printed with vertical-bar quotes and you can create symbols with trailing colons by using vertical-bar quotes.
+
+'dsssl is a synonym for 'srfi-88
+
+If *keyword-style* is 'both, then either syntax is acceptable for reading, but the cl syntax will be used in printing. (Putting a colon on both ends would be weird, so don't.)
+
+#+END_QUOTE
+
+
+
+
+
+(via [[http://lists.gnu.org/archive/html/mit-scheme-devel/2010-03/msg00005.html][MIT-Scheme-devel]])
+
+
+

@@ -1,0 +1,20 @@
+#+POSTID: 175
+#+DATE: [2008-05-13 Tue 12:35]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Shell
+#+TITLE: Choosing random files in Bash
+
+Ben has a good [[http://benjisimon.blogspot.com/2008/05/bash-shell-hack-picking-random-set-of.html][post]] about choosing random files in Bash:
+
+
+
+
+#+BEGIN_EXAMPLE
+    
+ls | while read x; do echo "`expr $RANDOM % 1000`:$x"; done \
+     | sort -n| sed 's/[0-9]*://' | head -15
+#+END_EXAMPLE
+
+
+

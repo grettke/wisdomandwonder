@@ -1,0 +1,105 @@
+#+POSTID: 8754
+#+DATE: [2014-06-21 Sat 17:38]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: OSX, Utility
+#+TITLE: Update OSX 10.9 to use bash4
+
+[[http://buddylindsey.com/upgrade-bash-to-4-on-os-x/][Source]].
+
+
+
+
+
+#+BEGIN_EXAMPLE
+    
+Script started on Sat Jun 21 12:25:07 2014
+ESC[~> echo $BASH_VERSION
+3.2.51(1)-release
+gcr@orion:~> which bash
+/bin/bash
+gcr@orion:~> brew info bash
+bash: stable 4.3.18, HEAD
+http://www.gnu.org/software/bash/
+Not installed
+From: https://github.com/Homebrew/homebrew/commits/master/Library/Formula/bash.rb
+ESC[1;34m==>ESC[1;39m DependenciesESC[0m
+Required: ESC[1;32mreadlineESC[0m
+ESC[1;34m==>ESC[1;39m CaveatsESC[0m
+In order to use this build of bash as your login shell,
+it must be added to /etc/shells.
+gcr@orion:~> brew install bash
+[1;34m==>ESC[1;39m PatchingESC[0m
+patching file arrayfunc.c
+patching file bashline.c
+patching file externs.h
+patching file jobs.c
+patching file lib/glob/glob.c
+patching file lib/glob/gmisc.c
+patching file lib/readline/display.c
+patching file lib/readline/readline.c
+patching file lib/sh/shquote.c
+patching file parse.y
+patching file patchlevel.h
+patching file pcomplete.c
+patching file subst.c
+patching file test.c
+patching file trap.c
+patching file variables.c
+patching file y.tab.c
+ESC[1;34m==>ESC[1;39m ./configure --prefix=/usr/local/Cellar/bash/4.3.18 --with-installed-readlineESC[0m
+ESC[1;34m==>ESC[1;39m make installESC[0m
+ESC[1;34m==>ESC[1;39m CaveatsESC[0m
+In order to use this build of bash as your login shell,
+it must be added to /etc/shells.
+ESC[1;34m==>ESC[1;39m SummaryESC[0m
+/usr/local/Cellar/bash/4.3.18: 59 files, 7.4M, built in 41 seconds
+gcr@orion:~> /usr/local/bin/bash --versinESCESC[Kon
+GNU bash, version 4.3.18(1)-release (x86_64-apple-darwin13.2.0)
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later 
+
+This is free software; you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+gcr@orion:~> sudo echo "/usr/local/bin/bashbug" >> /etc/shells
+bash: /etc/shells: Permission denied
+gcr@orion:~> sudo vi /etc/shells
+Password:
+ESC[?1049hESC[?1hESC=ESC[1;25rESC[?12;25hESC[?12lESC[?25hESC[27mESC[mESC[HESC[2JESC[?25lESC[25;1H"/etc/shells" 10L, 179CESC[>cESC[1;1H# List of acceptable shells for chpass(1).
+# Ftpd will not allow users to connect who are not using
+# one of these shells.
+
+/bin/bash
+/bin/csh
+/bin/ksh
+/bin/sh
+/bin/tcsh
+/bin/zsh
+gcr@orion:~> chsh
+
+#+END_EXAMPLE
+
+
+
+Then login again
+
+
+#+BEGIN_EXAMPLE
+    
+gcr@orion:~> which bash
+/usr/local/bin/bash
+gcr@orion:~> echo $BASH-VESCESC[KESCESC[K_VERSION
+4.3.18(1)-release
+gcr@orion:~> bash --version
+GNU bash, version 4.3.18(1)-release (x86_64-apple-darwin13.2.0)
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later 
+
+This is free software; you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+gcr@orion:~> exit
+
+#+END_EXAMPLE
+
+
+

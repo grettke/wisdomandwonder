@@ -1,0 +1,25 @@
+#+POSTID: 6869
+#+DATE: [2013-01-04 Fri 19:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Linux, Remote, SSH, UNIX, Ubuntu, Utility, VNC, X11
+#+TITLE: Configuring VNC on Ubuntu 12.04 LTS Desktop Over SSH Before Logging In Locally
+
+My goal was to log in to the Ubuntu 12.04 LTS Desktop desktop, over a SSH tunnel, using VNC, before anyone was logged into the desktop itself. This scenario occurs because although you may share your desktop over the built in "Desktop Sharing", you may need to restart the system, and after rebooting you are left with a login screen desktop, but without a logged-in desktop to share.
+
+The directions I followed are from [[http://www.digitaldrugs.co.uk/wordpress/?p=151][this great post]].
+
+
+
+#+BEGIN_EXAMPLE
+    
+sudo /usr/bin/x11vnc -xkb -noxrecord -noxfixes -noxdamage -auth /var/run/lightdm/root/:0 -display :0 -passwd "yourpwhere" -forever -bg -o /var/log/x11vnc.log
+
+#+END_EXAMPLE
+
+
+
+Option notes: -xkb, help with keyboard modifiers. -noxrecord, don't let the xserver do grabs, assume this helps with speed. -noxfixes, disable xfixes cursor shape mode, assume this helps with speed. -noxdamage, disable xdamage polling hints, this does help with speed, has to do with Ubuntu's compiz. -auth, lightdm is the unity login manager. -display, the primary. -passwd not secure, tunnel over ssh also. -forever don't quit after the first client disconnects. -bg go into background mode. -o redirect output here.
+
+
+

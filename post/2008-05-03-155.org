@@ -1,0 +1,23 @@
+#+POSTID: 155
+#+DATE: [2008-05-03 Sat 14:21]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, Macros, Programming Language, Scheme
+#+TITLE: Scheme is mysophobic
+
+[[http://groups.google.com/group/comp.lang.lisp/msg/07b915645de0cec7][Here]] is an interesting post about hygiene and its sociological impact on the two Lisp groups of Schemers and Common Lispers. 
+
+While the post itself is a troll, the author:
+
+
+1. Uses a very accessible analogy.
+2. Quite clearly communicates a number of differences between Scheme and Common Lisp when it comes not only to hygiene but also language design.
+
+
+
+The interesting thing about this post is that the only difference between this post being a troll and an educational article is how the content was delivered. If you remove the cruddy name-calling, whining, and complaining; it would have been a really good post on the difference between the languages. That is wild!
+
+(reference [[http://en.wikipedia.org/wiki/Mysophobia][mysophobic]])
+
+
+

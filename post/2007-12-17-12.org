@@ -1,0 +1,16 @@
+#+POSTID: 12
+#+DATE: [2007-12-17 Mon 03:28]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language
+#+TITLE: What is “real code”?
+
+One common complaint about non-mainstream programming languages is that there hasn't been any "real code" written in that particular language. One response to this is the [[http://www.gigamonkeys.com/book/][Practical Common Lisp]] book. 
+
+Whether or not a MP3 database or a spam filter is “real code” is up for debate. Nonetheless, based on the success of the book, people clearly want to see "real code". 
+
+In your mind, what is "real code"? What is it that you need to see in order to believe that a language can do "real work"? 
+
+
+
+

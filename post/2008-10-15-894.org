@@ -1,0 +1,11 @@
+#+POSTID: 894
+#+DATE: [2008-10-15 Wed 19:47]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Teaching, philosophy
+#+TITLE: Tuition-free MIT
+
+[[http://philip.greenspun.com/school/tuition-free-mit.html][What would the Massachusetts Institute of Technology look like if we did not charge undergraduates tuition?]]
+
+
+

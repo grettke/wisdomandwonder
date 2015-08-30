@@ -1,0 +1,17 @@
+#+POSTID: 9858
+#+DATE: [2015-07-11 Sat 17:31]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, Programming Language, elisp, org-mode
+#+TITLE: You Probably Want org-return-indent Bound to Return
+
+
+Started questioning why after hitting RETURN while in lists I have to hit TAB to get indented properly. Kind of a dead giveaway that I should be return-and-indenting! Looked at =org-return= to find that it has an argument about indenting and then saw that =org-return-indent= passes it for you. With that in mind, RETURN is bound to that now.
+
+
+
+
+You probably want =org-return-indent= bound to =return=. It saves a lot of actions.
+
+
+

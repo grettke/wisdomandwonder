@@ -1,0 +1,35 @@
+#+POSTID: 6130
+#+DATE: [2012-01-21 Sat 15:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Utility
+#+TITLE: Tarsnap: Online backups for the truly paranoid
+
+#+BEGIN_QUOTE
+  Tarsnap is a secure online backup service for BSD, Linux, OS X, Solaris, Cygwin, and can probably be compiled on many other UNIX-like operating systems. The Tarsnap client code provides a flexible and powerful command-line interface which can be used directly or via shell scripts.
+#+END_QUOTE
+
+
+
+
+
+#+BEGIN_QUOTE
+  The design of Tarsnap was guided by the following four principles:
+
+[[http://www.tarsnap.com/security.html][Security]]: Backups should be secure against attackers ranging from "script kiddies" up to major world governments, even if they can compromise the systems on which the backups are being stored. Backups are supposed to be a tool for mitigating damage --- not a potential vulnerability to worry about!
+
+[[http://www.tarsnap.com/flexibility.html][Flexibility]]: Backups should be flexible and convenient. When you decide you want to create an archive, you should be able to store in it whatever files you want; if you decide that you want to delete an archive, you should be able to do it whenever you want, without impacting other archives; and there should be no arbitrary limits on how many archives you have stored, how often you can create new archives, or how long you can keep them for.
+
+[[http://www.tarsnap.com/efficiency.html][Efficiency]]: Backups should be efficient, using a minimal amount of storage and bandwidth. If you archive the same file twice, it should still only be uploaded and stored once; likewise, if you move, rename, copy, or make small changes to a file (e.g., adding a small amount of new data to the end of a log file or mail spool) you should never need to re-upload the entire file.
+
+[[http://www.tarsnap.com/utility.html][Utility]]: Backups should be provided as a utility, with linear (i.e., per-GB) pricing. Forcing people to figure out ahead of time how much data they want to back up so that they can sign up for the right "plan" is dumb, and having some customers subsidize other customers is inherently unfair.
+#+END_QUOTE
+
+
+
+-- [[http://www.tarsnap.com/index.html][tarsnap website]]
+
+Looks like an interesting service.
+
+
+

@@ -1,0 +1,41 @@
+#+POSTID: 9774
+#+DATE: [2015-06-10 Wed 01:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Music, Programming Language, forth
+#+TITLE: Algorithmic Music via FORTH
+
+
+In the comments of [[http://www.findinglisp.com/blog/2008/06/forth%20timelessness-redux.html][this post]] a commentor named b0b (sic) mentioned "algorithmic music". I emailed him and he shared more information about it. That led to reading his [[http://www.fixture-records.com/b0b.html][bio]] that provides information both about the author and the composition.
+
+
+
+
+
+
+
+b0b created music playing automatons each with the limitations that humans have. The whole thing is quite an expression of creativity!
+
+
+
+
+
+
+
+You can listen to the record on the site and also purchase a cassette tape. 
+better, the FORTH source code is available [[https://github.com/b0blee/4thAcademy][here]]!
+
+
+
+
+
+
+
+Seems like a fine excuse to learn more about the Atari ST and ForthMacs!
+
+
+
+
+
+
+

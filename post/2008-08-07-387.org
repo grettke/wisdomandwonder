@@ -1,0 +1,13 @@
+#+POSTID: 387
+#+DATE: [2008-08-07 Thu 16:37]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Computer Science, Learning, Programming, Teaching
+#+TITLE: Why Mike Vanier loves computer science 
+
+Mike expounds on it [[http://www.cs.caltech.edu/~mvanier/hacking/rants/computer_science.html][here]]. It is a good article.
+
+Mike's blog is located [[http://mvanier.livejournal.com/][here]].
+
+
+

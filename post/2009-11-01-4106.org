@@ -1,0 +1,11 @@
+#+POSTID: 4106
+#+DATE: [2009-11-01 Sun 05:05]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Dynamically Requiring Code at Runtime
+
+[[http://groups.google.com/group/plt-scheme/browse_thread/thread/85bcfb61558c0da/dd1b4ab2559ca26e?lnk=gst&q=conditional+module+inclusion+and+compilation][Here]] is a good thread on conditional inclusion of code in PLT Scheme. Basically the OP wanted to use platform-specific module code (think development versus on the cluster). The recommended solution was to use [[http://download.plt-scheme.org/doc/html/reference/Module_Names_and_Loading.html#(def._((quote._~23~25kernel)._dynamic-require))][dynamic-require]].
+
+
+

@@ -1,0 +1,28 @@
+#+POSTID: 8820
+#+DATE: [2014-07-07 Mon 03:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, R-Project, Statistics, applied statistics, emacs speaks statistics
+#+TITLE: Some good projects or courses of study for R
+
+-  The R Book
+
+-  Coursera specialization
+
+-  [[http://rpubs.com/thoughtfulbloke/subset]]
+
+-  [[http://blog.revolutionanalytics.com/2014/03/emacs-ess-and-r-for-zombies.html]]
+
+-  [[http://adv-r.had.co.nz/]]
+
+-  rs.io: 100+ interesting data sets for statistics
+
+-  The Elements of Statistical Learning: Data Mining, Inference, and Prediction
+
+-  [[https://www.youtube.com/watch?v=FL9Q43zO1BQ]] via [[http://blog.printf.net/articles/2014/03/03/more-technical-talks/]]
+
+-  How to spot a probable liar
+
+
+
+

@@ -1,0 +1,17 @@
+#+POSTID: 242
+#+DATE: [2008-06-28 Sat 13:22]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Typed Scheme 
+
+#+BEGIN_QUOTE
+  [[http://www.ccs.neu.edu/home/samth/typed-scheme/][Typed Scheme]] is a typed dialect of PLT Scheme. It integrates with modules written in other PLT dialects, and provides a type system designed to support common Scheme idioms.
+#+END_QUOTE
+
+
+
+Typed Scheme is a pretty neat language because it can can both use and be used by (untyped) Scheme code in PLT Scheme.
+
+
+

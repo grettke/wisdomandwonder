@@ -1,0 +1,17 @@
+#+POSTID: 9302
+#+DATE: [2014-11-09 Sun 21:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: R Graph Catalog
+
+#+BEGIN_QUOTE
+  [[http://shinyapps.stat.ubc.ca/r-graph-catalog/][This catalog]] is a complement to “Creating More Effective Graphs” by Naomi Robbins.
+#+END_QUOTE
+
+
+
+
+
+
+

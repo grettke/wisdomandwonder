@@ -1,0 +1,17 @@
+#+POSTID: 1143
+#+DATE: [2008-11-03 Mon 19:09]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Functional, Haskell, Learning, Programming, Teaching
+#+TITLE: Helium for learning Haskell
+
+#+BEGIN_QUOTE
+  [[http://portal.acm.org/citation.cfm?id=871902][Helium]] is a user-friendly compiler designed especially for learning the functional programming language Haskell. The quality of the error messages has been the main concern both in the choice of the language features and in the implementation of the compiler. Helium implements almost full Haskell, where the most notable difference is the absence of type classes. Our goal is to let students learn functional programming more quickly and with more fun. The compiler has been successfully employed in two introductory programming courses at Utrecht University.
+#+END_QUOTE
+
+
+
+(mentioned on the [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-November/028240.html][PLT discussion list]])
+
+
+

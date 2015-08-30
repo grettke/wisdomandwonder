@@ -1,0 +1,23 @@
+#+POSTID: 4908
+#+DATE: [2010-06-08 Tue 15:29]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: R6RS macros with positional and optional arguments
+
+#+BEGIN_QUOTE
+  
+[[[http://github.com/marcomaggi/nausicaa/downloads][Makers]]] is a distribution of libraries for R6RS Scheme implementations. In the paper:
+
+ "[[http://www.google.com/url?sa=t&source=web&cd=1&ved=0CBIQFjAA&url=http%3A%2F%2Fwww.ccs.neu.edu%2Fscheme%2Fpubs%2Fscheme2009-fb.pdf&ei=62EOTIXnOoSBlAfC3dVs&usg=AFQjCNGAorH_uOZF2OfAPhpWkSesCmID7A][Keyword and Optional Arguments in PLT Scheme]]". Matthew Flatt and Eli Barzilay. 2009 Workshop on Scheme and Functional Programming.
+
+the authors discuss ways to provide functions and macros with a mix of fixed and optional arguments to better organise abstractions. This package humbly proposes an alternative for R6RS implementations, without the use of "keywords" as disjoint type of values. 
+
+#+END_QUOTE
+
+
+
+(via [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/0f4b1f543e75a7b9#][comp.lang.scheme]])
+
+
+

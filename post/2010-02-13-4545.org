@@ -1,0 +1,29 @@
+#+POSTID: 4545
+#+DATE: [2010-02-13 Sat 12:39]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning
+#+TITLE: Adroit lucubration
+
+adroit:
+
+
+#+BEGIN_QUOTE
+  having or showing skill, cleverness, or resourcefulness in handling situations <an adroit leader> <adroit maneuvers>
+#+END_QUOTE
+
+
+
+lucubration:
+
+
+#+BEGIN_QUOTE
+  laborious or intensive study; also : the product of such study ---usually used in plural
+#+END_QUOTE
+
+
+
+(via Merrian Webster ([[http://www.merriam-webster.com/dictionary/adroit][here]] and [[http://www.merriam-webster.com/dictionary/lucubration][here]]) via [[http://groups.google.com/group/plt-scheme/browse_thread/thread/1f7d29826923377a/f6e67d34251bbe5b?lnk=gst&q=adroit+lucubration#f6e67d34251bbe5b][PLT]] via [[http://ixmat.us/home][Parnell]])
+
+
+

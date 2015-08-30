@@ -1,0 +1,27 @@
+#+POSTID: 17
+#+DATE: [2007-12-18 Tue 21:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Macros, PLT, Programming Language, Scheme
+#+TITLE: Code Generation and DSLs in Scheme
+
+Over the years, I have heard some pretty outrageous and tantalizing claims made about the programming language Lisp. For example, “It will change you, forever.” and “You write code that writes code.”. Sadly, no further explanation is ever provided. Perhaps it is impossible to capture the essence of that to which these statements allude? This air of mystery around Lisp is both a blessing and a curse. Some folks will find this aura repugnant; others magical. For me, it was the latter. I wanted in on the secret!
+
+
+
+When it comes to learning about new ideas, there is simply nothing more helpful than both great books and talking to folks knowledgeable on the topic. So, [[http://www.scheme.com/tspl3/][TSPL]], [[http://mitpress.mit.edu/sicp/full-text/book/book.html][SICP]], [[http://books.google.com/books?id=xyO-KLexVnMC&dq=the+little+schemer&pg=PP1&ots=GHKOrP-RSv&sig=C0WJL7pC0BB63q8fpsdqQuFJdvY&prev=http://www.google.com/search?client=firefox-a&rls=org.mozilla:en-US:official&channel=s&hl=en&q=the+little+schemer&btnG=Google+Search&sa=X&oi=print&ct=title&cad=one-book-with-thumbnail][TLS]], along with the wonderful folks in both comp.lang.scheme and the [[http://www.plt-scheme.org/][PLT]] [[http://www.plt-scheme.org/maillist/][discussion list]], have really made this effort a lot of fun.
+
+To capture the fruits of my labor, both for myself and for any folks interested in the same topic, I prepared a presentation on code generation and DSLs in Scheme. The presentation itself is driven by a popular Martin Fowler article on the topic of programming language tools entitled [[http://martinfowler.com/articles/languageWorkbench.html]["Language Workbenches: The Killer-App for Domain Specific Languages?"]]. The presentation is written for folks familiar with object oriented programming, my hope being that familiar territory would ease the introduction of the topic. While *numerous* code samples in Scheme are provided both in the presentation itself and in the supplementary archive, you should feel free to skip them; they are included only for folks who wish to delve further into learning Scheme. If you would like to run them, please use [[http://download.plt-scheme.org/drscheme/][DrScheme]] v371 and set the language level to “Pretty Big”.
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2007/12/code_generation_and_dsls_in_schemepdf.zip][Code Generation and DSLs in Scheme: The presentation]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2007/12/code_generation_and_dsls_in_schemecode.zip][Code Generation and DSLs in Scheme: The code]]
+
+Enjoy!
+
+*Addendum: 8/2/8*
+
+When I wrote this presentation, I was just beginning to scratch the surface of macros in Scheme. There is way, way too much code in it. Reflecting back on this, I see that teaching is a lot different than shoving a lot of information down someone's throat. I will keep this here, though, for historical reference, and for anyone else who may benefit from this content.
+
+
+

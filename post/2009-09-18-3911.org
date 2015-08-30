@@ -1,0 +1,11 @@
+#+POSTID: 3911
+#+DATE: [2009-09-18 Fri 16:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Doxygen, MATLAB, Programming Language
+#+TITLE: Using Doxygen with MATLAB
+
+[[http://www.stack.nl/~dimitri/doxygen/dl/mtoc.tgz][Here]] is the link for a utility that converts MATLAB code to C so that Doxygen can generate documentation from it.
+
+
+

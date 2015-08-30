@@ -1,0 +1,13 @@
+#+POSTID: 3748
+#+DATE: [2009-08-31 Mon 16:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: A list of Scheme Implementations
+
+[[http://spreadsheets.google.com/pub?key=twRSWnj1h-j_F3IHRXxwrmg&output=html][Here]] is a list of Scheme implementations that Joe recently put together complete with scientific, pseudo-scientific, and totally subjective measures.
+
+(via [[http://lists.r6rs.org/pipermail/r6rs-discuss/2009-August/004590.html][r6rs-discuss]])
+
+
+

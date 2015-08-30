@@ -1,0 +1,17 @@
+#+POSTID: 9168
+#+DATE: [2014-09-21 Sun 19:29]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Motorcycle, Repair
+#+TITLE: Seal the wiring deal
+
+#+BEGIN_QUOTE
+  [[https://groups.google.com/forum/#!topic/MilVinMoto/p9TV8j17ZnA][use butt connectors]], ring terminals, and spade clips ad a good crimper. Before crimping, I'll coat the wire end and the connector with a dielectric paste, avoiding silicon sealer, as it can shrink and allow moisture in. A layer of heat-shrink tubing guarantees a water tight worry free connection.
+#+END_QUOTE
+
+
+
+
+
+
+

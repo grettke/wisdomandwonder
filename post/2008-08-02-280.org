@@ -1,0 +1,22 @@
+#+POSTID: 280
+#+DATE: [2008-08-02 Sat 13:05]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp
+#+TITLE: The Circle is Complete
+
+From [[http://arstechnica.com/news.ars/post/20080729-little-b-project-creates-biology-specific-programming-system.html][Ars]]:
+
+
+#+BEGIN_QUOTE
+  Lisp's syntax is based on lists---data structures that Mallavarapu said are conceptually similar to chunks of XML
+#+END_QUOTE
+
+
+
+The Circle is Complete! :)
+
+(via [[http://groups.google.com/group/comp.lang.lisp/msg/91ca38b246ffe71b][C.L.L]])
+
+
+

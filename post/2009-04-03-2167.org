@@ -1,0 +1,31 @@
+#+POSTID: 2167
+#+DATE: [2009-04-03 Fri 21:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: WisperWeb: Scheme in the browser
+
+[[http://wisperweb.wordpress.com/][Here]] is a blog about the WisperWeb application framework.
+
+
+
+#+BEGIN_QUOTE
+  The name evolved from my use of Lisp as a browser scripting language - “Web” + “Lisp” merged to “Wisp” and a search of available domain names resulted in the choice of ”WisperWeb”.
+
+There are several themes that I will address in this blog:
+o the technology and impact of Google's Application Engine
+o using GWT/GXT to build programs for the browser environment
+o why Lisp is an ideal Web scripting language
+o how XMPP instant messaging (soon be be available for the AppEngine) can be used to build browser-based, shared applications
+
+WisperWeb has been developed over the past year and is now in the early phases of deployment. My posts will primarily address the challenges and benefits of building “real world” solutions using these technologies.
+
+-- Peter Fisk
+#+END_QUOTE
+
+
+
+
+
+
+

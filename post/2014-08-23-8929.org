@@ -1,0 +1,11 @@
+#+POSTID: 8929
+#+DATE: [2014-08-23 Sat 15:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: How to generate a random number in R
+
+[[http://www.inside-r.org/howto/how-generate-random-number-r][How to generate a random number in R]] has a handful of nice examples.
+
+
+

@@ -1,0 +1,40 @@
+#+POSTID: 3836
+#+DATE: [2009-09-04 Fri 14:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme, philosophy
+#+TITLE: What's the point of a Scheme standard?
+
+Here is a copy of [[http://lists.r6rs.org/pipermail/r6rs-discuss/2009-September/004639.html][Joe's post]] on r6rs-discuss:
+
+
+
+#+BEGIN_QUOTE
+  
+What's the point of a Scheme standard? I can think of a number of uses. A guideline for new Scheme implementations. A touchstone to distinguish a "real" implementation from a wanna-be. A reference point for academic papers so they don't need to devote an appendix to describing the semantics of their language. A “weighty tome” that adds gravitas to one's bookshelf. The reference for nitpicking language lawyers. A wishlist of features that would be nice to have. But I think the most important thing for a Scheme standard to be is this: An agreement between language implementors and programmers that specifies the minimum functionality that an implementor is expected to provide and the maximum functionality that a programmer can assume is available from any system that claims to meet the standard. Naturally, any implementation can provide more functionality than is prescribed, and no one expects any particular program to use all possible functionality.
+
+Additional functionality is the way the language has evolved. The different implementations would add extra features for various reasons. Since these features were developed independently, there were often incompatible. Some of the differences were simply idiosyncratic, others, however, were caused by deliberate decisions about design. When a feature proved its utility, the programmers would put pressure on the implementations to add the feature. When a useful feature was incompatible between different implementations, an effort was made to reconcile the incompatibilities. In the early days, this could be accomplished by getting all the implementors in the same room and letting them argue. This isn't practical anymore.
+
+The reason I put together my spreadsheet of Scheme implementations was not so that I could argue that any one is better than another. My purpose was altogether different. I wanted to get an idea of what subset of Scheme implementations are likely to affect or be affected by a new standard. Most of these Scheme implementations are at least R5RS compatible, and all of them extend the language in various ways. Some of these extensions are quite common across a large number of implementations.
+
+If every Scheme implementation implemented an extension to the language in the same way with the same semantics, I can hardly there being much opposition to declaring this to be a standard feature. It would be a de-facto standard and it would require zero effort on the part of implementors if it became a de jure standard. On the other hand, if no Scheme implementation implemented a particular extension (say, for example, SRFI-49), there shouldn't be an enormous outcry if the feature were omitted from the standard. The issue becomes more complicated when a feature is available in only a subset of the
+implementations.
+
+Let's take a particular example: SRFI-8 (special form receive for multiple values), is available in 21 implementations. The SRFI is trivially implemented with an R5RS syntax-rules macro. It seems to me that this would be a prime candidate for inclusion in an upcoming standard. It would require very little work on the part of implementors (unless, of course, they did not support multiple values at all or did not have syntax-rules), and the aesthetic issue (introducing a trivial special form) is fairly minor.
+
+SRFI-36, on the other hand, is only available in three implementations. It defines a hierarchy of I/O exceptions. It would be non-trivial to add this to an implementation that had no exception hierarchies, or to one that had incompatible exceptions. It would be a poor candidate for inclusion.
+
+What about something like SRFI-23? Here's where things get tricky. There are only seventeen implementations that support SRFI-23, but included in those seventeen are PLT Scheme, MIT Scheme, Gambit, Gauche, Chicken, SCM, SISC, and Scheme48. It's not universal, but it is very widespread. Or what about SRFI-48? It is available in Larceny, Scheme48, partly in Kawa, STKlos, PLT Scheme, Iron Scheme, and S7. If you use MIT Scheme, Gambit, Gauche, Chicken, SCM or SISC, you're out of luck.
+
+The tiers that I had published previously were not there because of my preferences. They were there as a rough guide to determine how much support is needed or given for a particular feature set. Your new special form may be the niftiest hack since McCarthy's amb, but if you can't get buy-in from PLT, MIT, Gauche, Guile, Gambit, Chicken, Scheme48, and SCM, it just cannot be called a standard. Alternatively, if the "Top Ten" buy into your ideas (whatever the "Top Ten" might be), then it will probably be one of the less supported implementations that will have to admit that they do not adhere to the standard.
+
+So which Schemes are the leaders of the pack?
+
+#+END_QUOTE
+
+
+
+
+
+
+

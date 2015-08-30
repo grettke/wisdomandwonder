@@ -1,0 +1,31 @@
+#+POSTID: 231
+#+DATE: [2008-06-24 Tue 23:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: ypsilon
+
+#+BEGIN_QUOTE
+  [[http://code.google.com/p/ypsilon/][ypsilon]] is the implementation of Scheme Programming Language, which conforms to the latest standard R6RS. It achieves a remarkably short GC pause time and the best performance in parallel execution as it implements "mostly concurrent garbage collection", which is optimized for the multi-core CPU system.
+#+END_QUOTE
+
+
+
+If you are wondering "Why yet another Scheme implementation" you can find the answer [[http://www.littlewingpinball.com/contents/en/ypsilon.html][here]]. To sum it up: they require real-time processing speed and can not use Boehm Garbage Collector because they run on arcade consoles or pinball machines, so, they had to start from scratch.
+
+*Addendum: 8/2/8*
+
+
+
+#+BEGIN_QUOTE
+  Ypsilon 0.9.6 is the bug fix release. It fixes all bugs reported and
+found in version 0.9.5. Ypsilon 0.9.6 has passed all 8886 tests in PLT
+R6RS test suite revision 11016.
+#+END_QUOTE
+
+
+
+(via [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/626eb3564323c213#][C.L.S.]])
+
+
+

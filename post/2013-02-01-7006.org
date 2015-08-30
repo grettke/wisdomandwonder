@@ -1,0 +1,11 @@
+#+POSTID: 7006
+#+DATE: [2013-02-01 Fri 20:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Firebug, Javascript, Programming Language, Selenium, XPath
+#+TITLE: Flow Control in Selenium IDE Scripting
+
+Adding to the Selenium IDE's already awesome "save your behind in every kind of situation possible" behavior, [[https://github.com/davehunt/selenium-ide-flowcontrol][here]] is a plugin that adds the flow control constructs that are so sorely missed from the base language. This is a powerful, powerful addition that makes some horrible tasks... bearable.
+
+
+

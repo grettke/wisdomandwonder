@@ -1,0 +1,11 @@
+#+POSTID: 285
+#+DATE: [2008-08-02 Sat 14:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: PLT has got the Turtle
+
+If you're feeling nostalgic or playful, PLT has got [[http://download.plt-scheme.org/doc/4.0.1/html/turtles/index.html][Turtle Graphics]].
+
+
+

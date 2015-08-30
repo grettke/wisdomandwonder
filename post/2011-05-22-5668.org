@@ -1,0 +1,13 @@
+#+POSTID: 5668
+#+DATE: [2011-05-22 Sun 06:05]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Io, Operating System, Programming Language, Windows
+#+TITLE: A binary for Io on Windows
+
+You can find one [[http://homepage.mac.com/jamesrburgess/Stuff/][here]].
+
+(via [[http://forums.pragprog.com/forums/147/topics/4935][pragprog]])
+
+
+

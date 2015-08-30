@@ -1,0 +1,11 @@
+#+POSTID: 95
+#+DATE: [2008-04-15 Tue 02:31]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide
+#+TITLE: init style configuration 
+
+[[http://www.shellarchive.co.uk/index.html#%20Keeping%20your%20configuration%20in%20check][This article]] explains how to configure [[http://en.wikipedia.org/wiki/Init][init]] rather than .emacs style configuration.
+
+
+

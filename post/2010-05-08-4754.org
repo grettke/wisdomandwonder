@@ -1,0 +1,11 @@
+#+POSTID: 4754
+#+DATE: [2010-05-08 Sat 16:50]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: ML, OCaml, Programming Language
+#+TITLE: High-level bindings between OCaml and C#
+
+[[http://www.lexifi.com/csml/][CSML]] via [[http://caml.inria.fr/pub/ml-archives/caml-list/2010/05/aaac3a37413c72b34f52e728255f5f1c.en.html][caml-list]]
+
+
+

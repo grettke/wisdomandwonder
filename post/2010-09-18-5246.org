@@ -1,0 +1,17 @@
+#+POSTID: 5246
+#+DATE: [2010-09-18 Sat 06:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 22656, Concours, Kawasaki, Motorcycle, Repair
+#+TITLE: What is leaking here?
+
+Tonight I noticed a little puddle under the tip of the front cowling on my Connie:
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/09/01_2010Leak_resize.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/09/01_2010Leak_resize-150x150.jpg]]]][[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/09/02_2010Leak_resize.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/09/02_2010Leak_resize-150x150.jpg]]]][[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/09/03_2010Leak_resize.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/09/03_2010Leak_resize-150x150.jpg]]]]
+
+When I sopped some of it up with a tissue, the fluid looked clear and had sort of an acrid/oily smell, unlike gasoline. I think that the fluid dripped down onto the cowling because it was clean in one spot on the left, and I could feel some of that same fluid in that spot, although not very much, like it had nearly evaporated.
+
+What is leaking here?
+
+
+

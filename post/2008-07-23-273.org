@@ -1,0 +1,21 @@
+#+POSTID: 273
+#+DATE: [2008-07-23 Wed 22:37]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Peter Ivanyi's Dialog Library
+
+[[http://www.hexahedron.hu/personal/peteri/dialog/][Peter's library]] provides a way to design user interfaces in XML. 
+
+
+
+#+BEGIN_QUOTE
+  The user specifies the layout of the dialog window in XML. The interaction is also specified in a simple way, setting values or labels and setting actions which should occur when the user clicks on the specific widget. An example can be found in the package.
+#+END_QUOTE
+
+
+
+(via [[http://www.plt-scheme.org/maillist/][PLT Discuss]])
+
+
+

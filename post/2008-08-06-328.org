@@ -1,0 +1,29 @@
+#+POSTID: 328
+#+DATE: [2008-08-06 Wed 03:47]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: S-expression comments in PLT
+
+In PLT Scheme, you can comment out s-expressions, using this prefix:
+
+
+
+#+BEGIN_EXAMPLE
+    
+#;
+
+#+END_EXAMPLE
+
+
+
+If you've ever seen Lisp code, you will know why this is particularly convenient!
+
+[[http://download.plt-scheme.org/doc/4.0.1/html/reference/reader.html#(idx._(gentag._176._(lib._scribblings/reference/reference..scrbl)))][Here]] is the reference in the documentation.
+
+This functionality is described in [[http://srfi.schemers.org/srfi-62/srfi-62.html][SRFI-62]].
+
+(via [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-August/026263.html][PLT Discuss]])
+
+
+

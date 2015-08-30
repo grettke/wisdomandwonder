@@ -1,0 +1,19 @@
+#+POSTID: 1494
+#+DATE: [2009-01-02 Fri 20:10]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Fractal, mathematics
+#+TITLE: Books on Fractals
+
+I've been investigating books on fractals. [[http://www.amazon.com/Pattern-Book-Fractals-Art-Nature/dp/981021426X/ref=wl_it_dp/184-3022509-2177704?ie=UTF8&coliid=I2U65XXEP5P41L&colid=QDKYO6OQUU4O][The Pattern Book: Fractals, Art, and Nature]] looks pretty good.
+
+I am interested in studying and implementing them. 
+
+Can you recommend any?
+
+*Addendum: 01/03/09*
+
+[[http://mitpress.mit.edu/books/FLAOH/cbnhtml/]["The Fish and Chips Book"]] was recommended.
+
+
+

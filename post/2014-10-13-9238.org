@@ -1,0 +1,92 @@
+#+POSTID: 9238
+#+DATE: [2014-10-13 Mon 02:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: Sometimes R segfaults with quartz
+
+
+R plotting crashed a lot on OSX on my system:
+
+
+
+
+
+
+#+BEGIN_HTML
+  <div class="org-src-container">
+#+END_HTML
+
+
+
+
+#+BEGIN_EXAMPLE
+    archey
+R --version
+brew --version
+
+#+END_EXAMPLE
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+
+#+BEGIN_EXAMPLE
+    
+                 ###
+               ####                   User: gcr
+               ###                    Hostname: orion
+       #######    #######             Distro: OS X 10.9.3
+     ######################           Kernel: Darwin
+    #####################             Uptime: 2 days
+    ####################              Shell: /usr/local/bin/bash
+    ####################              Terminal: dumb
+    #####################             Packages: 78
+     ######################           CPU: Intel Core i7-4960HQ CPU @ 2.60GHz
+      ####################            Memory: 16 GB
+        ################              Disk: 26%
+         ####     #####
+
+
+R version 3.1.1 (2014-07-10) -- "Sock it to Me"
+Copyright (C) 2014 The R Foundation for Statistical Computing
+Platform: x86_64-apple-darwin13.2.0 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under the terms of the
+GNU General Public License versions 2 or 3.
+For more information about these matters see
+http://www.gnu.org/licenses/.
+
+0.9.5
+
+#+END_EXAMPLE
+
+
+
+
+
+
+Almost every time that I would use the =quartz= device, ℝ would segfault.
+
+
+
+
+
+
+
+After changing it to =X11=, there have not been any segfaults. Perhaps I misunderstood the relationship between how the Brew build interacts with quartz.
+
+
+
+
+
+
+

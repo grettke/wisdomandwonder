@@ -1,0 +1,17 @@
+#+POSTID: 4267
+#+DATE: [2009-12-23 Wed 02:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Tachy Scheme
+
+#+BEGIN_QUOTE
+  [[http://www.kenrawlings.com/pages/Tachy][Tachy]] is a Scheme-like (R5RS is the template, but not the goal) language that is being developed in C# for the .NET framework and is made available as Open Source (BSD License). The current implementation is an interpreter, and a compiler is planned. The primary focus for Tachy is for programming language learning & experimentation, and an attempt has been made to keep the code as small(currently under 1000 lines) and straightforward as possible.
+#+END_QUOTE
+
+
+
+(via [[http://stackoverflow.com/questions/59428/learning-lisp-scheme-interpreter][StackOverflow]])
+
+
+

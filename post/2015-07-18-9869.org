@@ -1,0 +1,48 @@
+#+POSTID: 9869
+#+DATE: [2015-07-18 Sat 02:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Hardware, Ide, Literate Programming, Programming Language, Software, TI-99/4A, forth, org-mode
+#+TITLE: Vintage Computer Programming Book Market About To Explode!
+
+
+Last week I was day-dreaming about Forth and vintage computers again. Same old day-dreams. The [[https://en.wikipedia.org/wiki/Texas_Instruments_TI-99/4A][TI-99/4A]] with [[http://turboforth.net/][TurboForth]] seems like the perfect place to start learning about both. TurboForth [[http://turboforth.net/about_turboforth.html][has]] lots of features and it runs in emulators and "on the metal". Cool.
+
+
+
+
+
+
+
+The best way to learn Forth is interactively. How do you do it with [[http://orgmode.org/worg/org-contrib/babel/][Org Mode]], though? Can we have the same features you would expect with any other programming language even though it is running inside of an emulator? There must be an easy way to run at the command line, redirect input and output, or maybe telnet into the machine.
+
+
+
+
+
+
+
+[[https://eswartz.github.io/emul/][V9t9]] is a Java-based and open-sourced emulator there on GitHub. If it doesn't have telnet into it, then it can be added. That got me thinking (daydreaming?) again about the fun of simple computers. Whatever approach you use to access them, using Org seems like a great way to write new books about them.
+
+
+
+
+
+
+
+They are simpler. They are a great place to start. There is tons of great literature out there already. Now add Emacs and Org-Mode to the mix to practice Literate Programming.
+
+
+
+
+
+
+
+It seems like there is a huge opportunity for great new books about old computers and programming languages. Export to LaTeX and publish, and there you go. Very fun and very cool.
+
+
+
+
+
+
+

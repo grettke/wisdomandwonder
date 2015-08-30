@@ -1,0 +1,33 @@
+#+POSTID: 745
+#+DATE: [2008-09-13 Sat 03:41]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Study-HTDP
+#+TITLE: This is an experiment 
+
+Originally posted [[http://groups.google.com/group/study-htdp/browse_thread/thread/2a66a63b7350e24a][here]]:
+
+
+#+BEGIN_QUOTE
+  
+Most of us here are already programmers, or want to be. All of us are going to give up time to work through HTDP. It is a sacrifice. How do we know what will happen? Well, we don't.
+
+I think of this first group as being an experiment. We're going to find out what works and what doesn't, we're going to figure out who might like something like this more than others, and most importantly we're going to get a good sense of what one learns on this path.
+
+What I can tell you is that HTDP has excellent reviews, an excellent track record in schools around the world, and most importantly excellent authors who are really dedicated to teaching. That last part
+is particularly important. It was written by teachers, not programmers. They know how to teach; most of us don't!
+
+For me, that, combined both with my interest, and what I've seen so far in the book, is enough.
+
+This isn't a learn programming in 21 days scam, fluff book on the latest fad language, or the extended sermon of someone who makes his money by talking and not doing much else.
+
+This is an experiment, for programmers, and, I think it is going to pay off pretty well. 
+
+#+END_QUOTE
+
+
+
+Based on what I've seen so far, we are all learning a lot about: programming, communication, and culture. It is true, it /is/ an experiment; the notion of good and bad are less important here, *everything* we are learning, painful or pleasant, is very valuable.
+
+
+

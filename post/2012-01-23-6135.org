@@ -1,0 +1,19 @@
+#+POSTID: 6135
+#+DATE: [2012-01-23 Mon 03:08]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Java, Programming Language, Scheme
+#+TITLE: NexJ Scheme
+
+#+BEGIN_QUOTE
+  [[http://nexj-scheme.org/][NexJ]] Scheme is an open source project providing an efficient and powerful interpreter for the programming language Scheme that executes in a Java virtual machine.
+#+END_QUOTE
+
+
+
+Today I was sort of shocked to learn that there is another implementation besides [[http://sisc-scheme.org/][SISC]] and [[http://www.gnu.org/software/kawa/][Kawa]] that runs on Java!
+
+There wasn't even an announcement for NexJ on comp.lang.scheme and NexJ has been around for two years :(! Rather it was mentioned on scheme-reports this week.
+
+
+

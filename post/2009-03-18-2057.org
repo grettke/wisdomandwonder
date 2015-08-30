@@ -1,0 +1,25 @@
+#+POSTID: 2057
+#+DATE: [2009-03-18 Wed 01:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: win-control
+
+#+BEGIN_QUOTE
+  OLE, Internet Explorer and raw windows automation library for Gambit-C on Windows platforms
+#+END_QUOTE
+
+
+
+
+
+#+BEGIN_QUOTE
+  Inspired by [[http://wtr.rubyforge.org/][Watir]] on Ruby, [[http://code.google.com/p/win-control/][this library]] brings the same capabilities and more to the high-performing [[http://dynamo.iro.umontreal.ca/~gambit/wiki/index.php/Main_Page][Gambit]] Scheme implementation. Now you can write automated test scripts or automate Windows application tasks in beautiful Scheme code and compile it all into a standalone exe file.
+#+END_QUOTE
+
+
+
+(via [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/9307a8834f138b91?pli=1][comp.lang.scheme]])
+
+
+

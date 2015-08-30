@@ -1,0 +1,35 @@
+#+POSTID: 9272
+#+DATE: [2014-10-26 Sun 23:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: Packrat: A Likely Use Case
+
+
+[[https://groups.google.com/d/msg/sqldf/FoFyVgxnBSw/JgskOChwxD8J][This]] post captures a relatively common occurrence:
+
+
+
+
+
+-  New versions of required software are released
+
+-  They break the software you use
+
+-  So use previous versions
+
+
+
+
+
+
+
+If you haven't done so yet, be sure to check out [[https://rstudio.github.io/packrat/][Packrat]]
+to handle a case like this. I will.
+
+
+
+
+
+
+

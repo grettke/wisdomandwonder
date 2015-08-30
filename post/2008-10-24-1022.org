@@ -1,0 +1,17 @@
+#+POSTID: 1022
+#+DATE: [2008-10-24 Fri 17:13]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: JavaScript for PLT Scheme
+
+#+BEGIN_QUOTE
+  [[http://planet.plt-scheme.org/display.ss?package=javascript.plt&owner=dherman][This package]] is an implementation of the ECMAScript language specified by ECMA-262 Edition 3, better known as JavaScript.
+#+END_QUOTE
+
+
+
+Here is a link [[http://planet.plt-scheme.org/package-source/dherman/javascript.plt/7/5/planet-docs/javascript/index.html][straight to the documentation]].
+
+
+

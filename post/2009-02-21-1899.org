@@ -1,0 +1,17 @@
+#+POSTID: 1899
+#+DATE: [2009-02-21 Sat 22:12]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: HTDP, Learning, Programming, SICP, Scheme, Teaching
+#+TITLE: HtDP Makes SICP Easier
+
+#+BEGIN_QUOTE
+  Recommendation: do the math-y sections in HTDP. This will give you a flavor of the kind of mathematics you get in SICP, even though there are non-overlapping examples in each. I would especially focus on the examples from calculus (numeric differentiation, integration, taylor series etc) but the graph traversal (network flow) things are good for you too. Once you are at east with those, you can tackle SICP and get through fast
+#+END_QUOTE
+
+--Matthias
+
+(via [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-February/030373.html][PLT]])
+
+
+

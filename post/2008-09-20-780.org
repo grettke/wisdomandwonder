@@ -1,0 +1,23 @@
+#+POSTID: 780
+#+DATE: [2008-09-20 Sat 03:41]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: The essence of form abstraction
+
+[[http://groups.inf.ed.ac.uk/links/formlets/][Formlets]]: 
+
+
+
+#+BEGIN_QUOTE
+  Abstraction is the cornerstone of high-level programming; HTML forms are the principal medium of web interaction. However, most web programming environments do not support abstraction of form com- ponents, leading to a lack of compositionality. Using a semantics based on idioms, we show how to support compositional form construction and give a convenient syntax.
+#+END_QUOTE
+
+
+
+Formlets are now also part of the [[http://docs.plt-scheme.org/web-server/formlets.html][PLT Web Server]].
+
+(via [[http://groups.google.com/group/plt-scheme/browse_thread/thread/afb42e9833ab1adc/077e4cc17774eae9?hl=en&lnk=gst&q=formlet#077e4cc17774eae9][PLT]])
+
+
+

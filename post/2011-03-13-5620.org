@@ -1,0 +1,18 @@
+#+POSTID: 5620
+#+DATE: [2011-03-13 Sun 16:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: LaTeX, TeX, Utility
+#+TITLE: Specifying custom input directories in MikTex
+
+#+BEGIN_QUOTE
+  TEXINPUTS
+Extra paths to locate TeX \input and \openin files.
+#+END_QUOTE
+
+
+
+(via [[http://docs.miktex.org/manual/envvars.html][docs.miktex.org]])
+
+
+

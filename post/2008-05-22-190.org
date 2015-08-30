@@ -1,0 +1,17 @@
+#+POSTID: 190
+#+DATE: [2008-05-22 Thu 01:46]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Scheme Boston
+
+#+BEGIN_QUOTE
+  [[http://www.treese.org/scheme-boston/][Scheme Boston]] is a group of Scheme users who are located in and around Boston, Massachusetts. The group meets monthly, more or less, and usually on the third Wednesday of the month.
+#+END_QUOTE
+
+
+
+
+
+
+

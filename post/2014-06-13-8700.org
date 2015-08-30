@@ -1,0 +1,46 @@
+#+POSTID: 8700
+#+DATE: [2014-06-13 Fri 00:43]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode, org-modeLiterate Programming
+#+TITLE: A tiny org-mode literate programming Makefile
+
+Basic build for a document:
+
+
+
+#+BEGIN_EXAMPLE
+    
+INIT=.emacs.el
+
+$(INIT): TC3F.org
+    caffeinate -s time emacs --batch --no-init-file --load .org-mode.emacs.el --find-file TC3F.org --funcall org-babel-tangle --kill
+
+TC3F.txt: $(INIT)
+ caffeinate -s time emacs --batch --no-init-file --load .org-mode.emacs.el --find-file TC3F.org --funcall org-ascii-export-to-ascii --kill
+
+TC3F.html: $(INIT)
+   caffeinate -s time emacs --batch --no-init-file --load .org-mode.emacs.el --find-file TC3F.org --funcall org-html-export-to-html --kill
+
+TC3F.pdf: $(INIT)
+  caffeinate -s time emacs --batch --no-init-file --load .org-mode.emacs.el --find-file TC3F.org --funcall org-latex-export-to-pdf --kill
+
+all: TC3F.txt TC3F.html TC3F.pdf
+
+clean:
+ rm $(INIT)
+    rm TC3F.txt
+   rm TC3F.html
+  rm TC3F.pdf
+
+
+#+END_EXAMPLE
+
+
+
+*Addendum: 14-06-13*
+
+Added caffeinate command.
+
+
+

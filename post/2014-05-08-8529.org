@@ -1,0 +1,11 @@
+#+POSTID: 8529
+#+DATE: [2014-05-08 Thu 22:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Utility, Windows
+#+TITLE: Inverting direction of mouse scroll wheel in Windows 7
+
+[[https://superuser.com/questions/310681/inverting-direction-of-mouse-scroll-wheel][This]] superuser post explains how by setting FlipFlopWheel to 1.
+
+
+

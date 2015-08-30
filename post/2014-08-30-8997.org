@@ -1,0 +1,13 @@
+#+POSTID: 8997
+#+DATE: [2014-08-30 Sat 23:11]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: testthat for R
+
+[[https://github.com/hadley/testthat][testthat]] is an amazingly easy library to use unit-testing in R that has enough options to account for the majority of your usage scenarios. It is so simple that I just had to copy and past my same comments about assertthat!
+
+See also [[http://cran.r-project.org/web/packages/testthat/index.html]].
+
+
+

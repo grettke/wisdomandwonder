@@ -1,0 +1,13 @@
+#+POSTID: 1904
+#+DATE: [2009-02-22 Sun 03:57]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming
+#+TITLE: A good explanation of monads
+
+jrm posted a good explanation of monads [[http://funcall.blogspot.com/2008/02/how-about-them-monads.html][here]] and [[http://funcall.blogspot.com/2008/02/more-monads.html][here]]. 
+
+None of the other explanations I have ever read made sense to me. I am not sure if it was because of the explanations or the reader.
+
+
+

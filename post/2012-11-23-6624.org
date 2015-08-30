@@ -1,0 +1,19 @@
+#+POSTID: 6624
+#+DATE: [2012-11-23 Fri 16:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Desktop, GUI, LXDE, Linux, Lubuntu, Terminal, UNIX, Ubuntu
+#+TITLE: The LxTerminal Config file under LXDE in Lubuntu
+
+It is here:
+
+
+
+#+BEGIN_EXAMPLE
+    
+~/.config/lxterminal/lxterminal.conf
+
+#+END_EXAMPLE
+
+
+

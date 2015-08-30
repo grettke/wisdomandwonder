@@ -1,0 +1,19 @@
+#+POSTID: 8951
+#+DATE: [2014-08-29 Fri 18:07]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Algorithmic Trading, Big Data, Business Intelligence, Data Analysis and Modeling, Data Mining, Data Visualization, Data science, Financial Engineering, Machine Learning, Mathematical Modelling, Predictive Analytics, Quantitative Analysis, Quantitative Finance, R-Project, Risk Management, Statistical Computing
+#+TITLE: SDMX
+
+#+BEGIN_QUOTE
+  1. What is SDMX?
+
+[[http://sdmx.org/?page_id=7][SDMX]] stands for Statistical Data and Metadata Exchange-the electronic exchange of statistical information. Its goal is to explore e-standards that could allow us to gain efficiency and avoid duplication of effort in our own work and possibly in the work of others in the field of statistical information.
+#+END_QUOTE
+
+
+
+
+
+
+

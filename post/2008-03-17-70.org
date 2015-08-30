@@ -1,0 +1,19 @@
+#+POSTID: 70
+#+DATE: [2008-03-17 Mon 02:21]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Eiffel, Programming Language
+#+TITLE: Type Conversion with Eiffel
+
+If you are going to utilize the [[http://en.wikipedia.org/wiki/Object_oriented][Object Oriented]] paradigm for implementing your system, you ought to do yourself a favor and learn the [[http://en.wikipedia.org/wiki/Eiffel_(programming_language)][Eiffel]] programming language. Why?
+
+Take all of the things that are not included in your statically-typed OO language of choice because they are "too hard to understand", and visit them in Eiffel. Not only does it have all of those features, but it makes them easy both to understand /and/ utilize.
+
+Read about [[http://en.wikipedia.org/wiki/Eiffel_(programming_language)#Conversions][type conversion]], for example. What a wonderful language feature. You can even use tuples!
+
+You will be left scratching your head, wondering why no one else has features like this (among /many/ others). 
+
+Eiffel is really a gem of a language!
+
+
+

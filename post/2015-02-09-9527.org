@@ -1,0 +1,17 @@
+#+POSTID: 9527
+#+DATE: [2015-02-09 Mon 18:50]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 02947, CB750, CB750F, Honda, Motorcycle, Repair
+#+TITLE: CB750F: Day 36: Forward Progress
+
+I couldn't find a throttle plate rod for the carburetor on ebay. I couldn't even find the part on the microfiche. A kind soul sent me the link for that part though, used, on ebay. The search term is "carb linkage assembly". Another kind soul explained that some of the carburetors on the '79 CB750F were recalled and maybe half the bikes got the work done. He went on to explain that the carburetors were very different between '79 and '80-'83, and even more, that the carburetors were very different between the supersport and the classic. Great to know; great to know. Those should be here soon. The other option presented was to weld some steel in there and tap out a new thread. That may still happen, we'll see.
+
+The next project is to rebuild the front suspension.
+
+*Addendum: 2015-02-09*
+
+Here is the [[http://www.ebay.co.uk/itm/Motamec-Tools-Thread-Insert-Nut-Stud-Rivet-Gun-Riveting-Rivnut-Blind-Riverter-/290956647705?pt=LH_DefaultDomain_3&hash=item43be5e1d19][Motamec Tools Thread Insert Nut & Stud Rivet Gun Riveting Rivut Blind Riveter]] that was suggested on Facebook. Very cool.
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 3575
+#+DATE: [2009-07-25 Sat 15:35]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming, Programming Language, Scheme
+#+TITLE: Another explanation of continuations
+
+[[http://vijaymathew.wordpress.com/2009/07/22/yaaec-yet-another-attempt-to-explain-continuations/][Here]] is a good article on how to understand continuations.
+
+
+

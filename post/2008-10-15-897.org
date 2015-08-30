@@ -1,0 +1,13 @@
+#+POSTID: 897
+#+DATE: [2008-10-15 Wed 19:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming, philosophy
+#+TITLE: Programmer Hero
+
+Is [[http://tekkie.wordpress.com/2008/06/10/the-culture-of-air-guitar/][looking cool and going through the motions]] all that it takes to be a good programmer?
+
+(via [[http://www.a-chinaman.com/][Zhong]])
+
+
+

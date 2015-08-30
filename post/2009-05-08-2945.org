@@ -1,0 +1,19 @@
+#+POSTID: 2945
+#+DATE: [2009-05-08 Fri 19:49]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Fun, Programming Language
+#+TITLE: Calling it like you see it
+
+#+BEGIN_QUOTE
+  Right now, pypy compiled with JIT can run the whole CPython test suite without crashing, which means we're done with obvious bugs and the only ones waiting for us are really horrible.
+#+END_QUOTE
+
+
+
+- [[http://morepypy.blogspot.com/2009/04/4-weeks-of-gdb.html][Maciej Fijalkowski]]
+
+With a good sense of humor, sometime it is ok to explain your status as it truly is :).
+
+
+

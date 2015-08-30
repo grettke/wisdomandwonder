@@ -1,0 +1,17 @@
+#+POSTID: 8487
+#+DATE: [2014-04-21 Mon 18:31]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Business, Business Intelligence, Computational Science, Computer Science, Data Modeling, Data science, Statistics, applied statistics
+#+TITLE: Approximation over precision
+
+#+BEGIN_QUOTE
+  Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise.
+#+END_QUOTE
+
+
+
+(via [[https://en.wikipedia.org/wiki/John_Tukey][John Tukey]] via [[http://datascientistinsights.com/2013/01/29/quotes-of-the-week-john-tukey/][Jerry Smith]])
+
+
+

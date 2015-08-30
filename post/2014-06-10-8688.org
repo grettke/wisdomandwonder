@@ -1,0 +1,15 @@
+#+POSTID: 8688
+#+DATE: [2014-06-10 Tue 13:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: You know that a programming language has succeeded when people say that it  is horrible... Emacs Lisp
+
+Most new programming languages start out with the zest and zeal that everyone feels for things that are "fresh and new". Eventually, like in every relationship, the "infatuation phase" ends and "real love" must begin or the relationship will move on. 
+
+What prefaces the latter phase is a period of acceptance of all the flaws of that language. Actually, it is a fine thing, as long as you don't dwell on them (you have your flaws, too). It is a sign of growth and maturity. That is why whenever you see it for a programming language, then you know that it is "the real deal", that a lot of people love it, and that it is worth your time.
+
+See: [[http://www.emacswiki.org/emacs/WhyDoesElispSuck][WhyDoesElispSuck]]
+
+
+

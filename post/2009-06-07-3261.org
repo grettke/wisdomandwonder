@@ -1,0 +1,11 @@
+#+POSTID: 3261
+#+DATE: [2009-06-07 Sun 01:36]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Eiffel, Programming Language, iPhone
+#+TITLE: Eiffel iPhone Progress
+
+The runtime is [[http://www.eiffelroom.com/blog/manus_eiffel/eiffel_and_iphone_ipod_touch_2][up and running]] on the device and the simulator.
+
+
+

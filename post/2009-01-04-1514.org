@@ -1,0 +1,13 @@
+#+POSTID: 1514
+#+DATE: [2009-01-04 Sun 03:59]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: C++, Programming Language, Scheme
+#+TITLE: Evil: A C++ to Scheme Compiler
+
+[[http://code.google.com/p/jrm-code-project/wiki/BitsAndPieces][Evil]] is a C++ to Scheme compiler.
+
+(via [[http://funcall.blogspot.com/2007/05/put-evil-up-on-code-site.html][jrm]])
+
+
+

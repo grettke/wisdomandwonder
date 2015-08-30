@@ -1,0 +1,11 @@
+#+POSTID: 5213
+#+DATE: [2010-09-11 Sat 20:17]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Learning
+#+TITLE: How to Solve It
+
+Last week I picked up Polya's How to Solve It for half-price. Awesome!
+
+
+

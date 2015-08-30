@@ -1,0 +1,17 @@
+#+POSTID: 2120
+#+DATE: [2009-03-27 Fri 13:25]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming
+#+TITLE: On FP and Graphics Processing
+
+#+BEGIN_QUOTE
+  Oddly, graphics processing is very functional, yet procedural languages are used to teach it. In a nutshell, matrices operate on matrices operate ... . In between some of the stages, drawing takes place; the rightmost argument is the beginning of the scene. Years ago, I gave up learning OpenGL because it was so tedious. Now that I am enlightened by FP, I understand and enjoy graphics programming so much more that I wrote an API just for the fun of it.
+#+END_QUOTE
+
+
+
+(via [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-March/031643.html][PLT]])
+
+
+

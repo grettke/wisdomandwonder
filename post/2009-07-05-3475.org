@@ -1,0 +1,23 @@
+#+POSTID: 3475
+#+DATE: [2009-07-05 Sun 21:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Computer Science, Programming Language, Scheme
+#+TITLE: Simply Scheme is now available online
+
+#+BEGIN_QUOTE
+  I'm pleased to announce that the full text of 
+ Simply Scheme: Introducing Computer Science 
+is available online in PDF and HTML form at 
+ [[http://www.cs.berkeley.edu/~bh/ss-toc2.html]]
+#+END_QUOTE
+
+
+-- Brian Harvey
+
+Thanks Brian!
+
+(via [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/22ab3d99fce5ff0d#][comp.lang.scheme]])
+
+
+

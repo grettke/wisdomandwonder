@@ -1,0 +1,42 @@
+#+POSTID: 8830
+#+DATE: [2014-07-12 Sat 19:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: C++, Programming, Programming Language, Utility
+#+TITLE: The Standard Function Library
+
+#+BEGIN_QUOTE
+  The [[http://legacy.imatix.com/html/sfl/][SFL]] (Standard Function Library) from iMatix is a portable function library for C/C++ programs. The SFL is the result of many years' development, and is provided as Open Source software for the benefit of the Internet community.
+#+END_QUOTE
+
+
+
+
+
+#+BEGIN_QUOTE
+  The [[http://legacy.imatix.com/html/sfl/][SFL]] provides about 450 functions that cover these areas:
+
+Compression, encryption, and encoding;
+Datatype conversion and formatting;
+Dates, times, and calendars;
+Directory and environment access;
+User and process groups;
+Inverted bitmap indices;
+Symbol tables;
+Error message files;
+Configuration files;
+String manipulation and searching;
+File access;
+Internet socket access;
+Internet programming (MIME, CGI);
+SMTP (e-mail) access;
+Server (batch) programming;
+Program tracing.
+#+END_QUOTE
+
+
+
+It is free software.
+
+
+

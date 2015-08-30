@@ -1,0 +1,11 @@
+#+POSTID: 221
+#+DATE: [2008-06-24 Tue 21:48]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: PLT Scheme version 4.0.1 is out
+
+Per [[http://blog.plt-scheme.org/2008/06/plt-scheme-v401.html][Eli]], the [[http://plt-scheme.org/][4.0.1]] bugfix release is out.
+
+
+

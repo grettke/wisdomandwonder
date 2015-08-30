@@ -1,0 +1,13 @@
+#+POSTID: 4711
+#+DATE: [2010-04-22 Thu 16:09]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: LaTeX, TeX, Utility
+#+TITLE: Search engine for LaTeX equations
+
+Provided by Springer [[http://latexsearch.com/latexFacets.do?searchInput=Ising&stype=exact][here]].
+
+Unlike other LaTeX sites that provide code specifically for equation names; this seems to be a search engine for the LaTeX source of papers they have collected.
+
+
+

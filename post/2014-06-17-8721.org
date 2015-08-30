@@ -1,0 +1,68 @@
+#+POSTID: 8721
+#+DATE: [2014-06-17 Tue 14:48]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode, philosophy
+#+TITLE: The story
+
+
+The creativity that you apply and capture to assemble your system... this is where
+all of the fun stuff is. Let me elaborate, everything in your artifacts are
+valuable because they tell the story. Actually, they tell the story about a
+story, a story that has yet to occur and also a story that has previously
+occurred. It is here, where the actions lives, that all of those things are
+learned, practiced, suffered accordingly from, and reveled in! In other words,
+it is yet another story, a fun one.
+
+
+
+
+
+
+
+If you haven't noticed by now, either by hearing rumors, reading accounts, or
+learning of it yourself: human beings are story-oriented. Your ability to
+successfully function in and contribute to society will be directly proportional
+to your ability to listen to stories, tell others' stories, live your life such
+that you have new stories to tell, and capture them in some form of persistent
+storage. Stories grant us the power to learn from others wisdom that was
+painfully acquired thousands of years ago, and it gives you a chance to
+contribute the results of your hard work, for the future of humanity, too. A
+belief system about the value of story-telling is essential, critical, and
+mandatory to successfully achieve your goals with literate programming.
+
+
+
+
+
+
+
+As I change, the story will change, and the action will change. The cycle will
+never end.
+
+
+
+
+
+
+
+Nevertheless, I will attempt to do my best here with the good part of me being
+a flawless, rational, and logical human being to:
+
+
+
+
+
+
+-  Deliver a supportable system
+
+-  Deliver an adaptable system
+
+-  Deliver an expandable system
+
+
+
+
+
+
+

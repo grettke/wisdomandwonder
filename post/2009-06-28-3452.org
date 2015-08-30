@@ -1,0 +1,11 @@
+#+POSTID: 3452
+#+DATE: [2009-06-28 Sun 02:09]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme, philosophy
+#+TITLE: Small Scheme Implementations are Beautiful
+
+foof explains why [[http://synthcode.com/blog/2009/06/Small_is_Beautiful][here]].
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 84
+#+DATE: [2008-03-26 Wed 00:32]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide
+#+TITLE: Customizing Autosave
+
+Here is a tweak to [[http://bryan-murdock.blogspot.com/2008/03/beat-save-habit.html][configure auto-save]] to cooperate with your buffers in Emacs.
+
+
+

@@ -1,0 +1,19 @@
+#+POSTID: 2634
+#+DATE: [2009-04-16 Thu 02:01]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Web, WordPress
+#+TITLE: Simple Yearly Archive
+
+#+BEGIN_QUOTE
+  [[http://wordpress.org/extend/plugins/simple-yearly-archive/][Simple Yearly Archive]] is a rather neat and simple Wordpress plugin that allows you to display your archives in a year-based list. It works mostly like the usual WP archive, but displays all published posts seperated by their year of publication. That said, it's also possible to restrict the output to certain categories, and much more.
+#+END_QUOTE
+
+
+
+The default WordPress "Archive" widget is nice, but once you get more than a couple years worth of archives it starts to take up a lot of space and as such become very ugly. This plugin deals with the problem rather nicely by allowing you to include the archive anywhere you wish. For example, I put it on a page (aptly) named "Archive".
+
+The one thing that you will probably want to do right off the bat is to configure a date-format for the posts and display post-count per year.
+
+
+

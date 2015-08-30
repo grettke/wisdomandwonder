@@ -1,0 +1,17 @@
+#+POSTID: 272
+#+DATE: [2008-07-22 Tue 12:25]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Larceny Scheme
+
+#+BEGIN_QUOTE
+  [[http://www.ccs.neu.edu/home/will/Larceny/][Larceny]] is a simple and efficient implementation of the Scheme programming language. Created originally as a test vehicle for research on garbage collection and compiler optimizations, Larceny has grown into a major multiplatform system, and is currently the only implementation that supports all four de facto standards for Scheme: IEEE/ANSI, R5RS, ERR5RS, and the R6RS.
+#+END_QUOTE
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+#+POSTID: 1263
+#+DATE: [2008-12-02 Tue 04:28]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Learning, philosophy
+#+TITLE: When you can't be lazy
+
+When it comes to learning, and [[http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html]["doing things well"]] for it, you can't be lazy. You simply *can not* be lazy.
+
+You won't get away with it. Eventually you will screw up. Maybe you will catch it, and maybe you won't. Maybe it won't matter to anyone else or maybe it will. The only thing that you should care about is that it matters to you because you want better for yourself.
+
+You should always work hard and study smart and give yourself the time that you need to learn.
+
+
+

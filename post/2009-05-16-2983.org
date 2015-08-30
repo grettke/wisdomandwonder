@@ -1,0 +1,18 @@
+#+POSTID: 2983
+#+DATE: [2009-05-16 Sat 01:27]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Scheme
+#+TITLE: Scheme projects I would like to work on
+
+Here are some fun and/or interesting Scheme projects that I would like to work on (eventually):
+
+
+
+-  /Comprehensive/ R6RS SRFI Unit Tests
+-  A mega-repository for all of the R6RS libraries out there
+-  A Ruby-subset interpreter
+-  An [[http://www.gnu.org/software/emacs/manual/html_node/emacs/Lisp-Eval.html][expression-evaluation]] plugin for [[http://www.plt-scheme.org/][DrScheme]]
+
+
+

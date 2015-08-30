@@ -1,0 +1,11 @@
+#+POSTID: 8533
+#+DATE: [2014-05-08 Thu 22:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Emacs Lisp, Ide, Programming
+#+TITLE: Avoiding window takeover in Emacs
+
+[[http://www.reddit.com/r/emacs/comments/24zu2a/how_do_i_stop_emacs_from_taking_over_my_split/][This]] post talks about how buffers takings over windows in Emacs is very horrible behavior. Based upon that feedback, it might be interesting to try out [[https://github.com/m2ym/popwin-el][popwin.el]].
+
+
+

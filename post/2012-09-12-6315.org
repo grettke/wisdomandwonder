@@ -1,0 +1,11 @@
+#+POSTID: 6315
+#+DATE: [2012-09-12 Wed 02:47]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 
+#+TITLE: Computational Science MS Wrapup
+
+In August I wrapped up my work towards a PhD with a MS. It was a lot of fun and a lot of work; a PhD is definitely something you may want to consider pursuing full-time rather than in-addition to an already full-time job :).
+
+
+

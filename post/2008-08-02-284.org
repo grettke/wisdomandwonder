@@ -1,0 +1,11 @@
+#+POSTID: 284
+#+DATE: [2008-08-02 Sat 14:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Update
+#+TITLE: Updated: Code Generation and DSLs in Scheme
+
+See [[http://www.wisdomandwonder.com/presentation/17/code-generation-and-dsls-in-scheme][here]]
+
+
+

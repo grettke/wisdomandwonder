@@ -1,0 +1,22 @@
+#+POSTID: 365
+#+DATE: [2008-08-07 Thu 02:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Learning, Programming, Teaching, philosophy
+#+TITLE: Analogies are a bridge
+
+Analogies are often used to introduce folks to new ideas, introducing them not directly, but through comparison and inference. This seems to work well in all areas, including technical. The risk in using them in technical matters, though, is that person will never move past the analogy and into the realm of accurately understanding the subject matter.
+
+For a long time, I very much disliked analogies. Perhaps this was due to bad personal experiences in my study path with them, or alternately, hearing other folks go on and on about how “such and such is just like such and such” when that is simply not the case. In the past year, though, three interesting things have happened.
+
+The first is that I've chatted with someone, who is very level headed and takes the time to talk through his point of view, who is a proponent of analogies.
+
+The second is that I've taken a much closer look at how people teach, and, they certainly don't do it by throwing their students into the deep end.
+
+The third is that I visited a foreign country where it was clear to me that it wasn't just the language, but just about everything, that I didn't understand. On the trip I had the experience of analogies about “how things work” in the country just keep popping into my head. It was the strangest thing, but it was interesting, too, because I finally realized the role of analogies: 
+
+Analogies are a helpful bridge, that you must cross. If you stay there, you will never get to where you really want to be.
+
+
+
+

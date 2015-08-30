@@ -1,0 +1,11 @@
+#+POSTID: 8825
+#+DATE: [2014-07-09 Wed 00:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Business, Collaboration, Editing, Markup, PDF, Publishing, Research, Tools
+#+TITLE: Bluebeam Revu
+
+The [[http://www.bluebeam.com/us/products/revu/][collaboration]] features look really nice.
+
+
+

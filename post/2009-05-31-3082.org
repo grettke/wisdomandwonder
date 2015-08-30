@@ -1,0 +1,28 @@
+#+POSTID: 3082
+#+DATE: [2009-05-31 Sun 03:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: How to Test Functions that are not Exported from a Module
+
+Paulos asked [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-May/033246.html][here]] how to unit test module functions that are not exported. Eli explained two solutions [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-May/033249.html][here]]:
+
+
+
+#+BEGIN_EXAMPLE
+    
+; One way to do this is with `module->namespace' to get the 
+; namespace of the module (I think that this is how `require/expose' 
+; works).  Another way which is very convenient for testing is to use 
+; the sandbox:
+
+ (require scheme/sandbox)
+ (define e (make-module-evaluator (string->path "some-file")))
+
+;  and at this point you have `e' bound to an evaluator that works 
+;  inside of your module, similarly to the repl in drscheme.
+
+#+END_EXAMPLE
+
+
+

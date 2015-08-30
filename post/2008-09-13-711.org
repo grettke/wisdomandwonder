@@ -1,0 +1,27 @@
+#+POSTID: 711
+#+DATE: [2008-09-13 Sat 03:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Study-HTDP
+#+TITLE: Who is participating (at least initially)? 
+
+Originally posted [[http://groups.google.com/group/study-htdp/browse_thread/thread/435001ee955969af][here]]:
+
+
+
+#+BEGIN_QUOTE
+  
+Initially, the folks participating are primarily either co-workers or non-co-worker friends who have wide range of experience and interests.
+
+From my perspective, everyone is welcome.
+
+The more interested, motivated participants the better!
+
+#+END_QUOTE
+
+
+
+I've been delighted by the number of folks that have showed up on the Internet either to participate or help. There are a lot of great people out there!
+
+
+

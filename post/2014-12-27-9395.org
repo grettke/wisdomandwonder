@@ -1,0 +1,15 @@
+#+POSTID: 9395
+#+DATE: [2014-12-27 Sat 22:08]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: All Emacs Users Should Probably Run auto-compile
+
+Pose the question "Is there ever a time when Emacs users should be running out-of-date bytecode instead of the up-to-date bytecode or lisp?" to yourself.
+
+All Emacs users should probably run [[https://github.com/tarsius/auto-compile][auto-compile]].
+
+
+
+
+

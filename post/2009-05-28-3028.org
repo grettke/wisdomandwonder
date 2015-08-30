@@ -1,0 +1,11 @@
+#+POSTID: 3028
+#+DATE: [2009-05-28 Thu 03:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: XO
+#+TITLE: XO Keyboard Field Repairs
+
+[[http://www.olpcnews.com/hardware/keyboard/xo_keyboard_field_repair_plast.html][Here]] is a funny yet practical post on XO keyboard field repairs.
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 5862
+#+DATE: [2011-07-26 Tue 02:42]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: JDK, Java, Programming Language
+#+TITLE: Build times finally reduced for JDK 1.6 on Windows
+
+Sun's JDK 1.6 had [[http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=6843751][a nasty nasty bug]] on Windows that caused compile times to explode. It went unresolved for a very long time until [[http://bugs.sun.com/view_bug.do?bug_id=6999460][the bug effected Glassfish and made it look bad]]!
+
+Finally, we have relief, and can get back on a "modern compiler"!
+
+
+

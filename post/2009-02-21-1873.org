@@ -1,0 +1,19 @@
+#+POSTID: 1873
+#+DATE: [2009-02-21 Sat 20:48]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: HTDP, Learning, Programming, Teaching, mathematics
+#+TITLE: HtDP Teaches More Than Programming
+
+#+BEGIN_QUOTE
+  ...you won't believe it but by reaching part VI, you have mastered a significant chunk of mathematics that you would have never considered within reach had I told you at the outset of your studies that you'd understand rudimentary concepts from "higher" algebra (advanced college material).
+#+END_QUOTE
+
+-- Matthias Felleisen
+
+(via [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-February/030339.html][PLT]])
+
+
+
+
+

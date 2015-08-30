@@ -1,0 +1,13 @@
+#+POSTID: 4670
+#+DATE: [2010-04-06 Tue 15:43]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Moby, PLT, Programming Language, Scheme
+#+TITLE: Write Android and Webapps in PLT Scheme with Moby
+
+[[http://news.ycombinator.com/item?id=1217845][Here]] is a post over at Hacker News linking to [[http://planet.plt-scheme.org/package-source/dyoo/moby.plt/2/30/planet-docs/manual/index.html][how to write Android and web apps with Moby]].
+
+(via [[http://groups.google.com/group/plt-scheme/browse_thread/thread/83fe2abb7e4cc83c/a0e735a1988f0ee8?hl=en&lnk=gst&q=Hacker+News#a0e735a1988f0ee8][plt]])
+
+
+

@@ -1,0 +1,17 @@
+#+POSTID: 815
+#+DATE: [2008-09-24 Wed 12:42]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Conference, Functional, Programming Language
+#+TITLE: ICFP 08 programming contest results presentation
+
+The ICFP +09+ 08 programming contest results presentation is [[http://video.google.com/videoplay?docid=-4697764813432201693][here]] on video.
+
+(via [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/8674542772f9765e#][comp.lang.scheme]])
+
+*Addendum: 04/01/09*
+
+Fixed date typo.
+
+
+

@@ -1,0 +1,15 @@
+#+POSTID: 4189
+#+DATE: [2009-12-20 Sun 05:21]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Scheme
+#+TITLE: Would you find value in a Scribbled version of the SRFI docs?
+
+The Scheme [[http://srfi.schemers.org/][SRFIs]] are a collection of useful and portable Scheme code meant to provide commonly used functionality not included in the specification. The standard documentation format is HTML. For example, here is [[http://srfi.schemers.org/srfi-1/srfi-1.html][SRFI 1]]. While this format works fine, I am wondering if a [[http://docs.plt-scheme.org/scribble/][Scribble]]d version would be a useful addition. Scribble is the tool used to document [[http://www.plt-scheme.org/][PLT Scheme]]. Here is an example of how [[http://docs.plt-scheme.org/reference/contracts.html][their]] documentation looks.
+
+Doing so would be pretty easy by implementing it as a [[http://planet.plt-scheme.org/][PLaneT]] package; the documentation itself could be distributed via PLaneT or a simple file download for anyone interested.
+
+What do you think?
+
+
+

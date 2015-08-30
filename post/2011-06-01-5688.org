@@ -1,0 +1,19 @@
+#+POSTID: 5688
+#+DATE: [2011-06-01 Wed 02:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, Programming Language, Racket, Scheme
+#+TITLE:  In-Source Documentation in Racket
+
+#+BEGIN_QUOTE
+  The scribble/srcdoc and scribble/extract libraries support writing documentation within the documentation code along with an export contract, similar to using JavaDoc.
+#+END_QUOTE
+
+
+
+Very nice.
+
+(via [[http://docs.racket-lang.org/scribble/srcdoc.html][racket]])
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 3069
+#+DATE: [2009-05-31 Sun 02:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Ikarus, Programming Language, Scheme
+#+TITLE: Ikarus Adds Preliminary Debugger Support
+
+In [[http://groups.google.com/group/ikarus-users/browse_thread/thread/5d53501a90925b35/89cb1b986629fb0d?lnk=gst&q=preliminary+debugger+support#89cb1b986629fb0d][this]] post Aziz announced that Ikarus has preliminary debugger support. Awesome.
+
+
+

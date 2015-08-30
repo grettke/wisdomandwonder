@@ -1,0 +1,17 @@
+#+POSTID: 278
+#+DATE: [2008-08-01 Fri 12:28]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming
+#+TITLE: TradeMaximizer
+
+#+BEGIN_QUOTE
+  [[https://sourceforge.net/projects/trademax][TradeMaximizer]] supports multi-party trades in which each party offers up items for trade, and selects items that they wish to receive. The system then finds the largest set of items that can be traded simultaneously.
+#+END_QUOTE
+
+
+
+Read about how you might [[http://okasaki.blogspot.com/2008/03/what-heck-is-math-trade.html][apply it]].
+
+
+

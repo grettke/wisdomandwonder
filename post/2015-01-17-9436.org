@@ -1,0 +1,75 @@
+#+POSTID: 9436
+#+DATE: [2015-01-17 Sat 20:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode, org-modeLiterate Programming
+#+TITLE: How to handle the enter key while inside of comment blocks
+
+[[https://emacs.stackexchange.com/questions/7466/how-to-have-emacs-format-indent-javadoc-comments-correctly][This]] post reveals a nice function =comment-indent-new-line= which gives you the
+right kind of indentation for block comments. That got me wondering if my
+=enter= key-binding should do different things depending upon whether or not the
+cursor is inside of a comment block or not. Specifically, if it is, then call
+the aforementioned function, else call the normal binding. This seems that it
+might be an improvement
+
+
+
+
+
+
+
+[[https://emacs.stackexchange.com/questions/4254/check-whether-a-line-is-in-the-middle-of-a-block-comment][This]] post explains how to check if the cursor is inside of a comment block:
+
+
+
+
+
+
+#+BEGIN_HTML
+  <div class="org-src-container">
+#+END_HTML
+
+
+
+
+#+BEGIN_EXAMPLE
+    (nth 4 (syntax-ppss))
+
+#+END_EXAMPLE
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+
+
+It is not nil when the point (cursor) is inside of a comment block.
+
+
+
+
+
+
+
+Great to know. 
+
+
+
+
+
+
+
+I decided not to make this change yet, but, I wanted to capture how, here.
+
+
+
+
+
+
+

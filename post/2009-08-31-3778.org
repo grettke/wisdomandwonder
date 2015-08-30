@@ -1,0 +1,11 @@
+#+POSTID: 3778
+#+DATE: [2009-08-31 Mon 20:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: La Sila: R6RS Libraries for Lexing, Parsing, and Infix Notation
+
+Read about them [[http://groups.google.com/group/ikarus-users/browse_thread/thread/f3504dc212fdb290/9e1edd644aac0554?lnk=gst&q=La+Sila+Sat+Aug+#9e1edd644aac0554][here]].
+
+
+

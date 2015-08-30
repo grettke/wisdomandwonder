@@ -1,0 +1,13 @@
+#+POSTID: 4451
+#+DATE: [2010-01-18 Mon 21:12]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming
+#+TITLE: Dynamic Languages Wizards Series
+
+While I haven't watched [[http://www.ai.mit.edu/projects/dynlangs/wizards-panels.html][these]] yet; they do sound interesting.
+
+(via [[http://twitter.com/dhess/statuses/7888671051][dhess]])
+
+
+

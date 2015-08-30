@@ -1,0 +1,13 @@
+#+POSTID: 8685
+#+DATE: [2014-06-10 Tue 12:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Literate Programming
+#+TITLE: Finally a good programming interview question
+
+Like all programming interview questions, [[http://programmingpraxis.com/2014/06/10/balanced-delimiters-2/][this one]] is contrived... and it is also succinct, precise, pleasant, and delightful. 
+
+Rarely do you see all of those things in such questions!
+
+
+

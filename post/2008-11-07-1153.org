@@ -1,0 +1,17 @@
+#+POSTID: 1153
+#+DATE: [2008-11-07 Fri 03:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Programming, philosophy
+#+TITLE: A Theory for Language Design
+
+#+BEGIN_QUOTE
+  No amount of language design can force a programmer to write clear programs. If the programmer's conception of the problem is badly organized, then his programs will also be badly organized. The extent to which a programming language can help a programmer to organize his problem is precisely the extent to which it provides features appropriate to his problem domain. The emphasis should not be on eliminating "bad" language constructs, but on discovering or inventing helpful ones.
+#+END_QUOTE
+
+
+
+-- AIM-353: LAMBDA: [[http://library.readscheme.org/page1.html][The Ultimate Imperative]]
+
+
+

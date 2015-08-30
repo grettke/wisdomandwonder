@@ -1,0 +1,21 @@
+#+POSTID: 7901
+#+DATE: [2013-05-30 Thu 18:39]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Reproducible Research, Literate Programming, and Inter-Language Programming with Babel
+
+#+BEGIN_QUOTE
+  [[http://orgmode.org/worg/org-contrib/babel/intro.html][Babel]] is about letting many different languages work together. Programming languages live in blocks inside natural language Org-mode documents. A piece of data may pass from a table to a Python code block, then maybe move on to an R code block, and finally end up embedded as a value in the middle of a paragraph or possibly pass through a gnuplot code block and end up as a plot embedded in the document.
+#+END_QUOTE
+
+
+
+My current approach is to use multiple languages, build scripts, intermediate files to share data, and finally weaving it together inside of LaTeX. The babel way looks intriguing, with excellent support (via Emacs modes) for numerous languages. Very exciting.
+
+
+*2014-02-14*
+[[http://www.jstatsoft.org/v46/i03][Here]] is a writeup that may speak to readers in a way good for them to hear it.
+
+
+

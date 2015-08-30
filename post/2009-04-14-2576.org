@@ -1,0 +1,24 @@
+#+POSTID: 2576
+#+DATE: [2009-04-14 Tue 14:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: The Dream Scheme Operating System
+
+#+BEGIN_QUOTE
+  Dream is an R4RS Scheme interpreter written in assembly language by 
+David Joseph Stith: 
+
+ [[http://www.stripedgazelle.org/joey/dream.html%20][http://www.stripedgazelle.org/joey/dream.html]]
+
+He wrote a small operating system based on Dream: 
+
+ [[http://www.stripedgazelle.org/joey/dreamos.html]]
+#+END_QUOTE
+
+-- Edward
+
+(via [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/ab084255b3d942f9#][comp.lang.scheme]])
+
+
+

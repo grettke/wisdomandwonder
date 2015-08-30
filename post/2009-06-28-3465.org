@@ -1,0 +1,13 @@
+#+POSTID: 3465
+#+DATE: [2009-06-28 Sun 14:06]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: OS X
+#+TITLE: Manually Empting Leopard's Trash
+
+OS X refused to let me empty the trash as it contained TimeMachine's Backups.backupdb directory. It simply complained that there were BootX files present. The trash could not be emptied with an option-empty, either.
+
+I found [[http://www.thexlab.com/faqs/trash.html][this]] solution to work fine; which involved rm -rf'ing the .Trash dir in my home directory (which was unnecessary) and more importantly doing the same in the Trashes/<my uid> dir on the external drive in which that trash had lived.
+
+
+

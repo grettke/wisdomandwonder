@@ -1,0 +1,127 @@
+#+POSTID: 1356
+#+DATE: [2008-12-22 Mon 02:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: XO
+#+TITLE: Ubuntu 8.10 (Intrepid) for XO
+
+[[http://www.olpcnews.com/forum/index.php?topic=4053][Here]] is a link that explains how to set up [[http://www.ubuntu.com/][Ubuntu]] on the XO.
+
+(via [[http://www.olpcnews.com/forum/][OLPC News]])
+
+*Addendum: 18/2/9*
+
+I installed it and it worked flawlessly. Here are my notes on the installation:
+
+
+#+BEGIN_EXAMPLE
+    
+000. Remove the SD card and start the XO.
+
+001. Start Terminal in Sugar.
+
+002. Connect the USB drive
+
+003. Run mount | grep /dev/sd , repeat until it returns a line like this:
+
+     > /dev/sda1 on /media/ORNGESLIDE2 type vfat rw
+
+004. Become root and stop haldaemon:
+           sudo -s
+           /etc/init.d/haldaemon stop
+
+
+005. Insert SD card into the slot (the card will be erased, so back up all data 
+     on it that you want to preserve).
+
+006. Erase MBR and partition table:
+          dd if=/dev/zero of=/dev/mmcblk0 bs=4096 count=1
+
+007. Make the partition table:
+        echo -e ',,L,*\n\n\n' | sfdisk /dev/mmcblk0
+008. Create the root filesystem:
+           mke2fs -jLOLPCRoot /dev/mmcblk0p1
+
+009. Mount the filesystem and unpack the tarball onto it:
+           mount /dev/mmcblk0p1 /mnt
+     cd /mnt
+       tar xvjf /media/ORNGESLIDE2/OLPCFiles-intrepid-20081130.tar.bz2
+
+010. Copy the developer key:
+     tar xvf /media/ORNGESLIDE2/security.tar.gz
+
+011. Reboot:
+   reboot
+
+012. Got the "Card didn't power up after 1 second" error:
+     http://www.olpcnews.com/forum/index.php?topic=4053.msg28224#msg28224
+     http://www.olpcnews.com/forum/index.php?topic=4053.msg28084#msg28084
+     > I waited at the ok prompt and typed boot and it worked.
+     > Recommended advice is if that works, to upgrade the firmware.
+     > I will hold off for now.
+
+013. After booting into a new system, 
+     log in as user olpc with password olpcolpc, and perform final updates: 
+
+014. Click on the Network Manager icon at the bottom panel, 
+     select the wireless network you want to use.
+     If wireless network uses encryption, 
+     you will be prompted for the key/password.
+     If it's a public access point that requires browser login 
+     (like T-Mobile hotspot), start Firefox and log in.
+
+     Start Terminal and complete the configuration:
+            passwd
+
+       (enter olpcolpc as the current password, 
+     then twice the password you intend to use)
+
+      sudo aptitude update
+      sudo aptitude safe-upgrade
+        sudo aptitude reinstall ssl-cert
+      sudo aptitude clean
+       sudo /etc/init.d/cups start
+
+
+015. Configure mplayer
+              mkdir .mplayer
+        echo -e 'vo=sdl\nframedrop=1\nlavdopts=skiploopfilter=all:fast=1' > .mplayer/config
+exit
+
+016. Install flash plugin
+         sudo aptitude install flashplugin-nonfree
+     sudo ln -s /etc/alternatives/firefox-flashplugin /usr/lib/firefox-addons/plugins/flashplugin-alternative.so
+
+017. In Firefox, installed the plugins:
+       flashblock
+       adblock plus
+
+018. Set the timezone:
+       sudo dpkg-reconfigure  tzdata
+
+019. Boot failed, instead it went into Sugar.
+    Ran e2fsck -y /dev/mmcblk0p1
+     This fixed a bunch of errors. I killed e2fsck the first time,
+ apparently with no ill effects.
+    Rebooted, held the 'square' joystick button, 
+    hit escape 'x' on the keyboard to get the boot prompt 'ok'.
+    Typed: boot sd:\boot\olpc.fth
+    System worked, got keyring question
+          Used the old default pw
+       Reset doing: rm .gnome2/keyrings/login.keyring
+    Logged out and in
+
+020. Set up some swap space
+        sudo dd if=/dev/zero of=/swap.bin bs=1M count=256
+     sudo chmod 600 /swap.bin
+  sudo mkswap /swap.bin
+     In /etc/fstab add:
+       /swap.bin none swap defaults 0 0
+   In /etc/sysctl.confg add:
+        # Swap as little as possible
+      vm.swappiness=0
+
+#+END_EXAMPLE
+
+
+

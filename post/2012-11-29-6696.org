@@ -1,0 +1,23 @@
+#+POSTID: 6696
+#+DATE: [2012-11-29 Thu 19:32]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 02947, CB750, CB750F, Honda, Motorcycle, Repair
+#+TITLE: CB750F: Day 02
+
+We couldn't check the engine compression today, we need an adapter for the checker. Removed the spark plug from cylinder 2, Teacher said it is running lean (there is too much air in the air/fuel ratio of the mixture). Put fingertip on top of plug opening and tried starting it and it pushed my finger off and sucked it in, so the rings are allowing *some* compression. We need to remove the carburetors. Before class I did grab the service manual with the compression levels, and ordered printed copies, too from Helminc.com.
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/20121128_172257s.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/20121128_172257s-300x225.jpg]]]][[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/20121128_172310s.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/20121128_172310s-300x225.jpg]]]]
+
+After pulling the plug out I realized there was crud all over in there, so I put the plug back in and shop-vac'd the top out first.
+
+I wanted to remove the crash bars, they are not sporty. 3 bolts hold them on, all through the frame and one through the engine. The 2 on the top frame loosened easily, the one in the engine did not want to come out. Looked underneath to find that there were two bolts on the end. This was surprising. Teacher said the bolt was probably stripped, and that we might fix it later.
+
+This makes it really difficult to get out. Jammed a screwdriver in there and turned it bit by bit for 1.5 hours and headed home. Teacher said mechanics is mostly about patience. I will print out directions for carb removal after talking to teacher about POR-15'ing the tank. 
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/20121128_182705s.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/20121128_182705s-300x225.jpg]]]][[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/20121128_191411s.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/20121128_191411s-300x225.jpg]]]]
+
+Working on the floor was really dirty, might have to dig out a lift and put it up there instead.
+
+
+

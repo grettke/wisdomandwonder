@@ -1,0 +1,29 @@
+#+POSTID: 9300
+#+DATE: [2014-11-07 Fri 16:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Biostatistics
+#+TITLE: The Cochrane Collaboration
+
+#+BEGIN_QUOTE
+  Who we are
+
+[[http://www.cochrane.org/about-us][Cochrane]] is a global independent network of health practitioners, researchers, patient advocates and others, responding to the challenge of making the vast amounts of evidence generated through research useful for informing decisions about health. We are a not-for-profit organisation with collaborators from over 120 countries working together to produce credible, accessible health information that is free from commercial sponsorship and other conflicts of interest.
+
+Our vision
+
+Our vision is a world of improved health where decisions about health and health care are informed by high-quality, relevant and up-to-date synthesised research evidence.
+
+Our mission
+
+Our mission is to promote evidence-informed health decision-making by producing high-quality, relevant, accessible systematic reviews and other synthesised research evidence.
+
+Our work is internationally recognised as the benchmark for high quality information about the effectiveness of health care.
+#+END_QUOTE
+
+
+
+
+
+
+

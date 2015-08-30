@@ -1,0 +1,27 @@
+#+POSTID: 257
+#+DATE: [2008-07-10 Thu 18:29]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Erlang, PLT, Programming Language, Scheme
+#+TITLE: erlang-scheme interop
+
+Eric Sessoms announced his Erlang-Scheme interoperability library recently on the [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-July/025776.html][PLT discussion list]].
+
+
+
+#+BEGIN_QUOTE
+  What it is: Basically, it's a port of Distel from emacs lisp over to
+scheme. It talks to erlang using its own protocol and impersonates an
+erlang node on the network. It aims to provide an abstraction such
+that erlang processes look like scheme threads, and vice-versa.
+Communication from scheme to erlang is done with (a wrapper around)
+thread-send. Messages from erlang to scheme get routed to thread
+mailboxes so that they can be picked up with thread-receive.
+#+END_QUOTE
+
+
+
+
+
+
+

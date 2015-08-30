@@ -1,0 +1,13 @@
+#+POSTID: 3893
+#+DATE: [2009-09-11 Fri 20:05]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Learning, Teaching
+#+TITLE: The Difference Between Undergraduate and Graduate School
+
+Today during lunch my friend told me that the difference between undergraduate school and graduate school is that in undergraduate school the teachers are responsible both for telling you what you need to know /and/ teaching it to you, but in graduate school they are only responsible for the former. 
+
+What do you think?
+
+
+

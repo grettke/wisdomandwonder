@@ -1,0 +1,24 @@
+#+POSTID: 5759
+#+DATE: [2011-06-10 Fri 20:45]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Powershell, Utility, Windows
+#+TITLE: A Friendlier Powershell Prompt
+
+#+BEGIN_EXAMPLE
+    
+function prompt {
+$user = [Environment]::UserName;
+$computer = gc env:computername;
+$dir = [Environment]::CurrentDirectory=(Get-Location -PSProvider FileSystem).ProviderPath;
+$user + "@" + $computer + ":" + $dir + ">"
+}
+
+#+END_EXAMPLE
+
+
+
+[[http://huddledmasses.org/powershell-power-user-tips-current-directory/][This]] post helped with the last part.
+
+
+

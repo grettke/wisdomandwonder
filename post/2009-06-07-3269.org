@@ -1,0 +1,13 @@
+#+POSTID: 3269
+#+DATE: [2009-06-07 Sun 01:39]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Design, User Interface, iPhone
+#+TITLE: A Card Stack Handheld UI Approach
+
+[[http://www.vimeo.com/4971984][Here]] is one example of a handheld UI approach: a stack of cards.
+
+They used a slider that seemed to better fit the app, too.
+
+
+

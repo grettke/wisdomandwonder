@@ -1,0 +1,13 @@
+#+POSTID: 161
+#+DATE: [2008-05-03 Sat 22:09]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Programming Language, elisp
+#+TITLE: Color Theme for Emacs
+
+[[http://www.emacswiki.org/cgi-bin/wiki?ColorTheme][Color Theme]] is an Emacs-Lisp package that lets you create and use different color themes within Emacs.
+
+This is probably critical for anyone new to Emacs.
+
+
+

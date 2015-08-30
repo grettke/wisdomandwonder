@@ -1,0 +1,89 @@
+#+POSTID: 1813
+#+DATE: [2009-02-17 Tue 02:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Is it important to understand continuations conceptually?
+
+[[http://list.cs.brown.edu/pipermail/plt-scheme/2008-May/024512.html][Here]] I asked:
+
+
+#+BEGIN_EXAMPLE
+    
+I get the feeling that it is important to understand continuations
+conceptually, and specifically not in terms of their implementation.
+
+The TSPL book, for example, does so; and I often see it quoted word
+for word in explanations of continuations.
+
+However, the number of articles that describe continuations in terms
+of the stack far outweigh explaining them conceptually.
+
+Does describing them in terms of their implementation serve as a
+disservice? Will it be an impediment later on?
+
+#+END_EXAMPLE
+
+
+
+[[http://list.cs.brown.edu/pipermail/plt-scheme/2008-May/024517.html][Here]] was one reply:
+
+
+#+BEGIN_EXAMPLE
+    
+Grant, you're correct in that an understanding of one particular  
+implementation technique for a linguistic construct causes huge and  
+ubiquitous misunderstandings.
+
+Procedures and procedure calls are the examples that come to mind.  
+Those things were explained via a stack-based implementation in the  
+1950s and 1960s although [&] abstract explanations in terms of 8th  
+grade algebra all the way to Lambda Calculus had been around for, oh,  
+a while. [*] As a result, procedure calls had been considered  
+expensive and a thing to be avoided. Steele pointed out our  
+misunderstanding of this issue AND YET, to this day, people don't  
+implement procedures and procedure calls properly and we are still  
+suffering from this perception. People still write huge procedures to  
+avoid another call, and people still want to see complete stack  
+traces in their debuggers for their function calls. So the sentence  
+labeled with [*] uses the incorrect tense. It should use "have been  
+and are" instead. It is one sad state of affairs. Of course, this  
+just refers back to the sentence with [&]: people who design and  
+implement programming languages do not wish to study mathematical  
+models of PLs, can't and won't. But they sure want credit on all  
+fronts. That's why the problem is pervasive.
+
+Continuation objects in Scheme are special-purpose procedures. That  
+is, they are procedural representations of the 'rest of the  
+computation with respect to some expression evaluation.' So the story  
+is related but fortunately (or whatever) doesn't have as much of an  
+impact. Continuations aren't as useful as procedure. Yes, there are  
+kids out there who think that if you don't implement continuations  
+with fast code etc your Scheme implementation isn't worth much. But  
+those are just mislead.
+
+Continuations can be implemented with at least four basic techniques  
+that I can remember right now. Clinger et al (a nice scientific paper  
+from the 80s revised in the 90s) lays out a beautiful and well- 
+presented comparison of such techniques. I recommend reading it. And  
+of course Dybvig/Hieb's lazy stack copy technique in the original  
+paper. Of course in SML/NJ callcc = cons. So that's that.
+
+Continuations can be understood as all kinds of abstract beasts, with  
+little more knowledge than 8th grade algebra or Lambda Calculus. But  
+that is just an abstract form of 'how'. I have spent a good deal of  
+time on this question.
+
+Finally, continuations can be understood from a 'pragmatic'  
+perspective ('what are they useful for, and how are they used'). For  
+this question, I recommend two books and a paper:
+  -- Shriram's PLAI
+  -- Friedman and Springers, "Art and Scheme"
+  -- Friedman's POPL talk from 1988 on "Applications of Continuations"
+
+Good luck -- Matthias
+
+#+END_EXAMPLE
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 609
+#+DATE: [2008-08-22 Fri 02:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming
+#+TITLE: Data-Driven Enhancement of Facial Attractiveness
+
+[[http://www.cs.tau.ac.il/~tommer/beautification2008/][Here]] is an article about training a system about what makes a person look more pretty such that given a picture, the system can make the person in it "prettier".
+
+(I forgot where I saw this)
+
+
+

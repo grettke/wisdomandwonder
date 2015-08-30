@@ -1,0 +1,23 @@
+#+POSTID: 3812
+#+DATE: [2009-09-02 Wed 19:42]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Career, Programming, philosophy
+#+TITLE: How Do You Compete for Your Own Job, or, Are You Really Learning?
+
+A few days ago my friend and I were talking about the software development market and how as you pass multiples of 10 years of age you tend to face "new concerns" at work. For example, when you turn 30 you get promoted to lead developer, when you turn 40 you get promoted to manager, when you turn 50 you get to keep your job, and when you turn 60 you are asked to leave. This might be a regional occurrence; but it can't really be that uncommon (Note: I am not in this situation, which I believe to be an exception to the norm). 
+
+In every case, said developer is always competing for his own job. What does it take to keep it? How many years does it take to be a good [insert language here] developer. Say it takes 4 years to get "good enough" at Java; what do you have up on a recent college grad with 4 years experience who is willing to work twice as hard for half the prices as you? Think about it from an employer's perspective; what is the dollar amount that they would place on experience? The answer to that question largely depends on the employer and potential employee, and in particular the former's needs and the latter's negotiation skills. 
+
+Whatever the case, isn't there a question lurking at the back of their mind as they read the resume of a developer with 12 years of Java experience, a question something like "If it takes 4 years to get really good at Java, what did you do with the other 8 years?". While the 4 year number is totally arbitrary and there is a lot more that goes into being a good developer than just programming; /I/ have wondered things like this about both myself and other developers. In that amount of time you could easily attain a degree in some related, interesting field that would add a lot to your repertoire of expertise.
+
+Without too much effort; one could earn a masters degree by attending night school for about 4 years. That is only one class per semester. In retrospect, I could have earned a masters in English Literature two times over by now, yet I have not. Who does this though? It is not considered to be normal; or maybe I am hanging out with the wrong crowd?
+
+Perhaps it is too expensive to justify in terms of dollars or time? I guess I am just left wondering, what have I really been learning? Has it been of any significance? Has it been challenging and truly beneficial? How many programming languages do I need to learn until I have gotten the 80% that I really need? 
+
+How would the world look if we were expected to learn something significantly new every 4-8 years? I think that it would look very, very interesting. 
+
+What are you doing with your time? Are you /challenging/ your brain? Are you really learning something new and challenging, or is it just more of the same?
+
+
+

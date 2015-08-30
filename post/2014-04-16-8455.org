@@ -1,0 +1,36 @@
+#+POSTID: 8455
+#+DATE: [2014-04-16 Wed 22:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, R-Project, Statistics, applied statistics, emacs speaks statistics
+#+TITLE: Indenting new curly bracket blocks with smartparens for R
+
+Emacs speaks statistics handle indentation for curly bracket blocks quite well. My preference was to have, after inserting matching opening and closing curly brackets, a newline with the cursor indented one block in. [[https://github.com/Fuco1/smartparens/issues/80][This post]] in particular describes the solution; it worked fine as of today.
+
+*Addendum: 2014-04-17*
+
+Here is the code snippet from the above link:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(sp-local-pair 'c++-mode "{" nil :post-handlers '((my-create-newline-and-enter-sexp "RET")))
+
+(defun my-create-newline-and-enter-sexp (&rest _ignored)
+  "Open a new brace or bracket expression, with relevant newlines and indent. "
+  (newline)
+  (indent-according-to-mode)
+  (forward-line -1)
+  (indent-according-to-mode))
+
+#+END_EXAMPLE
+
+
+
+*Addendum: 2014-05-06*
+
+[[https://github.com/Fuco1/smartparens/wiki/Permissions#pre-and-post-action-hooks][Here]] is a link to the documentation on using pre and post pair handlers.
+
+
+

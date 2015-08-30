@@ -1,0 +1,32 @@
+#+POSTID: 8065
+#+DATE: [2013-10-05 Sat 17:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Pip, Python
+#+TITLE: Installing Python.h for Pip Installs
+
+Trying to install GitPython and got the error
+
+
+
+#+BEGIN_EXAMPLE
+    
+fatal error: Python.h: No such file or directory
+
+#+END_EXAMPLE
+
+
+
+And found the solution +[[http://stackoverflow.com/questions/15631135/python-h-missing-from-ubuntu-12-04][here]]+ [[http://about.travis-ci.org/docs/user/build-configuration/#Installing-Packages-Using-apt][here]]:
+
+
+
+#+BEGIN_EXAMPLE
+    
+sudo apt-get update
+sudo apt-get install python-dev
+
+#+END_EXAMPLE
+
+
+

@@ -1,0 +1,17 @@
+#+POSTID: 3176
+#+DATE: [2009-06-07 Sun 01:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Mac
+#+TITLE: Mini-malistic Mac development environment
+
+It looks like the "non-pro" hardware is clearly the best place for me to start; the Mac Mini and Macbook fall into this camp.
+
+My original thought was that the Macbook would be a perfect fit since I could hook it up to an external monitor at home and take it along with me when I need to go mobile. Then it dawned on me, I don't really go mobile. I sure like to imagine all of the cool places I would go with it, but in reality such occurrences are few and far between. For when I really do need a mobile, I've go the XO and the ThinkPad, and who knows, if this Mac stuff pans out I wouldn't mind picking up a Macbook or a MacBook pro. That said: Mini pricing seems very reasonable.
+
+It looks like a Mini with a 2GHz CPU, maxed out with 4GB of ram, the default 120 GB hard drive, and an Nvidia video card that can drive a 1900x1200 display can be had for only $750USD. This seems more than adequate for setting up a Mac development environment; heck even Java would do fine here. What a steal!
+
+The hard drive size upgrade prices are insane. If I need more space, I have a beautiful external LaCie hard drive that has been looking for a home!
+
+
+

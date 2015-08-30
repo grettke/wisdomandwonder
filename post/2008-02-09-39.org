@@ -1,0 +1,13 @@
+#+POSTID: 39
+#+DATE: [2008-02-09 Sat 01:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, Programming
+#+TITLE: For a fun job, see C and Lisp
+
+[[http://bc.tech.coop/resume.htm][Bill Clementson]] always posts great articles.
+
+In [[http://bc.tech.coop/blog/060304.html][this one]] he relays a great story about Amazon, fun jobs, and how to get ahead in business.
+
+
+

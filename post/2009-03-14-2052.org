@@ -1,0 +1,11 @@
+#+POSTID: 2052
+#+DATE: [2009-03-14 Sat 15:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Utility, Windows
+#+TITLE: A Command Line tool for the Windows Clipboard 
+
+[[http://www.thinkingms.com/pensieve/2009/03/14/ClipexeACommandLineToolForTheWindowsClipboard.aspx][This]] command line tool for working with the Windows clipboard looks very useful for Windows power-users.
+
+
+

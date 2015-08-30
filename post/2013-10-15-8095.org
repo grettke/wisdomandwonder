@@ -1,0 +1,66 @@
+#+POSTID: 8095
+#+DATE: [2013-10-15 Tue 02:38]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: AngularJS, Books, Javascript, Learning, Review, Teaching, Web development
+#+TITLE: Mastering Web Application Development with AngularJS Book Review
+
+My journey to using AngularJS (NG) was quite raw, relying entirely on the online
+documentation, API documentation, blog posts, Google group, and stackoverflow 
+links. Surely, not unique, but definitely lacking in some ways since the NG
+documentation is notoriously brief when you get to the "rich" (aka hard) parts.
+After 6 months hacking on NG apps, I got really curious about what "the experts"
+had to say and this book seemed to fit the bill.
+
+The first thing that struck me is that the book is not meant to be your first
+introduction to web application development of any kind SPA or not. All dev
+topics are given some coverage, but it is pretty clear that the authors are 
+master NG users, so be aware before purchasing it. Topics about how to utilize
+NG functionality, debug performance issues, and also optimize them reveal a 
+solid and in-depth understanding. Although they are at the learning-arc where
+they grok it, they are still on that path, and the result is copious amounts of
+code in some areas in an attempt to "make the point", when teaching the point
+would have saved a lot of time and space. At times there is a lot of fluff
+and over-speak, seemingly meant to blow up the page count, and I blame the 
+editors for that.
+
+There are many lovable things about this book but I'll focus on the top two.
+
+First, the book covers real world issues. The build process, authentication,
+authorization, build and deploy, artifact management, dependency management,
+project structure, and testing are covered in depth. If you want to maintain
+your sanity, this book is priceless for the topic alone (experienced developers
+will already know all this, but listing the best of breed tools is still 
+helpful). Second, the authors have a passion for the technology, and that comes
+through as they get into relatively under-taught topics like the engine that
+powers NG and what you need to know to keep your apps performant. That is 
+really one of the most interesting things that this book reveals: NG makes
+simple apps easy and impossible apps possible, but with a price, you must grok
+the engine. Dev teams that laze-out and "wait until we need to" learn how the
+guts work will suffer accordingly due to the non-obvious interdependencies of
+the event structure inherent to the technology. Their explanation of 
+transclusion warrants purchasing the book, seriously, no one else seems to truly
+understand how to explain the feature (or I'm too dumb to grok the API docs).
+
+The formatting on the Kindle is super. The book is oddly overly simplistic 
+offering poor coding styles in some parts and extremely amazingly over technical
+in others. The coverage on forms is better than everything else out there, and
+yet at the same time doesn't seem to cover reusability of validation and data
+models across the enterprise. The chapters on directives are quite nice, and
+helps you to "think different" about what it means to serve your client, and 
+your team using the tech. Pages and pages of code samples could be summarized 
+with eloquent teaching, but everybody has deadlines so I get it.
+
+\_Mastering Web Application Development with AngularJS\_ is a delightful book. It
+tackles what you will eventually learn on your own. It is kind of like being
+able to sit with a NG master and brainstorm with them and listen to their war
+stories turned lessons. It is for developers who have been around the block a 
+few times though, so start elsewhere to learn HTTP, CSS, JavaScript, Async
+programming, multi-threaded programming GUI programming, and architecture before
+diving into this book. If you grok a functional programming language like 
+Scheme, and a declarative programming language like CLIPS, then you will 
+appreciate the amazing and awesome power of AngularJS even more. Thanks for the
+great book. 5/5
+
+
+

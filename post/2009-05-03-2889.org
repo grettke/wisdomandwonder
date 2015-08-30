@@ -1,0 +1,13 @@
+#+POSTID: 2889
+#+DATE: [2009-05-03 Sun 16:29]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Mosh is now R6RS Compliant
+
+[[http://mosh.monaos.org/][Mosh]] is now R6RS Compliant.
+
+(via [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/2d56e7365ed1dc3e#][comp.lang.scheme]])
+
+
+

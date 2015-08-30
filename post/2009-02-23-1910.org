@@ -1,0 +1,52 @@
+#+POSTID: 1910
+#+DATE: [2009-02-23 Mon 01:10]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Functional, Programming, Programming Language, Scheme
+#+TITLE: Why should programmers care about currying in practice in Scheme?
+
+I wanted to know what currying means in practice for programmers who are not themselves theoretical computer scientists so I asked about it [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-December/029401.html][here]]. There were a lot of informative replies; and the most direct answers to the question seem to be:
+
+[[http://list.cs.brown.edu/pipermail/plt-scheme/2008-December/029405.html][Anthony Cowley]]:
+
+
+#+BEGIN_QUOTE
+  There are many cases where Curried functions can be convenient, but I'll just pick one class of examples. In FP, one is often passing around bundles of state in the form of parameters to a function.
+#+END_QUOTE
+
+
+
+[[http://list.cs.brown.edu/pipermail/plt-scheme/2009-January/029447.html][Joe Marshall]]:
+
+
+#+BEGIN_QUOTE
+  Your best bet would be to look at existing Scheme code. I found this example in the MIT Scheme loader: [[[http://list.cs.brown.edu/pipermail/plt-scheme/2009-January/029447.html][click link for code]]]
+#+END_QUOTE
+
+
+
+[[http://list.cs.brown.edu/pipermail/plt-scheme/2009-January/029453.html][Richard Cleis]]:
+
+
+#+BEGIN_QUOTE
+  Currying permits repeated use of intermediate functions as an alternative to overtly managing arguments to a core function.
+#+END_QUOTE
+
+
+
+[[http://list.cs.brown.edu/pipermail/plt-scheme/2009-January/029545.html][David Van Horn]] [on how to use the state monad in Scheme]:
+
+
+#+BEGIN_QUOTE
+  You might have a look at these:
+
+[[http://groups.google.com/group/comp.lang.functional/msg/2fde5545c6657c81]]
+[[http://okmij.org/ftp/Scheme/monad-in-Scheme.html]]
+#+END_QUOTE
+
+
+
+
+
+
+

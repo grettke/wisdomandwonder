@@ -1,0 +1,27 @@
+#+POSTID: 9585
+#+DATE: [2015-02-18 Wed 18:29]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: DevOps, Packer, Vagrant
+#+TITLE: Correctly Setting the VMWare Provider for Vagrant on Windows
+
+When you purchase the VMWare provider for Vagrant on Windows you learn that the provider name is =vmware_desktop=. The only time that you will ever use this name is when you install the provider and the license. If you use that provider name anywhere else you will get message
+
+
+
+#+BEGIN_QUOTE
+  
+The provider 'vmware\_desktop' could not be found, but was requested to back the machine 'default'. Please use a provider that exists.
+
+#+END_QUOTE
+
+
+
+The correct provider name is =vmware_workstation=.
+
+You might mix up the two names when specify a provider when you are bringing a box up. I did it. [[https://groups.google.com/forum/#!topic/vagrant-up/qhmw5SUdaic][He]] did it. It is easy to do, especially if you scan a [[https://atlas.hashicorp.com/puphpet/boxes/ubuntu1404-x64][box page]] to find the provider name. The name there is for the name to install the license, not to start up a box. 
+
+This "issue" has been around for over a year and wastes about an hour of your time if you are facing it on Windows.
+
+
+

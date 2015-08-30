@@ -1,0 +1,11 @@
+#+POSTID: 9298
+#+DATE: [2014-11-07 Fri 01:45]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Utility
+#+TITLE: Starting OSX Apps From The Command Line
+
+=open /Applications/Emacs.app --args -Q=
+
+
+

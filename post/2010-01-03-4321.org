@@ -1,0 +1,15 @@
+#+POSTID: 4321
+#+DATE: [2010-01-03 Sun 22:04]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 
+#+TITLE: A FP Water Bottle
+
+Here is the image that I would probably use if I were to get a custom 1L water bottle from CafePress:
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/01/bottle.png][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/01/bottle-170x300.png]]]]
+
+While it is the PLT Scheme logo, lambda is certainly not PLT Scheme specific ;).
+
+
+

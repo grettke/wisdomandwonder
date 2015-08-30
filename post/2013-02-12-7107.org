@@ -1,0 +1,17 @@
+#+POSTID: 7107
+#+DATE: [2013-02-12 Tue 03:13]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 02947, CB750, CB750F, Honda, Motorcycle, Repair
+#+TITLE: CB750F: Day 13
+
+Normally 13 is unlucky, but never for me (don't worry it comes in other ways). Tonight was the end of the ultrasonic cleaning and the wrap up of the carburetor cleaner manual cleanup; I did bring some along because I didn't want to use up an entire can at class. The brass bristle brushes were invaluable; as were MacGregor's directions, really, really great. One high point was trying to put the silver jet in backwards, and only after measuring it with a micrometer (remember it is dollars, quarters, cents...) did I realize that although silver jet has a .089" gap, which is probably to big, it doesn't matter when you try to insert it in the wrong end of the port. Ah well, Pat said I should ask him about stuff sooner, but that just isn't my way I guess.
+
+This bike was not well loved. The horns are even worn out and ought to be replaced. Tail lights busted. Headlight attached with a twig. Front fender wrong. What happened to this machine? Well, we will fix it up.
+
+Started reassembly tonight. Finally, but it was worth the wait to really clean these things up. The button head Allen screws look great, and hoping that they provide some relief for future maintainers who need to rebuild these carburetors. The ceramic cleaner did good on the float seals, but I will bring in some brasso to see how much cleaner they can be. The workstation was a little too involved to tidy up tonight; can't wait to get back.
+
+[gallery ids="7108,7109,7110,7111,7112,7113,7114,7115,7116,7117,7118,7119,7120,7121,7122"]
+
+
+

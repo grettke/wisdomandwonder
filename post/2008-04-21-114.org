@@ -1,0 +1,13 @@
+#+POSTID: 114
+#+DATE: [2008-04-21 Mon 23:47]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Programming, SICP
+#+TITLE: SICP in Emacs
+
+[[http://www.neilvandyke.org/sicp-texi/][SICP in Emacs]]: Get the best of one in the best of the other.
+
+The implications are obvious!
+
+
+

@@ -1,0 +1,19 @@
+#+POSTID: 8798
+#+DATE: [2014-07-02 Wed 17:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Data science, Emacs, Emacs Lisp, Ide, Lisp, Programming, Statistics
+#+TITLE: Personal approach for collecting Emacs usage statistics advice?
+
+Lately I've been curious whether or not my actual Emacs keymapping usage actually reflects how I think I use it. What I mean is that I have a goal of mapping frequently used operations to easily-accessible keybindings on the keyboard. What I plan to do is to record my usage so that I can study it to find mapping decisions that I got right, and wrong, and also identify things that I use that I should be mapping closer to home.
+
+The simplest approach would be to use a keylogger, or advice inside of Emacs.
+
+What I am curious about is your approach if you had done, or would do, something like this, and your thoughts an ideas.
+
+In my case I lay out my mappings for how far away from home they are, and that has worked well so far, but I would like some numbers to back up that claim though it is not too serious depending upon how you look at it.
+
+*Cross posted from [[https://lists.gnu.org/archive/html/help-gnu-emacs/2014-07/index.html][help-gnu-emacs]]*
+
+
+

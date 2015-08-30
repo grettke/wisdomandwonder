@@ -1,0 +1,17 @@
+#+POSTID: 9571
+#+DATE: [2015-02-15 Sun 19:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, Programming Language, elisp, org-mode
+#+TITLE: Asynchronous Execution in Emacs Lisp
+
+#+BEGIN_QUOTE
+  [[https://github.com/kiwanami/emacs-deferred][Simple asynchronous functions for emacs lisp]]
+#+END_QUOTE
+
+
+
+Via [[http://sheephead.homelinux.org/2015/02/15/7232/][SheepHead]].
+
+
+

@@ -1,0 +1,15 @@
+#+POSTID: 8448
+#+DATE: [2014-04-12 Sat 21:03]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs Lisp, Lisp, Literate Programming, Programming Language, Reproducible research, org-mode
+#+TITLE: imenu-anywhere
+
+A mistake that I made too often in life was to focus too much on the specific implementation or realization of a thing instead of learning about the valuable generalizations and abstractions that may be learned from it and applied elsewhere. That was then, this is now. 
+
+[[https://www.gnu.org/software/emacs/manual/html_node/emacs/Imenu.html][imenu]] is actually a nice feature for Emacs. When I learned about it way back when, having quit using the menu bar, I dismissed it as not-helpful. That was a stupid thing for me to do because there ought to be a way to use it with the keyboard. Of course there is.
+
+Thank you [[https://github.com/vitoshka][vitoshka]], for [[https://github.com/vitoshka/imenu-anywhere][imenu-anywhere]].
+
+
+

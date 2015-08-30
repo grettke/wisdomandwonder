@@ -1,0 +1,21 @@
+#+POSTID: 156
+#+DATE: [2008-05-03 Sat 14:32]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Conference, Programming Language, Scheme
+#+TITLE: 2008 Workshop on Scheme and Functional Programming
+
+The goal of the [[http://www.ccs.neu.edu/home/will/scheme2008/][2008 Workshop on Scheme and Functional Programming]] is to:
+
+
+
+#+BEGIN_QUOTE
+  report experience with the programming languages known as Scheme, to discuss ideas for the future of Scheme, and to present research related to Scheme and functional programming.
+#+END_QUOTE
+
+
+
+It is co-located with [[http://www.icfpconference.org/icfp2008/][ICFP 08]] in Victoria, British Columbia.
+
+
+

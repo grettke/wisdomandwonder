@@ -1,0 +1,29 @@
+#+POSTID: 187
+#+DATE: [2008-05-19 Mon 19:55]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Teaching
+#+TITLE: Writing the next great Java book
+
+At JavaOne 08, the presentation "Writing the next great Java book" looked to be pretty exciting. It was originally billed as an introduction to a couple of authors, a QA session, and then primarily a review of great books in Computer Science history so I was pretty excited. In reality, it was very disappointing. 
+
+The authors blabbed about the same "Authoring 101" that you can pick this up on any "Intro to Authoring" website. In other words: it is really difficult, it will take four times as long as you think, and your family will hate you. The rest of the session was exhausted by the "Head First" authors Kathy Sierra and Bert Bates giving the same, canned presentation that they've been giving since at least 2006 (the first time I saw it).
+
+Now don't get me wrong; Sierra and Bate's presentation is awesome. It is a lot of fun, and you learn a lot. The problem is that you learn a lot about selling; not about writing. Take the tenets for example:
+
+
+
+-  Passion: Enable people's passion
+-  Experience: Provide a no-suck experience
+-  Feeling: Don't make people feel stupid; make them feel like they kick-ass
+
+
+
+Very, very cool ideas. One problem, though; Computer Science is hard. You /will/ feel stupid. Self-reflection is part of learning, and saying to your self "Darn, I don't get this. It is only 5 sentences and I don't get it. I feel stupid". The next step is to press on and learn it. Books don't make you feel stupid, you do; it is part of learning! 
+
+Now, if you truly find a book that sets out to make you feel stupid, be amazed, because such books are sure not to sell /any/ copies. Contrast that with the classics of Computer Science that are works of art, and may involve you feeling stupid, but surely don't set out with the intention to make you feel stupid, but to teach!
+
+To wrap up the presentation, no time was given to classic Computer Science books.
+
+
+

@@ -1,0 +1,15 @@
+#+POSTID: 47
+#+DATE: [2008-02-09 Sat 21:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, forth
+#+TITLE: Why you might want to learn FORTH
+
+You may or may have not heard about the programming language Forth, but if you have heard about it, you are very likely to have heard about it from some very happy, passionate Forth developers!
+
+The best advocacy/introduction/tutorial I've ever read about Forth is located in the beginning of source code for [[http://www.annexia.org/_file/jonesforth.s.txt][this]] Forth interpreter!
+
+After reading this, it is hard not to get excited about the programming language Forth.
+
+
+

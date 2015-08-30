@@ -1,0 +1,25 @@
+#+POSTID: 5340
+#+DATE: [2010-10-12 Tue 22:41]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 22656, Concours, Kawasaki, Motorcycle
+#+TITLE: Battery drain hose location
+
+While installing the power hookup for the Gerbings coat I managed to dislodge the battery drain hose by lifting up the battery (because I wanted to look at it). 
+
+Brooke explained that:
+
+
+
+#+BEGIN_QUOTE
+  The battery vent/drain hose attaches on the right side (as you sit on the bike) and should go to the same place the gas tank filler neck drain hose and the fuel sender drain hose go to. There's a bracket down near the right foot peg back in somewhere between/near the swing arm and frame. It should be easy to see with the right side panel off the bike.
+#+END_QUOTE
+
+
+
+He was right. Took off the one-screwed-on side panel and the bracket is right there along with the two other tubes. The drain now faces where it should... the ground.
+
+(via C.O.G.)
+
+
+

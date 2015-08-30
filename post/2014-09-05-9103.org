@@ -1,0 +1,11 @@
+#+POSTID: 9103
+#+DATE: [2014-09-05 Fri 00:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: 5 Ways to Do 2D Histograms in R
+
+[[http://www.everydayanalytics.ca/2014/09/5-ways-to-do-2d-histograms-in-r.html][Nice article]].
+
+
+

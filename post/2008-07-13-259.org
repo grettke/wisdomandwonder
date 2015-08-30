@@ -1,0 +1,17 @@
+#+POSTID: 259
+#+DATE: [2008-07-13 Sun 00:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: XO
+#+TITLE: SD Cards on the XO
+
+[[http://wiki.laptop.org/go/Secure_Digital_card][Here]] is the page on the OLPC website that documents secure digital cards on the XO.
+
+The XO supports SDHC (high capacity). I use a 16GB AData card on my XO without problem.
+
+Here is a little reminder: when you insert the SD card into the XO, do so with the screen, and the shiny part of the card, both facing you.
+
+BTW: I use a "Sandisk MicroMate for SDHC" USB adapter to work with the card under Windows XP, it cost 8USD from an Amazon affiliate.
+
+
+

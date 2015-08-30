@@ -1,0 +1,11 @@
+#+POSTID: 4726
+#+DATE: [2010-04-24 Sat 17:47]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Gambit, Programming Language, Scheme
+#+TITLE: The beginnings of Scheme on the Wii
+
+The beginnings of Scheme on the Wii via Gambit and the efforts of Sean Charles are discussed [[https://mercure.iro.umontreal.ca/pipermail/gambit-list/2010-April/004464.html][here]].
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 432
+#+DATE: [2008-08-11 Mon 01:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Lisp, Programming, philosophy
+#+TITLE: ACM SIGPLAN Lisp Pointers
+
+While reading a (now forgotten) comp.lang.lisp post, I saw the publication [[http://portal.acm.org/browse_dl.cfm?linked=1∂=newsletter&idx=J509&coll=portal&dl=ACM][ACM SIGPLAN Lisp Pointers mentioned]]. Unfortunately I don't have access to this part of the digital library (for that you need to be a paying member). Perhaps this is something in to which it is worth looking.
+
+Any time folks are interested in something which is now seen as arcane ought to look into that topics history. With enough research, the air of mysticism is usually lifted enough so that one may start to grow a more accurate perspective on the topic. This is especially relevant for Lisp and programmers today.
+
+
+

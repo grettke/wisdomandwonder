@@ -1,0 +1,35 @@
+#+POSTID: 43
+#+DATE: [2008-02-09 Sat 03:11]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Lisp, Programming
+#+TITLE: Bubba Zanetti on "the it factor" in programming
+
+When it comes to identifying "the it factor" in programmers, everyone has an opinion. [[http://www.paulgraham.com/bio.html][Paul Graham]] attributes it to good [[http://www.paulgraham.com/taste.html][taste]]. [[http://se.ethz.ch/~meyer/][Bertrand Meyer]] attributes it to doing things with [[http://archive.eiffel.com/eiffel/why_eiffel.html][class]]. Neither of them, though, of even come close to revealing the truth of it as Bubba Zanetti, the preeminent philosopher of the wasteland, did when he identified /style/ as "the it factor" in programming. 
+
+His seminal contribution to answering this age-old question came to him in a fit of inspiration following a conversation he had with another programmer. In reply to said programmer, who had just explained that he would never learn Lisp solely for the fact that he hates parentheses, Bubba Zanetti suggested that:
+
+
+
+#+BEGIN_QUOTE
+  You just don't have the style, do you, chicken shit?
+#+END_QUOTE
+
+
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/02/bubba_zanetti_scooter.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/02/bubba_zanetti_scooter.thumbnail.jpg]]]]
+
+*Addendum*: When questioned as to why many of today's programmers lack the so-called "it factor", Bubba Zanetti suggested that:
+
+
+
+#+BEGIN_QUOTE
+  Perhaps it was a result of anxiety.
+#+END_QUOTE
+
+
+
+
+
+
+

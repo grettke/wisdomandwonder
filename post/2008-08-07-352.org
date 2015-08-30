@@ -1,0 +1,24 @@
+#+POSTID: 352
+#+DATE: [2008-08-07 Thu 00:50]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Lisp, Programming, Programming Language, philosophy
+#+TITLE: On Lisp
+
+During my vacation, I skimmed Paul Graham's book On Lisp. There were many interesting bits in there:
+
+
+
+-  He really tries to "sell the wonder of Lisp". I'm not sure is possible, though.
+-  "Users prefer double edged swords to blunt ones"
+-  I think that he loves Scheme, but uses CL for practical reasons.
+-  He digs deep into code, heavily visiting macros and even implementing continuations, non-determinism, and an object system
+-  He is probably a world-class hacker who will never be recognized for his talent, but instead his success
+-  This is probably not a good "first Common Lisp book" as it is very deep stuff
+
+
+
+
+
+
+

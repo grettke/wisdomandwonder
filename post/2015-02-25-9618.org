@@ -1,0 +1,13 @@
+#+POSTID: 9618
+#+DATE: [2015-02-25 Wed 02:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Astronomy
+#+TITLE: Pinwheel Galaxy
+
+Here is a nice picture of [[https://en.wikipedia.org/wiki/Pinwheel_Galaxy][M101]].
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2015/02/M101-ORG.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2015/02/M101-ORG-150x150.jpg]]]]
+
+
+

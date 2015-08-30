@@ -1,0 +1,11 @@
+#+POSTID: 6586
+#+DATE: [2012-11-16 Fri 22:29]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Artificial Intelligence, Computation, Java, Jess, Knowledge Engineering, Rules Engine, mathematics
+#+TITLE: On Rules
+
+Over the last few weeks nights and weekends I've played around with Jess studying up on rules engines and expert systems. The approach of focusing on the limited reality defined by the facts and rules in the universe of the engine along with letting go of control of sequencing are surprisingly freeing. Memories of event loops, OOAD, OOP, multimethods, state machines, horribly hand-written code, and event handlers all come to mind. It is fascinating to see how well some things can be simplified. It makes me wonder why we ever choose one approach over another. Supposedly we always use the best tool for the job; but in practice most of us learn one halfway decent approach ("tool") once and end up using it forever. I suppose that is a human trait and not unique to problem solving with programming languages.
+
+
+

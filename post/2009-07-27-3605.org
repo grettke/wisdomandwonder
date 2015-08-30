@@ -1,0 +1,36 @@
+#+POSTID: 3605
+#+DATE: [2009-07-27 Mon 15:17]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Business, Programming
+#+TITLE: Maybe Java and C# are the F-16 of the IT world
+
+#+BEGIN_QUOTE
+  Emerging Technologies
+
+The U.S. Air force Air Demonstration Squadron , also known at The Thunderbirds, started out in 1953 flying F-84 Thunderjets. The F-84 had been flown for the first time in 1946. In 1955 they upgraded to the F-84F Thunderstreak. One year later they broke the sound barrier with the F-100C Super Sabre, which they stuck with for 14 years. In 1969 they switched to the F-4 Phantom, which had made its maiden flight 11 years earlier in 1958.
+
+In 1974 they responded to the gas crisis by flying T-38 Talon. It was sort of like the Toyota Prius of jets at the time. After a control stick failure in 1982 caused the death of four pilots, they upgraded to the F-16, which they have been using ever since.
+
+Now the point is that in the early days of jet technology, frequent upgrades were necessary to take advantage of the advancements, but the F-16s work just fine and they are content to fly an aircraft that made its first flight in 1974, 35 years ago at the time of this writing.
+
+Maybe Java and C# are like the F-16 of the IT world.
+
+In the nineties we went from text-based applications to GUI applications. From structured programming to object oriented programming, from compiled code to byte code, from desktop applications to web based applications, and eventually to ”enterprise applications”. And that is where we are today. Sure, we have new frameworks and a few additional tools like Hibernate and AJAX. The F-16s have upgraded avionics and weaponry too. But we are still flying the same basic airframe.
+
+As the technology has stabilized, our skills don't decay as quickly. This is good for people who are slow learners, but it means that movers and shakers may not have the same opportunity to be a rock star that Windows programmers had in the early nineties or web developers had in the late nineties.
+
+So where do we go from here?
+#+END_QUOTE
+
+
+-- Zachary Schmidt
+
+Good question. 
+
+In the late nineties and early 2000s it was an exciting time in IT. People were learning a lot about object-oriented programming and different styles of running software projects. Things have settled down though, like Zac explained. I had always assumed that everyone, having ramped up on the current technologies, would be spending nights and weekends ramping up on whatever might end up as the "next current technologies". That really hasn't happened though. 
+
+Where do we go from here? Perhaps it is functional programming, but I don't have any strong opinions here. Rather, I would share that where we ought to go from here is towards /smarter/ programming with /powerful/ languages. IT is generally lacking in both of those things today; and addressing them would save time /and/ money.
+
+
+

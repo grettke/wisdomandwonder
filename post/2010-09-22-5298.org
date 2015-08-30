@@ -1,0 +1,15 @@
+#+POSTID: 5298
+#+DATE: [2010-09-22 Wed 15:43]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Lisp, Programming Language, Racket, Scheme
+#+TITLE: Racket on Racket?
+
+There is a [[http://groups.google.com/group/racket-users/browse_thread/thread/3de685cc9ef1d861][precedent]]for hosting other languages on top of Racket by compiling their syntax down to Racket. What got me thinking other languages on Racket was Shriram's P4P article, and also to some degree a discussion surrounding Gambit's SIX. It got me wondering...
+
+Would PLT have anything to gain from providing a non-parenthesized language created specifically for Racket? What I mean is take Racket, remove the stuff too hard to do without parens, and offer that up as an "official" Racket language. This is not the same as implementing Java on Racket.
+
+How difficult would it be to "come up with" such a language? I'm totally ignorant regarding language design. Would it be interesting... or boring and a waste of time?
+
+
+

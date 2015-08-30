@@ -1,0 +1,21 @@
+#+POSTID: 4597
+#+DATE: [2010-03-19 Fri 15:05]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Fun, philosophy
+#+TITLE: A Philosophy of Cool for Non-Living Things
+
+#+BEGIN_QUOTE
+  
+Cool can come from what a [thing] is or what it does. But at the core, Cool is about purity of expression, of material objects being infused with human energy, creativity and insight to make them more than just the sum of their parts.
+
+#+END_QUOTE
+
+
+
+-- Mark Hoyer, WHAT IS COOL?, Cycle World 2/2010
+
+I love Mark's take on cool; from motorcycles to programming languages, it still makes sense. It makes me think about how great it is to be alive, living, in the present. It is a gift.
+
+
+

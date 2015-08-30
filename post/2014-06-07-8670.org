@@ -1,0 +1,13 @@
+#+POSTID: 8670
+#+DATE: [2014-06-07 Sat 01:31]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming, Programming Language, Scheme
+#+TITLE: Nice article on continuations
+
+[[http://danielmartins.ninja/posts/why-are-continuations-so-darn-cool.html][Here]]. 
+
+Scheme is, [[http://www.wisdomandwonder.com/article/119/deceptively-simple][deceptively simple]].
+
+
+

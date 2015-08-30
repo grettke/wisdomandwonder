@@ -1,0 +1,27 @@
+#+POSTID: 4880
+#+DATE: [2010-05-31 Mon 16:39]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Highlighting code in Scribble
+
+You can use 'code:hilite' to highlight expressions in Scribble generated documentation like this:
+
+
+
+#+BEGIN_EXAMPLE
+    
+@schemeblock[ 
+  (+ 1 (code:hilite +inf.0)) 
+ ]
+
+#+END_EXAMPLE
+
+
+
+It doesn't work for multi-line expressions yet, however.
+
+(via [[http://groups.google.com/group/plt-scheme/browse_thread/thread/a96843d7c03996c5/e051a835a4c5bffb][plt]])
+
+
+

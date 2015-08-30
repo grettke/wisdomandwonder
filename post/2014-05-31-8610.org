@@ -1,0 +1,79 @@
+#+POSTID: 8610
+#+DATE: [2014-05-31 Sat 15:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming, Programming Language, Reproducible research, elisp, org-mode, philosophy
+#+TITLE: Lightweight multiple modes for semi-literate programming
+
+Sometimes you don't want a 100% reproducible system ([[http://orgmode.org/][org-mode]], [[http://www.cs.tufts.edu/~nr/noweb/][noweb]], [[https://github.com/vitoshka/polymode][polymode]]) and instead just want an easy way to work with multiple languages within the same document ([[http://www.emacswiki.org/emacs/MuMaMo][MuMaMo]]). Sometimes you don't even want to go that far though and just want a really easy way to hack on different languages that have somehow ended up in the same file. 
+
+Jon posted the link [[http://irreal.org/blog/?p=2602][here]] to [[http://demonastery.org/2013/04/emacs-narrow-to-region-indirect/][Zane's]] solution. Very cool. Nice reminder that if we were to read the Emacs and Emacs Lisp user manual, we would all know how to do this. Another nice reminder, even if we don't, kind people provide the information and solutions for us, the very definition of community. I wanted a slightly different approach with just a couple additional things: line numbers instead of the point, safety checks for use via code, and a little more documentation:
+
+
+
+
+
+#+BEGIN_EXAMPLE
+    
+(defun gcr/narrow-to-region* (boundary-start boundary-end fun)
+  "Edit the current region in a new, cloned, indirect buffer.
+
+This function is responsible for helping the operator to easily
+manipulate a subset of a buffer's contents within a new buffer. The
+newly created clone buffer is created with `clone-indirect-buffer',
+so all of its behaviors apply. You may care specifically about the
+fact that the clone is really just a 'view' of the source buffer, so
+actions performed within the source buffer or its clone(s) are
+actually occurring only within the source buffer itself. When the
+dynamic extent of this function is entered, the operator is prompted
+for a function to call to make upon entering the new buffer. The intent
+is to specify the desired mode for the new buffer, for example by
+calling `scheme-mode', but any function may be called.
+
+The subset chosen for manipulation is narrowed by
+`narrow-to-region'. When the clone buffer is created, the lines in
+which the start and end of the boundary occur are included at the
+end the new clone buffer name to serve as a reminder for its
+'true source'. The intent is to facilitate going back from the clone
+buffer to the source buffer with knowledge of where it originated.
+
+BOUNDARY-START and BOUNDARY-END are provided by delegation of this
+function to `interactive'. FUN is provided interactively by the
+operator via the modeline in the same manner. See Info node
+`(elisp) Eval' for more on why `funcall' was used here instead of
+`eval' for calling the selected function.
+
+Attribution: URL `http://demonastery.org/2013/04/emacs-narrow-to-region-indirect/'
+Attribution: URL `http://paste.lisp.org/display/135818Attribution'"
+  (interactive "*r\naMode name? ")
+  (let* ((boundary-start (if (< boundary-start 1) (point-min)
+                           boundary-start))
+         (boundary-end (if (<= boundary-end boundary-start) (point-max)
+                         boundary-end))
+         (new-name (concat
+                    (buffer-name)
+                    "⊃"
+                    (number-to-string (line-number-at-pos boundary-start))
+                    "-"
+                    (number-to-string (line-number-at-pos boundary-end))))
+         (buf-name (generate-new-buffer-name new-name))
+         (fun (if (fboundp fun) fun
+                'fundamental-mode)))
+    (with-current-buffer (clone-indirect-buffer buf-name +1 +1)
+      (narrow-to-region boundary-start boundary-end)
+      (deactivate-mark)
+      (goto-char (point-min))
+      (funcall fun))))
+
+#+END_EXAMPLE
+
+
+
+"Simple" stuff like this is great for facilitating discussions during interviews because a gentle overview provided by the implementer can reveal so much about how they think.
+
+*ADDENDUM: 14-06-18*
+
+[[http://www.emacswiki.org/emacs/NarrowIndirect][Here]] is a link to the EmacsWiki on narrowing to an indirect buffer, there is already a library for it. Of course there is!
+
+
+

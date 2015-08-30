@@ -1,0 +1,11 @@
+#+POSTID: 3331
+#+DATE: [2009-06-16 Tue 22:55]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Fun, technology
+#+TITLE: Debugging With A Speaker
+
+[[http://www.dadhacker.com/blog/?p=1120][Here]] is a good article about debugging using a speaker! :)
+
+
+

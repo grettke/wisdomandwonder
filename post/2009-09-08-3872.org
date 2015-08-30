@@ -1,0 +1,15 @@
+#+POSTID: 3872
+#+DATE: [2009-09-08 Tue 02:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Chez, Programming Language, Scheme
+#+TITLE: SRFI Libraries for Chez Scheme
+
+Thanks to the efforts of the [[http://srfi.schemers.org/][SRFI]] authors, the [[https://code.launchpad.net/~scheme-libraries-team/scheme-libraries/srfi][R6RS SRFI library team,]] and [[http://www.sacrideo.us/][Aaron]], [[http://www.scheme.com/][Chez]] has the portable R6RS SRFI libraries up and running on it.
+
+A single R6RS code-base used among all of the different R6RS implementations means substantial code-reuse, and all of the benefits that it brings.
+
+(via [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/a4384c341af85111#][comp.lang.scheme)]]
+
+
+

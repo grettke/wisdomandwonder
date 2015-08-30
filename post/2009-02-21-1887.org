@@ -1,0 +1,50 @@
+#+POSTID: 1887
+#+DATE: [2009-02-21 Sat 21:41]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, PLT, Programming
+#+TITLE: Understanding PLT Redex
+
+The [[http://www.r6rs.org/final/html/r6rs/r6rs-Z-H-15.html#node_chap_A][formal semantics]] of R6RS are described using [[http://redex.plt-scheme.org/][PLT Redex]]. I don't understand this field of study or where to start so I asked about it on the PLT discussion list and Robby replied here:
+
+
+
+#+BEGIN_QUOTE
+  Start by reading the introduction to the formal semantics. Then download it and look at the README file (there are some examples in there to get you going).
+
+If you're interested in learning more about the style of semantics, as background on the R6 semantics, you can start with the redex web site and ask questions here. There is a book that should be coming out in a few months that might also be helpful.
+#+END_QUOTE
+
+-- Robby
+
+Jos also explained [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-February/030720.html][here]]:
+
+
+
+#+BEGIN_QUOTE
+  Redex is a tool that allows:
+1: the description of the grammar of a language
+2: the description of how an expression of that language is to be reduced to the value of that expression (reduction relation)
+3: after having done steps 1 and 2, redex (in casu procedures traces and apply-reduction-relation) can show you how an expression is reduced to its value.
+
+Although Redex is far more general than just a tool to play with Lambda Calculus (LC) and Combinatory Logic (CL), my path was the following:
+
+0: Imperative programming.
+1: The Little LISPer, which is a great primer before glancing into 4. (about recursion, not really a book about programming, imho)
+2: Greg Michaelson, An Introduction to Functional Programming through Lambda Calculus (not a masterpiece, but easy to read)
+3: Playing with Scheme (particularly preparing lots of interpreters.
+4: 1984. The Lambda Calculus, Its Syntax and Semantics, Vol. 103 in Studies in Logic and the Foundations of Mathematics. North-Holland. ISBN 0-444-87508-5. Not easy but very comprehensive.
+5: SICP (transformation to continuatian passing style and storage passing style)
+6: Redex, which allows me to check my understanding of LC and CL.
+
+You can regard LC and CL as the ultimate mathematical abstractions of programming languages. In fact LC consists of the ultimate lambda and applications only, nothing else. CL goes even further. It has applications only, no lambda, just a few primitive functions (possibly only one) Yet CL and LC can be proven to incorporate all "definable functions". These are not programming languages for practical use, They are formal mathematical systems of outraging beauty. If you want to make working programs, you'd better not follow my path, I think.
+
+LC is an important piece of mathematics for the formal study of the properties of real life programming languages. It is used extensively in scientific studies on real life programming languages. Scheme can rather easily be described with mathematical precision in terms of LC. IIRC Algol60 has been described in terms of LC too. As an example, the semantical description of Scheme-R6RS is based on knowledge based on LC.
+#+END_QUOTE
+
+-- Jos
+
+
+
+
+

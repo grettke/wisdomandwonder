@@ -1,0 +1,31 @@
+#+POSTID: 1552
+#+DATE: [2009-01-08 Thu 04:42]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Java, Objective-C, Programming Language, iPhone
+#+TITLE: Cross-compiling Java to Objective-C for the iPhone
+
+It seems that you can cross compile Java to Objective-C on the iPhone. I didn't dig any deeper than that.
+
+Here is the blurb for the technologies used:
+
+
+
+#+BEGIN_QUOTE
+  The goal of [[http://www.xmlvm.org/overview/][XMLVM]] is to offer a flexible and extensible cross-compiler toolchain. Instead of cross-compiling on a source code level, XMLVM cross-compiles byte code instructions from Sun Microsystem's virtual machine and Microsoft's Common Language Runtime. The benefit of this approach is that byte code instructions are easier to cross-compile and the difficult parsing of a high-level programming language is left to a regular compiler. In XMLVM, byte code-based programs are represented as XML documents. This allows manipulation and translation of XMLVM-based programs using advanced XML technologies such as XSLT, XQuery, and XPath.
+#+END_QUOTE
+
+
+
+
+
+#+BEGIN_QUOTE
+  Apple's iPhone has generated huge interest amongst users and developers alike. Like MacOS X, the iPhone development environment is based on Objective-C as the development language and Cocoa for the GUI library. The iPhone SDK license agreement does not permit the development of a virtual machine. Using XMLVM, we circumvent this problem by [[http://www.xmlvm.org/iphone/][cross-compiling Java to the iPhone]]. Just like a Java application can be cross-compiled to AJAX, XMLVM can be used to cross-compile a Java application to Objective-C. The cross-compilation is also accomplished by mimicking a stack-based machine in Objective-C. Consider the instruction (integer remainder) that pops two integers off the stack and pushes their remainder after division back onto the stack. Using the following XSL template, the instruction can be mapped to Objective-C.
+#+END_QUOTE
+
+
+
+(via the [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-January/029553.html][PLT Mailing List]])
+
+
+

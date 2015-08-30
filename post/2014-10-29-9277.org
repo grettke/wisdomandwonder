@@ -1,0 +1,17 @@
+#+POSTID: 9277
+#+DATE: [2014-10-29 Wed 13:45]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Set image width in org-mode
+
+Make org and export use the same image width via [[https://lists.gnu.org/archive/html/emacs-orgmode/2014-10/msg00038.html][this post]]:
+
+=
+#+attr_latex: :width 4in :placement [H]
+#+attr_org: :width 400
+[[./images/batch-multiple.png]]
+=
+
+
+

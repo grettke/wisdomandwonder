@@ -1,0 +1,11 @@
+#+POSTID: 3060
+#+DATE: [2009-05-31 Sun 02:07]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: A Walking Back in Time REPL
+
+In [[http://groups.google.com/group/ikarus-users/browse_thread/thread/656512168d170da3/6c96f59d77af212a?lnk=gst&q=Branchable+repl#6c96f59d77af212a][this]] post Eduardo explains a REPL that he implement for [[http://factorcode.org/][Factor]] that allows you to go back to any point back in time of the REPL. In the thread he is wondering if such a thing is possible in [[http://ikarus-scheme.org/][Ikarus Scheme]]. Either way, it sounds pretty interesting and clearly Eduardo is very talented!
+
+
+

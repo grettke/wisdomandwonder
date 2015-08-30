@@ -1,0 +1,15 @@
+#+POSTID: 6090
+#+DATE: [2011-12-21 Wed 03:55]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: DrRacket, Emacs, Ide, Programming Language, Racket
+#+TITLE: Emacs like expression evaluation in Emacs
+
+A lot of people would like Emacs style evaluation of code in DrRacket.
+
+[[http://docs.racket-lang.org/drracket/Keyboard_Shortcuts.html?q=keybinding#%28part._.Sending_.Program_.Fragments_to_the_.R.E.P.L%29][This]] document explains how to do it.
+
+(via [[http://groups.google.com/group/racket-users/browse_thread/thread/57bd983866c5d2c6][racket-users]])
+
+
+

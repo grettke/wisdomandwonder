@@ -1,0 +1,76 @@
+#+POSTID: 9086
+#+DATE: [2014-09-02 Tue 17:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: R-Project
+#+TITLE: How to debug within R
+
+
+In my words this is how to debug within R:
+
+
+
+
+
+-  If you want to *print a stack trace* for the most recent exception
+
+
+   -  then use =traceback=
+
+   -  you may or may not have the source
+
+
+   
+
+-  If you want to *set a breakpoint at a specific location* in the code
+
+
+   -  then use =browser=
+
+   -  you must have the source
+
+   -  it may be conditional
+
+
+   
+
+-  If you want to *set a breakpoint on a function* at its
+entry point
+
+
+   -  then use =debug=
+
+   -  you may or may not have the source
+
+   -  delegates work to =browser=
+
+
+   
+
+-  If you want to *install a global exception handler* that will immediately start
+debugging
+
+
+   -  then use =recover=
+
+   -  you may or may not have the source
+
+
+   
+
+-  If you want to *add watch statement* to a function
+
+
+   -  then use =trace=
+
+   -  you may or may not have the source
+
+
+   
+
+
+
+
+
+
+

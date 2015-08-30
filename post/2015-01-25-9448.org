@@ -1,0 +1,15 @@
+#+POSTID: 9448
+#+DATE: [2015-01-25 Sun 14:43]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Clojure, Interop, R-Project
+#+TITLE: Easily communicate with R and Clojure
+
+[[https://github.com/vspinu/R-nREPL][R-nREPL]] is "an implementation of [[https://github.com/clojure/tools.nrepl][nREPL]] client and server for [[http://www.r-project.org/][R]]".
+
+It lets them communicate with each other quite easily.
+
+Via [[https://stat.ethz.ch/pipermail/ess-help/2015-January/010407.html][ess-help]].
+
+
+

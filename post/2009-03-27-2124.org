@@ -1,0 +1,17 @@
+#+POSTID: 2124
+#+DATE: [2009-03-27 Fri 13:29]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming
+#+TITLE: Art and Code and Visualizing Data
+
+#+BEGIN_QUOTE
+  I went to two of [[http://benfry.com/][Ben Fry']]s talks at [[http://artandcode.ning.com/][Art and Code]], and bought his book Visualizing Data (O'Reilly) and downloaded his dissertation, so I can guess how his presentation went. To get the real flavor of what happens in those first ten minutes, though, besides waiting for the NEU ACM video (great ACM chapter, by the way!), you can also wait for the Art and Code videos, which are not up yet, but will be at some point, here: [[http://www.vimeo.com/artandcode]]
+#+END_QUOTE
+
+
+
+(via [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-March/031647.html][PLT]])
+
+
+

@@ -1,0 +1,35 @@
+#+POSTID: 208
+#+DATE: [2008-06-16 Mon 14:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: XO
+#+TITLE: OLPC XO: The Programmer's Ebook Reader
+
+The [[http://laptop.org/][OLPC XO]] has turned out to be a perfect ebook reader for me for the following reasons:
+
+
+
+5 hour battery life in black&white mode with xpdf and [[http://www.plt-scheme.org/software/mzscheme/][mzscheme]] or Firefox and [[http://www.sbcl.org/][SBCL]] open
+
+
+While reading, try out code in Common Lisp, Scheme, Erlang, Ruby, Perl...
+
+
+Take notes while reading
+
+
+Beautiful screen
+
+
+Light weight, tiny size
+
+
+Low cost and durable
+
+
+
+
+
+
+
+

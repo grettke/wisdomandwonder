@@ -1,0 +1,13 @@
+#+POSTID: 4788
+#+DATE: [2010-05-25 Tue 16:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, ML, OCaml, Programming, Programming Language
+#+TITLE: Tuareg mode has new maintainers
+
+Maintenance of the Tuareg mode for Emacs has been taken over by some Jane Street Capital folks and can be found [[https://forge.ocamlcore.org/projects/tuareg/][here]] on OCamlCore.
+
+(via [[http://groups.google.com/group/fa.caml/browse_thread/thread/f575a5d8b3d491/79ed60f63e3239f3?lnk=gst&q=+new+emacs+tuareg+mode+release#79ed60f63e3239f3][caml-list]])
+
+
+

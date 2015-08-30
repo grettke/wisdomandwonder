@@ -1,0 +1,19 @@
+#+POSTID: 9887
+#+DATE: [2015-07-18 Sat 17:09]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Applied mathematics, Programming, Programming Language, R-Project, S-PLUS, applied statistics
+#+TITLE: BlueSky Statistics for R
+
+#+BEGIN_QUOTE
+  [[[http://www.blueskystatistics.com/][BlueSky Statistics is a]]] Fully featured Statistics application and development framework built on the open source R project
+#+END_QUOTE
+
+
+
+Basically it makes the first 80% of the stuff that you want to do with R very easy.
+
+The very cool part is that you get the R output so it is another great way to learn R itself.
+
+
+

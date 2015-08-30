@@ -1,0 +1,11 @@
+#+POSTID: 8901
+#+DATE: [2014-08-17 Sun 15:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: BNF description for R
+
+[[https://stat.ethz.ch/pipermail/r-help/2014-August/420907.html][You were the only one wondering]] [[https://svn.r-project.org/R/trunk/src/main/gram.y][where it is]].
+
+
+

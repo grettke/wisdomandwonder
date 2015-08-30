@@ -1,0 +1,29 @@
+#+POSTID: 9509
+#+DATE: [2015-02-05 Thu 17:14]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: Narrow your view on multiple-cursor marks
+
+The [[http://sachachua.com/blog/2015/01/emacs-kaizen-helm-swoop-editing/#comment-1820021729][discussion in the comments]] of [[http://sachachua.com/blog/2015/01/emacs-kaizen-helm-swoop-editing/][this post]] is great. It reveals a couple of ways to narrow your view, in a few frameworks. In particular it reveals that in multiple-cursors, all it takes is a call to =mc-hide-unmatched-lines-mode=.
+
+
+
+#+BEGIN_QUOTE
+  
+(mc-hide-unmatched-lines-mode &optional ARG)
+
+Minor mode when enabled hides all lines where no cursors (and
+also hum/lines-to-expand below and above) To make use of this
+mode press "C-'" while multiple-cursor-mode is active. You can
+still edit lines while you are in mc-hide-unmatched-lines
+mode. To leave this mode press or "C-g"
+
+#+END_QUOTE
+
+
+
+Just be sure to exit this mode before closing Emacs as it is a little confusing to return to nothing.
+
+
+

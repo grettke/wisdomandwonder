@@ -1,0 +1,22 @@
+#+POSTID: 125
+#+DATE: [2008-04-27 Sun 15:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: The Schematics Scheme Cookbook
+
+[[http://schemecookbook.org/][The Schematics Scheme Cookbook]]
+
+
+#+BEGIN_QUOTE
+  
+is a collaborative effort to produce documentation and recipes for using Scheme for common tasks. 
+
+#+END_QUOTE
+
+
+
+This is a site with high quality posts, and in particular it has a large amount of code specific to [[http://www.plt-scheme.org/][PLT Scheme]]. It is yet another great site that is definitely worth your time.
+
+
+

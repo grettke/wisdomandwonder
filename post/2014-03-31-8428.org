@@ -1,0 +1,21 @@
+#+POSTID: 8428
+#+DATE: [2014-03-31 Mon 23:11]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Book, Science, philosophy
+#+TITLE: The Yoga Sutras of Patanjali
+
+The version that we'll study with:
+
+
+
+#+BEGIN_QUOTE
+  Commentary on the Raja Yoga Sutras by Sri Swami Satchidananda
+#+END_QUOTE
+
+
+
+
+
+
+

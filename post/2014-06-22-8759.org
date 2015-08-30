@@ -1,0 +1,13 @@
+#+POSTID: 8759
+#+DATE: [2014-06-22 Sun 00:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: A must read overview of one person's org usage
+
+[[http://doc.norang.ca/org-mode.html][This]] is a great, detailed overview of one person's org usage.
+
+Myself not having used agenda at all yet, it is nice to see such a thoughtful exposition, something seemingly common to org users.
+
+
+

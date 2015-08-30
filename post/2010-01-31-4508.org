@@ -1,0 +1,11 @@
+#+POSTID: 4508
+#+DATE: [2010-01-31 Sun 18:13]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Clojure, LaTeX, Programming Language, TeX
+#+TITLE: Adding Clojure support to listings
+
+In [[http://alexott.blogspot.com/2010/01/clojure-latex.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+alexott+%28Alex+Ott%27s+blog%29][this]] post Alex shares his patch for adding Clojure support to the excellent LaTeX [[http://www.ctan.org/tex-archive/macros/latex/contrib/listings/listings.pdf][listings]] package.
+
+
+

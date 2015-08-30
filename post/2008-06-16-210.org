@@ -1,0 +1,19 @@
+#+POSTID: 210
+#+DATE: [2008-06-16 Mon 15:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Functional, Learning, Programming, Programming Language, Teaching
+#+TITLE: Functional Programming in Education
+
+#+BEGIN_QUOTE
+  On May 28-29, 2008 SIGPLan held a workshop on Programming Languages in the Curriculum at Harvard.
+#+END_QUOTE
+
+
+
+to discuss the role of Functional Programming in Education. The results of their efforts are [[http://wiki.acm.org/cs2001/index.php?title=SIGPLAN_Proposal][here]].
+
+Please have a look, and, per [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-June/024987.html][Matthias' comment]], please consider posting your comments (under the "Programming Languages" section)!
+
+
+

@@ -1,0 +1,33 @@
+#+POSTID: 3077
+#+DATE: [2009-05-31 Sun 02:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Computer Science, Operating System
+#+TITLE: Coyotos and Genode OS
+
+[[http://www.coyotos.org/][Coyotos]] and [[http://genode.org/][Genode]] are two operating systems about which I had never heard that were mentioned in an Ikarus Users mailing list thread that doesn't seem to have been mirrored online.
+
+Coyotos:
+
+
+#+BEGIN_QUOTE
+  Coyotos is a secure, microkernel-based operating system that builds on the ideas and experiences of the EROS project.
+#+END_QUOTE
+
+
+
+
+
+Genode:
+
+
+#+BEGIN_QUOTE
+  We understand the complexity of code and policy as the most fundamental security problem shared by modern general-purpose operating systems. Because of high functional demands and dynamic workloads, however, this complexity cannot be avoided. But it can be organized. Genode is a novel OS architecture that is able to master complexity by applying a strict organizational structure to all software components including device drivers, system services, and applications. The Genode OS framework is the effort to advance the Genode OS architecture as a community-driven open-source project.
+#+END_QUOTE
+
+
+
+
+
+
+

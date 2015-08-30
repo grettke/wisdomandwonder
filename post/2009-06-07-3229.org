@@ -1,0 +1,13 @@
+#+POSTID: 3229
+#+DATE: [2009-06-07 Sun 01:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: iPhone
+#+TITLE: Doom for iPhone Update
+
+[[http://www.idsoftware.com/iphone-doom-classic-progress/][Here]] is an update on the official Doom port for iPhone.
+
+(via [[http://www.reddit.com/r/programming/comments/8o5w6/iphone_doom_classic_progress_report/][reddit]])
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 9636
+#+DATE: [2015-03-10 Tue 15:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Nice HTML Slide Export in Org-Mode with org-ioslide
+
+[[https://coldnew.github.io/slides/org-ioslide/#1][Here]] is the project.
+
+Link via [[https://www.reddit.com/r/orgmode/comments/2yjydl/orgioslide_beautiful_html5_slides_exporter/][reddit]].
+
+
+

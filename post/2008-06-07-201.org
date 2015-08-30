@@ -1,0 +1,13 @@
+#+POSTID: 201
+#+DATE: [2008-06-07 Sat 09:03]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, PLT, Programming Language, Scheme
+#+TITLE: Using PLT Scheme for Game Development
+
+[[http://bc.tech.coop/blog/080606.html][This presentation]] at the Vancouver Lisp Users Group sounds like a lot of fun.
+
+
+
+
+

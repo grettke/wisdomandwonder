@@ -1,0 +1,17 @@
+#+POSTID: 4498
+#+DATE: [2010-01-30 Sat 14:03]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Eiffel, Programming Language
+#+TITLE: Eiffel gets a new for-each-like syntax
+
+[[http://bertrandmeyer.com/2010/01/26/more-expressive-loops-for-eiffel/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+BertrandMeyer+%28Bertrand+Meyer%27s+technology+blog%29][Here]] is an article explaining Eiffel's new for-each-like syntax. 
+
+It is pretty interesting to see how the language evolves... obviously a very different approach then the Lisp-ish "just add the syntax you need" approach.
+
+*Addendum:01/30/10*
+
+Changed the title as I meant 'for-each' and not 'map'.
+
+
+

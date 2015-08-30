@@ -1,0 +1,158 @@
+#+POSTID: 2855
+#+DATE: [2009-05-03 Sun 18:25]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: XO
+#+TITLE: A Revised XO Setup
+
+OLPC XO Sugar release 8.2.0 (r767) left me with a useless machine so I decided to go back to a more reliable operating system version and capture the full setup here for record.
+
+OS and Firmware
+
+
+1. Imaged the XO with operating system release [[http://wiki.laptop.org/go/OS_images][703]]. I would have preferred to use 656 as that was extensively "field tested" while I was in Vietnam, but, that build is not able to "see" my new D-Link wifi router.
+2. Left the [[http://wiki.laptop.org/go/Firmware][firmware]] alone at Q2E18. I didn't see a need to mess with this.
+3. Be sure to include the [[http://wiki.laptop.org/go/G1G1_Activity_Pack][G1G1 activity pack]] as you need Terminal. [[http://wiki.laptop.org/go/Installing_an_activity_pack][Here]] are the directions on how to install the activity pack. Basically you need to extract it to the root of the flash drive you are using. The directions for installing the OS used to indicate that the pack would be installed after you reimage your XO, but you can install the pack at any time. I have tested this since I did not install the pack when I imaged the XO.
+
+
+
+Setup VIM to make this easier
+
+
+1. In a newly created .vimrc add
+2. set background=dark
+3. set tabstop=4
+4. set number
+
+
+
+Enable SSH for olpc but not root
+
+
+1. In order to configure SSH you need to set a password for root.
+2. 703 comes without the default activies; so you need to go to the console to set the password. You can use terminal for this; or go directly to the console via the approach described below.
+3. Become root and set a password both for root and for olpc
+4. In the sshd config (/etc/ssh/sshd\_config); uncomment and set to no both PermitRootLogin and PermitEmptyPasswords.
+5. Restart sshd with: service sshd restart
+6. From another machine SSH into it as root; verify that this fails.
+7. SSH into it as olpc, su to root; verify that this works.
+8. 
+
+
+
+XO F Keys
+
+
+1. [[http://wiki.laptop.org/go/Keyboard_Shortcuts][Ctrl+Alt+F1]] will take you to one console.
+2. Ctrl+Alt+F2 will take you to the other console.
+3. Ctrl+Alt+F3 will take you back to X/Sugar.
+4. The F1 key is the same as the Neighborhood view key: 8 dots arranged in a circle
+5. The F2 key is the same as the Group view key: 3 dots arranged in a triangle
+6. The F3 key is the same as the Home view key: 1 dot in the center
+
+
+
+Disallow su(do) to work without a password
+
+
+1. By default olpc can sudo into root without specifying a password.
+2. Open /etc/pam.d/su
+3. Comment out the line "auth sufficient pam\_wheel.so trust use\_uid" which allows anyone in the wheel group to become root without a password
+4. Logout as root, try su'ing again, you should be prompted for root's password
+
+
+
+Tweak the bash prompt
+
+
+1. Add export PS1="\u@\h:\w>"
+2. To olpc's .bashrc which you need to create
+3. To root's .bashrc which you need to create
+
+
+
+Disable hot-corners
+
+
+1. [[http://olpcnews.com/forum/index.php?topic=389.msg3038#msg3038][Comment]] out lines 56-57 in /usr/share/sugar/shell/view/frame/eventarea.py
+2. Here are the lines:
+
+
+   #+BEGIN_EXAMPLE
+       
+#invisible.connect('enter-notify-event', self._enter_notify_cb)
+#invisible.connect('leave-notify-event', self._leave_notify_cb)
+   #+END_EXAMPLE
+
+   
+
+
+3. Restart Sugar: Ctrl+Alt+Backspace (Erase)
+4. Use the Home key to activate and deactivate the border menu (the Home key is the key with a rectangle on it)
+
+
+
+Software
+
+
+1.  Flash
+2.  JRE
+3.  Opera
+4.  mplayer
+5.  yum: xpdf
+6.  yum: gcc (for building bzr)
+7.  [[http://www.cosc.canterbury.ac.nz/greg.ewing/python/Pyrex/][Pyrex]] (for bzr)
+8.  yum: python-devel.i386 (Python header files)
+9.  yum: Python 2.5 (python.i386) (comes already installed)
+10. bzr 1.14.1 (from source). I wasn't sure how to add an up to date yum repo so I just used the source. Here was the command to specify pure Python build: 
+
+
+    #+BEGIN_EXAMPLE
+        
+python setup.py install build_ext --allow-python-fallback
+
+    #+END_EXAMPLE
+
+    . This was necessary for the build to succeed.
+
+11. yum: vim-X11.i386
+12. yum: traceroute
+13. yum: nmap.i386
+14. yum: nmap-frontend.i386
+15. 
+
+
+
+Disable the Journal while alt-tabbing
+
+
+1. Open /usr/share/sugar/shell/model/homemodel.py::\_get\_activities\_with\_window
+2. Here is the change on line 76:
+
+
+   #+BEGIN_EXAMPLE
+       
+root@xo-0D-1A-82:/usr/share/sugar/shell/model>diff homemodel.py homemodel.py.org
+76c76
+<             if i.get_window() is not None and i.get_type() != 'org.laptop.JournalActivity':
+---
+>             if i.get_window() is not None:
+
+   #+END_EXAMPLE
+
+   
+
+
+3. Via [[http://olpcnews.com/forum/index.php?topic=1787.0][this]] great post
+4. 
+
+
+
+Comments
+
+
+1. [[http://xo.cutup.org/quake-terminal.txt][Quake Term]] doesn't seem to work.
+2. You /can not/ disable the Journal completely in 703.
+
+
+

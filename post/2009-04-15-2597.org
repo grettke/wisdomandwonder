@@ -1,0 +1,13 @@
+#+POSTID: 2597
+#+DATE: [2009-04-15 Wed 23:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Web
+#+TITLE: 15 Essential Checks Before Launching Your Website
+
+[[http://www.smashingmagazine.com/2009/04/07/15-essential-checks-before-launching-your-website/][Here]] is a good article relevant to anyone publishing anything on the web today.
+
+(via [[http://chriscpetersonblog.blogspot.com/][Chris]])
+
+
+

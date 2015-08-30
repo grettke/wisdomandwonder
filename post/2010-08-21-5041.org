@@ -1,0 +1,96 @@
+#+POSTID: 5041
+#+DATE: [2010-08-21 Sat 15:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: ML, OCaml, Programming Language
+#+TITLE: Delimited continuations on OCaml
+
+
+Via [[oleg@okmij.org][Oleg]]:
+
+
+#+BEGIN_QUOTE
+  The library delimcc directly implementing [[http://en.wikipedia.org/wiki/Delimited_continuation][delimited continuations]] on
+OCaml now supports native code (ocamlopt) on selected platforms.
+
+ [[http://okmij.org/ftp/continuations/caml-shift.tar.gz]]
+
+The library delimcc implements shift/reset, prompt/control, shift0,
+control0 delimited continuation operators with multiple, arbitrarily
+typed prompts. The delimcc implementation is direct: it copies only
+the relevant fragment of the OCaml stack. The implementation is fully
+integrated with OCaml exceptions: exception handlers may be captured
+in delimited continuations (and re-instated when the captured
+continuation is installed); exceptions remove the prompts along the
+way. The implementation has no typing problems, no bizarre 'a cont
+types, and no use for magic.
+
+The library delimcc does *no* patching of the OCaml system and is a
+regular (static or dynamically-loaded) library. The library is
+therefore \_perfectly\_ compatible with any existing OCaml code, source
+or binary.
+
+The native- and byte-code versions of the library implement the
+identical interface, described in delimcc.mli. Furthermore, the OCaml
+code for the two versions is identical. Only the C code files,
+implementing scAPI, differ for native-code.
+
+Using the native-code version is identical to the byte-code version of
+delimcc. No source code has to be changed; it has to be compiled using
+ocamlopt rather than ocamlc.
+
+
+This is the first release of the library, for OCaml 3.11. It has been
+tested on i386 (x86\_32) platform, on FreeBSD and Linux. The library
+could perhaps be used on other platforms (on which stack grows
+downwards); x86\_32 is the only platform available to me. At any write,
+the library contains no custom-written assembly code (although I
+couldn't avoid reading a lot of assembly code).
+
+
+This is the first release of the native-code version, hence stressing
+correctness at the expense of performance. A notable performance drain
+is emulating data types with a custom GC scanning
+function. Custom-scanned data types are possible without any changes
+to OCaml, thanks to the provided GC hooks. Alas, the emulation doesn't
+seem to be efficient. A co-operation from the OCaml system would be
+greatly appreciated. I have a hunch that custom-scan data types could
+be useful for many other applications, for heap-allocating structures
+with OCaml values intermixed with unboxed data.
+
+It should be noted that the very operation of capturing and
+reinstalling a delimited continuations will always be faster in
+byte-code than in the native code. First of all, the byte-code
+delimited continuation is smaller. Second, it is a uniform a sequence
+of values or code pointers. In contrast, the corresponding captured
+native-code delimited continuation -- the portion of the C stack -- is
+not only bigger, but also contains unboxed values. We have to use
+frame tables to figure out which stack slots contain live heap
+pointers. Saving native-code delimited continuation is inherently more
+complex. In fact, all the complexity of the native-code delimcc was
+tidying the stack to please GC.
+
+
+One should keep in mind the fundamental limitation of native-code
+delimited continuations -- the limitation that also holds for Scheme
+and other systems with delimited control. The limitation concerns
+capturing continuations in the OCaml code invoked as a call-back from
+C code, which was, in turn, called from OCaml. It is safe to capture a
+delimited continuation in the callback \_provided\_ the extent of the
+captured continuation is limited to the call-back. The continuation
+captured in the callback may be resumed within the call-back or after
+the call-back has exited. One must not capture the continuation
+through the C code that invoked the call-back. In short, no C frames
+may be captured in delimited continuations. The library detects C
+frames in captured continuations, and throws a run-time error. Such a
+behavior of delimcc is consistent with the behavior of native-code
+Scheme systems.
+
+#+END_QUOTE
+
+
+
+(via Caml-list)
+
+
+

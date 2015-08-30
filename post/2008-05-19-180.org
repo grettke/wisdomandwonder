@@ -1,0 +1,38 @@
+#+POSTID: 180
+#+DATE: [2008-05-19 Mon 18:36]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Fortress, Programming Language
+#+TITLE: Fortress: A Next-Generation Programming Language Brought to You by Sun Labs
+
+"Fortress: A Next-Generation Programming Language Brought to You by Sun Labs" is the first session I attended at Java One 08. Being that this is my first time at Java One, I was pretty excited to see how both this session, and, the entire conference, would pan out. 
+
+Per her introduction, her background is big into parallelism, and like everyone else on they team, she is an old Lisper.
+
+The focus of her talk was the top 10 ideas in Fortress. Apparently the original tag line for Fortress was that "Fortress will do for Fortran what Java did for C". That makes sense since they were funded by the high performance computing people, but it isn't the catchiest tag line. 
+
+Here is her top ten list for Fortress language features:
+
+
+
+-  10. Contracts. Requires, Ensures, Invariants.
+-  9. Dimensions and Units as fundamental types.
+-  8. Traits and Objects. Probably borrowed from Smalltalk.
+-  7. Functional Methods. I didn't get this.
+-  6. Parametric Polymorphism.
+-  5. Generators and Reducers.
+-  4. Mathematical Syntax. One of the driving forces of Fortress to make a PL familiar to Mathematicians.
+-  3. Transactional Memory. She thinks it is "cool beans".
+-  2. Implicit Parallelism
+-  1. Grow able. The big idea. Designed from the beginning.
+
+
+
+Fortress is a hodge podge of cool language features; all of which are very cool (STM and concurrency were her favorite). 
+
+The last feature was the most exciting. I expected the entire room to say "ooohhhhhhh" at that moment, but no one did. I suspect no one had a clue as to what she was talking about. I would love to have syntactic extension facilities in Java. Since one of the background goals (my assumption) is to research language features that would eventually show up in Java, we'll have to see what happens :).
+
+While I got the impression that the presenter gave this presentation as the result of choosing the smallest straw; it was one of the top presentations out of the entire conference.
+
+
+

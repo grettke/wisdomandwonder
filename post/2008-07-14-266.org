@@ -1,0 +1,19 @@
+#+POSTID: 266
+#+DATE: [2008-07-14 Mon 01:09]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Ruby
+#+TITLE: Maglev Ruby
+
+Ruby is often compared to Smalltalk; and I'm sure a bunch of folks have always wondered when someone would implement Ruby either on top of Smalltalk (or even in a similar manner to Smalltalk, aka [[http://rubini.us/][Rubinius]]). 
+
+Avi Bryant wondered as such, and seems to have gotten a job out of it in producing [[http://www.vimeo.com/1147409][Maglev Ruby]] (it is a video).
+
+Maglev seems to be the combination of a Ruby VM implemented along with a distributed, concurrent object system to support the needs of Ruby on Rails. 
+
+I heard Avi speak at OSCON 06, and he seems to be a nice fellow; I'll be interested to see how this pans out.
+
+Strangely, I haven't heard Maglev mentioned by anyone I know, perhaps Ruby VMs aren't interesting.
+
+
+

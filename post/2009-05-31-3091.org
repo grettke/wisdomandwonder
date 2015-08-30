@@ -1,0 +1,11 @@
+#+POSTID: 3091
+#+DATE: [2009-05-31 Sun 03:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Programming Language, Racket, Scheme
+#+TITLE: Geiser: A New Emacs-Scheme Interaction Mode
+
+[[http://programming-musings.org/2009/05/14/geiser/][Here]] is the announcement for a new Emacs-Scheme interaction mode that already works with PLT and Guile, and will probably soon be working with Ikarus, too.
+
+
+

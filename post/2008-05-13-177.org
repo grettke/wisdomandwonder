@@ -1,0 +1,32 @@
+#+POSTID: 177
+#+DATE: [2008-05-13 Tue 20:10]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Monar 0.0.1 released
+
+#+BEGIN_QUOTE
+  
+Monar is a free interpreter for R6RS Scheme.
+
+Currently it covers a little of R6RS core scheme, utf-8 I/O, quasiquote, apply , regexp , traditional macro, 30bit fixnum , simple port , simple CGI and format.
+
+And Wiki works on Monar@FreeBSD+Apache. 
+
+[[http://monar.monaos.org/wiki/LambdaWiki]]
+
+Downloads and More Information
+------------------------------
+
+Source code and Monar documentation can be found on the web at: 
+
+[[http://code.google.com/p/monar/%20][http://code.google.com/p/monar/]]
+
+#+END_QUOTE
+
+
+
+(via [[http://groups.google.com/group/comp.lang.scheme/msg/3f9368bec8226ab4][comp.lang.scheme]])
+
+
+

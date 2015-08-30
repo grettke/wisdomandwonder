@@ -1,0 +1,18 @@
+#+POSTID: 6967
+#+DATE: [2013-01-20 Sun 04:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Artificial Intelligence, CLIPS, Jess, Lisa, Lisp, Rules Engine
+#+TITLE: The Lisa Project
+
+#+BEGIN_QUOTE
+  Lisa is a production-rule system implemented in the Common Lisp Object System (CLOS), and is heavily influenced by CLIPS and the Java Expert System Shell (JESS).
+#+END_QUOTE
+
+
+
+-- [[http://lisa.sourceforge.net/][Lisa Site]]
+
+
+
+

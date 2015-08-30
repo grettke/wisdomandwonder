@@ -1,0 +1,17 @@
+#+POSTID: 9170
+#+DATE: [2014-09-22 Mon 00:12]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Internet
+#+TITLE: Exemple Complet Minimal
+
+#+BEGIN_QUOTE
+  [[http://orgmode.org/worg/org-faq.html#ecm][This]] is a French acronym used by some mailing list members; it stands for "Exemple Complet Minimal", or "Complete Minimal Example". The term refers to test files that can reliably reproduce a bug with the minimal amount of code.
+#+END_QUOTE
+
+
+
+
+
+
+

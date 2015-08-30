@@ -1,0 +1,52 @@
+#+POSTID: 718
+#+DATE: [2008-09-13 Sat 03:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Study-HTDP
+#+TITLE: What will we do, and when will we do it?
+
+Originally posted [[http://groups.google.com/group/study-htdp/browse_thread/thread/44afd165a14b0916][here]]:
+
+
+#+BEGIN_QUOTE
+  
+What we will do is to read and complete the problems in HTDP.
+
+When we've got questions (or thoughts or ideas) about the content (any content, not necessarily limited to HTDP, anything CS/HTDP related is fair game), we should send them to the mailing list.
+
+I will respond to, and post, questions every morning and every evening around 7:00am and 7:00pm or so, my timezone is:
+
+Central Standard Time (CST) = GMT-6
+Central Daylight Time (CDT) = GMT-5
+
+Since we've got a geographically distributed group, many of us will be on virtually opposite schedules.
+
+I'm thinking that every one or two weeks, we should have a chat on Skype just to touch base, identify issues and opportunities for improvement, and generally do what we can't do well over email (not sure what that is yet, but lets find out).
+
+Another question worth answering here is "How long will it take to finish the book?".
+
+I don't know the answer to that. I interest of finding the answer, I've decided that we'll timebox the first class to 4 months. There are 8 sections (with various intermezzos), which gives 2 weeks to every
+section.
+
+This is an aggressive schedule. While I expect some sections to be easier than others, I am banking on two things:
+
+1. We've got a group of highly motivated people. Since most of us are doing this on nights and weekends, we *must* be interested. Besides, we don't want this to go on forever. Without a goal, we'll eventually lose momentum.
+2. We can, and will, revise our estimate as we go along. The goal is to learn, not to meet a deadline. 
+
+#+END_QUOTE
+
+
+
+We've made a couple of modifications since then:
+
+
+
+1. There are two groups. Group 0 is sticking with the very aggressive schedule.
+2. We added the intermezzos into the schedule, 1 week for each.
+
+
+
+Group zero is averaging around 10 hours per week to maintain the current goal of one section every two weeks; the second week ending this Sunday (I'm tracking all of my study time in hopes of providing a detailed account of where I spent my time).
+
+
+

@@ -1,0 +1,24 @@
+#+POSTID: 196
+#+DATE: [2008-05-28 Wed 01:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: LaTeX, TeX, Utility
+#+TITLE: The LaTeX Beamer Class
+
+(via [[http://sourceforge.net/projects/latex-beamer][SourceForge]])
+
+
+#+BEGIN_QUOTE
+  
+The beamer class is a LaTeX class for creating presentations using a video projector. It offers incremental display, prearranged themes, automatic table of contents, navigation bars, bibliographies, and other features.
+
+#+END_QUOTE
+
+
+
+Check out the [[http://latex-beamer.sourceforge.net/][home page]], it has some nice examples. 
+
+The LaTeX Beamer Class lets you prepare beautiful presentations!
+
+
+

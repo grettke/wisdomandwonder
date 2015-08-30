@@ -1,0 +1,13 @@
+#+POSTID: 3052
+#+DATE: [2009-05-30 Sat 02:29]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Computer Science, Learning
+#+TITLE: How Spellcheckers Work
+
+[[http://www.pcplus.co.uk/node/3062/][This]] looks like it might be a good article.
+
+(via [[http://www.reddit.com/r/programming/comments/8nk5t/how_spellcheckers_work_levenshtein_soundex_and/][reddit]])
+
+
+

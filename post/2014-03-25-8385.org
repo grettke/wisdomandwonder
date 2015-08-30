@@ -1,0 +1,11 @@
+#+POSTID: 8385
+#+DATE: [2014-03-25 Tue 16:01]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Business, Business Intelligence, Computational Science, Computer Science, Data Modeling, Data science, Database, Learning, Programming, R-Project, Statistics, mathematics, philosophy
+#+TITLE: Ten Simple Rules for Reproducible Computational Research
+
+[[http://www.ploscompbiol.org/article/info%253Adoi%252F10.1371%252Fjournal.pcbi.1003285][This]] link via [[http://irreal.org/blog/?p=2317][irreal]] is another "must read" if you've never done systems work before (coming from a system person myself, not a data person).
+
+
+

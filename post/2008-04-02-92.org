@@ -1,0 +1,17 @@
+#+POSTID: 92
+#+DATE: [2008-04-02 Wed 00:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide
+#+TITLE: Artist Mode
+
+#+BEGIN_QUOTE
+  [[http://www.cinsk.org/emacs/emacs-artist.html][Artist mode]] lets you draw lines, squares, rectangles and poly-lines, ellipses, and circles with your mouse and/or keyboard. It is extremely useful when inserting text diagrams or figures in your source comments.
+#+END_QUOTE
+
+
+
+
+
+
+

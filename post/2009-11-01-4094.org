@@ -1,0 +1,17 @@
+#+POSTID: 4094
+#+DATE: [2009-11-01 Sun 03:17]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: The Adventures of a Pythonista in Schemeland
+
+[[http://www.phyast.pitt.edu/~micheles/scheme/][Here]] is a good writeup on macros in Scheme. 
+
+It also covers phasing in R6RS Scheme in depth. It believe that it is the only write-up to do so other than the R6RS documentation itself. 
+
+*Addendum: 11/2/09*
+
+[[http://www.phyast.pitt.edu/~micheles/scheme/TheAdventuresofaPythonistainSchemeland.pdf][Here]] are all of the articles in one pdf. Via [[http://www.reddit.com/r/scheme/comments/9xyu8/the_adventures_of_a_pythonista_in_schemeland_all/][digg]].
+
+
+

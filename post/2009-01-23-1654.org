@@ -1,0 +1,33 @@
+#+POSTID: 1654
+#+DATE: [2009-01-23 Fri 23:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Scheme, philosophy
+#+TITLE: How many kinds of Schemers are there?
+
+Since the beginning of my study of Scheme I have tried to understand the community. What I have found is that if one had to define a single trait by which you could make a classification it would come down to whether or not they wanted more than what [[http://www.schemers.org/Documents/Standards/R5RS/HTML/][R5RS]] defines, or not. A few days ago in this [[http://groups.google.com/group/comp.lang.scheme/msg/4c8f927197dac41e][thread]] on comp.lang.scheme, a poster elaborated on this:
+
+
+
+#+BEGIN_EXAMPLE
+    
+1. People who prefer R5RS, and think it should not have been extended. 
+(Felix Winkelmann, maintainer of Chicken) 
+2. People who like R5RS, dislike R6RS, but think a better standard for 
+Scheme is possible (Will Clinger, maintainer of Larceny) 
+3. People who use R6RS as their primary language (Aziz Ghoulum, 
+maintainer of Ikarus) 
+4. People who use a particular Scheme implementation (myself, using 
+PLT)
+
+#+END_EXAMPLE
+
+
+
+As he pointed out, that is a non-exhaustive list. A question for the reader:
+
+"What is missing?"
+
+
+
+

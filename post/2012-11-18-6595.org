@@ -1,0 +1,23 @@
+#+POSTID: 6595
+#+DATE: [2012-11-18 Sun 17:12]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, Programming, Programming Language, Scheme
+#+TITLE: On Lisp and Paris
+
+Regarding Lisp and its warts...
+
+
+
+#+BEGIN_QUOTE
+  and Paris has pickpockets, but that doesn't make it any less magnificent
+#+END_QUOTE
+
+
+
+I made a correction on the spelling of magnificent.
+
+(via [[http://www.reddit.com/r/lisp/comments/13c0ef/futures_overview/][mahmud\_ on reddit]])
+
+
+

@@ -1,0 +1,52 @@
+#+POSTID: 8837
+#+DATE: [2014-07-14 Mon 00:28]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: What all of those org-babel functions do
+
+
+For the lazy org users like myself who want to know what the functions
+listed [[http://orgmode.org/manual/Key-bindings-and-useful-functions.html#Key-bindings-and-useful-functions][here]] do, just evaluate the one you want:
+
+
+
+
+
+
+#+BEGIN_EXAMPLE
+    (describe-function 'org-babel-execute-src-block)
+(describe-function 'org-babel-open-src-block-result)
+(describe-function 'org-babel-load-in-session)
+(describe-function 'org-babel-pop-to-session)
+(describe-function 'org-babel-previous-src-block)
+(describe-function 'org-babel-next-src-block)
+(describe-function 'org-babel-execute-maybe)
+(describe-function 'org-babel-open-src-block-result)
+(describe-function 'org-babel-expand-src-block)
+(describe-function 'org-babel-goto-src-block-head)
+(describe-function 'org-babel-goto-named-src-block)
+(describe-function 'org-babel-goto-named-result)
+(describe-function 'org-babel-execute-buffer)
+(describe-function 'org-babel-execute-subtree)
+(describe-function 'org-babel-demarcate-block)
+(describe-function 'org-babel-tangle)
+(describe-function 'org-babel-tangle-file)
+(describe-function 'org-babel-check-src-block)
+(describe-function 'org-babel-insert-header-arg)
+(describe-function 'org-babel-load-in-session)
+(describe-function 'org-babel-lob-ingest)
+(describe-function 'org-babel-view-src-block-info)
+(describe-function 'org-babel-switch-to-session-with-code)
+(describe-function 'org-babel-sha1-hash)
+(describe-function 'org-babel-describe-bindings)
+(describe-function 'org-babel-do-key-sequence-in-edit-buffer)
+
+#+END_EXAMPLE
+
+
+
+There are some very special functions in there!
+
+
+

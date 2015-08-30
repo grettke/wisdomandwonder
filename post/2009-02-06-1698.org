@@ -1,0 +1,27 @@
+#+POSTID: 1698
+#+DATE: [2009-02-06 Fri 03:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: New PLT Scheme DEV Mailing List
+
+[[http://www.plt-scheme.org/][PLT Scheme]]has a new development related mailing list. The focus of this list is on the development of the PLT Scheme system itself rather than the utilization of PLT Scheme.
+
+[[http://list.cs.brown.edu/pipermail/plt-scheme/2009-February/030194.html][Here]] is a link to the post.
+
+[[http://list.cs.brown.edu/mailman/listinfo/plt-dev][Here]] is a link to the signup page for the list.
+
+Here is further clarification on who might be interested in this list, as plucked from the "Welcome" email from the list:
+
+
+
+#+BEGIN_QUOTE
+  Welcome to the plt-dev@list.cs.brown.edu mailing list! This list is for discussions on the implementation and development of PLT Scheme. It is aimed at people who are interested in contributing to PLT Scheme, or who are interested in the implementation of PLT Scheme. However, it is not for general discussion of Scheme, PLT Scheme, or programming -- please use the plt-scheme list for those.
+#+END_QUOTE
+
+
+
+
+
+
+

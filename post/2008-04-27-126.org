@@ -1,0 +1,40 @@
+#+POSTID: 126
+#+DATE: [2008-04-27 Sun 15:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: TeX Macros in DrScheme 3.99.0.23 and newer
+
+You can use TeX Macros in DrScheme 3.99.0.23 and newer!
+
+Here is how you do it in either the editor or the REPL:
+
+
+
+1. Enter a backslash
+2. Enter the macro name
+3. Enter M:\
+
+
+
+This is yet another delightful thing that the PLT folks have added to an already great IDE!
+
+Here are some TeX macros ([[http://amath.colorado.edu/documentation/LaTeX/reference/macros/][source]])
+
+
+-  rightarrow
+-  sim
+-  equiv
+-  lambda
+-  pi
+-  alpha
+-  omega
+
+
+
+Here is an example of how it works:
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/04/drschemetexlambda30cs.gif][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/04/drschemetexlambda30cs.gif]]]]
+
+
+

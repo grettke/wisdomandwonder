@@ -1,0 +1,17 @@
+#+POSTID: 857
+#+DATE: [2008-10-06 Mon 05:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Pocket Scheme
+
+#+BEGIN_QUOTE
+  [[http://www.mazama.net/scheme/pscheme.htm][Pocket Scheme]] gives your PDA a standalone programming capability in Scheme, a dialect of Lisp with exceptionally clear and simple semantics. It supports file creation and manipulation, arithmetic operations of unlimited precision, the complete Unicode character set, data sharing via the Windows clipboard, regular expression matching on character strings, simple TCP client and server networking, scripts written in Scheme, and even direct system calls to the Win32 API.
+#+END_QUOTE
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 8143
+#+DATE: [2014-01-12 Sun 16:55]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Programming Language, Racket, Scheme
+#+TITLE: Geiser 0.5 is out
+
+[[https://savannah.nongnu.org/forum/forum.php?forum_id=7810][Geiser 0.5]] is out both on [[http://marmalade-repo.org/packages/geiser][Marmalade]] and [[http://melpa.milkbox.net/#/geiser][Melpa]].
+
+
+

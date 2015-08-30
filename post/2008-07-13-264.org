@@ -1,0 +1,19 @@
+#+POSTID: 264
+#+DATE: [2008-07-13 Sun 23:13]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Computer Science
+#+TITLE: Computing History at Bell Labs
+
+#+BEGIN_QUOTE
+  In 1997, on his retirement from Bell Labs, Doug McIlroy gave a fascinating talk about the “History of Computing at Bell Labs.”
+#+END_QUOTE
+
+
+
+[[http://research.swtch.com/2008/04/computing-history-at-bell-labs.html][Here]] is one man's transcription of that talk.
+
+I only skimmed over it (at the moment I'm not interested in what /was/); but nonetheless it /does/ look like a great talk with a lot of fun and interesting bits in there.
+
+
+

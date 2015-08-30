@@ -1,0 +1,11 @@
+#+POSTID: 6246
+#+DATE: [2012-04-13 Fri 17:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Endometriosis, Research
+#+TITLE: Spring 2012 Midterm Poster
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/04/GrantRettkePosterSpring2012Midterm.pdf][Here]] is my poster as of midterm for the MSCS and Sigma Xi poster sessions.
+
+
+

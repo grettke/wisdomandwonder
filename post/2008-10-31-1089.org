@@ -1,0 +1,19 @@
+#+POSTID: 1089
+#+DATE: [2008-10-31 Fri 02:21]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp
+#+TITLE: International Lisp Conference 2009
+
+#+BEGIN_QUOTE
+  [[http://www.international-lisp-conference.org/2009/index][The International Lisp Conference 2009]] will be taking place at M.I.T., in Cambridge, Massachusetts, from March 22 to March 25, 2009.
+#+END_QUOTE
+
+
+
+*Addendum: 2/4/9*
+
+All of the details are now out on the site.
+
+
+

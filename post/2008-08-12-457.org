@@ -1,0 +1,13 @@
+#+POSTID: 457
+#+DATE: [2008-08-12 Tue 02:03]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Blogging, Utility, Web, WordPress
+#+TITLE: wp-syntax-rettke
+
+Out of the box, [[http://wordpress.org/extend/plugins/wp-syntax/][WP-Syntax]] colors code using the default [[http://qbnz.com/highlighter/][GeSHi]] colors. Per the authors advice in the 'Advanced Customization' section of [[http://wordpress.org/extend/plugins/wp-syntax/other_notes/][Other Notes]], you can configure GeSHi yourself by handling the wp\_syntax\_init\_geshi hook and configuring it programmatically.
+
+Since I wanted to do just that, I decided to publish a generic plugin, called [[http://wordpress.org/extend/plugins/wp-syntax-rettke/][wp-syntax-rettke]], for folks who wanted to configure GeSHi following this approach.
+
+
+

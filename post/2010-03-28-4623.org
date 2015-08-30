@@ -1,0 +1,19 @@
+#+POSTID: 4623
+#+DATE: [2010-03-28 Sun 14:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Chicken, Programming Language, Scheme
+#+TITLE: Chicken: the transition to hygienic macros and a real module system is complete
+
+#+BEGIN_QUOTE
+  With the most recent commits (4.4.4), chicken is now consistent in the way core forms are handled. There are no hard-coded special forms and everything can be redefined, reexported and modified on import. Syntax may now also expand into module forms (if at toplevel, local or nested modules are still not available and not strictly necessary).
+
+So, the transition to hygienic macros and a real module system is hereby complete...
+#+END_QUOTE
+
+
+
+-- [[http://lists.gnu.org/archive/html/chicken-users/2010-03/msg00112.html][Felix]]
+
+
+

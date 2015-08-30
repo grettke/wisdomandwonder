@@ -1,0 +1,11 @@
+#+POSTID: 3184
+#+DATE: [2009-06-07 Sun 01:21]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Business, Tools
+#+TITLE: Simple online surveying
+
+[[http://wufoo.com/][Wufoo]] is an online surveying tool that looks interesting. I haven't used it myself, but, it is what my webhost uses and they have pretty good taste in the tools that I have seen them use so far.
+
+
+

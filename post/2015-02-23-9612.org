@@ -1,0 +1,301 @@
+#+POSTID: 9612
+#+DATE: [2015-02-23 Mon 19:36]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: .NET, C Sharp, Entity Framework, Javascript, PluralSight, Programming, Programming Language
+#+TITLE: Data Layer Validation with Entity Framework 4.1+
+
+[[http://www.pluralsight.com/courses/efvalidation][This]] is a helpful series for when you need to start doing any sort of validations on your entities. I need to dig more into OData and how it integrates nicely with NG and friends using .NET. Personal notes follow.
+
+
+
+
+
+#+BEGIN_HTML
+  <div id="content">
+#+END_HTML
+
+
+
+
+
+
+#+BEGIN_HTML
+  <div id="outline-container-sec-1" class="outline-2">
+#+END_HTML
+
+
+
+** 1 Data Layer Validation with Entity Framework DbContext 41:23
+
+
+
+
+#+BEGIN_HTML
+  <div id="text-1" class="outline-text-2">
+#+END_HTML
+
+
+
+
+-  Where do you want to validate? How? When? What results?
+
+-  DbContext API brings Validation API
+
+
+   -  Don't use it outside your data layer man!
+
+
+   
+
+-  System.ComponentModel.DataAnnotations for typical validation stuff
+
+
+   -  This is validation only, completely unrelated to schema stuff
+
+
+   
+
+-  You can implement custom type validations
+
+
+   -  See K. Scott Allen Model Validation & Metadata in ASP.NET MVC 2 (MSDN Magazine)
+
+   -  =IValidatableObject= interface is one way to do custom type validations
+
+
+      -  Pretty curious where this will fit
+
+
+      
+
+
+   
+
+-  DbContext.ValidateEntity gets called for each tracked entity
+
+
+   -  Last stop for checking stuff
+
+
+   
+
+-  DbEntryValidationResult
+
+
+   -  ValidationErrors
+
+
+      -  DbValidationError
+
+
+         -  ErrorMessage
+
+         -  PropertyName
+
+
+         
+
+      -  DbValidationError
+
+
+      
+
+   -  IsValid
+
+   -  Entry
+
+
+   
+
+-  Love how you may use =Alias= objects to play with =DbContext=
+
+-  Validation work-flow steps to failure
+
+
+   -  Property level validation
+
+   -  Complex Type level validation
+
+   -  Entity Type level validation
+
+   -  Kind of a big deal for understanding the flow and how you will utilize all
+sorts of validations in a system
+
+
+   
+
+-  ValidationAttributes
+
+
+   -  Are a subset of code-first annotations
+
+   -  Existed before EF
+
+
+   
+
+-  CF fluent mappings pull double duty with Required and MaxLength both for
+annotations and EF
+
+-  Check on ebook for this stuff; don't want to take very detailed notes
+
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+
+#+BEGIN_HTML
+  <div id="outline-container-sec-2" class="outline-2">
+#+END_HTML
+
+
+
+** 2 Customizing Entity Framework Data Layer Validation 34:45
+
+
+
+
+#+BEGIN_HTML
+  <div id="text-2" class="outline-text-2">
+#+END_HTML
+
+
+
+
+-  Validation work-flow and extensibility points
+
+
+   -  GetValidationResult
+
+   -  ValidateEntityEntry
+
+   -  GetValidationErrors
+
+   -  DetectChanges
+
+   -  SaveChanges
+
+   -  Can change
+
+
+      -  SaveChanges won't trigger validation
+
+      -  GetValidationErrors only checks modified entities
+
+      -  ValidateEntity can add more data layer validations
+
+
+      
+
+
+   
+
+-  Overriding DbContext::ValidateEntity
+
+-  Before watching this series, think through how you want to handle data
+identity through the tiers (database, logic, service, UI) and how you
+want to enforce rules in each of them and how you want to communicate
+breakage
+
+-  ShouldValidateEntity():boolean
+
+
+   -  Might run into special cases, OK
+
+   -  Like deletes, OK, interesting rules
+
+   -  Can't delete stuff that is less than 24h old
+
+
+   
+
+-  Can express every system as a "rules engine", lol
+
+-  SaveChanges is where relationships are verified; call the base
+
+-  The IDictionary argument is interesting for sequencing and access-control
+
+-  The Unsung hero of the dcontext...
+
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+
+#+BEGIN_HTML
+  <div id="outline-container-sec-3" class="outline-2">
+#+END_HTML
+
+
+
+** 3 Integrating Entity Framework Validation with MVC and WCF Data Services 37:59
+
+
+
+
+#+BEGIN_HTML
+  <div id="text-3" class="outline-text-2">
+#+END_HTML
+
+
+
+
+-  How will we integrate the Validation API and OData and NG?
+
+-  Skipped MVC stuff
+
+-  Matt Milner, OData and data services
+
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+

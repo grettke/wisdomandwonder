@@ -1,0 +1,15 @@
+#+POSTID: 830
+#+DATE: [2008-10-05 Sun 20:03]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Fun, Programming Language, Scheme
+#+TITLE: LittleWing pinball
+
+If you had dug in deeper to my post on [[http://www.wisdomandwonder.com/link/231/ypsilon][ypsilon]] Scheme, you would have found that it was written for use in pinball games. I love pinball.
+
+Check out their [[http://littlewingpinball.wordpress.com/][blog]] and [[http://www.littlewingpinball.com/contents/en/index.html][company]]. 
+
+I'm downloading Jinni Zeala right now :).
+
+
+

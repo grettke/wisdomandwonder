@@ -1,0 +1,11 @@
+#+POSTID: 1629
+#+DATE: [2009-01-18 Sun 16:31]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Dylan, Programming Language
+#+TITLE: The Dylan programming language Wiki
+
+[[http://wiki.opendylan.org/][The Dylan programming language]]Wiki is the motherload for information on Dylan.
+
+
+

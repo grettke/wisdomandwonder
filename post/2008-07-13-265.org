@@ -1,0 +1,11 @@
+#+POSTID: 265
+#+DATE: [2008-07-13 Sun 23:35]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Scheme
+#+TITLE: Nondeterministic Computing with amb
+
+Ben demonstrates how to utilize [[http://mitpress.mit.edu/sicp/full-text/sicp/book/node88.html][nondeterministic computing]] in his article [[http://benjisimon.blogspot.com/2008/04/escape-from-zurg-scheme-solution.html][Escape From Zurg]].
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 9499
+#+DATE: [2015-02-02 Mon 19:03]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: .NET, C Sharp, Entity Framework, Javascript, PluralSight, Programming, Programming Language
+#+TITLE: Building Web Apps & Services with Entity Framework and Web API
+
+[[http://www.pluralsight.com/courses/building-web-apps-services-aspdotnet-ef-webapi][Building Web Apps & Services with Entity Framework and Web API]].
+
+If you already know JavaScript, C#, an ORM, and IoC, and all of the other stuff for dealing with, then this is a fast-track to getting on-board with them on the MS platform. Yea, it is fast, but you can get the details elsewhere. This is the place just to see it happen. So many value-adds are referenced in the video. Don't want to talk it up to much, but it is just very valuable. The major failing here is that the examples are no longer correct though, so you have to do research just to make sense of what is happening and how to implement it.
+
+
+

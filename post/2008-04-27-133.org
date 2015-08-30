@@ -1,0 +1,70 @@
+#+POSTID: 133
+#+DATE: [2008-04-27 Sun 20:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Lisp
+#+TITLE: Lisp code is not a parse tree
+
+One fact about Lisp is that its code can be visualized as a tree structure. Another fact is that syntactic extension (macros) can be applied to that code to change it. Taking both of those facts into account, it is /very/ easy to assume due to the similarity between these features and a typical parser->compiler system that the Lisp code is in fact a parse tree. Lisp code, however, is not a parse tree. 
+
+*Addendum 04/29/08*:
+
+Instead, Lisp's "parse tree" is a plain old list. Lisp works by using macros to pattern match and perform transformations from s-expressions to s-expressions. It is simplistic, sensible, and very powerful. It takes human readable data structures, and, lets human manipulate them. It is wonderful. 
+
+By definition, though, since Lisp's parse trees are lists, Lisp code is a parse tree, thus seemingly negating the claim in the title of this post. The trouble with making a statement like this is that "parse tree" implies the parse trees that the other %99.999 of languages use. "The rest of the bunch" uses parse trees that /I suspect/ are not meant for human consumption or production. 
+
+In most programming languages, it is the parsers responsibility to transform the syntax (how the code looks to you) into a parse-tree (how the code looks to the compiler). This is by design. 
+
+Syntax for humans is what matters most in a programming language, and it is why we all fall in love with different languages. We get a syntax we love, and so does the compiler. The parser is the translator between the two worlds. Take this example in Java.
+
+If you take a look at the [[http://www.antlr.org/grammar/1152141644268/Java.g][Java 1.5 Antlr grammar]] you'll see that if you want to declare a class it would map to the following in the parse tree (with details not critical to this example omitted):
+
+
+1. packageDeclaration
+2. typeDeclaration
+3. classBody
+
+
+
+Just looking at this you probably have a pretty good feel both for how this would look in Java and how the Java source code would map to its parse tree counterpart:
+
+
+#+BEGIN_EXAMPLE
+    
+package alt.p.b.n.j; <-- packageDeclaration
+public class Gnumerical <-- typeDeclaration
+{ ... } <-- classBody
+
+#+END_EXAMPLE
+
+
+
+The compiler, though, won't care about whatever syntax your use to write your code, it just expects a tree that adheres to some syntax defined by some grammar. You could define classes, then, in Java, Ruby, or Smalltalk syntax and ultimately produce a parse tree for the JVM. So suppose that Antlr were to take your Java and build a Lisp-style decorated parse tree for the compiler (which it does /not/ do), it might look like this:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(class
+  (package 'alt.p.b.n.j)
+  (name 'Gnumerical)
+  (body '(body goes here)))
+
+#+END_EXAMPLE
+
+
+
+The problem (or solution) with Lisp is that it /at its core/ has virtually no syntax. Don't get me wrong, it does have syntax. Take "if" for example. 
+
+"if" /must be/ be evaluated in a certain order. If it weren't, you could never check if a value was not null before applying it! 
+
+Beyond conditionals, though, there just isn't much syntax to Lisp. You don't have to take the code that the programmer writes and parse it according to the some grammar so that the compiler can understand it; you are writing in the language spoken by the compiler. So, by virtue of Lisp's syntax, or lack thereof, there really is no place for a parse tree as one might expect in any other language. Lisp's syntax is that of the compiler itself, virtually no translation is occurring.
+
+Accordingly, Lisp is not a parse tree, it is a plain old list (s-expression). 
+
+In writing this addendum I realized that I had made a pretty poor post. I knew what I thought, but not why I thought it (I thought I did, but I was wrong). That is the ultimate sin for a developer.
+
+Thanks, Geoff, for so graciously pointing that out to me. I am a truly lucky person to have so many people in my life be so kind to me in light of me "being human".
+
+
+

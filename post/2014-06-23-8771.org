@@ -1,0 +1,11 @@
+#+POSTID: 8771
+#+DATE: [2014-06-23 Mon 20:04]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: One way to work with org documents as data containers
+
+Nice [[http://orgmode.org/worg/org-tutorials/advanced-searching.html][post]] to get you think about org-mode as a data vehicle.
+
+
+

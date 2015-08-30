@@ -1,0 +1,20 @@
+#+POSTID: 8251
+#+DATE: [2014-03-01 Sat 02:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide, Lisp, Programming Language, elisp, org-mode
+#+TITLE: org-mode Observations 2014-02-28
+
+#+BEGIN_QUOTE
+  You can also just call org-insert-link with a "C-u" prefix. That will
+give you the regular find-file interface, and then insert a link to
+whatever file you find. Very useful!
+#+END_QUOTE
+
+
+-- Eric Abrahamsen
+
+
+
+
+

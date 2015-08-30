@@ -1,0 +1,97 @@
+#+POSTID: 952
+#+DATE: [2008-10-17 Fri 18:12]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, Programming Language, Scheme
+#+TITLE: Lisp Style Rules
+
+[[http://mumble.net/~campbell/scheme/style.txt][Riastradh's Lisp Style Rules]] are a wholly holistic and unscientific take on Lisp style rules. They have helped me not only to get a better sense of how Lisp people do things, but also why. There is other stuff like this around the Internet, but this is the only I've found that I enjoyed reading. 
+
+While there are a lot of good rules in the guide, not all of them were new to me, so I only took notes on the ones that I found interesting for one reason or another.
+
+The rules in the guide are implemented in Emacs Lisp modes, along with the [[http://mumble.net/~campbell/emacs/paredit.el][Paredit]] utility.
+
+My notes follow.
+
+Parenthesis
+
+
+-  Call them brackets, not parentheses
+-  /round brackets/ -> ( and )
+-  /square brackets/ -> [ and ]
+-  /curly brackets/ -> { and }
+-  /angle brackets/ -> < and >
+-  Since they are balanced, refer to them as either the opening or closing bracket
+
+
+
+Line Separation
+
+
+-  In long, quoted lists, insert a new line before the opening bracket and also the closing bracket; it makes the list easier to read and maintain.
+
+
+
+Indentation and Alignment
+
+
+-  "If the first subform is a non-special name, however, then if the second subform is on the same line, align the starting column of all following subforms with that of the second subform. If the second subform is on the following line, align its starting column with that of the first subform, and do the same for all remaining subforms."
+-  You can force [your Lisp editor] to format lists of literal data correctly by inserting a newline after the first item in the list; forcing the remaining data to line up with that item (per the behavior described in the previous entry).
+
+
+
+Names
+
+
+-  "Symbolic names are written with English words separated by hyphens. Scheme and Common Lisp both fold the case of names in programs; consequently, camel case is frowned upon, and not merely because it is ugly. Underscores are unacceptable separators except for names that were derived directly from a foreign language without translation."
+
+
+
+Scheme Specific
+
+
+-  Procedure whose sole purpose in life is to answer a yes or no question, yielding a boolean, are called 'predicates', and end with a question mark.
+-  Procedures whose sole purpose in life are to modify an object are called 'destructive', and end with an exclamation point.
+-  Append an asterisk onto procedures names that are a variation on the original. Writing such a function, here, generally seems dubious.
+-  "Prefix `WITH-' to any procedure that establishes dynamic state and calls a nullary procedure, which should be the last (required) argument. The dynamic state should be established for the extent of the nullary procedure, and should be returned to its original state after that procedure returns."
+-  Prefix `CALL-WITH-' to any procedure that calls a procedure, which should be its last argument, with some arguments, and is either somehow dependent upon the dynamic state or continuation of the program, or will perform some action to clean up data after the procedure argument returns.
+
+
+
+Comments
+
+
+
+-  Headings have four semicolons
+-  Top-level comments have 3
+-  Comments on code have 2
+-  Margin comments have one
+-  Use Emacs's Outline Mode to take advantage of this approach
+
+
+
+Naming
+
+
+-  Use meaningful names; not abbreviations. No cheating.
+-  Don't use single-letter variable names; name to convey how the procedure works.
+
+
+
+Round and Square Brackets
+
+
+-  Only use round brackets
+-  This is the only thing portable in R5RS
+-  While square brackets are allowed in R6RS; eventually you end up discovering that you do not use brackets to read the code, anyway.
+
+
+
+*ADDENDUM: 09/07/10*
+
+Here is a link to a mirrored copy:
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/10/style.txt][style]]
+
+
+

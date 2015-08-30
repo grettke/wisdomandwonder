@@ -1,0 +1,29 @@
+#+POSTID: 1768
+#+DATE: [2009-02-15 Sun 02:57]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: 
+#+TITLE: Scheme Workshop 2009
+
+#+BEGIN_EXAMPLE
+    
+***********************************************
+
+SCHEME AND FUNCTIONAL PROGRAMMING WORKSHOP 2009
+
+           Cambridge, Massachusetts
+               August 22, 2009
+
+               CALL FOR PAPERS
+
+      http://www.schemeworkshop.org/2009/
+
+***********************************************
+
+#+END_EXAMPLE
+
+
+(via [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-January/030071.html][PLT]])
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 8984
+#+DATE: [2014-08-30 Sat 00:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: Matt Dowle's "data.table" talk at useR 2014
+
+Matt Dowle's [[https://www.youtube.com/watch?v=qLrdYhizEMg]["data.table" talk]] touches upon so many revealing and educational points in only 20 short minutes. It is a must-watch if you are wanting to choose between the various data query options in R.
+
+
+

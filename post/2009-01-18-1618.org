@@ -1,0 +1,29 @@
+#+POSTID: 1618
+#+DATE: [2009-01-18 Sun 15:31]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Dylan, Programming Language
+#+TITLE: The Dylan Resource Guide
+
+I started learning more about Dylan by reading the material listed in the [[http://groups.google.com/group/comp.lang.dylan/browse_thread/thread/708805852fccf72f][Dylan Resource Guide]] in [[http://groups.google.com/group/comp.lang.dylan/topics][comp.lang.dylan]]. It is true what they say; Dylan and Scheme seem to be very similar. When you take into account what Dylan [[http://www.wisdomandwonder.com/link/884/the-dylan-programming-language][purports to offer]], it sounds very interesting!
+
+Here are some links from the resource guide:
+
+
+
+-  #dylan on Freenode. Channel logs are supposed to be available [[http://www.ircbrowse.com/cdates.html?channel=dylan][here]]; but were not as of this posting.
+-  [[http://groups.google.com/group/comp.lang.dylan][comp.lang.dylan]]
+-  [[http://www.opendylan.org/books/drm][The Dylan Language Reference Manual]]: The "DRM" defines the Dylan language and standard library.
+-  [[http://www.opendylan.org/books/dpg][Dylan Programming]]: Dylan Programming is a book that teaches how to program in Dylan.
+-  [[http://www.opendylan.org/downloading][Gwydion Dylan]]: Gwydion Dylan is an open source command-line compiler originally developed by Carnegie Melon University as part of their Gwydion project. It is available on several platforms.
+-  [[http://www.opendylan.org/downloading][Open Dylan]]: Open Dylan is an open source IDE originally developed by Harlequin and, later, Functional Objects. The IDE is available for Windows, and the compiler is available as a command-line program for other platforms.
+-  
+
+
+
+
+
+
+
+
+

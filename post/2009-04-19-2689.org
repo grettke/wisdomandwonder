@@ -1,0 +1,72 @@
+#+POSTID: 2689
+#+DATE: [2009-04-19 Sun 03:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Hacking PLT to add a range syntax
+
+[[http://list.cs.brown.edu/pipermail/plt-scheme/2007-June/018694.html][Here]] is a post demonstrating how to add an infix range syntax to PLT Scheme.
+
+
+
+#+BEGIN_EXAMPLE
+    
+[a .. b]  => (interval a b)
+(... expr1 [expr2] ...) => (... (vector-ref expr1 expr2) ...)
+
+#+END_EXAMPLE
+
+
+
+*Addendum: 04/20/09*
+
+[[http://list.cs.brown.edu/pipermail/plt-scheme/2007-June/018736.html][Here]] is the final version of the code, with additional interesting syntax:
+
+
+
+#+BEGIN_QUOTE
+  That includes:
+
+ [1 .. 4] short interval (1 to 3)
+ [1 ... 4] long interval (1 to 4)
+
+Curry with {}:
+
+ {+ \_ 3} => (lambda (x) (+ x 3)
+ {+ \_ (* 2 \_)} => (lambda (x y) (+ x (* 2 y)))
+
+This is convenient with map and filter:
+
+ (map {+ \_ 3} [1 ... 3]) => '(4 5 6)
+
+Iota from SRFI 1:
+
+ [5] => (iota 5) => (0 1 2 3 4)
+ [5 3] => (iota 5 3) => (3 4 5 6 7)
+ [5 3 2] => (iota 5 3 2) => (3 5 7 9 11)
+
+Lambdas:
+
+ {n -> (+ n 1)} is (lambda (n) (+ n 1)
+
+And a very simple comprehension:
+
+
+> [(+ n 3) : n is (< n 10) (even? n)]
+(3 5 7 9 11)
+
+ > [(+ n 3) : n is (< n 10)]
+(3 4 5 6 7 8 9 10 11 12)
+
+ > [(* n n) : n is (< n 10) (odd? n)]
+(1 9 25 49 81)
+#+END_QUOTE
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 32
+#+DATE: [2008-01-18 Fri 03:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, Programming Language, Scheme
+#+TITLE: Running a startup on Scheme
+
+[[http://herdrick.blogspot.com/][Ethan Herdrick]] is giving a presentation on [[http://upcoming.yahoo.com/event/408750/?ps=5][Running a startup on Scheme]] next week. It sounds pretty interesting as he will be comparing [[http://www.plt-scheme.org/][PLT]] with [[http://www.gnu.org/software/kawa/][Kawa]] Scheme, in addition to the fact that /he is running a startup on Scheme/.
+
+
+

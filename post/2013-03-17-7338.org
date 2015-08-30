@@ -1,0 +1,272 @@
+#+POSTID: 7338
+#+DATE: [2013-03-17 Sun 23:37]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Artificial Intelligence, Computation, Knowledge Engineering, Rules Engine, mathematics
+#+TITLE: Rules-Engines Recommended Wikipedia Reading
+
+You know that advice "trust but verify"? It couldn't be more true when it comes to the realm of applied or narrow artificial intelligence, specifically with respect to rules-engines. There is more dis-information out there on rules-engines than on any other tech topic that I've ever researched. It is really, really shocking the amount of inaccurate, confused, and just plain wrong information out there. 
+
+The problem with it is that it makes it harder for people who want to learn more about the topic by wasting their time and presenting the topic as very, very shallow and simplistic. It makes rules-engines very, very easy to blow off as sort of a joke and nothing more than pricey business rules engines. That is sad, too, because rules-engines provide a very nuanced and special programming style all their own that every programmer should at least learn. 
+
+In order to avoid this, I tried to diligently record all of the materials that I have found valuable, including Wikipedia pages. My hope in sharing them is that they provide some baseline for getting started, that worked for at least one person. My approach was to read and bookmark internally to the site, and also do research out of the site. It wasn't a race, I took time to take it in, reading as many times as necessary for it to make sense, including re-reading it over as many days or weeks as I saw fit. The topics are grouped into sections that are somewhat logically related, and definitely do relate to one another, and try to help make it easier to access the topics in the following group.
+
+Rules-engines comes from a rich computational heritage, but strangely get a fraction of a percentage of coverage even in comparison to seemingly fringe topics like Lisp, so I hope that you have as much fun reading as I did, it was really enlightening!
+
+
+
+
+
+-  1
+
+
+   -  [[https://en.wikipedia.org/wiki/Artificial_intelligence][~ Artificial intelligence
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Backward_chaining][~ Backward chaining
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Business_rule_management_system][~ Business rule management system
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Rules_engine][~ Business rules engine
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Decision_table][~ Decision table
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Expert_system][~ Expert system
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Forward_chaining][~ Forward chaining
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Inference_engine][~ Inference engine
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Production_system][~ Production system
+]]
+
+
+
+   
+
+-  2
+
+
+   -  [[https://en.wikipedia.org/wiki/Constraint_programming][~ Constraint programming
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Declarative_programming][~ Declarative programming
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Fuzzy_logic][~ Fuzzy logic
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Intelligent_agent][~ Intelligent agent
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Knowledge_engineer][~ Knowledge engineer
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Knowledge_engineering][~ Knowledge engineering
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Knowledge-based_systems][~ Knowledge-based systems
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Rete_algorithm][~ Rete algorithm
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Strong_AI][~ Strong AI
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Weak_AI][~ Weak AI
+]]
+
+
+
+   
+
+-  3
+
+
+   -  [[https://en.wikipedia.org/wiki/Recursion_theory][~ Computability theory
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Emil_Leon_Post][~ Emil Leon Post
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/First-order_logic][~ First-order logic
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Modus_ponens][~ Modus ponens
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Post_canonical_system][~ Post canonical system
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Propositional_calculus][~ Propositional calculus
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Inference_rule][~ Rule of inference
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Charles_Forgy][~ Charles Forgy
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/OPS5][~ OPS5
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Inference][~ Inference
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Inductive_reasoning][~ Inductive reasoning
+]]
+
+
+
+   
+
+-  4
+
+
+   -  [[https://en.wikipedia.org/wiki/Production_Rule_Representation][~ Production Rule Representation
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Description_logic][~ Description logic
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Ontology_Language][~ Ontology (information science)
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Ontology_engineering][~ Ontology engineering
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning][~ Knowledge representation and reasoning
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Semantic_reasoner][~ Semantic reasoner
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Semantic_web][~ Semantic Web
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Web_Ontology_Language][~ Web Ontology Language (OWL)
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Semantic_Web_Rule_Language][~ Semantic Web Rule Language (SWRL)
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Open_world_assumption][~ Open world assumption
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Closed_world_assumption][~ Closed world assumption
+]]
+
+
+
+   
+
+-  5
+
+
+   -  [[https://en.wikipedia.org/wiki/Complex_event_processing][~ Complex event processing
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Machine_learning][~ Machine learning
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Predictive_analytics][~ Predictive analytics
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Soar_(cognitive_architecture)][~ Soar (cognitive architecture)
+]]
+
+
+
+   
+
+-  6
+
+
+   -  [[https://en.wikipedia.org/wiki/Control_theory][~ Control theory
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Linear_programming][~ Linear programming
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Support_vector_machine][~ Support vector machine
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Computational_science][~ Computational science
+]]
+
+
+
+   
+
+-  7
+
+
+   -  [[https://en.wikipedia.org/wiki/Computational_Science_and_Engineering][~ Computational Science and Engineering
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Applied_mathematics][~ Applied mathematics
+]]
+
+
+   -  [[https://en.wikipedia.org/wiki/Defeasible_logic][~ Defeasible logic
+]]
+
+
+
+   
+
+
+
+

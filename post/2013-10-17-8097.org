@@ -1,0 +1,27 @@
+#+POSTID: 8097
+#+DATE: [2013-10-17 Thu 18:27]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Books, Javascript, Learning, Review, Teaching, Web development
+#+TITLE: JavaScript: The Good Parts Book Review
+
+If you are new to JavaScript, then you have voluminous options available to your
+for your pursuit of knowledge. In my case, I started with the ECMA-262 standard
+for ECMAScript 5. You can tell that there was a lot of love there; though it
+wasn't really the right place (at least for me) to get started. Instead I wanted
+a "when the tires hit the pavement" overview, and the book delivered that.
+
+The book is lovingly written in a way that all technical people should behave, 
+or for that matter, every conscious entity should behave: focus on the positive, 
+respect the negative, and move on with life. The book covers tons of great guts
+of the language and how to use it "for real". I need not say more, the book 
+delivers on its promises, and that is why I gave it a 5/5.
+
+The Kindle version looks great, everything is readable. The chapters and 
+sections are light and terse, you get a lot of bang for your buck. In terms of
+the voice, it wasn't my personal preference, and for me it was really hard
+reading, but that is my problem, not the author's, and consequently the rating
+stands.
+
+
+

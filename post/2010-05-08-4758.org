@@ -1,0 +1,19 @@
+#+POSTID: 4758
+#+DATE: [2010-05-08 Sat 17:03]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: ML, OCaml, Programming Language
+#+TITLE: OASIS: A Cabal-like build system for OCaml
+
+#+BEGIN_QUOTE
+  This is the first public release of [[http://oasis.forge.ocamlcore.org/][OASIS]]. It aims to provide a clean and efficient way to create a configure/build and install system for your OCaml applications and libraries using a single '\_oasis' file.
+#+END_QUOTE
+
+
+
+It uses OCamlbuild, or whatever you prefer (Makefiles), rather than replacing them.
+
+(via [[http://caml.inria.fr/pub/ml-archives/caml-list/2010/04/e9d2cbda033bb8b5b64969ec64fd09b7.en.html][caml-list]])
+
+
+

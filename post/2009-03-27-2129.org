@@ -1,0 +1,21 @@
+#+POSTID: 2129
+#+DATE: [2009-03-27 Fri 14:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming, Programming Language, Scheme
+#+TITLE: Knights of the Lambda Calculus
+
+#+BEGIN_QUOTE
+  The Knights of the Lambda Calculus is a semi-fictional organization of expert LISP and Scheme hackers. The name refers to the lambda calculus, a mathematical formalism invented by Alonzo Church, with which LISP is intimately connected, and references the Knights Templar.
+
+There is no actual organization that goes by the name Knights of the Lambda Calculus; it mostly only exists as a hacker culture in-joke. The concept most likely originated at MIT. For example, in the Structure and Interpretation of Computer Programs video lectures, one of the lecturers presents the audience with the [[http://upload.wikimedia.org/wikipedia/en/8/83/Lambda.svg][button]], saying they are now members of this special group. However, a "well-known LISPer" has been known to give out buttons with Knights insignia on them, and some people have claimed to have membership in the Knights.
+#+END_QUOTE
+
+
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2009/03/lambda1.svg][Here]] is a local copy.
+
+(via [[http://en.wikipedia.org/wiki/Knights_of_the_Lambda_Calculus][Wikipedia]])
+
+
+

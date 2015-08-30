@@ -1,0 +1,11 @@
+#+POSTID: 4495
+#+DATE: [2010-01-30 Sat 13:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Programming Language, Scheme
+#+TITLE: A Review of Scheme Modes in Emacs
+
+[[http://alexott.net/en/writings/emacs-devenv/EmacsScheme.html][Here]] is a nice review of Scheme modes for Emacs.
+
+
+

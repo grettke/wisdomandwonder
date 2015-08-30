@@ -1,0 +1,13 @@
+#+POSTID: 160
+#+DATE: [2008-05-03 Sat 22:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide, VI
+#+TITLE: Uninstalling VIM
+
+Today I uninstalled VIM.
+
+It is the /only/ way that I will be able to give Emacs a fair shot!
+
+
+

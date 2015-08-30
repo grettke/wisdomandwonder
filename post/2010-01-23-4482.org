@@ -1,0 +1,17 @@
+#+POSTID: 4482
+#+DATE: [2010-01-23 Sat 13:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Scheme
+#+TITLE: A Scheme Developers Almanac for RNRS
+
+In the early 2000s Sun published [[http://java.sun.com/docs/books/almanac/index.html][The Java Developers Almanac]]. It was a basically a listing of code snippets explaining how to perform the most common operations that developers might want to accomplish at his "day job". You can find examples of the examples [[http://www.exampledepot.com/][here]].
+
+It was great for the language; it made it easy for loads of developers to get productive quickly. While something like this can certainly be abused via copy-and-paste; you can also use it to learn. Hopefully a lot of developers /did/ learn. I wonder if something like this would be interesting for the RNRS world?
+
+The reason is that the revised reports are just that: reports. They are not standards in the sense of the Common Lisp standard. Rather they are a report of the commonalities across different Scheme implementations. 
+
+The features provided by R6RS make it is a tad more convenient to write "portable" code. In light of that, I wonder if it would be of any value to have a sort of Scheme developers almanac written only using R6RS code for example. Things like this exist today with Schemewiki, and nearly every individual distribution, but, it might be nice to see how much you can do with only what the report provides along with the libraries that folks have implemented on top of it.
+
+
+

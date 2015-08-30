@@ -1,0 +1,37 @@
+#+POSTID: 6939
+#+DATE: [2013-01-12 Sat 21:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: Calling functions with optional arguments from the mini-buffer
+
+Surely one of the first things VIers want to know as do the rest of us is how to move forward N characters (or backward or whatever) from the mini-buffer in EMACS. [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Arguments.html][Here]] is how it is done, using the universal argument. So to move forward 100 chars:
+
+
+
+#+BEGIN_EXAMPLE
+    
+C:u 100, C:f
+
+#+END_EXAMPLE
+
+
+
+*ADDENDUM:01/13/13*
+
+Thanks [[https://github.com/Fuco1/smartparens][FUCO]] for providing a better solution:
+
+
+
+#+BEGIN_QUOTE
+  There's also a faster way. Just hold down control key (or meta key, by default the binding is on both) and type the number, then execute the command or invoke minibuffer with M-x
+
+So, C-2 C-0 C-f will move you 20 characters. It's neat because you don't have to release control, you just hit the rest of the keys in sequence.
+#+END_QUOTE
+
+
+
+
+
+
+

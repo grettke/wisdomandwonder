@@ -1,0 +1,13 @@
+#+POSTID: 8035
+#+DATE: [2013-09-28 Sat 00:05]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Books, Git, Learning, Review, Revision control system, Teaching
+#+TITLE: Pro Git Book Review
+
+As a Subversion master-user I was hoping for a lot from \_Pro Git\_ and was rewarded greatly. The author gives Git a fair shake without throwing Subversion under the bus. He does a great job teaching not just the tools, but the culture and "how to think" the Git way. The latter is devoid in literally every tutorial I've seen online, and I'm not sure it is even possible to sum it up in anything less than the entirety of this book. The length is just fine, chapter are brief, terse, light, and information packed. The multitude of tools and approaches revealed in the book make it worth reading, and buying, too. Although the book is free online, the author should be rewarded with a purchase. Before reading this I spent 5 months using Git with the typical docs: man pages, stackoverflow.com, and random posts. This book pulled everything together, it was kind of like sitting with a hacker who really groks it all (as you will see in the last chapter), and that alone is priceless. 5/5
+
+Addendum: the formatting and graphics in the Kindle version look excellent (forgot to mention this key point as not all Kindle books look this great).
+
+
+

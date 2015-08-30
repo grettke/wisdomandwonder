@@ -1,0 +1,11 @@
+#+POSTID: 8834
+#+DATE: [2014-07-12 Sat 19:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: .NET, Android, Artificial Intelligence, C++, CLIPS, Emacs, Ide, Java, Jess, Lisp, Programming, Programming Language, Rules Engine, Visual Studio, elisp
+#+TITLE: Running CLIPS on Android
+
+Via [[https://groups.google.com/forum/#!msg/CLIPSESG/aVqe5a-cZSk/r8jd98pqI4oJ][here]]: [[https://github.com/gomezgoiri/CLIPS4Android][CLIPS4Android]] and [[https://github.com/DrItanium/DROID-CLIPS][DROID-CLIPS]]
+
+
+

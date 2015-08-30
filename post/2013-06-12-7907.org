@@ -1,0 +1,11 @@
+#+POSTID: 7907
+#+DATE: [2013-06-12 Wed 02:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Editor, Emacs, Ide, Learning, Literate Programming, ML, Programming Language, Reproducible research, Research, SML, Standard ML, Teaching
+#+TITLE: Org Mode Babel Support for SML
+
+David recently pulled in a couple of changes to make [[https://github.com/swannodette/ob-sml][OB-SML]] happy with Emacs' package manager, SML-MODE 6.4, and [[http://orgmode.org/worg/org-contrib/babel/][Org Babel]]. For you reproducible research junkies, this is super-cool. It is already out on [[http://marmalade-repo.org/][Marmalade]].
+
+
+

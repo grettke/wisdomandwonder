@@ -1,0 +1,13 @@
+#+POSTID: 2560
+#+DATE: [2009-04-13 Mon 18:29]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Ide, Programming Language, Scheme
+#+TITLE: LambdaBeans
+
+[[http://www.lambdabeans.org/][LambdaBeans]] is a new IDE for Scheme. Download it [[http://kenai.com/projects/lambdabeans][here]].
+
+(via [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/9c643ad6d519074d][comp.lang.scheme]])
+
+
+

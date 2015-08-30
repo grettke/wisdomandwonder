@@ -1,0 +1,15 @@
+#+POSTID: 51
+#+DATE: [2008-02-09 Sat 23:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, elisp
+#+TITLE: Visualizing Lisp without parentheses
+
+[[http://www.foldr.org/~michaelw/][Michael Weber]] had the inspiration to imagine how might one /visualize/ Lisp without parentheses in his [[http://www.foldr.org/~michaelw/emacs/mwe-color-box.el][mwe-color-box.el]] extension to [[http://www.gnu.org/software/emacs/][Emacs]].
+
+Below is a screenshot from Michael's page. More of Michael's Emacs Hackery is available [[http://www.foldr.org/~michaelw/emacs/][here]].
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/02/color-box.png][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/02/color-box.thumbnail.png]]]]
+
+
+

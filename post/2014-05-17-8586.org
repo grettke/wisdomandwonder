@@ -1,0 +1,11 @@
+#+POSTID: 8586
+#+DATE: [2014-05-17 Sat 16:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Emacs Lisp, Ide, Programming
+#+TITLE: MELPA Stable
+
+Bozhidar [[http://emacsredux.com/blog/2014/05/16/melpa-stable/][posted]] about a MELPA based repository for stable packages builds (tags), [[http://melpa-stable.milkbox.net/#/][MELPA-stable]]. Nice option and still not sure how to selectively pull projects from both stable and [[http://melpa.milkbox.net/#/][unstable]] given that the former only has 556 packages versus the richer 1796 of the latter.
+
+
+

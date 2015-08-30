@@ -1,0 +1,11 @@
+#+POSTID: 7655
+#+DATE: [2013-04-27 Sat 20:39]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Communication, Programming Language
+#+TITLE: Semi-Literate Programming with Docco
+
+[[http://jashkenas.github.io/docco/][Docco]] is a documentation generator that is semi-[[https://en.wikipedia.org/wiki/Literate_programming][Literate]] and looks nice. It comes with JavaScript support, and there are clones for other languages.
+
+
+

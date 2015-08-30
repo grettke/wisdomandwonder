@@ -1,0 +1,25 @@
+#+POSTID: 199
+#+DATE: [2008-05-30 Fri 19:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: PLT, Programming Language, Scheme, XO
+#+TITLE: PLT Scheme 3.99 (revision 10030) for the OLPC XO
+
+[[http://www.drscheme.org/][DrScheme]] is very, very close to its 4.0 release. I wanted to try out the newest bits on my [[http://laptop.org/][OLPC XO]] using one of the [[http://pre.plt-scheme.org/][nightly builds]], but ran into the same problem as I did [[http://www.wisdomandwonder.com/article/28/scheme-lisp-on-the-olpc-xo][last time]]:
+=
+/home/olpc/apps/plt-3.99.0.25/bin/mred: error while loading shared libraries: libGL.so.1: cannot open shared object file: No such file or directory
+=
+
+Some folks have resolved this dependency using [[http://www.mesa3d.org/intro.html][Mesa]] for OpenGL emulation, but I found it easier to prepare a build that doesn't depend OpenGL. 
+
+Here is the [[http://www.wisdomandwonder.com/xo/plt/3.99/plt-r10030.tar.gz][tarball]] and the [[http://www.wisdomandwonder.com/xo/plt/3.99/plt-r10030.tar.gz.md5][md5sum]] for a [[http://svn.plt-scheme.org/][trunk]] build that I made at revision 10030.
+
+Here is how I did the build:
+=
+./configure --prefix=$WORKDIR/$DESTDIR --disable-gl --disable-shared --enable-origtree
+make
+make install
+=
+
+
+

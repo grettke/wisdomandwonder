@@ -1,0 +1,18 @@
+#+POSTID: 9288
+#+DATE: [2014-10-31 Fri 14:43]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: philosophy
+#+TITLE: Do what you can
+
+#+BEGIN_QUOTE
+  Start where you are. Use what you have. Do what you can.
+#+END_QUOTE
+
+
+-- [[https://www.goodreads.com/author/quotes/149539.Arthur_Ashe][Arthur Ashe]]
+
+Via [[http://www.blogbyben.com/2014/10/the-time-accordion-saved-girls-life.html][Ben]].
+
+
+

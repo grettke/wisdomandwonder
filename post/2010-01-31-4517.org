@@ -1,0 +1,22 @@
+#+POSTID: 4517
+#+DATE: [2010-01-31 Sun 18:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: philosophy
+#+TITLE: When You Just Can't Imagine...
+
+Something to consider...
+
+
+
+#+BEGIN_QUOTE
+  "I can't imagine why anyone would need X" is a statement about your imagination, not X.
+#+END_QUOTE
+
+
+
+(via [[http://twitter.com/sigfpe/status/8303411333][Dan]])
+
+
+
+

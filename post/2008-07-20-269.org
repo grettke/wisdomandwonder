@@ -1,0 +1,11 @@
+#+POSTID: 269
+#+DATE: [2008-07-20 Sun 01:27]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Update
+#+TITLE: Updated: DrSync: Automatically synchronize file changes in DrScheme
+
+See [[http://www.wisdomandwonder.com/article/59/drsync-automatically-synchronize-file-changes-in-drscheme-v370-and-above][here]]
+
+
+

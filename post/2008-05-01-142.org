@@ -1,0 +1,19 @@
+#+POSTID: 142
+#+DATE: [2008-05-01 Thu 01:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Halyard 2D/3D multimedia engine
+
+#+BEGIN_QUOTE
+  [Dartmouth's] Interactive Media Lab (IML) builds shrink-wrapped educational software for medical professionals and first responders. [They] have teams focusing on media production, script-level authoring, and low-level engine development.
+#+END_QUOTE
+
+
+
+They have released their [[http://iml.dartmouth.edu/halyard/][engine]], along with their object system, as open source.
+
+Their system is pretty interesting in that they tackled a lot of problems on their own; and even after solving problems they still had to figure how to get the users to use the new code! Read about it in the [[http://cufp.googlegroups.com/web/cufp-report-2007.pdf?gda=1jV7kUUAAAArWanj6ObJWdPnFArZVMU1sPPkW4mFK_dE1OmaDkUTV2G1qiJ7UbTIup-M2XPURDSry-7wOvQEafhEbUwqH2wIAwr2nxuCeMgK0va2Y--a2A][write-up on CUFP 07]].
+
+
+

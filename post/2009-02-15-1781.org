@@ -1,0 +1,23 @@
+#+POSTID: 1781
+#+DATE: [2009-02-15 Sun 03:36]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Compiling with Continuations
+
+On the PLT list, the original poster asked about dynamic, static scope and closures. Shriram replied that:
+
+
+
+#+BEGIN_QUOTE
+  My favorite reference for these kinds of questions is Andrew Appel's Compiling with Continuations. If you ignore the slightly intimidating title, just about every question along these lines is answered -- by the author of the Standard ML compiler. It is, I believe, a vast improvement over its successor, the Tiger book.
+#+END_QUOTE
+
+
+
+The book has been mentioned a few time before. It seems to be available [[http://www.amazon.com/Compiling-Continuations-Andrew-W-Appel/dp/0521416957][here]].
+
+(via [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-January/029830.html][PLT]])
+
+
+

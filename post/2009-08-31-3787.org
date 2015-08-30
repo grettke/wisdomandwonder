@@ -1,0 +1,22 @@
+#+POSTID: 3787
+#+DATE: [2009-08-31 Mon 20:42]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Programming Language, Scheme, Teaching
+#+TITLE: How Small Can a Scheme Implementation Be?
+
+#+BEGIN_QUOTE
+  
+How small does it have to be? Chibi Scheme does syntax-rules in 174 lines of Scheme, layered over explicit renaming. Indeed, Chibi does essentially all of R5RS in 4822 lines of C + 708 lines of Scheme.
+
+#+END_QUOTE
+
+
+-- John Cowan
+
+[[http://www.t3x.org/s9fes/][Scheme 9 from Empty Space]] is also very small from what Nils said.
+
+(via this [[http://lists.r6rs.org/pipermail/r6rs-discuss/2009-August/004474.html][thread]] in r6rs-discuss, I have the email but can not find the archive of it)
+
+
+

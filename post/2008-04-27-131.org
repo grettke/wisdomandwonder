@@ -1,0 +1,31 @@
+#+POSTID: 131
+#+DATE: [2008-04-27 Sun 19:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Erlang, Lisp, Programming Language
+#+TITLE: Lisp Flavoured Erlang
+
+[[http://forum.trapexit.org/viewtopic.php?p=43887][Lisp Flavoured Erlang]]
+
+
+
+#+BEGIN_QUOTE
+  is a lisp syntax front-end to the Erlang compiler. Code produced with it is compatible with "normal" Erlang code.
+#+END_QUOTE
+
+
+
+The really big change with this release is that
+
+
+
+#+BEGIN_QUOTE
+  LFE is now Lisp-2 like Common Lisp, i.e. functions and variables reside in different name spaces, instead being a Lisp-1 like Scheme where they reside in the same name space.
+#+END_QUOTE
+
+
+
+(via [[http://plnews.org/posts/lisp_flavoured_erlang_02_released_20080427_100006.html][PLNews]])
+
+
+

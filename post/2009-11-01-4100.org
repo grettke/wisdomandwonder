@@ -1,0 +1,30 @@
+#+POSTID: 4100
+#+DATE: [2009-11-01 Sun 03:59]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: fmt 0.7 Released
+
+[[http://synthcode.com/scheme/fmt/][fmt]]is 
+
+
+
+#+BEGIN_QUOTE
+  A library of procedures for formatting Scheme objects to text in various ways, and for easily concatenating, composing and extending these formatters efficiently without resorting to capturing and manipulating intermediate strings.
+#+END_QUOTE
+
+
+
+
+
+#+BEGIN_QUOTE
+  
+This release also addresses a long-time pet peeve of mine - you can now format exact non-integral rationals to arbitrary precision. Rationals provide extended precision, but until now it was always difficult to see that precision in a human-readable manner.
+#+END_QUOTE
+
+
+
+(via [[http://groups.google.com/group/ikarus-users/msg/0bd682d271f44c23][ikarus]])
+
+
+

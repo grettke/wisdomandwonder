@@ -1,0 +1,11 @@
+#+POSTID: 8889
+#+DATE: [2014-08-16 Sat 23:11]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: R Mailing Lists and Posting Guide
+
+The [[http://www.r-project.org/mail.html][mailing lists]] are quite nice, and the [[http://www.r-project.org/posting-guide.html][posting guide]] is mandatory reading.
+
+
+

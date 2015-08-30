@@ -1,0 +1,11 @@
+#+POSTID: 227
+#+DATE: [2008-06-24 Tue 22:28]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Update
+#+TITLE: Updated: Distributed Programming in Scheme
+
+See [[http://www.wisdomandwonder.com/link/68/distributed-programming-in-scheme][here]]
+
+
+

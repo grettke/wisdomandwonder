@@ -1,0 +1,48 @@
+#+POSTID: 8785
+#+DATE: [2014-06-27 Fri 16:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Simple in-document generation with org-mode
+
+org-mode's literate programming (Babel) functionality is amazing. The limitation in my case is me, not the tool. The power and abstraction just aren't something that you think about it for a document. While I suppose that is the whole point of LP, it does just take time for it to sink in, and experience. That said, [[https://lists.gnu.org/archive/html/emacs-orgmode/2014-06/msg00894.html][this example]] is nice. 
+
+Clearly generating a headline is something you may do once, and probably not very often, so would perhaps be more likely just use a macro definition. When I see how simple this is though, the idea of using macros really goes out the window because this is far easier and simpler and much more powerful. Here is a simple example:
+
+This:
+
+
+
+#+BEGIN_EXAMPLE
+    
+* Code
+
+#+name: hname
+#+header: :exports none
+#+begin_src emacs-lisp
+"Hello, world."
+#+end_src
+
+* call_hname()[:results raw]
+
+
+#+END_EXAMPLE
+
+
+
+Produces this:
+
+
+#+BEGIN_EXAMPLE
+    
+1 Code
+══════
+
+
+2 Hello, world.
+═══════════════
+
+#+END_EXAMPLE
+
+
+

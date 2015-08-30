@@ -1,0 +1,20 @@
+#+POSTID: 3659
+#+DATE: [2009-08-11 Tue 14:39]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: iPhone
+#+TITLE: A List of Wisconsin iPhone Developer Blogs
+
+Are you blogging about iPhone development in Wisconsin? If you are, I would love to add your blog to my list of Wisconsin iPhone developer blogs. Currently there is only one on my list. I know there are folks out there, though, as evidenced by [[http://groups.google.com/group/madison-cocoa-developers][Madison Cocoa Developers]] and [[http://groups.google.com/group/mwiphonesdk][Midwest iPhone SDK Developers]].
+
+
+
+*** Wisconsin iPhone Developer Blogs
+
+
+
+
+-  [[http://www.sunsetlakesoftware.com/blog][Sunset Lake Software]]
+
+
+

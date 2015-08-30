@@ -1,0 +1,21 @@
+#+POSTID: 148
+#+DATE: [2008-05-03 Sat 13:12]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Conference, Latently Typed, Programming Language
+#+TITLE: Dynamic Languages Symposium 2008
+
+The [[http://www.swa.hpi.uni-potsdam.de/dls/dls08/index.html][Dynamic Languages Symposium 2008]]
+
+
+
+#+BEGIN_QUOTE
+  is a forum for discussion of dynamic languages, their implementation and application. While mature dynamic languages including Smalltalk, Lisp, Scheme, Self, Prolog, and APL continue to grow and inspire new converts, a new generation of dynamic scripting languages such as Python, Ruby, PHP, Tcl, and JavaScript are successful in a wide range of applications. DLS provides a place for researchers and practitioners to come together and share their knowledge, experience, and ideas for future research and development.
+#+END_QUOTE
+
+
+
+
+
+
+

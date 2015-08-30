@@ -1,0 +1,13 @@
+#+POSTID: 1199
+#+DATE: [2008-11-15 Sat 05:17]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Programming, Scheme
+#+TITLE: Source Code for Various Old Scheme Implementations
+
+The source code for various, older, Scheme implementations can be found [[ftp://ftp.cs.indiana.edu/pub/scheme-repository/imp/][here]]. It is pretty interesting to read about the differing interests of the implementers.
+
+(via [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/86001b2a917624e3#][comp.lang.scheme]])
+
+
+

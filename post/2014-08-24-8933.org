@@ -1,0 +1,13 @@
+#+POSTID: 8933
+#+DATE: [2014-08-24 Sun 14:28]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: save() vs saveRDS() in R
+
+=saveRDS()= is an easy way to save the definition of a single unnamed object in R. 
+
+Good to know. Via [[http://www.fromthebottomoftheheap.net/2012/04/01/saving-and-loading-r-objects/][fromthebottomoftheheap]]
+
+
+

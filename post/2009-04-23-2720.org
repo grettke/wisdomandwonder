@@ -1,0 +1,13 @@
+#+POSTID: 2720
+#+DATE: [2009-04-23 Thu 13:43]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Python
+#+TITLE: Python's Functional History
+
+[[http://python-history.blogspot.com/2009/04/origins-of-pythons-functional-features.html][Here]] is a post of the history of some functional features in Python. It is not exhaustive, but it is interesting to hear the author's take on things.
+
+(via reddit)
+
+
+

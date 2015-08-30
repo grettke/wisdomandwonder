@@ -1,0 +1,21 @@
+#+POSTID: 8284
+#+DATE: [2014-03-13 Thu 03:57]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Creation and conservation of computer files (C3F)
+
+Wanting to learn literate programming in org-mode I figured that my Emacs configuration would be the simplest place to start. In that regard I was right, it just took a lot more work then I had expected, and that is OK. It was a non-trivial effort and I learned a lot. In my mind, the door is now wide open to utilize literate programming; the org-mode team has truly unleashed an amazing gift to the world and it may take the world some time to really understand and appreciate it.
+
+My configs and document follow; the first one, C3F.html, is the human-readable document:
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2014/03/C3F.html][C3F]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2014/03/ditaa-simple.png][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2014/03/ditaa-simple-300x146.png]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2014/03/C3F.org_.txt][C3F.org]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2014/03/Cask.txt][Cask]]
+
+
+

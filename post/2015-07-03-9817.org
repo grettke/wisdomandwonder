@@ -1,0 +1,11 @@
+#+POSTID: 9817
+#+DATE: [2015-07-03 Fri 17:08]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Fun, Ide, Lisp, Programming, creativity, elisp, philosophy
+#+TITLE: The Purpose of EMACS
+
+The purpose of EMACS is to provide an environment for the unlimited expression of your creativity in which you can revel in the definition of as many boundaries as you wish, and then exceed them, repeatedly.
+
+
+

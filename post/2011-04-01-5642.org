@@ -1,0 +1,11 @@
+#+POSTID: 5642
+#+DATE: [2011-04-01 Fri 23:10]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, Programming Language, elisp
+#+TITLE: Emacs Lisp merges Lexical binding to the Trunk
+
+(via [[http://lists.gnu.org/archive/html/emacs-devel/2011-04/msg00043.html][emacs-devel]])
+
+
+

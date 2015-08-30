@@ -1,0 +1,15 @@
+#+POSTID: 2941
+#+DATE: [2009-05-08 Fri 12:03]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, Programming Language
+#+TITLE: Lisp is the smartest way to misuse a computer
+
+#+BEGIN_QUOTE
+  Lisp has jokingly been called "the most intelligent way to misuse a computer". I think that description is a great compliment because it transmits the full flavor of liberation: it has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+#+END_QUOTE
+
+- [[http://www-users.cs.umn.edu/~gini/lisp/index.html][Edsger Dijkstra, CACM, 15:10]]
+
+
+

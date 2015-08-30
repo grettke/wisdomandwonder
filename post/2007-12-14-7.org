@@ -1,0 +1,20 @@
+#+POSTID: 7
+#+DATE: [2007-12-14 Fri 02:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: .NET, Programming Language
+#+TITLE: F Sharp for the Holidays
+
+To help drum up excitement for the recently released Visual Studio .NET 2008 (VS08) at the [[http://www.wi-ineta.org/][WI-INETA]] Holiday Party this year, folks who are passionate about .NET are being encouraged to give 5-minute micro-presentations on new features about which they are particularly excited. One rumor that piqued my interest was that F# would be released as part of VS08.
+
+As it turns out, although F# did not get released with VS08, [[http://blogs.msdn.com/dsyme/archive/2007/11/30/full-release-notes-for-f-1-9-3-7.aspx][F# RC 1.9.3.7]] is available in the form of a stand alone installer which provides VS08 integration. Installation is fast and easy, and in no time you will be up and running with a powerful functional programming language, a great IDE, and full access to the latest and greatest APIs that Microsoft has to offer. The following is a screenshot with a few niceties highlighted in blue:
+
+[[http://www.flickr.com/photos/21470641@N07/2110080930/][[[http://farm3.static.flickr.com/2067/2110080930_9aa8e34e3f_m.jpg]]]]
+
+Although technically it may fall outside the bounds of the original WI-INETA goal of presenting only on VS08 features, I'm hoping that [[http://cs.hubfs.net/blogs/thepopeofthehub/archive/2006/02/21/FSharpPresentationINETA20060221.aspx][optionsScalper]] will return to reprise his role as the local F# evangelist by giving a micro-presentation on F# and VS08.
+
+Enjoy!
+
+
+
+

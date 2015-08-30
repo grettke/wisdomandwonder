@@ -1,0 +1,15 @@
+#+POSTID: 3221
+#+DATE: [2009-06-07 Sun 01:29]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: iPhone
+#+TITLE: Eucalyptus e-text reader
+
+[[http://th.ingsmadeoutofotherthin.gs/eucalyptus/][Eucalyptus]] is an interesting app for a few reasons. One, it seems to provide a pleasant user experience. Two, it leverages freely available material (a lot of it). Three, it is breaking the trend of the 99c app pricing.
+
+This looks like a /real/ app into which a lot of work has been put. I look forward to finding what comes up it.
+
+Screenshots: [[http://mediaandth.ingsmadeoutofotherthin.gs.s3.amazonaws.com/EucalyptusOnIPhoneJpg.jpg][1]] [[http://mediaandth.ingsmadeoutofotherthin.gs.s3.amazonaws.com/EucalyptusPageTurn.jpg][2]] [[http://mediaandth.ingsmadeoutofotherthin.gs.s3.amazonaws.com/EucalyptusPicks.jpg][3]] [[http://mediaandth.ingsmadeoutofotherthin.gs.s3.amazonaws.com/EucalyptusPickCard.jpg][4]]
+
+
+

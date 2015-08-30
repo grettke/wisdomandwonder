@@ -1,0 +1,25 @@
+#+POSTID: 3644
+#+DATE: [2009-08-01 Sat 20:35]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Chez, Learning, Programming Language, Scheme, Teaching
+#+TITLE: R6RS Chez Scheme 7.4D and TSPL4 Now Available
+
+A R6RS conformant [[http://scheme.com/csv7.4d/7.4d.html][Chez Scheme 7.4D]] and [[http://scheme.com/tspl4/][TSPL4]] now available.
+
+Surprised?! I was. I hadn't heard anything either. Anywhere. From anyone.
+
+Yesterday though, I saw Aaron (dedicated Chez user) posting about R6RS ports [[http://groups.google.com/group/comp.lang.scheme/msg/8e6edd12a26c82de][here]] and Eduardo mentioned TSPL4's availability here [[http://groups.google.com/group/comp.lang.scheme/msg/28433d7c57f83da1][here]].
+
+*Addendum: 08/04/09*
+
+The TSPL4 link is broken, but was not at the time of posting. Since the hardcopy hasn't been released yet, I suspect that the link will be down until the hard copy is released.
+
+*Addendum: 08/08/09*
+
+The link is back up. 
+
+FWIW: I didn't think it was worth bothering Kent by asking about why it was down in the first place.
+
+
+

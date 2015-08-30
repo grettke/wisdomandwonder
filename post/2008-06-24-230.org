@@ -1,0 +1,11 @@
+#+POSTID: 230
+#+DATE: [2008-06-24 Tue 22:47]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Update
+#+TITLE: Updated: P-Lisp rides again!
+
+See [[http://www.wisdomandwonder.com/link/202/p-lisp-rides-again][here]]
+
+
+

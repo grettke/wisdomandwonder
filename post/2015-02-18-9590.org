@@ -1,0 +1,65 @@
+#+POSTID: 9590
+#+DATE: [2015-02-18 Wed 20:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 02947, CB750, CB750F, Honda, Motorcycle, Repair
+#+TITLE: CB750F: Day 37: Carb 3 Linkage Rod Out
+
+
+Carbs 1, 3, and 4 have synchronizing screws. They let you synchronize the throttle plates. That is a "bench synchronization". When I did so, carb 3 would not stay adjusted correctly. It kept slipping out of alignment. 
+
+
+
+
+
+
+
+
+
+The reason is that the threads on the tab were stripped. The tab is the thing attached to each carb linkage assembly, the rod. You screw the adjustment screw into the tab. You adjust the screw to align the throttle plates. Carb 3's throttle plate would never be aligned correctly. 
+
+
+
+
+
+
+
+Ordered a replacement carb linkage assembly [[http://www.wisdomandwonder.com/article/9527/cb750f-day-36-forward-progress][last week]]. I received it this week. The old one is on the top. It is off the '79. The tab is kind of yellow and shiny and tarnished. The new one is on the bottom. It is off a '80. It is dark grey. I wonder why the coloring is so different between the two years.
+
+
+
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2015/02/2015-02-17-19.06.27.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2015/02/2015-02-17-19.06.27-150x150.jpg]]]]
+
+The carb linkage assembly rod is held on by a nut. That is the nut where the spring fits to keep 3 and 4 flexibly separated. Between the nut and the car body are: a thin metal washer, a paper washer and a locking nut. 
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2015/02/2015-02-17-18.02.13.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2015/02/2015-02-17-18.02.13-150x150.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2015/02/2015-02-17-18.47.57.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2015/02/2015-02-17-18.47.57-150x150.jpg]]]]
+
+It didn't make sense to pull 3 and 4 apart to replace the rod. I gently removed that spring separating 3 and 4 using some picks.
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2015/02/2015-02-17-18.20.16.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2015/02/2015-02-17-18.20.16-150x150.jpg]]]]
+
+The nut holding the rod on is 11mm.
+
+When I removed the throttle plate screws some rust and junk fell out. I pushed the piston down and blew the crud out it compressed air.
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2015/02/2015-02-17-18.32.38.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2015/02/2015-02-17-18.32.38-150x150.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2015/02/2015-02-17-18.59.04.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2015/02/2015-02-17-18.59.04-150x150.jpg]]]]
+
+When I removed the throttle plate, I kept it aligned the same way as it was seated and drew an =X= to make sure I seat it back correctly. The Internet said that putting back differently guarantees a big hassle. 
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2015/02/2015-02-17-18.36.47.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2015/02/2015-02-17-18.36.47-150x150.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2015/02/2015-02-17-18.39.57.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2015/02/2015-02-17-18.39.57-150x150.jpg]]]]
+
+You can see that the rod has the plate sandwiched inside of it. You can see where the rod and tab are sitting so you can pull the plate out.
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2015/02/2015-02-17-17.58.20.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2015/02/2015-02-17-17.58.20-150x150.jpg]]]]
+
+I'm looking for some panhead screws like the ones that came with the [[http://randakks.com/collections/honda-dohc4/products/randakks-own-dohc-four-master-carb-overhaul-kit][randakk rebuilt kit]]. I emailed Randakk.
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 8397
+#+DATE: [2014-03-28 Fri 22:48]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Computer Science, mathematics, theoretical computer science, theoretical mathematics, theory of computation
+#+TITLE: Introduction to the Theory of Computation
+
+Peter recommended [[http://www.cengage.com/search/productOverview.do?Ntt=sipser%7C%7C991938321204392568016032450701059771599&N=0&Ntk=all%7C%7CP_EPI][this]] book by Sipser.
+
+
+

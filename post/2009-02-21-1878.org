@@ -1,0 +1,17 @@
+#+POSTID: 1878
+#+DATE: [2009-02-21 Sat 20:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Functional, Java, Programming Language
+#+TITLE: Functional Java
+
+#+BEGIN_QUOTE
+  [[http://functionaljava.org/][Functional Java]] is an open source library that aims to prepare the Java programming language for the inclusion of closures. It also serves as a platform for learning functional programming concepts by introducing these concepts using a familiar language. The library is intended for use in production applications and is thoroughly tested using the technique of automated specification-based testing with [[http://code.google.com/p/scalacheck/][ScalaCheck]].
+#+END_QUOTE
+
+
+
+(via [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-February/030140.html][PLT]])
+
+
+

@@ -1,0 +1,27 @@
+#+POSTID: 233
+#+DATE: [2008-06-25 Wed 02:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Conference, Functional, Programming
+#+TITLE:  DEFUN08: ACM SIGPLAN 2008 Developer Tracks on Functional Programming 
+
+#+BEGIN_QUOTE
+  DEFUN 2008 invites functional programmers who know how to solve
+problems with functional progamming to give talks and lead tutorials
+at the The ICFP Developer Tracks.
+
+We want to know about your favorite programming techniques, powerful
+libraries, and engineering approaches you've used that the world
+should know about and apply to other projects. We want to know how to
+be productive using functional programming, write better code, and
+avoid common pitfalls.
+#+END_QUOTE
+
+
+
+ICFP08 looks like a lot of fun!
+
+(via [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-June/025003.html][PLT]])
+
+
+

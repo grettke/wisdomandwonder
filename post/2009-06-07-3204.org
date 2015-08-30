@@ -1,0 +1,13 @@
+#+POSTID: 3204
+#+DATE: [2009-06-07 Sun 01:25]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Business, model
+#+TITLE: Simple ideas make big money
+
+[[http://www.carsforagrand.com/][This]] website only lists cars for sale that are less than $1000USD. The owner of the site has a 6 figure income. Talk about the power of simplicity!
+
+(via [[http://www.37signals.com/svn/posts/1734-carsforagrandcom-simple-idea-thats-generating-big-bucks][37Signals]])
+
+
+

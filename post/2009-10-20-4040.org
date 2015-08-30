@@ -1,0 +1,43 @@
+#+POSTID: 4040
+#+DATE: [2009-10-20 Tue 16:06]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Nausicaa for R6RS Scheme
+
+#+BEGIN_QUOTE
+  
+Nausicaa is a distribution of Scheme language libraries for R6RS Scheme implementations. Currently it attempts to support Ikarus, Larceny, Mosh and Ypsilon. 
+
+Nausicaa/Scheme is the core package; it provides foundation libraries and implements the infrastructure of 
+the foreign functions interface. It comes in two flavors: 
+
+* The full distribution, with documentation and foreign functions interface included. Its installation infrastructure requires a GNU+Linux system (for details see the "README.build" file). 
+
+* The pure Scheme distribution, includes only the sources of the libraries, ready to be unpacked in their installation destination. 
+
+The latest release of the Nausicaa/Scheme package is available at: 
+
+ <[[http://github.com/marcomaggi/nausicaa/downloads]]> 
+
+the home page of the Nausicaa project is at: 
+
+ <[[http://marcomaggi.github.com/nausicaa.html]]> 
+
+development takes place at: 
+
+ <[[http://github.com/marcomaggi/nausicaa/tree/master]]> 
+
+the documentation is available on line: 
+
+ <[[http://marcomaggi.github.com/docs/nausicaa.html]]>
+
+
+#+END_QUOTE
+
+
+
+Read more from the original post [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/2b635b8cf1442325#][here]].
+
+
+

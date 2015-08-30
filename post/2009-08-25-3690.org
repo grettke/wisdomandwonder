@@ -1,0 +1,56 @@
+#+POSTID: 3690
+#+DATE: [2009-08-25 Tue 15:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Business, iPhone
+#+TITLE: Why the iPhone Can Be a Hard Sell
+
+In order to purchase an iPhone in the USA you need to sign up for a 2 year contract with a cellular phone vendor. That seems like a relatively fair deal: Apple gets their money, the cell phone vendor gets their money, and you get an iPhone. Part of the deal is that the phone is locked to this particular cell phone vendor; this means that if you want to put a SIM card in the phone and actually make calls with it, then it will only work with this one vendor. This seems unfair but it is still acceptable; Apple makes the rules and we play by them. There is one more catch, though; the only way that you can ever upgrade the software on your iPhone is if you have an active SIM card with the cell phone vendor. 
+
+The implication here is that if you want to keep using your iPhone past the two year contract, where using it means keeping it up to date with the most current operating system, then you /must/ continue your contract with said cell phone vendor! This is unacceptable. You might wonder why you would bother to keep using your iPhone after the contract expires, and you should. Well there are two very good reasons:
+
+
+
+1. You bought a new model if iPhone and you want to use your old one for music only (or perhaps your spouse/partner/children/friends want to use it).
+2. You are using your old phone for development purposes.
+
+
+
+Ideally, the iPhone device would function like most other computers and allow you to install future software updates on them without interference. Even if it were locked down to Apple software only that would be totally acceptable. The current model really makes me cringe when I think about the money you would have to waste just to use a 2 year old device; I guess this explains why /so many/ old iPhones are always up for sale on the sales boards. One other thing to note, if said cell phone vendor is teleported off of the Earth by aliens, then you are left with a multi-thousand dollar cell phone that will not work; since it only works with said vendor. Of course, Apple would have to deal with this, but what if Apple is teleported off of the Earth? Again, you are left with a useless multi-thousand dollar cell phone that will not work. What a rip off.
+
+The reason why the iPhone can be a hard sell is that despite the fact that they are selling it; you can never really buy it. It is really a leased device; if you want to maintain it you need a cell phone contract. Fortunately for us there is an amazing device that is just as powerful; the iPod Touch!
+
+Note: People report that you can "activate" your phone using any active SIM car from said vendor; but this is not stated anywhere officially and can't be counted on in the future.
+
+Note: Here is an excerpt from a conversation I had with the cell phone vendor's support where I was trying to learn more about how the iPhone works with them.
+
+
+
+#+BEGIN_EXAMPLE
+    
+Grant: If AT&T goes out of business, I would be left with a cell phone
+that I could not use right?
+
+Rhonda: Apple and [vendor] have an agreement to have [vendor] be the exclusive
+carrier for their device. If something should happen to [vendor] and we no
+longer provide service, I am sure that Apple would move the devices to
+a carrier who would. I can not see that happening but I am sure it
+would be worked out.
+
+Grant: What if Apple goes out of business?
+
+Rhonda: Currently the iPhone is programmed for use with [vendor]. The
+iPhone software is updated and maintained thru iTunes so I would not
+be concerned about having a device that couldn't be used.
+
+---
+
+Grant: Re #3, I am confused about what it means to use and activate
+and update the device and stuff.
+
+Rhonda: The iPhone does not function without Active service. 
+
+#+END_EXAMPLE
+
+
+

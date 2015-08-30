@@ -1,0 +1,13 @@
+#+POSTID: 8799
+#+DATE: [2014-07-02 Wed 17:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Computer Science, Emacs, Emacs Lisp, Ide, Lisp
+#+TITLE: SMIE and Operator-precedence grammars
+
+[[http://repo.or.cz/w/emacs.git/blob_plain/e941aeedbc542ac4a037f2618a40d9b1fcd10205:/lisp/emacs-lisp/smie.el][SMIE]] demonstrates use of [[https://en.wikipedia.org/wiki/Operator-precedence_grammar][operator-precedence grammars]]
+
+I am just parroting what the author kindly explains as I don't know about the topic and it is nice to learn about it in "real code".
+
+
+

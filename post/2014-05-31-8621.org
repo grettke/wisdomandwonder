@@ -1,0 +1,11 @@
+#+POSTID: 8621
+#+DATE: [2014-05-31 Sat 23:37]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Scheme
+#+TITLE: A R7RS Small Scheme Timeline
+
+No opinions here, just events.[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2014/05/SchemeTimeline.png][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2014/05/SchemeTimeline-1024x302.png]]]]
+
+
+

@@ -1,0 +1,17 @@
+#+POSTID: 7894
+#+DATE: [2013-05-30 Thu 16:11]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Graphics, HTML, Ide, LaTeX, Learning, TeX, Teaching, Tools
+#+TITLE: DIagrams Through Ascii Art
+
+#+BEGIN_QUOTE
+  [[http://ditaa.sourceforge.net/][ditaa]] is a small command-line utility written in Java, that can convert diagrams drawn using ascii art ('drawings' that contain characters that resemble lines like | / - ), into proper bitmap graphics.
+#+END_QUOTE
+
+
+
+You have to see it to believe. For you text-heads out there, yet another great tool for us!
+
+
+

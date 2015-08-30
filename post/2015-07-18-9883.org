@@ -1,0 +1,25 @@
+#+POSTID: 9883
+#+DATE: [2015-07-18 Sat 16:38]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Applied mathematics, MATLAB, Octave, Programming, Programming Language, applied statistics
+#+TITLE: MATLAB and Octave
+
+#+BEGIN_QUOTE
+  [[https://en.wikipedia.org/wiki/MATLAB][MATLAB]] (matrix laboratory) is a multi-paradigm numerical computing environment and fourth-generation programming language.
+#+END_QUOTE
+
+
+
+
+
+#+BEGIN_QUOTE
+  [[https://en.wikipedia.org/wiki/GNU_Octave][GNU Octave]] is a high-level programming language, primarily intended for numerical computations. It provides a command-line interface for solving linear and nonlinear problems numerically, and for performing other numerical experiments using a language that is mostly compatible with MATLAB.
+#+END_QUOTE
+
+
+
+
+
+
+

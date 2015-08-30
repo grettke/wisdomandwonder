@@ -1,0 +1,32 @@
+#+POSTID: 8055
+#+DATE: [2013-10-01 Tue 18:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Editor, Ide, IntelliJ, PyCharm, WebStorm
+#+TITLE: IntelliJ Settings
+
+IntelliJ has great editors. Idea, PyCharm, and WebStorm for a start. At their simplest you only need 4 settings to make them better out of the box:
+
+
+
+-  Right margin (columns): 80
+-  Editor tabs: 100
+-  Show line numbers: true
+-  Appearance Theme: IDEA (4.5)
+-  Keymap:
+
+   -  Emacs
+   -  Project Toolbar: M:1
+   -  Structure Toolbar: M:2
+   -  Changes Toolbar: M:3
+
+-  Font: DejaVu Sans Mono 12
+
+
+
+
+
+
+
+
+

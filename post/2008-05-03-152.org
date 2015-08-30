@@ -1,0 +1,18 @@
+#+POSTID: 152
+#+DATE: [2008-05-03 Sat 13:50]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Programming, Teaching
+#+TITLE: Beware Pseudo-Arrays
+
+[[http://okasaki.blogspot.com/2008/05/beware-pseudo-arrays.html][Beware Pseudo-Arrays]], why does this occur?
+
+How is it that students internalize a conceptual difference between the notion of bindings between:
+=
+6count -> 10
+and
+counts[6count] -> 10
+=?
+
+
+

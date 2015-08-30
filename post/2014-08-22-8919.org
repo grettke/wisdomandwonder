@@ -1,0 +1,13 @@
+#+POSTID: 8919
+#+DATE: [2014-08-22 Fri 14:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project, Scheme
+#+TITLE: Lexical Scope and Statistical Computing
+
+Any [[https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCIQFjAA&url=https%3A%2F%2Fwww.stat.auckland.ac.nz%2F~ihaka%2Fdownloads%2Flexical.pdf&ei=l1T3U7SjGoqGyAT5j4KICg&usg=AFQjCNEMlyxDrxSY7fSkgZRbAvbYsAsD8w&sig2=fNpcwnTs65ca05guCmTbiQ&bvm=bv.73373277,d.aWw][paper]] that references [[https://mitpress.mit.edu/sicp/][SICP]] must be read.
+
+It is curious how key computational ideas have propagated to one area of application exactly and one may have expected they would do so.
+
+
+

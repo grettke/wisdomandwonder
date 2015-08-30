@@ -1,0 +1,15 @@
+#+POSTID: 9281
+#+DATE: [2014-10-29 Wed 16:04]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: philosophy
+#+TITLE: An example cause of burnout
+
+There are many recipes for burnout.
+
+One of them by analogy is to operate a 28 ton earth moving machine powered by a 2 horsepower (hp) engine attached to an unlimited fuel supply (use your imagination). 
+
+It doesn't matter how capable the machine is or the value of the fuel you are using, the engine is insufficient, but will run for a while, before it "burns out".
+
+
+

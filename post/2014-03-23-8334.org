@@ -1,0 +1,11 @@
+#+POSTID: 8334
+#+DATE: [2014-03-23 Sun 01:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Hardware
+#+TITLE: Field-programmable gate arrays
+
+Peter shared his interest and investment in [[https://en.wikipedia.org/wiki/Field-programmable_gate_array][this technology]] with me. Learn a language to program a chip that you may use to run programs. Intriguing.
+
+
+

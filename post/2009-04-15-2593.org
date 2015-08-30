@@ -1,0 +1,22 @@
+#+POSTID: 2593
+#+DATE: [2009-04-15 Wed 15:43]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Java, Programming Language
+#+TITLE: jtracert
+
+#+BEGIN_QUOTE
+  [[http://code.google.com/p/jtracert/][jTracert]] will allow you to generate sequence diagrams directly from your application runtime! 
+* This gives you a lot of advantages: 
+* Understand the code created by your colleagues/partners in a short time 
+* Rapidly generate documentation for your partners or users. 
+* Easily investigate what's happening in large Java applications 
+* Excellent companion for a common debugger
+#+END_QUOTE
+
+
+
+
+
+
+

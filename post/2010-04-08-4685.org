@@ -1,0 +1,11 @@
+#+POSTID: 4685
+#+DATE: [2010-04-08 Thu 03:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Conference, Distributed Computing, High Performance Computing
+#+TITLE: HPDC 2010 in Chicago this year
+
+[[http://hpdc2010.eecs.northwestern.edu/][Here]] is the website; it looks to be pretty interesting.
+
+
+

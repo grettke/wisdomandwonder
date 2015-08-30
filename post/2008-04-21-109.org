@@ -1,0 +1,15 @@
+#+POSTID: 109
+#+DATE: [2008-04-21 Mon 00:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, elisp
+#+TITLE: RLX
+
+[[http://dto.mamalala.org/notebook/rlx.html][RLX]] is a rogue-like video game engine written in Emacs Lisp that is being ported to Common Lisp.
+
+In addition to the fact that this is a game so it is just plain fun, the author uses emacs as an IDE for creating games using the engine. 
+
+What more could you ask for? Read more on about it on his [[http://dto.mamalala.org/blog/][blog]].
+
+
+

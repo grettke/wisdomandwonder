@@ -1,0 +1,25 @@
+#+POSTID: 3087
+#+DATE: [2009-05-31 Sun 03:05]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Computer Science
+#+TITLE: Semantics Engineering with PLT Redex
+
+[[http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11885][Semantics Engineering with PLT Redex]]:
+
+
+
+#+BEGIN_QUOTE
+  This text is the first comprehensive presentation of reduction semantics in one volume; it also introduces the first reliable and easy-to-use tool set for such forms of semantics. Software engineers have long known that automatic tool support is critical for rapid prototyping and modeling, and this book is addressed to the working semantics engineer (graduate student or professional language designer). The book comes with a prototyping tool suite to develop, explore, test, debug, and publish semantic models of programming languages. With PLT Redex, semanticists can formulate models as grammars and reduction models on their computers with the ease of paper and pencil.
+
+The text first presents a framework for the formulation of language models, focusing on equational calculi and abstract machines, then introduces PLT Redex, a suite of software tools for expressing these models as PLT Redex models. Finally, experts describe a range of models formulated in Redex.
+
+PLT Redex comes with the PLT Scheme implementation, available free at http://www.plt-scheme.org/. Readers can download the software and experiment with Redex as they work their way through the book.
+#+END_QUOTE
+
+
+
+For me this is a long, long, long goal :).
+
+
+

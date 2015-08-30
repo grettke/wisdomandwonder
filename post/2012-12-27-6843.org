@@ -1,0 +1,17 @@
+#+POSTID: 6843
+#+DATE: [2012-12-27 Thu 18:36]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, Programming Language, Scheme
+#+TITLE: Mickey Scheme
+
+#+BEGIN_QUOTE
+  [[https://github.com/cslarsen/mickey-scheme#readme][Mickey Scheme]] is an incomplete, slow and buggy implementation of R7RS Scheme small.
+#+END_QUOTE
+
+
+
+
+
+
+

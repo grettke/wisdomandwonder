@@ -1,0 +1,11 @@
+#+POSTID: 5105
+#+DATE: [2010-08-30 Mon 22:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: PLT, Programming Language, Racket, Scheme, Utility
+#+TITLE: Updated DrSync to Racket
+
+Just posted the updated version of [[http://planet.plt-scheme.org/package-source/grettke/drsync.plt/2/8/planet-docs/drsync/index.html][DrSync]]for Racket on PlaneT.
+
+
+

@@ -1,0 +1,23 @@
+#+POSTID: 1244
+#+DATE: [2008-11-26 Wed 20:07]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Java, Programming Language
+#+TITLE: Funny story about the Java compiler
+
+I had always wondered if it was .NET alone that had inspired Sun to add generics to Java. Perhaps, as you will see here, there was a little more to the story!
+
+
+
+#+BEGIN_QUOTE
+  
+On slide 24 I mention Philip Wadler and Martin Odersky. At this point [[http://perl.plover.com/classes/OOPSLA/][in the talk]] I repeated an anecdote that Wadler told me. After they had done the work on generics, Odersky was hired by Sun to write the new Java compiler. He thought the generics were a good idea, so he put them into the compiler. The Sun folks always ran the compiler with the generics turned off. But they couldn't rip out the generics completely, because they needed them in the compiler in order to get it to compile its own source code, which was written with generics. So they had to leave the feature in, and eventually they started using it, and eventually they decided they liked it.
+
+#+END_QUOTE
+
+
+
+
+
+
+

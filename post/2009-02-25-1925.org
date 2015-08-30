@@ -1,0 +1,15 @@
+#+POSTID: 1925
+#+DATE: [2009-02-25 Wed 15:46]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: A brief history of Guile
+
+[[http://wingolog.org/archives/2009/01/07/a-brief-history-of-guile][Here]] is a good post on the history of Guile Scheme. It certainly would +have been+ be interesting to find Scheme extending popular GNU apps.
+
+*Addendum: 03/03/09*
+
+Fixed a grammatical error.
+
+
+

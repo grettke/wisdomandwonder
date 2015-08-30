@@ -1,0 +1,14 @@
+#+POSTID: 4539
+#+DATE: [2010-02-10 Wed 21:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: DrScheme, Ide, PLT, Programming Language, Scheme
+#+TITLE: Russian and Ukrainian localization files for DrScheme
+
+[[http://list.cs.brown.edu/pipermail/plt-dev/2010-February/002225.html][Here]] is a link to a post on plt-dev about Russian and Ukrainian localization files for DrScheme. 
+
+They live here: [[https://sites.google.com/site/semerikov/Home/russian-string-constants.ss?attredirects=0&d=1][russian-string-constants.ss]] and [[https://sites.google.com/site/semerikov/Home/ukrainian-string-constants.ss?attredirects=0&d=1][ukrainian-string-constants.ss]].
+
+
+
+

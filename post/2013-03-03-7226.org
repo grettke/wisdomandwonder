@@ -1,0 +1,13 @@
+#+POSTID: 7226
+#+DATE: [2013-03-03 Sun 19:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 02947, CB750, CB750F, Honda, Motorcycle, Repair
+#+TITLE: CB750F: Day 17
+
+The carburetor bodies are back together and 1&2 and 3&4 have been paired together. It isn't obvious but reading ahead reveals that the choke tab spring attaches on one end to the 1&2 body and the other on the 3&4 body. The build guide recommended hanging the parallel end on the tab as you join the pairs, and that worked fine. After testing the operation, the choke tab spring wasn't wound tightly enough, so an additional one round was all it took. The helper picks were my best friend here; though a paper-clip probably would have been fine. The operation cycled fine for 9 times, so it seemed OK. The top and bottom rail went in fine... checking the choke operation every single time after each torquing according to the order. Learned about a tiny thing, the difference between two 4mm allen key drivers, the notched makes it easy slip! With everything aligned, I red loc-tited the choke plate screws checking them off along the way. Learned on the first one that if you torque to half-way between the min and max of the service manual spec, that you will strip out the bolt...grrrrr.
+
+[gallery ids="7227,7228,7229,7230,7231,7232,7233,7234,7235,7236,7237,7238,7239,7240,7241"]
+
+
+

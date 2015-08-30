@@ -1,0 +1,13 @@
+#+POSTID: 5711
+#+DATE: [2011-06-05 Sun 17:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Gambit, Programming Language, Scheme
+#+TITLE: Gambit REPL app for iPhone/iPod touch/iPad
+
+Check it out [[http://itunes.apple.com/us/app/gambit-repl/id434534076?mt=8][here]].
+
+(via [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/e8743289b5201cc9][comp.lang.scheme]])
+
+
+

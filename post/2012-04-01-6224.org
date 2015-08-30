@@ -1,0 +1,17 @@
+#+POSTID: 6224
+#+DATE: [2012-04-01 Sun 00:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: philosophy
+#+TITLE: Sayre's law
+
+#+BEGIN_QUOTE
+  Sayre's law states, in a formulation quoted by Charles Philip Issawi: "In any dispute the intensity of feeling is inversely proportional to the value of the issues at stake."
+#+END_QUOTE
+
+
+
+(via [[http://en.wikipedia.org/wiki/Sayre's_law][wikipedia]])
+
+
+

@@ -1,0 +1,22 @@
+#+POSTID: 3850
+#+DATE: [2009-09-05 Sat 04:42]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Business
+#+TITLE: You Might Be Better At Business Than You Think
+
+From [[http://37signals.com/svn/posts/1890-the-bar-for-success-in-our-industry-is-too-low][this]] post:
+
+
+#+BEGIN_QUOTE
+  
+The talk was simple. Come up with a product, charge money for it, make more money than it costs to run it, and you turn a profit! This is the formula that's been in place since business began. Yet in front of a group of new tech entrepreneurs it seemed like a revelation, a brand new story never told before. [The presenter] said people were coming up to him in droves after the speech thanking him for opening their eyes. Who closed them?
+
+#+END_QUOTE
+
+
+
+This sounds pretty surprising; isn't stuff like this covered in the "Business 101" textbook?
+
+
+

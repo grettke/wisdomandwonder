@@ -1,0 +1,11 @@
+#+POSTID: 1964
+#+DATE: [2009-02-25 Wed 16:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming, philosophy
+#+TITLE: Orthography and Typography in Programming
+
+[[http://eval.apply.googlepages.com/][jrm]] wrote a good post [[http://lists.r6rs.org/pipermail/r6rs-discuss/2009-February/004211.html][here]] about the difference between [[http://en.wikipedia.org/wiki/Orthography][orthography]] and [[http://en.wikipedia.org/wiki/Typography][typography]] in programming. The context is a discussion about case-sensitivity in Scheme.
+
+
+

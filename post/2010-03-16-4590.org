@@ -1,0 +1,11 @@
+#+POSTID: 4590
+#+DATE: [2010-03-16 Tue 02:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Guile, Lua, Programming Language, Scheme
+#+TITLE: Lua potentially implemented in Guile
+
+In this [[http://lists.gnu.org/archive/html/guile-devel/2010-03/msg00039.html][thread]] the OP discusses implementing Lua on top of Guile as an extension language. It seems that it might be eligible for Google's SOC sponsorship. While the OP doesn't mention wanting help, it /is/ interesting, and who knows other folks might like to contribute.
+
+
+

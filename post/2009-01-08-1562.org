@@ -1,0 +1,18 @@
+#+POSTID: 1562
+#+DATE: [2009-01-08 Thu 04:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Common Lisp lambda list functionality in Scheme
+
+#+BEGIN_QUOTE
+  [[[http://jrm-code-project.googlecode.com/svn/trunk/scheme/clambda.scm][clambda.scm]]] is a complete implementation of the Common Lisp lambda list functionality (optionals, rest args, keywords, allow other keys, etc.) written as a syntax-rules macro.
+#+END_QUOTE
+
+
+
+(via [[http://funcall.blogspot.com/2009/01/updated-my-scheme-interpreter.html][jrm]])
+
+
+
+

@@ -1,0 +1,35 @@
+#+POSTID: 748
+#+DATE: [2008-09-13 Sat 03:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Study-HTDP
+#+TITLE: How you might implement the exercises 
+
+When you work on your exercises, you can leverage DrScheme to make it easier to find particular functions or bits of homework by using the definitions dropdown. I posted on it [[http://groups.google.com/group/study-htdp/browse_thread/thread/26145fa99a0b20bc][here]]:
+
+
+#+BEGIN_QUOTE
+  
+Here is how I implement exercises. I say implement, because I am concerned here with a coding detail, *not* design recipes.
+
+DrScheme has a nice feature in the top-left side of the window (roughly) called the "definitions dropdown". Using this dropdown you can see all of the names you've got defined in the Interactions area.
+
+So for example if you had entered (define x 10) in the Definitions are then you would see an entry in there that says "x". You can leverage to make keeping track of your exercises easier. This is what I do, I keep all of my exercises in the same file as long as it makes sense to do so, and as part of that before every exercise I add something like this:
+
+(define 2.3.2 true)
+
+That tells me:
+
+1. What my answer was for the exercise.
+2. Whether or not it is finished.
+
+That is how I keep all of my exercises in the same file and still have it make sense since each exercise creates any number of definitions! 
+
+#+END_QUOTE
+
+
+
+
+
+
+

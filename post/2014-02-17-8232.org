@@ -1,0 +1,17 @@
+#+POSTID: 8232
+#+DATE: [2014-02-17 Mon 00:21]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Gear, Guitar, Music
+#+TITLE: Loctite Your One-Quarter Inch Audio Cables
+
+Some of our audio cables were lost in the move. Bought some nice replacements and just like the old ones the end capes were loose and nearly falling off. Didn't really like it the last time and unsure why I didn't permanently fix it last time, but blue Loctite should be just fine.
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2014/02/app.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2014/02/app-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2014/02/gear.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2014/02/gear-300x225.jpg]]]]
+
+Actually I coated those threads unlike that first pic :).
+
+
+

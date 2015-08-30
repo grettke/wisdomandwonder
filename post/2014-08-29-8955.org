@@ -1,0 +1,23 @@
+#+POSTID: 8955
+#+DATE: [2014-08-29 Fri 19:04]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 
+#+TITLE: Conservative matching in R
+
+[[http://www.mail-archive.com/r-help@r-project.org/msg218212.html][This discussion]] demonstrates the surprise that partial matching in R provides. One option to avoid this, if you do not want it to occur, is either to not to use the =$= operator or tell R both to warn when it does occur and then handle it as an error:
+
+
+
+#+BEGIN_EXAMPLE
+    options(warnPartialMatchDollar=TRUE)
+options(warn=2)
+options(error=recover)
+
+#+END_EXAMPLE
+
+
+
+
+
+

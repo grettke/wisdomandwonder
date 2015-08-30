@@ -1,0 +1,17 @@
+#+POSTID: 4389
+#+DATE: [2010-01-16 Sat 17:49]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: ML, OCaml, Programming Language
+#+TITLE: Ocaml Batteries Included 1.0.0 Released
+
+#+BEGIN_QUOTE
+  The Batteries Included project has come under new management since David Teller moved on. The project has gone through a process of reorganization and is finally ready for a release. We've rethought a lot of the structure decisions of the old codebase to make it easier to use and develop.
+#+END_QUOTE
+
+
+
+(via [[http://groups.google.com/group/fa.caml/browse_thread/thread/7cc127a065cca224#][Caml-list]])
+
+
+

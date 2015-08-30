@@ -1,0 +1,15 @@
+#+POSTID: 8380
+#+DATE: [2014-03-24 Mon 23:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Business, Business Intelligence, Computational Science, Computer Science, Data Modeling, Data science, Database, Learning, Programming, R-Project, Statistics, Teaching, mathematics, philosophy
+#+TITLE: Why becoming a data scientist is NOT actually easier than you think
+
+You mean... there is actually work involved?!
+
+Shocking.
+
+[[https://medium.com/cs-math/5b65b548069b][This]] is a valuable article.
+
+
+

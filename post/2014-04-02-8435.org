@@ -1,0 +1,22 @@
+#+POSTID: 8435
+#+DATE: [2014-04-02 Wed 17:14]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: philosophy
+#+TITLE: Addicted to because
+
+#+BEGIN_QUOTE
+  Addiction is the continued repetition of a behavior despite adverse consequences...
+#+END_QUOTE
+
+
+-- [[https://en.wikipedia.org/wiki/Addiction][Wikipedia]]
+
+Pick two:
+
+I am [happy/sad] because of [person/place/thing].
+
+Is it possible to live contently without bondage to "because"?
+
+
+

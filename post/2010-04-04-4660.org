@@ -1,0 +1,33 @@
+#+POSTID: 4660
+#+DATE: [2010-04-04 Sun 12:17]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: ML, OCaml, Programming Language
+#+TITLE: What is the defacto OCaml unit testing tool?
+
+I had wanted to know:
+
+
+
+#+BEGIN_QUOTE
+  What is the defacto OCaml unit testing tool?
+#+END_QUOTE
+
+
+
+Sylvain [[http://tech.groups.yahoo.com/group/ocaml_beginners/message/11890][replied]]:
+
+
+
+#+BEGIN_QUOTE
+  -[[http://www.xs4all.nl/~mmzeeman/ocaml/ounit-doc/OUnit.html][OUnit]]
+#+END_QUOTE
+
+
+
+
+
+
+
+
+

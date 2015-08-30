@@ -1,0 +1,25 @@
+#+POSTID: 7268
+#+DATE: [2013-03-12 Tue 14:12]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 02947, CB750, CB750F, Honda, Motorcycle, Repair
+#+TITLE: CB750F: Day 19
+
+Tonight was a very "in the flow" kind of night.
+
+
+-  Inspected the 30A fuse. It is present, along with a backup.
+-  The carb insulators that connect the cylinder head to the cars need to be replaced, they are rock hard, I think I will have to cut them off. Figured I may as well clean the metal bands.
+-  The air cleaner connectors were filthy too, so I cleaned those. Apparently you don't really need a sealer between them and the airbox, but some people use it.
+-  The airbox needed a little more cleaning, just old filth.
+-  The chain and both sprockets need replacing. The chain is out of measure by the guide, has kinks in it, and hangs way too low. The rear sprocket has the chain links (88) sitting in it on the top of the peak (38)!
+-  Cleaned the air filter and let it air dry in the furnace (aka classroom).
+-  Nitrile glove evaluation: The generics from Wal-Mart break very quickly. The MidKnight are a little better, but also break quickly. The DermaLite are excellent; you can dig chain grease off the chain guard with your fingernails and the finger won't break until maybe 15 minutes later which is way beyond the normal use case.
+-  An oil change awaits!
+
+
+
+[gallery ids="7269,7270,7271,7272,7273,7274,7275,7276,7277,7278,7279,7280,7281,7282"]
+
+
+

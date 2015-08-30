@@ -1,0 +1,13 @@
+#+POSTID: 3784
+#+DATE: [2009-12-23 Wed 01:27]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Teaching, mathematics
+#+TITLE: Bootstrapping a Mathematics Education
+
+[[http://fare.livejournal.com/146665.html][This]] looks like it would have been a fun introduction, but, its not too late; we can learn more [[http://www.bootstrapworld.org/][here]].
+
+How inspiring. Its stuff like this that changes the world for the better.
+
+
+

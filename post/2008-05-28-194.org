@@ -1,0 +1,13 @@
+#+POSTID: 194
+#+DATE: [2008-05-28 Wed 01:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme, Teaching
+#+TITLE:  Programming the Sony AIBO in Scheme
+
+[[http://list.cs.brown.edu/pipermail/plt-scheme/2008-May/024783.html][This post]] on the PLT discussion list shares some research into programming the Sony AIBO with Scheme, with [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-May/024784.html][this followup post]] providing additional details on a Scheme interpreter ([[http://kaolin.unice.fr/STk/][STk]]) that provides a foreign function interface for the Sony AIBO C++ API.
+
+Perhaps one day those STk libraries will be ported to PLT!
+
+
+

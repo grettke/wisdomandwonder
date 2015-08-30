@@ -1,0 +1,206 @@
+#+POSTID: 6902
+#+DATE: [2013-01-05 Sat 23:12]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Artificial Intelligence, Java, Jess, Rules Engine, jess-sample-java-setup
+#+TITLE: Jess Sample Java Setup Project: Minimal Setup
+
+This project will start out with a typical Java development setup:
+
+
+-  Ubuntu 12.04 LTS GNU/Linux: [[http://www.ubuntu.com/]]
+-  IntelliJ Idea, the most pleasant development environment out there (Eclipse
+usually copies the good features within 3-9 months, but it is still pretty
+unpleasant): [[https://www.jetbrains.com/idea/]]
+-  jprofiler: [[http://www.ej-technologies.com/products/jprofiler/overview.html]]
+-  GNU Emacs 24, for everything that Idea doesn't do well: [[https://www.gnu.org/software/emacs/]]
+-  Oracle's JDK 1.7, it is the newest out there: [[http://www.oracle.com/technetwork/java/javase/downloads/java-se-jdk-7-download-432154.html]]
+-  Apache Maven, dependency management at its best: [[https://maven.apache.org/]]
+-  Jess 7.1p2, you need to obtain it directly from the source, and it is free for
+most of us. READ THE LICENSE AGREEMENT and you may download it immediately: [[http://www.jessrules.com/jess/download.shtml]]
+-  Graphviz, for state diagrams: [[http://www.graphviz.org/]]
+
+
+
+
+
+After getting all of that licensed, installed, and configured, I setup the project itself. It is not super interesting, but I always forget how to do it with Maven, so here is how to set up a basic project. The Maven site has nice directions for this here: [[https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html]]
+
+
+
+#+BEGIN_EXAMPLE
+    
+    mvn archetype:generate -DgroupId=com.wisdomandwonder.jsjs -DartifactId=jsjs -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+#+END_EXAMPLE
+
+
+A lot of output will fly by, this is normal, in fact get used to it, Maven loves to show off. You should see a "BUILD SUCCESS" at the end. Now open up Idea and "Import Project" and point it to the pom.xml that was just created. Tell Idea where you want the Idea files stored (ignore these later) and to import maven projects and to automatically download source and documentation. When Idea starts, it will ask you to configure the Git root. Do a 'mvn clean install' to get the build directory generated before we set up the Git ignores. Ignore 'target' and '.idea'; this was a good time to learn about 'git add -i' (I screwed it up a few times). Coming from SVN, I'm making mistakes about how Git tracks and manages things, so this is nice practice.
+
+The story that I want to start with is about a CPU cooler fan. This is a mechanically driven and electrically powered fan that removes heat from a CPU (and heatsink) inside of a typical home PC. The model will start out very simply, it will only care about the temperature of the CPU and whether or not the fan is turned on or off. It ignores a lot of important things like the load on the CPU, how the fan receives power or even knows about the temperature of the CPU, and the rate at which the fan would realistically cool the CPU. The simplification I'm making here must occur because the model is a constrained definition of reality, and additionally, I want to keep it simple to get the project started. For now I'm going to omit the details but to say that there are only two kinds of facts I want to care about for now, Temperature and a Fan. With that in mind, I deleted the pre-generated classes and added two POJOs that may act as Shadow Facts within Jess. This choice would only make sense after you have played around with Jess and used Shadow Facts, so I won't elaborate here. After that I replaced JUnit with TestNG and added some tests to make sure the JavaBeans stuff is working. Looking at the facts, there are probably things that can be factored out at some point; and I wonder if autoboxing works between Jess and the JVM.
+
+After setting up the facts I did add some TestNG tests to verify that the property change events were working; with some debate as to whether or not that was overkill. The plus side is that we have verification that they are working correctly and as that is critical to Java+Jess interop, it is valuable. That sounds good to me for now, and in the future maybe there is a way to
+clean it up and make it easier. If you haven't read about JavaBeans, then you probably should they are interesting: [[https://en.wikipedia.org/wiki/JavaBeans]] . At this point there is enough Java to use within Jess. The fastest way to try
+it out would be to start a Jess REPL like this:
+
+
+#+BEGIN_EXAMPLE
+    
+    mvn clean install
+    export CLASSPATH=$CLASSPATH:/home/gcr/.m2/repository/com/wisdomandwonder/jsjs/jsjs/1.0-SNAPSHOT/jsjs-1.0-SNAPSHOT.jar
+    jess
+    Jess>(new com.wisdomandwonder.jsjs.fact.Fan)
+
+#+END_EXAMPLE
+
+
+
+This should work, Jess should reply:
+
+
+#+BEGIN_EXAMPLE
+    
+    
+
+#+END_EXAMPLE
+
+
+It means that Jess can see the new Fan class. Now work with it:
+
+
+#+BEGIN_EXAMPLE
+    
+    Jess>(new com.wisdomandwonder.jsjs.fact.Fan)
+    
+    Jess> (defclass fan com.wisdomandwonder.jsjs.fact.Fan dynamic)
+    com.wisdomandwonder.jsjs.fact.Fan
+    Jess> (bind ?f (new com.wisdomandwonder.jsjs.fact.Fan))
+    
+    Jess> (definstance fan ?f)
+    
+    Jess> (facts)
+    f-0   (MAIN::fan (class ) (running FALSE) (OBJECT ))
+    For a total of 1 facts in module MAIN.
+    Jess> (exit)
+
+#+END_EXAMPLE
+
+
+That is all it takes to get POJOs running in Jess; though it would be nicer if I could use Maven to manage that.
+
+During the development process of any system you go through many iterations of the codebase as you come to understand the real requirements and design. The fact that Jess provides REPL is kind of exciting because you can play around with things without the typical edit/compile/deploy/test cycle, rather it becomes edit/test. Since Java and Jess are both first class citizens
+here, I would like the CLASSPATH to be available to each of them in a transparent way using Maven.
+
+On the Java side of things, it is built in and works transparently between Idea and Maven. On the Jess side of things, I feel like adding support to start a REPL given the collective classpath contained within the POM should be good enough since Jess comes with scripts to show how to get a REPL up. The first thing I need to do is to add Jess to my local repo. You won't find it in an external repo because it is individually licensed (unless you set it up yourself). Here are the directions on how to add it:
+[[https://maven.apache.org/guides/mini/guide-3rd-party-jars-local.html]]
+and here is the command that I used:
+
+
+#+BEGIN_EXAMPLE
+    
+    mvn install:install-file -Dfile=$JESS_HOME/lib/jess.jar -DgroupId=gov.sandia  -DartifactId=jess -Dversion=7.1p2 -Dpackaging=jar -DgeneratePom=true
+
+#+END_EXAMPLE
+
+
+From the output, you know that you can go look here to see if it worked, and review the POM that it generated:
+
+
+#+BEGIN_EXAMPLE
+    
+    cd ~/.m2/repository/gov/sandia/jess/7.1p2/
+    ls
+    cat jess-7.1p2.pom
+
+#+END_EXAMPLE
+
+
+That is enough to be able to reference it within Maven. Next is figuring out how its REPL is launched, and that can be found in:
+
+
+#+BEGIN_EXAMPLE
+    
+    $JESS_HOME/bin/jess
+
+#+END_EXAMPLE
+
+
+It is:
+
+
+#+BEGIN_EXAMPLE
+    
+    ${JAVA} -classpath .:${JESS_HOME}/lib/jess.jar:${JESS_HOME}/lib/jsr94.jar:${CLASSPATH} jess.Main $*
+
+#+END_EXAMPLE
+
+
+I added dependencies in for Jess and JSR-94 (from the web though). All that is remaining is starting the REPL. At you might expect, there is a plugin to handle this: [[http://mojo.codehaus.org/exec-maven-plugin/]]
+
+Before setting that up I wanted to point out that the scope for all of the dependencies is the same. This is uncommon, since you usually want to separate out dependencies with a little more granularity. In my case though I want everything available on the Java side to be available to the Jess REPL, so the simplest thing is to set the scope to system ([[https://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html#Dependency_Scope]]).
+
+You can start the REPL with the classpath of the project like this:
+
+
+#+BEGIN_EXAMPLE
+    
+    mvn compile -Pjess-repl
+
+#+END_EXAMPLE
+
+
+Or from another directory like this:
+
+
+#+BEGIN_EXAMPLE
+    
+    mvn --file /home/gcr/git/jess-sample-java-setup/jsjs/pom.xml compile -Pjess-repl
+
+#+END_EXAMPLE
+
+
+You will find that now you may perform the above without the hassle of
+managing the CLASSPATH yourself.
+
+
+#+BEGIN_EXAMPLE
+    
+    Jess> (new com.wisdomandwonder.jsjs.fact.Fan)
+    
+    Jess> (new com.wisdomandwonder.jsjs.fact.Temperature)
+    
+
+#+END_EXAMPLE
+
+
+One of the /very/ nice things about this setup is that with Idea you get transparent integration with Maven, so once you set up this profile, you can easily start up a Jess REPL within Idea and start playing with the code for quick and immediate feedback (and fun). This dynamic approach, or play, is important. Just to assure yourself, you may add a new fact 'Foo' and start
+up the REPL again. Jess will see it you can run:
+
+
+#+BEGIN_EXAMPLE
+    
+    (new com.wisdomandwonder.jsjs.fact.Foo)
+
+#+END_EXAMPLE
+
+
+It will work fine. This is just some assurance that Jess isn't pulling from local Maven repository; so you really are getting immediate updates after Java compiles within Jess.
+
+In addition to the stock REPL, even embedded within Idea, you you may want to set up Emacs with:
+
+
+-  Jess Mode: [[http://jess-mode.sourceforge.net/]]
+-  Apply this fix: [[http://www.wisdomandwonder.com/link/6442/making-jess-mode-v1-2-work-on-emacs-24]]
+-  And the install some plugins:
+-  Paredit for sane paren balancing: via Maramalade
+-  Parenface Plus for quieter parens: via Maramalade
+-  Prettymode Plus for unicode arrows in Jess: via Marmalade
+
+
+
+Since Jess is a Lisp, you will find a lot of the options and features pretty pleasant in ways that may not me obvious at this point.
+
+This seems to be "just enough" setup to be a good starting point for playing around with Java and Jess together, though surely this will evolve!
+
+
+

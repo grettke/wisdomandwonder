@@ -1,0 +1,11 @@
+#+POSTID: 5388
+#+DATE: [2010-11-23 Tue 15:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Teaching
+#+TITLE: Not even wrong
+
+Today I learned what "[[http://en.wikipedia.org/wiki/Not_even_wrong][Not even wrong]]" means. I had never noticed it used before; indicating that I may have missed its use altogether.
+
+
+

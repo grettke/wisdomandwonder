@@ -1,0 +1,27 @@
+#+POSTID: 50
+#+DATE: [2008-02-09 Sat 22:45]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: .NET, Programming Language, Scheme
+#+TITLE: Low Exposure: IronScheme 
+
+Have you ever heard of [[http://www.codeplex.com/IronScheme][IronScheme]]?
+
+
+
+#+BEGIN_QUOTE
+  IronScheme [aims] to be a R6RS compliant Scheme implementation based on the Microsoft DLR.
+#+END_QUOTE
+
+
+
+These aren't just nebulous goals either, they've actually got the interpreter up and running!
+
+With so much development going on around the [[http://en.wikipedia.org/wiki/Dynamic_Language_Runtime][DLR]] right now; I'm going to pay extra special attention to when the *next* [[http://langnetsymposium.com/][Lang.NET]] symposium is going to happen. It looks like a lot of fun!
+
+*Addendum: 24/10/08*
+
+[[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/f08fd633d4981d73][ANN: IronScheme 1.0 beta 1]]
+
+
+

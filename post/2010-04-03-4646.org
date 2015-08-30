@@ -1,0 +1,17 @@
+#+POSTID: 4646
+#+DATE: [2010-04-03 Sat 19:32]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: ML, OCaml, Programming Language
+#+TITLE: An Identity Function in OCaml
+
+I didn't find one in Pervasives, and having read [[http://groups.google.com/group/fa.caml/browse_thread/thread/957854035e65da04/ef7\%20%20b2ba9ede29f1c?lnk=gst&q=identity#ef7b2ba9ede29f1c%20%20][this]] thread I see why and that there probably is not one.
+
+However, I wanted to do something like initialize an array of (0..9) and figured that identity is more convenient than (fun i -> i).
+
+Raphael explained that it can be found [[http://batteries.forge.ocamlcore.org/doc.preview:batteries-beta1/html/api/Standard.html#VALidentity][here]] in Batteries Included.
+
+(via [[http://tech.groups.yahoo.com/group/ocaml_beginners/message/11869][ocaml-beginners]])
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 229
+#+DATE: [2008-06-24 Tue 22:31]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Update
+#+TITLE: Updated: Scheme Lisp on the OLPC XO
+
+See [[http://www.wisdomandwonder.com/article/28/scheme-lisp-on-the-olpc-xo][here]]
+
+
+

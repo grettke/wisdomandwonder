@@ -1,0 +1,11 @@
+#+POSTID: 6527
+#+DATE: [2012-11-04 Sun 03:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Fun, Functional, Learning, Lisp, Programming, Programming Language, Racket, Scheme
+#+TITLE: Generic Types in Racket
+
+[[http://blog.racket-lang.org/2012/11/generics.html][Here]] is a nice post about generic data types in Racket.
+
+
+

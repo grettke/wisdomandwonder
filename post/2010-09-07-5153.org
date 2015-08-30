@@ -1,0 +1,21 @@
+#+POSTID: 5153
+#+DATE: [2010-09-07 Tue 16:10]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Functional, Programming Language
+#+TITLE: Intel presentation about their new functional programming language
+
+Via [[http://cufp.org/conference/sessions/2010/functional-language-compiler-experiences-intel][CUFP]]via Caml-list:
+
+
+
+#+BEGIN_QUOTE
+  For five years Intel's Programming Systems Lab (PSL) has been collaborating with an external partner on a new functional programming language designed for productivity on many-core processors. While the language is not yet public, this talk outlines motivations behind the language and describes our experiences in implementing it using a variety of functional languages. The reference interpreter is written in Haskell and compiled with GHC while PSL's performance implementation is written in SML and compiled with Mlton. We have also generated Scheme code compiled with PLT Scheme as part of a prototyping effort.
+#+END_QUOTE
+
+
+
+
+
+
+

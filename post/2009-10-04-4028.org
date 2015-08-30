@@ -1,0 +1,13 @@
+#+POSTID: 4028
+#+DATE: [2009-10-04 Sun 05:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: An Introductory Presentation on Scheme
+
+[[http://xivilization.net/flyserver/tex/schemerocks/schemerocks.pdf][Here]] is an introductory presentation on Scheme by Marek Kubica.
+
+(via [[http://www.reddit.com/r/programming/comments/9fhev/why_scheme_rocks_pdf/][reddit]])
+
+
+

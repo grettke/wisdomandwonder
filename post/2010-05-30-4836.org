@@ -1,0 +1,30 @@
+#+POSTID: 4836
+#+DATE: [2010-05-30 Sun 19:38]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Current line number in PLT Scheme
+
+Here is how to get the current line number programmatically in PLT Scheme (via Jay):
+
+
+
+#+BEGIN_EXAMPLE
+    
+#lang scheme 
+(define-syntax (current-line-number stx) 
+  (quasisyntax/loc stx 
+    '#,(syntax-line stx))) 
+
+(printf "~a: ~a~n" (current-line-number) 6) 
+
+(printf "~a: ~a~n" (current-line-number) 8)
+
+#+END_EXAMPLE
+
+
+
+(via [[http://groups.google.com/group/plt-scheme/msg/7b593022d17f7344][plt]])
+
+
+

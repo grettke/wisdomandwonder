@@ -1,0 +1,76 @@
+#+POSTID: 8358
+#+DATE: [2014-03-24 Mon 02:55]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: Ease of use in Cask 0.6
+
+
+[[https://github.com/cask/cask][Cask]] is the best way to manage your Emacs packages and [[http://melpa.milkbox.net/#/][MELPA]] is the best place to find them. Because not all packages are set up to be run specifically with the packaging in mind, a lot of feature are still loaded manually (additionally, I am to be blamed for setting them up incorrectly and needing to do something manually in the first place). The convenience with the approach below is never having to update directory paths with each new release of your favorite package on MELPA that may so easily be installed with a cask update. Cask is still under active development, though, so this code may break eventually (my previous approach for example broke as of the 0.6 release).
+
+
+
+
+Examples: 
+
+
+-  [[http://melpa.milkbox.net/#/yasnippet][yas]] needs a call to =yas-load-directory= to know where to load stuff
+
+-  [[http://melpa.milkbox.net/#/graphviz-dot-mode][graphviz-dot-mode]] needs a manual load of the library according to the docs, though out of curiousity while writing this I checked to see if =###autoload= is in place, and it is!
+
+-  [[http://melpa.milkbox.net/#/auto-complete][autocomplete]] needs a symbolic like for js-mode to work correctly.
+
+
+
+
+Here is my recipe for coping with such things as of Cask 0.6:
+
+Obtain the Cask configuration information
+
+
+
+#+BEGIN_EXAMPLE
+    (require 'cask "~/.cask/cask.el")
+(defconst gcr/cask-bundle (cask-initialize))
+
+#+END_EXAMPLE
+
+
+
+Manually do the loads or tests for the respective packages:
+
+
+
+#+BEGIN_EXAMPLE
+    (yas-load-directory (concat (cask-dependency-path gcr/cask-bundle 'yasnippet)
+                                "/snippets"))
+
+#+END_EXAMPLE
+
+
+
+
+
+#+BEGIN_EXAMPLE
+    (let ((f (concat (cask-dependency-path gcr/cask-bundle 'graphviz-dot-mode)
+                   "/graphviz-dot-mode.el")))
+    (if (file-exists-p f)
+        (load-file f)
+      (warn "Could not locate a lib file for Graphviz support: %s" f)))
+
+#+END_EXAMPLE
+
+
+
+
+
+#+BEGIN_EXAMPLE
+    (let ((f (concat (cask-dependency-path gcr/cask-bundle 'auto-complete)
+                   "/dict/js-mode")))
+    (if (not (file-exists-p f))
+        (warn "Could not locate a lib file for auto-complete JavaScript support: %s" f)))
+
+#+END_EXAMPLE
+
+
+

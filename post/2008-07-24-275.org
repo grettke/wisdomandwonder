@@ -1,0 +1,67 @@
+#+POSTID: 275
+#+DATE: [2008-07-24 Thu 02:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: XO
+#+TITLE: The XO has got too much Sugar
+
+The XO's default user interface, [[http://en.wikipedia.org/wiki/Sugar_(GUI)][Sugar]], is very interesting. Its goal is to allow for kids to collaborate, and in doing so, enhance their learning. It is a wonderful idea. The only problem is that it leaves them with a computer that has got barely any memory and no swap (XOs haven't got swap). 
+
+I did a little testing tonight, booting the computer cold, connecting to wifi, and then checking the memory with the 'free' command. Here is what I found:
+
+
+
+
+
+
+
+
+Total MB
+
+
+Used MB
+
+
+Free MB
+
+
+
+
+
+
+Sugar
+
+
+232
+
+
+220
+
+
+12
+
+
+
+
+FVWM
+
+
+232
+
+
+113
+
+
+118
+
+
+
+
+
+
+I suspect that the result of this is that kids have to be extremely diligent about how many programs they are running. In my experience it is pretty easy to bog the thing down to a stop; just hand it to someone used to operating any other computer; they start three programs, and the operating system will out of memory. 
+
+This decision must have been made for a good reason, though. It would be interesting to find it out. I won't pursue that right now. Anyone happen to know?
+
+
+

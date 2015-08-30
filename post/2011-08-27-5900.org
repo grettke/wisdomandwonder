@@ -1,0 +1,11 @@
+#+POSTID: 5900
+#+DATE: [2011-08-27 Sat 01:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, Programming Language, Scheme, iPhone
+#+TITLE: Bringing Scheme to the iPhone
+
+[[http://soft.vub.ac.be/soft/ipop/scheme][Here]] is another Scheme on iPhone project.
+
+
+

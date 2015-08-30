@@ -1,0 +1,21 @@
+#+POSTID: 2137
+#+DATE: [2009-03-29 Sun 22:14]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Moby Scheme
+
+#+BEGIN_QUOTE
+  We are delighted to announce the first release of [[http://github.com/dyoo/moby-scheme/tree/master][Moby Scheme]], a compiler from Beginner Student Language (BSL) + World programs to smartphones. The current prototype compiles to the Android platform, and supports almost all BSL programs as well as libraries to accelerometer, GPS, and SMS functionality.
+
+We are concurrently working on a Web service interface for end-users. If your only goal is to *use* Moby, you can certainly try it out, but the current release assumes you have some developer chops to install and manage packages. We're hoping, however, that you'll also want to *contribute*, for which this is your avenue.
+#+END_QUOTE
+
+
+
+
+
+(via [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-March/031703.html][PLT]])
+
+
+

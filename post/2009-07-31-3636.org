@@ -1,0 +1,11 @@
+#+POSTID: 3636
+#+DATE: [2009-07-31 Fri 03:47]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Eiffel, Ide, Programming Language
+#+TITLE: EiffelVision finally goes native for OS X
+
+EiffelVision seems to have finally [[http://www.eiffelroom.org/blog/dfurrer/first_preview_of_the_new_eiffelvision2_for_the_mac][gone native for OS X]].
+
+
+

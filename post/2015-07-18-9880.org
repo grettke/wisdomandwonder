@@ -1,0 +1,37 @@
+#+POSTID: 9880
+#+DATE: [2015-07-18 Sat 16:37]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Applied mathematics, Programming, Programming Language, R-Project, S-PLUS, applied statistics
+#+TITLE: R and S-PLUS
+
+#+BEGIN_QUOTE
+  [[https://en.wikipedia.org/wiki/R_(programming_language)][R]] is a programming language and software environment for statistical computing and graphics.
+#+END_QUOTE
+
+
+
+
+
+#+BEGIN_QUOTE
+  R is an implementation of the S programming language combined with lexical scoping semantics inspired by Scheme.
+#+END_QUOTE
+
+
+
+
+
+#+BEGIN_QUOTE
+  [[https://en.wikipedia.org/wiki/S_(programming_language)][S]] is a statistical programming language developed primarily by John Chambers and (in earlier versions) Rick Becker and Allan Wilks of Bell Laboratories.
+#+END_QUOTE
+
+
+
+
+
+#+BEGIN_QUOTE
+  [[https://en.wikipedia.org/wiki/S-PLUS][S-PLUS]] is a commercial implementation of the S programming language sold by TIBCO Software Inc.
+#+END_QUOTE
+
+
+

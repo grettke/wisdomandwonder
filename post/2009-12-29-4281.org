@@ -1,0 +1,28 @@
+#+POSTID: 4281
+#+DATE: [2009-12-29 Tue 20:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Gambit, Programming Language, Scheme
+#+TITLE: Scheme Space Invaders
+
+#+BEGIN_QUOTE
+  
+[[http://github.com/sthilaid/space-invaders/blob/master/README][This re-make]] of the classic arcade game "space invaders" is based on the version available on the well known arcade emulator called mame. It is made to look as close as possible to the original arcade game.
+ 
+This game was made for fun, but also in the context of my master's thesis at the university of Montreal under the supervision of Marc Feeley. The aim behind writing video games in scheme is to try to demonstrate not only that it is possible to write games in scheme, but that such games would have smaller developpement time, better code, less bugs, etc...
+ 
+Thus space invaders is only the first step into my thesis and more games will be comming up later! I would like also to note that the version 1.0 is only a draft. Much ugly things can be found in the code and I will still continue the developpement of this game further by ameliorating the way the code is structured and modify parts of it's basic architecture to experiment different design ideas. This is what's beautifull about scheme, isn't it? I tried to comment the code so that it should be understandable by interested schemers.
+ 
+I hope you can enjoy this game as well as I enjoyed developping it!
+ 
+David St-Hilaire
+sthilaid@iro.umontreal.ca
+
+#+END_QUOTE
+
+
+
+(via [[http://www.music.mcgill.ca/~sinclair/content/blog/a_functional_game_loop_for_glut_in_scheme_using_continuations][stevebook]])
+
+
+

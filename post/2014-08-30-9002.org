@@ -1,0 +1,17 @@
+#+POSTID: 9002
+#+DATE: [2014-08-30 Sat 23:14]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: R-Project
+#+TITLE: MASS: Support Functions and Datasets for Venables and Ripley's MASS for R
+
+#+BEGIN_QUOTE
+  [[http://cran.r-project.org/web/packages/MASS/index.html][Functions and datasets]] to support Venables and Ripley, '[[http://www.amazon.com/Modern-Applied-Statistics-Computing-ebook/dp/B000S1LWTE/ref=tmm_kin_title_0?_encoding=UTF8&sr=&qid=][Modern Applied Statistics with S]]' (4th edition, 2002).
+#+END_QUOTE
+
+
+
+
+
+
+

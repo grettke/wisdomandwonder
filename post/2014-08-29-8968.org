@@ -1,0 +1,17 @@
+#+POSTID: 8968
+#+DATE: [2014-08-29 Fri 23:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: CRANberries for R
+
+#+BEGIN_QUOTE
+  [[http://dirk.eddelbuettel.com/cranberries/about/][CRANberries]] aggregates information about new, updated and removed packages from the CRAN network for R
+#+END_QUOTE
+
+
+
+
+
+
+

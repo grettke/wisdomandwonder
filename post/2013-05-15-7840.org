@@ -1,0 +1,44 @@
+#+POSTID: 7840
+#+DATE: [2013-05-15 Wed 03:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 02947, CB750, CB750F, Honda, Motorcycle, Repair
+#+TITLE: CB750F: Day 34: High Idle
+
+Today I received my set of Vessel JIS screwdrivers and at the shop the screws on the carb shrouds didn't slip once they are pretty great.
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130514_144843-300x225.jpg]]
+
+In preparation to start the bike I re-attached the exhaust system and torqued it all to spec (98in/lb header bolts, header-pipe attachment 16ft/lb, rear shock 18ft/lb, hanger 30ft/lb. Some of the bolts didn't specify a spec, so Pat told me about this guide to estimate it and I used that. The exhaust headers may get replaced someday. A u-bolt holds the headers to the pipe so I turned that inward to be safe. 
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130514_163623.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130514_163623-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130514_165316.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130514_165316-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130514_170236.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130514_170236-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130514_171036.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130514_171036-300x225.jpg]]]]
+Got the fuel line attached and tightened up; found a nice hand-tool to compress that thing, human finger (at least mine) can't do it. 
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130514_171731.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130514_171731-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130514_173726.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130514_173726-300x225.jpg]]]]
+
+The old flasher relay had to go, it didn't work anymore. Finally got around to starting it and it had a super high idle.
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130514_173758.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130514_173758-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130514_173846.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130514_173846-300x225.jpg]]]]
+
+We checked for a tight throttle cable, air leaks with carb spray, and finally just pushed on the throttle body assembly to see if it was stuck and nope, so we had pull them out again. If you look at the picture you can see the butterfly valves are not aligned. Measuring them with a gauge they were totally off. The bad thing was they just would not stay adjusted no matter what, so class ended and I will tackle it more on Thursday; but before that I reinstalled the chain protector.[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130514_184955.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130514_184955-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130514_185004.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130514_185004-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130514_185040.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130514_185040-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130514_192206.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130514_192206-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130514_204127.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130514_204127-300x225.jpg]]]]
+
+
+

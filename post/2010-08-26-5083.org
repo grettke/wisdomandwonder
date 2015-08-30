@@ -1,0 +1,13 @@
+#+POSTID: 5083
+#+DATE: [2010-08-26 Thu 01:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Teaching
+#+TITLE: Barcamp Milwaukee 5 approaches
+
+[[http://barcampmilwaukee.org][Barcamp Milwaukee 5]] will be held from Saturday October 2, 2010 at 10AM through Sunday October 3, 2010 at 4PM.
+
+Mike plans to present on Clojure, which should be pretty fun to attend.
+
+
+

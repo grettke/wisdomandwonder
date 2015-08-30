@@ -1,0 +1,33 @@
+#+POSTID: 4797
+#+DATE: [2010-05-27 Thu 02:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide, ML, OCaml, Programming, Programming Language
+#+TITLE: DrScheme Style Buffer Evaluation for OCaml in Emacs
+
+When you want to evaluate code inside of [[http://www.plt-scheme.org/][DrScheme]], you hit the F5 key and the entire editor buffer gets evaluated inside of a new REPL. Unlike Emacs, the ability to send the current expression, region, or buffer to the REPL isn't available. It might sound constricting, but in practice it is very nice because you are always working with the most up-to-date versions of your definitions. It might sound slow to start a new REPL on each run, but it isn't; on my older desktop the new REPL comes up before my finger even comes off of the F5 key. This approach seemed like a nice to have for working with OCaml in [[https://forge.ocamlcore.org/projects/tuareg/][Tuareg]] mode on Emacs, so I pieced together a function to do so against Tuareg 1.45.6:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(defun tuareg-eval-buffer-drscheme-style ()
+  "Send the buffer to a brand new Tuareg Interactive process."
+  (interactive)
+  (tuareg-kill-caml)
+  (sleep-for 0.25)
+  (if (get-buffer tuareg-interactive-buffer-name)
+      (kill-buffer tuareg-interactive-buffer-name))
+  (tuareg-eval-buffer)
+  (switch-to-buffer tuareg-interactive-buffer-name))
+
+#+END_EXAMPLE
+
+
+
+Out of the box Tuareg mode will ask you what program name to run to start OCaml each and every time you evaluate the buffer, even when the variable storing that name is defined. I didn't find a way to avoid this prompt so I patched Tuareg such that it will not ask you if a value is already defined for the program name. [[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/05/tuareg-1.45.6-interactive-program.patch.txt][Here]] is the patch.
+
+Thus far it has been nice to have the option of evaluating the whole buffer in a new REPL in addition to the existing incremental evaluation options.
+
+
+

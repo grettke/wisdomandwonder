@@ -1,0 +1,13 @@
+#+POSTID: 2601
+#+DATE: [2009-04-15 Wed 23:55]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: User Interface
+#+TITLE: UI Prototyping with Balsamiq
+
+[[http://www.balsamiq.com/products/mockups][This]] looks like a great way to mock up UIs quickly without the downsides of hand-drawing or using Visio.
+
+(via the work email list)
+
+
+

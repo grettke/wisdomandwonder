@@ -1,0 +1,31 @@
+#+POSTID: 6970
+#+DATE: [2013-01-22 Tue 22:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Computation, Learning, Programming, Teaching, philosophy
+#+TITLE: On Computing
+
+Computing is very poorly understood. Case in point here is the litmus test I would argue to you that:
+
+In North America you can pull any 18 year old randomly off the street and ask them to do something and it would go like this:
+
+1. Can you build a basic bridge between a 3ft span given some materials?
+2. Can you build a basic drainage system given some materials?
+3. Can you organize a group of 5 people to perform a non trivial but paralleled task?
+4. Can you prepare a soup like chili given materials?
+5. Can you write down the computational logic to show the fibonacci sequence (given an explanation of the sequence itself)?
+
+What percentage would you say that we pull 1000 people and given them this test? What percentage could successfully do each?
+
+You know where I am going with this.
+
+100% can do 1-4 and 0.01% could do 5.
+
+There is a deep, deep lack of awareness about computation.
+
+The problem with computation and titles around it are that very people ever think about what it is that we truly do, and often times the ones that do are relegated to the backroom. Case in point. SICP is no longer part of MIT entry program because it is too far "out there". Kind of sad, that is part of the mystery, and the fun, what we are doing and what we can do specifically on computers, is, something that no one in history has been able to do before. We can execute things now that people have only dreamed of, computers are truly without limit. I found this special:
+
+[[http://www.wisdomandwonder.com/link/979/computers-are-a-metamedium]]
+
+
+

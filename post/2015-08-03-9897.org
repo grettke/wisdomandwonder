@@ -1,0 +1,19 @@
+#+POSTID: 9897
+#+DATE: [2015-08-03 Mon 20:13]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Fun, Ide, Lisp, Programming, creativity, elisp, philosophy
+#+TITLE: (use-package smartparens-config :ensure smartparens)
+
+If you utilize =use-package= to install =smartparens= and require =smartparens-config= then do it like this:
+
+=(use-package smartparens-config :ensure smartparens)=
+
+This week I migrated to use-package and configured it incorrectly with something like this:
+
+=(use-package smartparens :ensure t :config (require 'smartparens-config))=
+
+Big giveaway: single-quote and backtick don't work correctly in strict mode! There are a lot of explanations of how to "fix this issue". It isn't an issue with smartparens. This is how I got it wrong; very easy mistake to make.
+
+
+

@@ -1,0 +1,24 @@
+#+POSTID: 3192
+#+DATE: [2009-06-07 Sun 01:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Business, Programming Language, Scheme, philosophy
+#+TITLE: Our addiction to addition
+
+Here is a great post about elegance.
+
+
+
+#+BEGIN_QUOTE
+  Something is elegant if it is two things at once: unusually simple and surprisingly powerful.
+#+END_QUOTE
+
+
+-- [[http://blogs.openforum.com/2009/05/18/in-pursuit-of-elegance-12-indispensable-tips/][Matthew E. May]]
+
+That makes me think of Scheme.
+
+(via [[http://blog.guykawasaki.com/2009/05/how-to-achieve-elegance.html][Guy]])
+
+
+

@@ -1,0 +1,15 @@
+#+POSTID: 789
+#+DATE: [2008-09-20 Sat 15:04]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Study-HTDP
+#+TITLE: HtDP: Problem 9.5.5
+
+In problem 9.5.5, I knew I wasn't understanding something. I thought that I had followed the recipe, yet I couldn't solve the problem. That alone was a red flag indicating that I most probably did *not* follow the recipe!
+
+In [[http://groups.google.com/group/plt-scheme/browse_thread/thread/aa04d50e9d793c4d/9c380c51304643f0?lnk=gst&q=9.5.5][this]] discussion everyone helped me to see what I was missing. The thing was that I was missing something about recursion, the fact that you can figure out what you need to do by combining this thing with the rest of the things. 
+
+To specific, the step that I had skipped was literally taking the expected data and using that to determine the combination that needs to occur within the program body. Before, my approach had always been to solve "the whole problem" at once for the recursive step. Following the recipe, you can much more easily see what you are missing.
+
+
+

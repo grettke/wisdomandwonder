@@ -1,0 +1,13 @@
+#+POSTID: 8405
+#+DATE: [2014-03-31 Mon 15:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Artificial Intelligence, Computer Science, Data science, Knowledge Engineering, Logic, Rules Engine, Statistics, data modelling, mathematics
+#+TITLE: How To Tell Stuff To A Computer
+
+[[http://www.lisperati.com/tellstuff/index.html][This]] looks like a great read; can't wait to do so.
+
+(via [[http://markwatson.com/blog/][Mark Watson]])
+
+
+

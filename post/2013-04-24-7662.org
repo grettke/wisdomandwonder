@@ -1,0 +1,67 @@
+#+POSTID: 7662
+#+DATE: [2013-04-24 Wed 03:31]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 02947, CB750, CB750F, Honda, Motorcycle, Repair
+#+TITLE: CB750F: Day 28: Reassembly
+
+A lot of work and preparation and parts-shipments seem to have come together in perfect timing to allow for a lot of reassembly work to begin. As usual how things when was mostly a matter of preparation in reading the service manual and talking to Pat and having some patience while doing the work and trying to use my brain and think through things before and while doing them. That said, it is totally OK to take a break and go for a walk if things get not-simple. Here is the work list:
+
+
+
+-  Choke and throttle lubrication with PJ1-Lube: The cable lube tool worked mostly as expected; but for the giant lube puddle collecting at my feet! You sort of have to do short and powerful spurts to get the lube through the cable housing. In the end I just jammed the nozzle-stick into the cable and did some long and hard blasts, and that seemed to work well. The choke didn't have a mount point really, so that technique was the only one possible. Where I had left tape notes of the cable IDs, it had become sticky and gross so when I removed the tape I cleaned the crud off with SimpleGreen and it worked well. The throttle assembly was simpler than I had imagined, the key thing that Pat told me was to remember how many turns each cable guide were set at so when I reassembled it, it would sit correctly. I also should have paid a bit more attention to the cable routing; though it is obvious because of the guides, it just would have been less stressful. 
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_162729.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_162729-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_163423.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_163423-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_164358.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_164358-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_164632.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_164632-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_164731.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_164731-300x225.jpg]]]]
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_170231.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_170231-300x225.jpg]]]]
+
+-  New throttle side hand grip: The new grip looks great but is maybe 7.5mm too short. I tried stretching it but it wouldn't budge. Pat said that it is probably OK that I didn't use hand grip glue, but on the left side it is a must.
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_165335.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_165335-300x225.jpg]]]]
+-  New cylinder head carburetor shrouds: These are brand new and look healthy. Installing them was painless but had to be sure they were seated well (push, pull, twist, feel).
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_173358.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_173358-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_173404.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_173404-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_173442.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_173442-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_174625.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_174625-300x225.jpg]]]]
+
+-  Air filter clean and lube: Cleaned with warm water and Dawn and let air dry for a long while. Lubed with K&N (as it is the make of air filter). The oil is colored red so you may see the coverage; smart. The filter itself only goes so far in, so you can stop pushing when it stops.
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_182904.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_182904-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_183141.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_183141-300x225.jpg]]]]
+
+-  New fuses: Interesting to find that one of the old ones had rattle free from the metal mount on the fuse ends. Cleaned the mount points with metal polish and saved the old (working) ones for on the road.
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_183511.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_183511-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_184810.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_184810-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_190548.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_190548-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_192621.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_192621-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_192812.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_192812-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_193929.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_193929-300x225.jpg]]]]
+-  New spark plugs: Installed according to the manual specs (and new gaskets). Funny thing the spark plug tool is faulty; it had no lip to increase the spark plug gap so I used the fancy one instead. One of the four plugs was out of spec (06-0.7mm). Torqued to 120 in/lb, twice.
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_194659.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_194659-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_200610.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_200610-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_200722.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_200722-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_201211.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_201211-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_201319.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130423_201319-300x225.jpg]]]]
+
+
+

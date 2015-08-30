@@ -1,0 +1,13 @@
+#+POSTID: 3555
+#+DATE: [2009-07-21 Tue 15:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Mac
+#+TITLE: BlackBerry Desktop Manager coming to Mac in September
+
+Good to hear.
+
+(via [[http://www.engadgetmobile.com/2009/07/20/blackberry-desktop-manager-coming-to-mac-in-september/][engadget]])
+
+
+

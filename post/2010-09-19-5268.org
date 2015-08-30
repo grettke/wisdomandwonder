@@ -1,0 +1,17 @@
+#+POSTID: 5268
+#+DATE: [2010-09-19 Sun 22:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: 22656, Concours, Kawasaki, Motorcycle
+#+TITLE: When your Concours won't let you bumpstart it
+
+#+BEGIN_QUOTE
+  As to not getting the bike in any gear but first, that is Kawasaki's patented neutral finder. The bike must be moving five mph or faster to select second gear. You can defeat this by putting it on the centerstand and spinning the rear wheel by hand as fast as possible. You will then need to hold the clutch disengaged while taking the bike off the stand.
+#+END_QUOTE
+
+
+
+(via on Claudio O [[http://micapeak.com/mailman/listinfo/cog][COG]])
+
+
+

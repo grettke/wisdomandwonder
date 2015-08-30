@@ -1,0 +1,13 @@
+#+POSTID: 2925
+#+DATE: [2009-05-06 Wed 11:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Gambit Scheme's infix notation
+
+You can read about Gambit Scheme's infix notation [[http://www.iro.umontreal.ca/~gambit/doc/gambit-c.html#Scheme-infix-syntax-extension][here]].
+
+(via [[http://lists.ccs.neu.edu/pipermail/larceny-users/2009-May/000682.html][larceny-users]])
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 5217
+#+DATE: [2010-09-12 Sun 13:17]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Software, Windows
+#+TITLE: ImgBurn for Windows is Excellent
+
+[[http://www.imgburn.com/][Here]]is a great disc-burning application for MS Windows called ImgBurn. Works great "out of the box" and is free, which doesn't reflect its utility or value at all.
+
+I will only share additionally that I've tried two free and two commercial application, which I won't name for fear of any publicity that it would generate for them, that ultimately would fail due to pretty simple scenarios like a disc not being loaded in the disc-drive.
+
+
+

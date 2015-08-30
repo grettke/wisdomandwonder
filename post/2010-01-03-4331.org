@@ -1,0 +1,27 @@
+#+POSTID: 4331
+#+DATE: [2010-01-03 Sun 22:35]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Health
+#+TITLE: Common Food Measurement Related Conversions
+
+Here are some common food measurement related conversions:
+
+
+
+#+BEGIN_EXAMPLE
+    
+1 US cup = 8 US fluid ounces
+
+1 US cup = 236.588237 ml
+
+1 US fluid ounce = 29.5735296 ml
+
+#+END_EXAMPLE
+
+
+
+(via google)
+
+
+

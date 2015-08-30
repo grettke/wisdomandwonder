@@ -1,0 +1,11 @@
+#+POSTID: 8777
+#+DATE: [2014-06-26 Thu 00:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: org-ref for delightful LaTeX citation management in org-mode
+
+Having avoided setting up a nice LaTeX/BiBTeX build chain in org-mode, and instead leaving it all to the latter, it was wonderful to watch [[https://www.youtube.com/watch?v=JyvpSVl4_dg][this]] overview of org-ref. There is a lot of discussion on the org list about different folks workflows. This looks like a really, really nice one with [[https://github.com/jkitchin/jmax/blob/master/org-ref.org][org-ref]].
+
+
+

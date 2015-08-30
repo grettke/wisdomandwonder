@@ -1,0 +1,28 @@
+#+POSTID: 195
+#+DATE: [2008-05-28 Wed 01:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: STk
+
+#+BEGIN_QUOTE
+  
+[[http://kaolin.unice.fr/STk/][STk]] is a free R4RS Scheme interpreter which can access the Tk graphical package. Concretely, it can be seen as the standard Tk package where Tcl has been replaced by a Scheme interpreter. STk embeds also an efficient CLOS like object oriented system, called STklos, which provides:
+
+
+
+  -  multiple inheritance
+  -  generic functions
+  -  multi-methods
+  -  a MOP (Meta Object Protocol)
+
+  
+
+#+END_QUOTE
+
+
+
+
+
+
+

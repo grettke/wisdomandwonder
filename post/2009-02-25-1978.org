@@ -1,0 +1,21 @@
+#+POSTID: 1978
+#+DATE: [2009-02-25 Wed 21:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Learning, Lisp, Programming, Programming Language, Scheme, Teaching, philosophy
+#+TITLE: Lisp as a crucible
+
+#+BEGIN_QUOTE
+  Scheme and Lisp force you *think* from the get-go. Most engineers and programmers hate to do that and it makes them uncomfortable. Starting a program in Java or C is easy. There's a pile of boilerplate you can type without thinking about it, and it `feels' like you're programming. Then you have to haul out the bag of tools like the compiler and the linker and makefiles or ant. There's a lot of busy work needed just to get going, and you feel like you've accomplished something.
+
+In Scheme or Lisp, you start it up and there you are at the REPL. You have to decide what your program is going to do. You can't waste time writing boilerplate (it's unnecessary), designing data structures (just cons one and specialize it later), figuring out how to build complex inheritance hierarchies (do that once you know what you are doing), you have to dive into the problem right away. If you are willing to make mistakes and learn from them, then the REPL is a great place to play. If you prefer to plan ahead so you don't make mistakes, a REPL is a very uncomfortable place to be.
+#+END_QUOTE
+
+-- jrm
+
+Having experienced the "discomfort" myself, I recognize now that this development approach acts as a mirror to your strengths and weaknesses. It reveals, very very quickly, whether or not you really have got a grasp both on the problem and how you plan to solve it. There is no where to hide! /It is great/.
+
+(via [[http://lists.r6rs.org/pipermail/r6rs-discuss/2009-February/004212.html][R6RS]])
+
+
+

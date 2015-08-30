@@ -1,0 +1,33 @@
+#+POSTID: 509
+#+DATE: [2008-08-17 Sun 02:06]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Learning, Programming, Programming Language, Scheme, Teaching, philosophy
+#+TITLE: LAMBDA: The Ultimate GOTO
+
+‘LAMBDA: The Ultimate GOTO' (found [[http://library.readscheme.org/page1.html][here]]) is a paper that was written in 1977 by Guy Steele. It is fun to read, informative, and accessible to a wide-variety of programmers and interest levels. Here are some interesting bits about the paper (I will leave the detail to the paper, no sense in trying to re-state what Steele has already done so well):
+
+(All bits are either copy-and-paste, or summaries directly from the referenced text, along with my comments)
+
+
+
+-  Must programming language designers admit that they can't possibly get it right for every programmer? Yes. Failure to do so results in programmers using the wrong structures to solve their problems.
+-  There is a marked difference between programming language concepts and language constructs.
+-  Tail-calls (tail-transfers) are really GOTOs.
+-  In FORTRAN and APL (at the time the paper was written at least), a distinction is made between built-in and user-defined functions. For example, you can't pass in a user-defined function as an argument to some built-in functions, whereas you can pass in a built-in function to a built-in function. This may be an interesting historical note for anyone wondering why Scheme lauds that it doesn't introduce an artificial separation between built-in and user-defined functions.
+-  Any notation should accentuate the unusual and make the unobtrusive the usual. To argue that today's fashionable languages state this is as "Convention over configuration" is a very big stretch.
+-  Tail-recursion (trail-transfer) is useful in many more situations than just iterative recursion. Calling tail-transfer tail-recursion was such a mistake. It has got nothing to do with recursion.
+-  The difficulties in dealing with programming and programming languages stem from the fact that no distinction is made between the abstraction of program organization and the concrete embodiment of those notations as programming language constructs.
+-  For every programming concept found to be useful, there ought to be more than one programming language construct to embody that concept. Philosophically, a marked difference from Python's "my way or the highway" approach today.
+-  The features of tail-recursion allow for a new mental approach for programming.
+-  In trying to understand a program, it is necessary to determine not only what construct is being used, but what concept it is intended to express.
+-  A language should be so designed that one is encouraged to use a construct if, and only if, it is appropriate; it must also provide enough constructs to cover all reasonable programming constructs.
+-  Regarding GOTO, they tried to eliminate unwanted concepts and programming styles by banning a construct.
+-  This paper is full of gems.
+
+
+
+
+
+
+

@@ -1,0 +1,33 @@
+#+POSTID: 4385
+#+DATE: [2010-01-16 Sat 07:03]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: How to get your UID with PLT Scheme under UNIX
+
+Via Eli on [[http://groups.google.com/group/comp.lang.scheme/msg/a2741ff6c2eb21a9][comp.lang.scheme]]:
+
+
+
+#+BEGIN_EXAMPLE
+    
+#lang scheme 
+
+;; using the /proc filesystem 
+(call-with-input-file "/proc/self/loginuid" read) 
+
+;; running `id' 
+(require scheme/system) 
+(let ([o (open-output-string)]) 
+  (parameterize ([current-output-port o]) (system "id -u")) 
+  (read (open-input-string (get-output-string o)))) 
+
+;; calling getuid() 
+(require scheme/foreign) 
+(unsafe!) 
+((get-ffi-obj 'getuid #f (_fun -> _int)))
+
+#+END_EXAMPLE
+
+
+

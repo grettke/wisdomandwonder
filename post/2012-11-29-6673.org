@@ -1,0 +1,35 @@
+#+POSTID: 6673
+#+DATE: [2012-11-29 Thu 19:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 02947, CB750, CB750F, Honda, Motorcycle, Repair
+#+TITLE: CB750F: Day 01
+
+The bike was set up as a cruiser. That is too bad because it is a 1979 Honda CB750F which is a "supersport". I removed the windshield and bagged the bolts.
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/20121127_171206s.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/20121127_171206s-300x225.jpg]]]]
+
+Only 32K miles, that is nice. Supposedly the speedometer should go up to 160MPH, but only 150MPH is listed on this one.
+
+I took the bike to school. Here is the "as is" profile:
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/20121127_171354s.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/20121127_171354s-300x225.jpg]]]]
+
+I took the side panels off, they are black, not purple like the tank. The left side panel had the top most mount broken off and a large bolt glued in it's place instead, which came off at some point. I wonder how I'll fix that. I took off the license plate and bagged the bolts. It was interesting to learn that the set is bolted on, I bagged those bolts. Finally I removed the backrest, it was easy after removing the seat first, and bagged those bolts, which incidentally did not fit the rear mounts.
+
+I removed the tail light assembly and labeled the wires first and found that there is a wire-harness. Teacher said to just replace the busted stalks.
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/20121127_183822s.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/20121127_183822s-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/20121127_190345s.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/20121127_190345s-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/20121127_190913s.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/20121127_190913s-300x225.jpg]]]]
+
+The bike starts, runs, and stops, but Teacher checked and the 2nd cylinder is not firing (left to right looking forward sitting on bike, 1 to 4). Took the gas tank off. First turned the petcock to OFF. The fuel line was hard as a rock so teacher said just cut it, also there were heavy metal clamps on both the petcock and the distributor, so he said to be careful to protect the plastic part on the distributor, so I just cut the line in half and covered it up with a paper towel. The tank came right off, it was interesting to see how simple it was removed:
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/20121127_192551s.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/20121127_192551s-300x225.jpg]]]][[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/20121127_192642s.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/20121127_192642s-300x225.jpg]]]][[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/20121127_193827s.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/20121127_193827s-300x225.jpg]]]][[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/20121127_195125s.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/20121127_195125s-300x225.jpg]]]][[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/20121127_195205s.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/20121127_195205s-300x225.jpg]]]][[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/20121127_195503s.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/20121127_195503s-300x225.jpg]]]]
+
+Tomorrow we'll check the engine compression.
+
+
+

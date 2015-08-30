@@ -1,0 +1,43 @@
+#+POSTID: 8960
+#+DATE: [2014-08-29 Fri 19:29]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: R-Project
+#+TITLE: A database on your desktop?
+
+
+If your business users utilize data that is critical to their success then you 
+need to help provide a pleasant way for them to manage that data. GUI tabular
+data management programs like [[https://office.microsoft.com/en-us/excel/][MS Excel]] and [[https://www.libreoffice.org/][LibreOffice]] or [[https://www.openoffice.org/][OpenOffice]] are 
+obvious choices for their ease of use alone. In practice, that ease of use is 
+guaranteed to cause problems for them down the road, and usually at horrible 
+times. Wondering what is a good option if you just stuck with CSV data, I posted
+[[http://r.789695.n4.nabble.com/Best-cross-platform-OSS-GUI-CSV-management-application-td4696140.html][here]]. The replies were informative and helpful, and my take away is that the
+best option for managing tabular data, if you are not bound to the applications
+mentioned above, is to use a database... no surprise. How do you do that though
+while still making it easy for the business and at a reasonable cost? The
+answer is [[https://www.sqlite.org/][SQLite]].
+
+
+
+
+
+
+
+It uses files that you may share and version. It is a real RBDMS. It runs on 
+every OS. There are [[http://sqlitestudio.pl/][graphical]] [[https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/][management]] [[http://sqlitebrowser.org/][tools]]. It [[http://cran.revolutionanalytics.com/web/packages/RSQLite/index.html][works]] well with R.
+
+
+
+
+
+
+
+In practice, there are important details, and it is great to know that there
+is a realistic and practical solution to manage those details.
+
+
+
+
+
+

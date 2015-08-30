@@ -1,0 +1,21 @@
+#+POSTID: 1665
+#+DATE: [2009-02-01 Sun 01:49]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning
+#+TITLE: Wikipedia on the iPhone
+
+[[http://collison.ie/wikipedia-iphone/][Wikipedia on the iPhone]]is
+
+
+
+#+BEGIN_QUOTE
+  A complete copy of the Wikipedia encyclopedia on your iPhone/iPod. This app is the fastest and simplest way to browse Wikipedia on your device, and, crucially, doesn't require any internet connectivity - it works in a plane, on top of a mountain, and when abroad. (Or, if you're an iPod Touch user, whenever you don't have wifi.)
+#+END_QUOTE
+
+
+
+
+
+
+

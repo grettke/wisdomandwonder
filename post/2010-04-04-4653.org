@@ -1,0 +1,35 @@
+#+POSTID: 4653
+#+DATE: [2010-04-04 Sun 04:01]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: ML, OCaml, Programming Language
+#+TITLE: Running Ocamlbrowser with OCaml 3.11.2 on Cygwin 1.72
+
+After building OCaml 3.11.2 from source on Cygwin 1.72 I tried running ocamlbrowser and got the error:
+
+
+
+#+BEGIN_EXAMPLE
+    
+Fatal error: exception Protocol.TkError("Can't find a usable init.tcl in the following directories:
+C:/cygwin/share/tcl8.4 
+C:/cygwin/home/rettkeg/ocaml/build/ocaml-3.11.2/share/tcl8.4 
+C:/cygwin/home/rettkeg/ocaml/build/ocaml-3.11.2/usr/share/tcl8.4 
+C:/cygwin/home/rettkeg/o
+
+#+END_EXAMPLE
+
+
+
+The solution is can be found [[http://wiki.tcl.tk/1629][here]]:
+
+
+
+#+BEGIN_EXAMPLE
+    
+export TCL_LIBRARY=/usr/share/tcl8.4
+
+#+END_EXAMPLE
+
+
+

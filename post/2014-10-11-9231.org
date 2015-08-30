@@ -1,0 +1,46 @@
+#+POSTID: 9231
+#+DATE: [2014-10-11 Sat 17:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: How to clean up environment bindings in knitr sub modules?
+
+
+[[https://groups.google.com/forum/#!topic/knitr/qoLpFMdR0k8][This]] post discusses the management of the environment while running different
+parts of the code. The author's desire is to:
+
+
+
+
+
+-  Obtain a list of bindings before execution sub-module
+
+-  Execute the code in the sub-module
+
+-  Upon completion of the sub-mode code execution remove anything that was added
+to the environment
+
+
+
+
+
+
+
+Can definitely understand the desire. The approach makes total sense.
+
+
+
+
+
+
+
+Perhaps now is the time for me to learn more about packages and whether that would be
+a good approach here. Even running everything inside of a =local= block /could/ be
+an option perhaps?
+
+
+
+
+
+
+

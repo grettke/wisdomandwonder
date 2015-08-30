@@ -1,0 +1,695 @@
+#+POSTID: 9653
+#+DATE: [2015-03-29 Sun 19:05]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: .NET, C Sharp, Entity Framework, PluralSight, Programming, Programming Language
+#+TITLE: Entity Framework in the Enterprise on Pluralsight
+
+
+
+
+
+#+BEGIN_HTML
+  <div id="outline-container-sec-1" class="outline-2">
+#+END_HTML
+
+
+
+
+#+BEGIN_HTML
+  <div id="text-1" class="outline-text-2">
+#+END_HTML
+
+
+
+
+What I want to know how to do in entity framework:
+
+
+
+
+
+
+-  Create
+
+
+   -  High speed database contexts
+
+   -  Object rich database contexts
+
+   -  Dynamically composable database contexts for when pre-built don't exist
+
+
+   
+
+-  Understand
+
+
+   -  Best path
+
+   -  Performance trade-offs
+
+   -  Risks and Challenges
+
+
+   
+
+
+
+
+
+
+With those questions in mind I watched [[http://www.pluralsight.com/courses/efarchitecture][Entity Framework in the Enterprise: Incorporating Entity Framework into applications that are architected for the enterprise]].
+
+
+
+
+
+
+Personal notes follow.
+
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+
+
+
+#+BEGIN_HTML
+  <div id="outline-container-sec-2" class="outline-2">
+#+END_HTML
+
+
+
+** 2 Notes
+
+
+
+
+#+BEGIN_HTML
+  <div id="text-2" class="outline-text-2">
+#+END_HTML
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="outline-container-sec-2-1" class="outline-3">
+#+END_HTML
+
+
+
+*** 2.1 Architecting the Data Layer (Overview) 20:38
+
+
+
+
+#+BEGIN_HTML
+  <div id="text-2-1" class="outline-text-3">
+#+END_HTML
+
+
+
+
+-  This lecture is how to do real work
+
+
+   -  Where EF fits into you architecture
+
+   -  Repository Patterns
+
+   -  Unit of Work
+
+   -  Bounded contexts
+
+   -  Unit testing with EF
+
+
+   
+
+-  Understand what you are being taught; feature demonstrations are not best-practices
+
+-  Stack/Areas
+
+
+   -  Typically
+
+
+      -  UI
+
+      -  Services
+
+      -  Business objects
+
+      -  Repository/unit-of-work
+
+      -  Data
+
+      -  Database
+
+
+      
+
+   -  Keep EF in the data layer and no where else using Repository Pattern
+
+   -  MVC looks nice
+
+   -  The topic of concern of this lecture is that of large enterprise applications
+
+   -  Start listening at 5m for 58s if you want proof that Lerman is legitimate
+
+
+   
+
+-  Normal separation of concerns OO stuff
+
+-  LINQ belongs in the repository/unit-of-work layer
+
+-  Repository/unit-of-work is an abstraction against storage mechanisms
+
+
+   -  Your have to make a good educated decision, not the tool's choice
+
+
+   
+
+-  You ought to unit test your data layer, she will show how to do so without EF
+
+-  Domain Driven Design book introduce st he Bounded-DB-Context idea
+
+
+   -  This is *exactly* what I was asking up in [[#sec-1][1]]
+
+
+   
+
+-  This lecture covers the architecture of the data layer and its friends and is
+not about the entire system architecture
+
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+
+#+BEGIN_HTML
+  <div id="outline-container-sec-2-2" class="outline-3">
+#+END_HTML
+
+
+
+*** 2.2 Bounded DbContext 50:40
+
+
+
+
+#+BEGIN_HTML
+  <div id="text-2-2" class="outline-text-3">
+#+END_HTML
+
+
+
+
+-  Overview
+
+
+   -  DDD and a bounded context
+
+   -  Code first implementation
+
+   -  Small models
+
+   -  Sharing objects across models and context instances
+
+
+   
+
+-  DDD is about communication with the SMEs
+
+-  Bounded context
+
+
+   -  Delimits the applicability of a particular model
+
+   -  Gives team members a clear and shared understanding of
+
+
+      -  What has to be consistent
+
+      -  What can develop independently
+
+
+      
+
+
+   
+
+-  Problem is primarily about maintenance not performance
+
+
+   -  Cognitive overhead not performance overhead
+
+   -  Models are bounded by the context where the live
+
+
+   
+
+-  Will see objects appear in multiple context classes
+
+
+   -  Use References instead of the objects
+
+
+   
+
+-  Reference classes vs inheritance
+
+-  The impact of having multiple contexts
+
+
+   -  CodeFirst DB context will pull more objects in than you expected
+
+
+      -  Use this as for exposure/navigation control
+
+
+      
+
+
+   
+
+-  Kind of a subtle point, the way I heard it, you ought to
+
+
+   -  Understand your database
+
+   -  Understand EF
+
+   -  Understand your contexts
+
+   -  Refine their implementations to obtain desired traits
+
+
+   
+
+-  Moving data across contexts
+
+
+   -  This is a *very* important topic
+
+   -  Transitional logic per property moving between context boundaries
+
+   -  Transition by object id
+
+
+      -  Simple address change example quite nice
+
+      -  ContextA loads a customer
+
+      -  Get its ID
+
+      -  Ask ContextB to load that object ID
+
+      -  Work with it
+
+
+      
+
+   -  Transition by object instance
+
+
+      -  Need a memory model of objects instances and database context and how you
+configured both loading (lazy or not) and caching of stances
+
+      -  Need a comfort level understanding how the DbContext manages that memory
+and how it will reason about and handle entity instances as you pass them
+into different DbContexts
+
+      -  Nice performance tweak to use in memory version of the entity
+
+
+         -  How timely may we assume that is OK?
+
+
+         
+
+
+      
+
+   -  Why not lazy load every property instead of doing Reference classes?
+
+
+   
+
+-  You may ask model-builder to bring in any entity type
+
+
+   -  Of course you can
+
+   -  It is entirely up to you
+
+   -  Either rely on auto-configuration or manual-configuration to get what you want
+
+
+   
+
+-  Structure tip (sounds like a gem)
+
+
+   -  Each context belongs in it's own project
+
+   -  Put mappings into their own project, too
+
+   -  Reference mappings and contexts from the same project to initialize the context
+
+
+   
+
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+
+#+BEGIN_HTML
+  <div id="outline-container-sec-2-3" class="outline-3">
+#+END_HTML
+
+
+
+*** 2.3 Repositories and Unit of Work 1:00:41
+
+
+
+
+#+BEGIN_HTML
+  <div id="text-2-3" class="outline-text-3">
+#+END_HTML
+
+
+
+
+-  Encapsulate repetitive data access code
+
+-  Subtle point about the power of the repository irrespective of its back-end
+
+-  Questions posed about repository-context relationship reveals flavor of the pattern
+
+
+   -  One repository per type?
+
+   -  One repository per object graph?
+
+   -  Read repository? Write repository?
+
+   -  One repository per context?
+
+
+   
+
+-  Where do all of the evaluations live?
+
+-  There is a MVC scaffolding to build contexts for yuo
+
+
+   -  T4Scaffolding template
+
+
+   
+
+-  A .NET Repository is a Java DataAccessObject
+
+-  Repositories seems to be responsible
+
+
+   -  For the LINQ exposure/integration of data
+
+   -  Eager-loading stuff
+
+
+      -  So the repository handles usage preference abstractions, too?
+
+
+      
+
+   -  EF
+
+
+      -  must have an =UpdateOrAdd= /ala/ Hibernate
+
+
+         -  Of course it does =InsertOrUpdate=
+
+
+         
+
+      -  Must load am object into a context then =Remove= it to send delete to DB
+
+
+         -  This is really a *big deal* grokking the implementation details and
+their implications of your repositories
+
+
+         
+
+
+      
+
+
+   
+
+-  Repository is not a stupid-abstraction or OO-pontification, it is a place to
+capture decisions about how you want your system to perform for this
+implementation given the requirements
+
+-  When you pass LINQ expressions to a repo, they are delegated to SQL Server
+
+
+   -  Bone up on LINQ
+
+
+   
+
+-  =InsertOrUpdate= seems to be an acceptable way to merge back into a context?
+
+-  Separate methods for singular vs. graph insert
+
+-  Attaching disconnected graphs
+
+
+   -  =Add= will insert every object as new
+
+   -  =Attach= expects all entity state to be unchanged
+
+   -  Example of something of what unsure
+
+   -  How to handle entity re-attach it seems?
+
+
+   
+
+-  Manual key settings instead of working in a context? Of course not.
+
+-  You must thoroughly grok EF to understand how to implement your repository
+
+
+   -  Your users must grok your repository, too
+
+
+   
+
+-  Graph attachment usage patterns
+
+
+   -  For a graph of entirely new objects
+
+
+      -  DbSet.Add is all you need
+
+
+      
+
+   -  For a graph where the root is new and everything else is existing and unchanged
+
+
+      -  Entry(object).State=Added
+
+
+      
+
+   -  All items in the graph are modified
+
+
+      -  Set State=Modified for the root and every related item
+
+
+      
+
+   -  Some added, some modified
+
+
+      -  DbSet.Add and State=Modified and the context will handle it
+
+
+      
+
+
+   
+
+-  Seems very low level to be dealing with
+
+-  Managing object state for merging-success by hand
+
+-  Like the presenter said, demo-ware is demo-ware
+
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+
+#+BEGIN_HTML
+  <div id="outline-container-sec-2-4" class="outline-3">
+#+END_HTML
+
+
+
+*** 2.4 Automated Testing 1:04
+
+
+
+
+#+BEGIN_HTML
+  <div id="text-2-4" class="outline-text-3">
+#+END_HTML
+
+
+
+
+-  Skipped
+
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+
+#+BEGIN_HTML
+  <div id="outline-container-sec-3" class="outline-2">
+#+END_HTML
+
+
+
+** 3 Conclusion
+
+
+
+
+#+BEGIN_HTML
+  <div id="text-3" class="outline-text-2">
+#+END_HTML
+
+
+
+
+-  This series is a nice overview of one way to implement the repository pattern.
+
+-  Generally my questions were answered since they were not detailed questions 
+
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+
+

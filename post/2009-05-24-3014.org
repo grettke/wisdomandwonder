@@ -1,0 +1,13 @@
+#+POSTID: 3014
+#+DATE: [2009-05-24 Sun 14:17]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, forth
+#+TITLE: Scans of Forth Dimensions 
+
+[[http://www.forth.org/fd/contents.html][Here]] are scans of the hard-copies of every Forth Dimensions magazine ever published.
+
+(via [[http://lambda-the-ultimate.org/node/3327][LtU]])
+
+
+

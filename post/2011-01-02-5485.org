@@ -1,0 +1,28 @@
+#+POSTID: 5485
+#+DATE: [2011-01-02 Sun 06:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Eiffel, Fun, Programming Language
+#+TITLE: EiffelStudio: A Contract for Success
+
+A while back [[http://eiffel.com/][Eiffel Software (formerly ISE)]] held a contest to come up with a slogan for one of their products, [[http://eiffel.com/products/studio/][EiffelStudio]]. 
+
+I submitted:
+
+
+
+#+BEGIN_QUOTE
+  EiffelStudio: A Contract for Success
+#+END_QUOTE
+
+
+-- Grant Rettke
+
+And won!
+
+They gave me a one-year license for EiffelStudio in return for signing away the slogan.
+
+It was worth it... it is a great language!
+
+
+

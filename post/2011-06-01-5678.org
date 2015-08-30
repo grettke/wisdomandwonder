@@ -1,0 +1,11 @@
+#+POSTID: 5678
+#+DATE: [2011-06-01 Wed 02:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide
+#+TITLE: Ben's 11 Concepts The Emacs Newbie Should Master
+
+[[http://benjisimon.blogspot.com/2011/04/10-concepts-emacs-newbie-should-master.html][Here]] are Ben's top 11; they are nice.
+
+
+

@@ -1,0 +1,17 @@
+#+POSTID: 427
+#+DATE: [2008-08-11 Mon 01:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Scripting OS X with Scheme
+
+#+BEGIN_QUOTE
+  [[http://scheme-osa.blogspot.com/2007_01_01_archive.html][Scheme-OSA]] stands for Open Scripting Architecture. It provides an abstract interface for applications to compile, execute, and manipulate scripts without needing to know the details of the particular scripting language. Scheme-OSA bridge furnishes a Scheme user with a means of accessing the OS X multimedia and other resources from Apple and the third parties - introducing graphics, scientific plotting, dialog boxes, music, etc. into the world of Scheme language.
+#+END_QUOTE
+
+
+
+(via [[http://groups.google.com/group/comp.lang.scheme/msg/16a9553530eb4599][comp.lang.scheme]])
+
+
+

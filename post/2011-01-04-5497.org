@@ -1,0 +1,16 @@
+#+POSTID: 5497
+#+DATE: [2011-01-04 Tue 02:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Health, Medicine, Research, Science
+#+TITLE: Bastyr University
+
+#+BEGIN_QUOTE
+  Bastyr University is a non-profit, private university offering both graduate and undergraduate degrees, with a multidisciplinary curriculum in science-based natural medicine. The University is recognized globally for its rigorous curriculum and strong research. Bastyr's international faculty teaches the natural health sciences with an emphasis on integrating mind, body, spirit and nature. A pioneer in natural medicine since its inception, Bastyr continues to be in the forefront of developing the model for 21st-century medicine.
+#+END_QUOTE
+
+
+-- [[http://www.bastyr.edu/about/][About]]
+
+
+

@@ -1,0 +1,26 @@
+#+POSTID: 9234
+#+DATE: [2014-10-13 Mon 01:08]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: org-mode
+#+TITLE: Warn about unexpanded macros on export in org-mode
+
+
+[[https://lists.gnu.org/archive/html/emacs-orgmode/2014-09/msg00873.html][This]] post discussed the issues with failing to report macro expansion
+issues during export of an =org= document. Most would want publishing to
+fail if a macro is not defined. Soon, it will.
+
+
+
+
+
+
+
+It is now addressed, as confirmed in that same thread.
+
+
+
+
+
+
+

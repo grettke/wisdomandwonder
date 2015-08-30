@@ -1,0 +1,11 @@
+#+POSTID: 5402
+#+DATE: [2010-12-18 Sat 21:13]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Eiffel, OLPC, Programming Language, XO
+#+TITLE: EiffelStudio on the OLPC XO
+
+Check it out [[http://www.eiffelroom.org/blog/manus_eiffel/eiffelstudio_and_olpc][here]].
+
+
+

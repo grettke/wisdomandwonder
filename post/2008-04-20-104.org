@@ -1,0 +1,21 @@
+#+POSTID: 104
+#+DATE: [2008-04-20 Sun 22:17]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Programming Language, Ruby
+#+TITLE: Emacs influence on Ruby
+
+Who would've thought that [[http://technomancy.us/97][Ruby's block 'end' keyword was created to facilitate Emacs]]? Oh man!
+
+
+
+#+BEGIN_QUOTE
+  When [Matz] was first starting out writing Ruby, he was coding the Emacs ruby-mode.el for it at the same time. He expressed some frustration with modes for other languages like Python and Pascal in which the editor could not look at a line of code and figure out where it should be indented to, so he resolved that Ruby as a language should not fall into that particular trap. With that in mind he chose the end keyword as a block delimiter so that it would be easier to write an Emacs mode for.
+#+END_QUOTE
+
+
+
+
+
+
+

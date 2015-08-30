@@ -1,0 +1,39 @@
+#+POSTID: 6795
+#+DATE: [2012-12-24 Mon 03:27]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 02947, CB750, CB750F, Honda, Motorcycle, Repair
+#+TITLE: CB750F: Day 07
+
+Today I was well enough to even think of working on the bike, at all. Got back to researching a carb rebuild kit. It has been interesting searching for one, Pat helped me find one that probably works and then I searched for more and got these results:
+
+denniskirk.com: no
+knfilters.com: no
+outwestmotorcycles.com: no
+randakks.com: no
+vintagecb750.com: Probably part # 48-1963
+mrcycle.com: no
+ebay.com: no, or rather found the kit fro Kaizen without jets
+dimecitycycles.com: yes
+partsnmore.com:no
+mrcycles.com: individual parts
+bikebandit.com: individual parts but no microfiche!
+cheapcycleparts.com: individual parts
+
+In summary, there are not a lot of kits. 
+
+Only one, and two if you count vintagecb750 with a big "maybe" since it doesn't specifically support the model I need. They do have one model specific kit, but it doesn't have new jets, and that is the plan. I will go with dimecitycycles.
+
+It has been interesting learning about how well this model is supported. My original idea was to go with a Honda CB750 because there is such good support for it out there. From what I am seeing, this model was not as prevalent as the touring style bike, so there isn't as-good support. Also choosing first year of the model was a mistake. With persistence and patience though it should go fine.
+
+Although I did purchase the original service manual along with the Haynes, resources like mrcycles.com that have the microfiche for the OEM parts online are extremely helpful for managing the replacement of parts.
+
+The paint store had Simple Green for sale, so I bought some. I figured since the bike is mostly stripped down I can clean off the gunk that has accrued everywhere, and that it is less inexpensive in time and money to completely disassemble the bike and refinish it.
+
+*Addendum: 01/18/13*
+
+power-barn.com doesn't have kits, either.
+jetsrus.com, no.
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 464
+#+DATE: [2008-08-13 Wed 01:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: PLT Scheme version 4.1 is now available
+
+PLT Scheme version 4.1 is now available from [[http://plt-scheme.org][http://plt-scheme.org/]].
+
+(via [[http://blog.plt-scheme.org/2008/08/plt-scheme-v41.html][PLT Blog]])
+
+
+

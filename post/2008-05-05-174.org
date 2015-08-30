@@ -1,0 +1,13 @@
+#+POSTID: 174
+#+DATE: [2008-05-05 Mon 00:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming, philosophy
+#+TITLE: When "good enough" isn't "good enough"
+
+A pervasive attitude among programmers today is that their language is "good enough" and that whatever their language lacks in expressiveness they can make up for with brute force.
+
+Be forewarned: pretty soon you will just end up realizing [[http://en.wikipedia.org/wiki/Greenspun's_Tenth_Rule][Greenspun's Tenth Rule]]!
+
+
+

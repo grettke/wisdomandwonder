@@ -1,0 +1,28 @@
+#+POSTID: 10
+#+DATE: [2007-12-14 Fri 03:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: .NET, F Sharp, Programming Language
+#+TITLE: An implementation of the map function in F Sharp
+
+Here is how map may be implemented in F Sharp. (At the very least, it is my attempt at implementing it!)
+
+You can run this in the interactive shell.
+
+
+#+BEGIN_EXAMPLE
+    
+#light;;
+
+let rec my_map fn xs =
+    match xs with
+    | first::rest -> (fn first) :: (my_map fn rest)
+    | [] -> []
+;;
+
+my_map (fun x -> x + 1) [1; 2; 3; 4; 5;];;
+
+#+END_EXAMPLE
+
+
+

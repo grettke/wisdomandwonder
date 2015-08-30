@@ -1,0 +1,11 @@
+#+POSTID: 665
+#+DATE: [2008-09-20 Sat 15:04]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Update, Utility, Windows
+#+TITLE: Updated: Switching Caps Lock with Control on Windows
+
+See [[http://www.wisdomandwonder.com/link/81/switching-caps-lock-with-control-on-windows][here]].
+
+
+

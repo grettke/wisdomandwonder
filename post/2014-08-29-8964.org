@@ -1,0 +1,13 @@
+#+POSTID: 8964
+#+DATE: [2014-08-29 Fri 20:12]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: Should your R code get compiled for speed gains?
+
+Should your R code get compiled for speed gains?
+
+[[http://randyzwitch.com/python-pypy-julia-r-pqr-jit-just-in-time-compiler/][This]] post says "yes".
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 72
+#+DATE: [2008-03-23 Sun 14:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, Object Oriented, Programming Language, Scheme
+#+TITLE: Caveats of Object Creation using Closures
+
+At one time or another you have probably heard the claim made that since you can utilize closures while programming in Lisp, there is no need to utilize an object system. That claim is sort of a half-truth. While closures are the language construct that allow you to create objects, they certainly don't provide you with all of the object oriented programming language features that you would expect. Instead, you need to implement those features yourself. 
+
+The [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-March/023542.html][question]] was posed on the PLT discussion list. Some [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-March/023552.html][very good points]] were made about the issues you /must/ address when implementing such an object system yourself, along with a [[http://docs.plt-scheme.org/reference/procedures.html#(def~20(~23~25kernel~20prop~3aprocedure))][pointer]] detailing how the issues are addressed in PLT Scheme.
+
+
+

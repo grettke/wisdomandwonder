@@ -1,0 +1,26 @@
+#+POSTID: 9573
+#+DATE: [2015-02-16 Mon 00:49]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: How to Correctly Enable Flycheck in Babel Source Blocks
+
+If you already have Flycheck turned on then you already have it running your babel source block buffers, but, it isn't working how you expect it. That buffer hasn't got a file name. Flycheck can't be smart about helping you out here. Via this [[https://emacs.stackexchange.com/questions/7844/org-mode-have-flycheck-resolve-relative-config-while-editing-code-blocks][post]], the solution follows. 
+
+
+
+#+BEGIN_EXAMPLE
+    
+(defadvice org-edit-src-code (around set-buffer-file-name activate compile)
+  (let ((file-name (buffer-file-name))) ;; (1)
+    ad-do-it                            ;; (2)
+    (setq buffer-file-name file-name))) ;; (3)
+
+#+END_EXAMPLE
+
+
+
+This is one of those things that if you had though about it for a few minutes, you would have turned it on yourself. It reveals how easy it is to return to the mode of "application user" from "application designer", of Emacs. That is the source of most of my dumb "misses" regarding workflow optimizations in Emacs.
+
+
+

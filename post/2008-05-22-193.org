@@ -1,0 +1,11 @@
+#+POSTID: 193
+#+DATE: [2008-05-22 Thu 02:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: A history of macro systems
+
+[[http://lists.gnu.org/archive/html/chicken-users/2008-04/msg00013.html][This]] is a /great/ post explaining the history of macro systems.
+
+
+

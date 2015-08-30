@@ -1,0 +1,22 @@
+#+POSTID: 847
+#+DATE: [2008-10-06 Mon 01:46]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: BDC Scheme
+
+[[http://carlstrom.com/bdc-scheme/][BDC Scheme]] 
+
+
+
+#+BEGIN_QUOTE
+  A Scheme interpretter written in Java that uses some compiler-style optimizations for better performance than straightforward interpretters. Originally started in 1996 as a project to learn Java programming, BDC Scheme was used as an extension language in a commercial product starting in 1997. Previous to open source release in 2002 it was written up as part of an a MIT MEng thesis in 2000 where it was referred to as Script. The thesis covers the history of the implementation and benchmarks the performance relative to a variety of other Scheme implementations, both Java and non-Java based such as Kawa, Silk, Skij, Scheme 48, MIT Scheme. Both Sun and IBM Java virtual machines are used in the comparison.
+#+END_QUOTE
+
+
+
+
+
+
+
+

@@ -1,0 +1,35 @@
+#+POSTID: 634
+#+DATE: [2008-08-24 Sun 01:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Study-HTDP
+#+TITLE: My invitation to the world
+
+Originally published [[http://groups.google.com/group/study-htdp/browse_thread/thread/5ffa6ad4aca5f406?hl=en][here]]:
+
+
+
+#+BEGIN_QUOTE
+  
+Do you love programming?
+
+Does the famous Alan Perlis quip that “[Any programming language] that doesn't affect the way you think about programming, is not worth knowing.” give you a rush?
+
+Are you obsessed with becoming a better programmer?
+
+I am. That is why I started this Google group called ‘[[http://groups.google.com/group/study-htdp?hl=en][Study-HTDP]]'.
+
+I want a place where I can study, collaborate, and learn while we I down this path; and I figured “Why go it alone?”
+
+[[http://www.htdp.org/][\_How\_to\_Design\_Programs\_ (HTDP)]] is a book about learning how to think about programming. I've no doubt that most of us, my friends and peers, already know how to program, and in fact, are excellent at it. But how did we get here? More importantly, how would we teach others to get there? (Is the unexamined life worth living?)
+
+That is the question with which I was obsessed for months and months. My answer to the question is to re-learn how to program. HTDP is how I'm going to do it. If you are interested too, please have a look at:
+
+http://www.htdp.org/
+
+Let us begin! 
+
+#+END_QUOTE
+
+
+

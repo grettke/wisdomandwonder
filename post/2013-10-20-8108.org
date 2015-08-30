@@ -1,0 +1,46 @@
+#+POSTID: 8108
+#+DATE: [2013-10-20 Sun 23:07]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: color-theme-retro-green on Emacs 24
+
+Wonder if anyone is using [[http://marmalade-repo.org/packages/color-theme][color-theme]] anymore; seems like wasted effort to just bail on all of the great themes in there. Today I wanted to get [[https://farm2.staticflickr.com/1219/5114592202_49642458a3_z.jpg][color-theme-retro-green]] at least working, and here is what it took against 6.5.5 of the Marmalade release:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(defun gcr/plist-to-alist (ls)
+  "Convert a plist to an alist. Primarily for old color-theme themes."
+  (let ((result nil))
+    (while ls
+      (add-to-list 'result (cons (car ls) (cadr ls)))
+      (setq ls (cddr ls)))
+    result))
+
+(defalias 'plist-to-alist 'gcr/plist-to-alist)
+
+#+END_EXAMPLE
+
+
+
+Make a change in color-theme.el's color-theme-retro-green to initialize face and faces with an empty list:
+
+
+#+BEGIN_EXAMPLE
+    
+ ;; Build a list of faces without parameters
+  (let ((old-faces (face-list))
+        (faces '())
+        (face '())
+        (foreground (or color "green")))
+
+#+END_EXAMPLE
+
+
+
+Didn't find a Github project to submit a patch so I emailed the owner.
+
+
+

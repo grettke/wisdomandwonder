@@ -1,0 +1,19 @@
+#+POSTID: 182
+#+DATE: [2008-05-19 Mon 18:46]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Java, Programming Language
+#+TITLE: Java One 08 Keynote
+
+Is Sun in touch with Java developers?
+
+The entire keynote was spent talking about how developers are soon going to be able to write applets that run on a desktop, in a web browser, and also on a phone. We have had this for years. Whose idea was this?
+
+The really interesting stuff in Java land right now is Java 7 features and concurrent programming with Java, but apparently none of that was worth mentioning.
+
+The worst part of it all is that during the demo, the applet repeatedly crashed, and crashed, and crashed. The first Java program that I ever saw was running was an applet running in a web browser, in 1995.
+
+13 years to get applets right? Come on Sun.
+
+
+

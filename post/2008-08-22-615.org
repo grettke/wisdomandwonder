@@ -1,0 +1,13 @@
+#+POSTID: 615
+#+DATE: [2008-08-22 Fri 02:37]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming
+#+TITLE: Face Swapping: Automatically Replacing Faces in Photographs
+
+[[http://www1.cs.columbia.edu/CAVE/projects/face_replace/][Here]] is a system that replaces faces in photographs. It actually has a few useful applications.
+
+(I forgot where I got this link)
+
+
+

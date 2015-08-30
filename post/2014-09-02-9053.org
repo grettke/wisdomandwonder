@@ -1,0 +1,18 @@
+#+POSTID: 9053
+#+DATE: [2014-09-02 Tue 00:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: xlsx: Read, write, format Excel 2007 and Excel 97/2000/XP/2003  for R
+
+#+BEGIN_QUOTE
+  [[http://cran.r-project.org/web/packages/xlsx/index.html][Provide R functions]] to read/write/format Excel 2007 and Excel 97/2000/XP/2003 file formats.
+
+#+END_QUOTE
+
+
+
+
+
+
+

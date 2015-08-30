@@ -1,0 +1,101 @@
+#+POSTID: 1567
+#+DATE: [2009-01-09 Fri 05:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: XO
+#+TITLE: Sugar went on a diet
+
+In one of the recent builds of [[http://wiki.laptop.org/go/Sugar][Sugar]] for the [[http://laptop.org/en/][OLPC XO]], I [[http://www.wisdomandwonder.com/article/275/the-xo-has-got-too-much-sugar][found]] that "out of the box" the machine barely has enough memory to run programs. Tonight I installed the most recent operating system version, [[http://wiki.laptop.org/go/Release_notes/8.2.0][8.2.0,]] and found the amount of free memory to be drastically increased:
+
+
+
+
+
+
+
+
+
+
+
+
+Total MB
+
+
+
+
+Used MB
+
+
+
+
+Free MB
+
+
+
+
+
+
+
+
+
+
+Sugar 8.2.0
+
+
+
+
+230
+
+
+
+
+162
+
+
+
+
+67
+
+
+
+
+
+
+
+Sugar Previous
+
+
+
+
+232
+
+
+
+
+220
+
+
+
+
+12
+
+
+
+
+
+
+
+
+
+With /55MB/ more free memory, I expect this machine to play a lot nicer with its users!
+
+I used
+
+#+BEGIN_EXAMPLE
+    free -m
+#+END_EXAMPLE
+
+to get these measurements.
+
+
+

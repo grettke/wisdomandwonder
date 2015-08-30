@@ -1,0 +1,19 @@
+#+POSTID: 8137
+#+DATE: [2014-01-08 Wed 02:22]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Haskell, Programming Language, Scheme
+#+TITLE: husk scheme
+
+#+BEGIN_QUOTE
+  [[http://justinethier.github.io/husk-scheme/][husk]] is a dialect of Scheme written in Haskell that implements a superset of the R5RS standard. 
+
+Husk may be used as either a stand-alone interpreter or as an extension language within a larger Haskell application, and is available under the MIT license.
+#+END_QUOTE
+
+
+
+
+
+
+

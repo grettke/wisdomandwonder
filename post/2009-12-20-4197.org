@@ -1,0 +1,24 @@
+#+POSTID: 4197
+#+DATE: [2009-12-20 Sun 05:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Scheme
+#+TITLE: More Scheme projects I would like to work on
+
+Here are some more fun and/or interesting Scheme projects that I would like to work on (eventually, and in addition to [[http://www.wisdomandwonder.com/article/2983/scheme-projects-i-would-like-to-work-on][these]]):
+
+
+
+-  [[http://www.plt-scheme.org/][DrScheme]]: Add line numbers to the editor window
+-  [[http://www.plt-scheme.org/][DrScheme]]: Execute code in editor in another Scheme system
+-  Port [[http://planet.plt-scheme.org/display.ss?package=schemeunit.plt&owner=schematics][SchemeUnit]] to [[http://www.r6rs.org/][R6RS]] Scheme
+-  [[http://docs.plt-scheme.org/scribble/][Scribble]] the [[http://srfi.schemers.org/][SRFI]] docs
+-  Write a debt-elimination application
+-  A Scheme API for generating [[http://www.graphviz.org/][Graphviz]] diagrams
+-  A Scheme API for managing complex [[http://subversion.tigris.org/][SVN]] projects
+-  Make Scheme screencasts
+-  Brush up on the PLT Scheme [[http://docs.plt-scheme.org/gui/index.html][GUI API]]
+-  Research currency and produce a SRFI for it
+
+
+

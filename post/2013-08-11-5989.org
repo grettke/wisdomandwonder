@@ -1,0 +1,31 @@
+#+POSTID: 5989
+#+DATE: [2013-08-11 Sun 16:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: philosophy
+#+TITLE: Condorcet method
+
+The R7RS working group is using this approach, which got me curious about it.
+
+
+
+#+BEGIN_QUOTE
+  A Condorcet method is any single-winner election method that meets the Condorcet criterion, that is, which always selects the Condorcet winner, the candidate who would beat each of the other candidates in a run-off election, if such a candidate exists.
+#+END_QUOTE
+
+
+
+In other words:
+
+
+
+#+BEGIN_QUOTE
+  It is possible for a candidate to be the most preferred overall without being the first preference of any voter. In a sense, the Condorcet method yields the "best compromise" candidate, the one that the largest majority will find to be least disagreeable, even if not their favorite.
+#+END_QUOTE
+
+
+
+(via [[http://en.wikipedia.org/wiki/Condorcet_method][wikipedia]])
+
+
+

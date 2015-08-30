@@ -1,0 +1,11 @@
+#+POSTID: 8602
+#+DATE: [2014-05-26 Mon 15:22]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: OSX, mavericks
+#+TITLE: How may one be sure that the OSX computer is actually asleep?
+
+OSX provides many pleasant energy saving features. It is so efficient that it is difficult to know whether or not the machine is turned off (or sleeping) or just the screen is turned off. Trying to determine a method to answer that question I found many approaches that relied too much upon poorly understood features and nothing as clear as "there is a little light turned on" simply because there is no light and no clear answer assumedly. Probably that is by design. Eventually I suppose that the logical end is to learn about how the system level flags that prevent sleep (compiled or not) interact with the energy saving mechanism.
+
+
+

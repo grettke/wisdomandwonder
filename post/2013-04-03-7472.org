@@ -1,0 +1,11 @@
+#+POSTID: 7472
+#+DATE: [2013-04-03 Wed 00:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Artificial Intelligence, Clojure, Java, Rules Engine
+#+TITLE: Mímir is an experimental rule engine written in Clojure
+
+It looks nice; details [[https://github.com/hraberg/mimir#readme][here]].
+
+
+

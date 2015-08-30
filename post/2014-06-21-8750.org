@@ -1,0 +1,35 @@
+#+POSTID: 8750
+#+DATE: [2014-06-21 Sat 15:09]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Only use in-line footnotes unless your document is very very small
+
+[[http://orgmode.org/manual/Footnotes.html][Footnotes]] in org-mode are really, really great. Before you really get into using them, take a bit of time to think about how you want to use them. 
+
+If you have 5 footnotes or less, then don't think anymore about it. If more then read on.
+
+This topic is not unique to org first of all, it just isn't something that you consider much until it is too late. Once you get into the org lifecycle, you start tossing and slinging document and code fragments with ease, especially while refactoring. This is all find and well, until you realize that your footnotes will be left sad and alone, abandoned for some cruel fate. In particular, it will break your document.
+
+The better way is to define them all in-line; that will allow simple and easy refactoring in a quite pleasant manner.
+
+Forgot a key point, as I only revisited this today: also generate random IDs. The kind folks in the org community on-list explained this to me. That prevents name collisions. Here is what you need:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(setq org-footnote-define-inline +1)
+(setq org-footnote-auto-label 'random)
+(setq org-footnote-auto-adjust nil)
+
+#+END_EXAMPLE
+
+
+
+*ADDENDUM: 2014-06-22T09:07:09-0500*
+
+As FUCO1 pointed out, there was something wrong with my approach as I was still using randomly generated IDs. That was my intent. What I wanted was in-line and still reference-able footnote definitions, but without adding them to the Footnote section/heading. After reading the code, I see now the right setting; it was the above plus no auto-adjusting the footnotes. I just updated the code to correct that.
+
+
+

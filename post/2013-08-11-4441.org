@@ -1,0 +1,26 @@
+#+POSTID: 4441
+#+DATE: [2013-08-11 Sun 19:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: ML, OCaml, Programming Language
+#+TITLE: GODI - The source code Objective Caml distribution
+
+Via its [[http://godi.camlcity.org/godi/index.html][homepage]]: 
+
+
+
+#+BEGIN_QUOTE
+  
+
+GODI provides an advanced programming environment for the Objective Caml (O'Caml) language.
+
+From INRIA (who created O'Caml) you can get the O'Caml compiler and runtime system, but this is usually not enough to develop applications. You also need libraries, and there are many developers all over the world providing them; you can go and pick them up. But it is a lot of work to build and install them. 
+
+GODI is a system that simplifies this task: It is a framework that automatically builds the O'Caml core system, and additionally installs a growing number of pre-packaged libraries. For a number of reasons GODI is a source-code based system, and there are no precompiled libraries, but it makes it very simple for everybody to compile them. 
+
+GODI is available for O'Caml-3.10 and 3.11. It runs on Linux, Solaris, FreeBSD, NetBSD, Windows (Cygwin and MinGW), HP-UX, MacOS X.
+
+#+END_QUOTE
+
+
+

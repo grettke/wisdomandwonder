@@ -1,0 +1,19 @@
+#+POSTID: 851
+#+DATE: [2008-10-06 Mon 02:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Snow aka Scheme Now
+
+#+BEGIN_QUOTE
+  [[http://snow.iro.umontreal.ca/?tab=Home][Scheme Now!]], also know as Snow, is a repository of Scheme packages that are portable to several popular implementations of Scheme.
+
+Snow is a general framework for developing and distributing portable Scheme packages. Snow comes with a set of core packages that provide portable APIs for practical programming features such as networking, cryptography, data compression, file system access, etc. Snow packages can export procedures, macros and records.
+#+END_QUOTE
+
+
+
+
+
+
+

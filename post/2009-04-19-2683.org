@@ -1,0 +1,17 @@
+#+POSTID: 2683
+#+DATE: [2009-04-19 Sun 02:39]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: The PLT email list archive URLs have changed
+
+The PLT Scheme email list archive URLs have changed. You can read all about it in this [[http://list.cs.brown.edu/pipermail/plt-dev/2009-April/000540.html][thread]].
+
+The result is that any links posted before this change was made are now broken.
+
+Basically it is no one's fault: not the PLT folks nor the sysadmins. The mailing list software reindexes messages in this breaking manner.
+
+Nonetheless, now there are around *200 broken links* on this site alone. I'm neither sure how to fix them automatically nor manually. Clearly the latter would be too time consuming.
+
+
+

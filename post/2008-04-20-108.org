@@ -1,0 +1,23 @@
+#+POSTID: 108
+#+DATE: [2008-04-20 Sun 23:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Fortress, Programming Language
+#+TITLE: Fortress 1.0 Released
+
+Guy Steele's latest programming language [[http://projectfortress.sun.com/Projects/Community][Fortress]] [[http://permalink.gmane.org/gmane.comp.lang.fortress.general/180][has been released]].
+
+
+
+#+BEGIN_QUOTE
+  The Fortress programming language is a general-purpose, statically typed, component-based programming language designed for producing robust high-performance software with high programmability.
+
+In many ways, Fortress is intended to be a “growable language”, i.e., a language that can be gracefully extended and applied in new and unanticipated contexts.
+#+END_QUOTE
+
+
+
+(via [[http://plnews.org/posts/fortress_10_released_20080401_061642.html][PLNews]])
+
+
+

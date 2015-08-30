@@ -1,0 +1,59 @@
+#+POSTID: 910
+#+DATE: [2008-10-17 Fri 02:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide
+#+TITLE: GNU Emacs on Cygwin
+
+While it is possible to run Emacs on Windows, I suspect that Emacs "expects" to be running on UNIX. As such, I've decided to perform an experiment and try to do most of my work in Cygwin, including running Emacs. The following is how I did it:
+
+Steps
+
+
+1.  Create a Windows environment variable named 'CYGWIN' with the value 'tty'
+2.  [[http://www.cygwin.com/][Install Cygwin]]
+3.  [[http://x.cygwin.com/docs/ug/setup-cygwin-x-installing.html][Install Cygwin/X]]
+4.  Download-and-install Emacs using the setup.exe (as explained in the documentation linked above), choose the packages 'emacs' and 'emacs-X11', and be sure to check the "Bin?" checkbox. If you don't check "Bin?" it will look like the installer is doing something, but in reality it does nothing (guess how I know that?).
+5.  Add this to your .bashrc (see steps below if you want to use Emacs): export DISPLAY=:0.0
+6.  Run: source .bashrc
+7.  Run: XWin -multiwindow &
+8.  Run: xeyes &
+9.  Xeyes should pop up. Now try emacs
+10. Run: emacs &
+11. The Emacs welcome screen should appear.
+
+
+
+Updating your .bashrc
+
+
+1. Open a terminal
+2. Type: emacs -nw .bashrc
+3. Emacs gives you a welcome message. Hit C-l to continue editing.
+4. Go to the bottom of the page
+5. Insert an empty line at the end and type in the text listed above
+6. Hit C-x C-s to save the file
+7. Hit C-x C-c to exit Emacs
+
+
+
+
+
+References
+
+
+-  [[http://www.emacswiki.org/cgi-bin/wiki?CygwinizedEmacsHOWTO][EmacsWiki]]
+-  [[http://verify.stanford.edu/satyaki/emacs/CygwinEmacs.html][Satyaki Das]]
+-  [[http://www.khngai.com/emacs/cygwin.php][Ngai Kim Hoong]]
+-  [[http://actionscribe.wordpress.com/2008/02/04/cygwin-cant-quit-emacs-using-c-x-c-c/][ActionScribe]]
+
+
+
+*Addendum: 16/10/08*
+
+I removed the unnecessarily complex step re-starting the shell when source'ing would have done just fine. 
+
+I wasn't happy with my explanation for doing this, so I revised it.
+
+
+

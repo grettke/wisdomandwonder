@@ -1,0 +1,13 @@
+#+POSTID: 3546
+#+DATE: [2009-07-20 Mon 05:14]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Lisp, Programming Language, Scheme
+#+TITLE: A presentation on Hygienic Macros in Scheme
+
+[[http://vimeo.com/5615765][Here]] is a recording of an informal [[http://tclispers.org/hygienic-macros][presentation]] I gave to the [[http://tclispers.org/][Twin Cities Lisp User group]] on Hygienic Macros. Schemers wouldn't learn anything new here; but perhaps if you are a Lisper you might find it informative (I didn't get booed off stage by the 25 or so Lispers in attendance, if that is any measure of its value, as surely my good looks and charm wasn't keeping them around).
+
+The coffee shop where it was held was excellent. There were probably 25 people happy and sitting comfortably in the presentation space. This is a very cool group composed of very cool people, it would do you well to attend and even present with these fine folks.
+
+
+

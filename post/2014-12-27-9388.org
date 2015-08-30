@@ -1,0 +1,11 @@
+#+POSTID: 9388
+#+DATE: [2014-12-27 Sat 21:28]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: Using Eshell for su and Remembering Your Password
+
+Eshell can be used for =su= and will quite happily remember your password according to [[https://emacs.stackexchange.com/questions/5608/how-to-let-eshell-remember-sudo-password-for-two-minutes][this]] answer.
+
+
+

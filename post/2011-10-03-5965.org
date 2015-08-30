@@ -1,0 +1,15 @@
+#+POSTID: 5965
+#+DATE: [2011-10-03 Mon 01:13]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: A Nice Update on WG1 of R7RS
+
+[[http://ccil.org/~cowan/scheme-2011-09.pdf][Here.]]
+
+Basically it is finished. Can't wait for WG2 to get started.
+
+(via [[http://lists.scheme-reports.org/pipermail/scheme-reports/2011-October/001547.html][scheme-reports]])
+
+
+

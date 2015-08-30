@@ -1,0 +1,39 @@
+#+POSTID: 1852
+#+DATE: [2009-02-20 Fri 03:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Computer Science, Learning
+#+TITLE: Good books on automata theory?
+
+I asked "What is a good book on automata theory?" because I don't recall much of it from college. Marco replied [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-February/030735.html][here]]: Elements of the Theory of Computation by Lewis and Papadimitriou.
+
+Do you know of any more?
+
+*Addendum: 19/02/09*
+
+Prabhakar added:
+
+
+
+#+BEGIN_QUOTE
+  The 1979 edition of "Introduction to Automata Theory, Languages, and Computation", by Hopcroft and Ullman. The algorithms are pretty imperative, though.
+#+END_QUOTE
+
+
+
+*Addendum: 20/02/09 at 2:25CST*
+
+Jos added:
+
+
+
+#+BEGIN_QUOTE
+  I very much appreciate: Formal Languages and their |Relation to Automata by John E. Hopcroft and Jeffrey D. Ullman. My first read through it was 40 years ago, but even nowadays I consult it now and then.
+#+END_QUOTE
+
+
+
+
+
+
+

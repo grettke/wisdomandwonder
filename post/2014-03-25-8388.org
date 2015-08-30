@@ -1,0 +1,19 @@
+#+POSTID: 8388
+#+DATE: [2014-03-25 Tue 17:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs Lisp, Programming Language, Scheme
+#+TITLE: cheezy scheme
+
+#+BEGIN_QUOTE
+  [[http://www.splode.com/~friedman/software/emacs-lisp/src/czscm.el][It's not merely cheezy, it's full-on spray-can cheez.]]
+#+END_QUOTE
+
+
+
+Who doesn't love spray cheez... or Scheme... or Emacs-Lisp?
+
+(via [[http://www.emacswiki.org/emacs/Scheme][emacswiki]])
+
+
+

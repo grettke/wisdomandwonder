@@ -1,0 +1,13 @@
+#+POSTID: 2610
+#+DATE: [2009-04-16 Thu 00:07]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming, philosophy
+#+TITLE: Ease at Work
+
+"[[http://video.google.com/videosearch?client=firefox-a&rls=org.mozilla:en-US:official&channel=s&hl=en&q=ease+at+work&um=1&ie=UTF-8&ei=vY2uSceFL-TCjAennpyiBg&sa=X&oi=video_result_group&resnum=4&ct=title#][Ease at Work]]" is a presentation given by Kent Beck about helping programmers to find ease at work. 
+
+My friend Roger vouched for this. I look forward to watching it.
+
+
+

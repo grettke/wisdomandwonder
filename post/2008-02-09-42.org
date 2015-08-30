@@ -1,0 +1,19 @@
+#+POSTID: 42
+#+DATE: [2008-02-09 Sat 02:10]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Programming Language, Scheme
+#+TITLE: Want to chat about Scheme?
+
+[[http://www.plt-scheme.org/maillist/][Email discussion lists]] and [[http://groups.google.com/group/comp.lang.scheme/topics?hl=en][comp.lang.scheme]] are an excellent to start.
+
+Another option is [[http://community.schemewiki.org/?%23scheme-on-freenode][#scheme]] on [[http://www.irchelp.org/][IRC]] at [[http://freenode.net/][Freenode]]; there is nothing like speaking to another human being about Scheme.
+
+When you talk with folks; you learn faster and have a lot more fun. When you are really digging into a concept, the kind soul who answers your question at just the right moment can make the difference between learning the concept now, or in a few days. Not to say that learning is a race; it is just so much fun that I think everyone loves to learn the next thing!
+
+An aside; I've found that my mastery of topics, and in particular the lack thereof, is revealed much more quickly to me when I open my mouth! I won't miss a chance to do so!
+
+
+
+
+

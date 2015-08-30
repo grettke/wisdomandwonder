@@ -1,0 +1,11 @@
+#+POSTID: 1486
+#+DATE: [2009-01-02 Fri 19:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme, philosophy
+#+TITLE: Really immutable pairs
+
+"[[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/7eccba9fb4eebb44?pli=1][Really immutable pairs]]" was a thread in comp.lang.scheme from last year. It is worth a read for anyone interested in language design issues, and where Scheme may or may not be headed (who knows?).
+
+
+

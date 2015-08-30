@@ -1,0 +1,17 @@
+#+POSTID: 8790
+#+DATE: [2014-06-27 Fri 19:06]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: orgpapers.org
+
+#+BEGIN_QUOTE
+  [[https://github.com/vikasrawal/orgpaper/blob/master/orgpapers.org][Using Emacs, Org-mode and R for Research Writing in Social Sciences: A Toolkit for Writing Reproducible Research Papers and Monographs]]
+#+END_QUOTE
+
+
+
+
+
+
+

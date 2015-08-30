@@ -1,0 +1,11 @@
+#+POSTID: 3515
+#+DATE: [2009-07-19 Sun 13:45]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: A Few Ways for Invoking Units in PLT Scheme
+
+[[http://www.arcadianvisions.com/blog/?p=135][Here]] is an article about a few ways for invoking Units in PLT Scheme.
+
+
+

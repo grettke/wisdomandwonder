@@ -1,0 +1,11 @@
+#+POSTID: 5633
+#+DATE: [2013-08-11 Sun 16:57]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Operating System, Utility, Windows
+#+TITLE: GetGnuWin32 
+
+The name says it all; this program makes it easy to [[http://getgnuwin32.sourceforge.net/][get all of the GnuWin32]] goodness (no more tedious individual downloads).
+
+
+

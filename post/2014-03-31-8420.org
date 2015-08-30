@@ -1,0 +1,11 @@
+#+POSTID: 8420
+#+DATE: [2014-03-31 Mon 19:25]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Org Manual
+
+The org-mode manual lives [[http://orgmode.org/org.html][here]].
+
+
+

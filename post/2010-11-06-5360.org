@@ -1,0 +1,13 @@
+#+POSTID: 5360
+#+DATE: [2010-11-06 Sat 22:25]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: ML, OCaml, Programming Language, Scheme
+#+TITLE: Stalin Scheme vs OCaml
+
+[[https://groups.google.com/group/comp.lang.scheme/browse_thread/thread/349c51b1d30d2b3e/34a7757985bd4b7b?hl=en][Here]] is an old post comparing Stalin Scheme to OCaml, among a few other languages. [[http://www.ffconsultancy.com/languages/ray_tracer/performance.html][Here]]is the article on Jon's page.
+
+Stalin seems pretty amazing.
+
+
+

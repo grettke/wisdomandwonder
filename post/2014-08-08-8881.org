@@ -1,0 +1,17 @@
+#+POSTID: 8881
+#+DATE: [2014-08-08 Fri 18:31]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Utility
+#+TITLE: A chronograph is a watch that does a lot
+
+#+BEGIN_QUOTE
+  A chronograph is a specific type of watch that is used as a stopwatch combined with a display watch. A basic chronograph has an independent sweep second hand; it can be started, stopped, and returned to zero by successive pressure on the stem.
+#+END_QUOTE
+
+
+
+Via [[https://en.wikipedia.org/wiki/Chronograph][wikipedia]]. Good to know.
+
+
+

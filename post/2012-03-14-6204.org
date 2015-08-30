@@ -1,0 +1,13 @@
+#+POSTID: 6204
+#+DATE: [2012-03-14 Wed 04:01]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: MATLAB, Octave, Programming Language
+#+TITLE: Publishing MATLAB Code
+
+This [[http://www.mathworks.com/help/techdoc/matlab_env/f6-14058.html][link]] explains how you can annotate MATLAB code with markup to help communicate your ideas and result to others. 
+
+For some tasks I already know that it will beat the LaTeX or copy and paste into Word lifecycle.
+
+
+

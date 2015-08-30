@@ -1,0 +1,17 @@
+#+POSTID: 8046
+#+DATE: [2013-09-29 Sun 12:39]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Lisp, PLT, Programming Language, Racket, Scheme
+#+TITLE: Interactive Image Generation with Racket
+
+Not sure whether I blogged about this or not already, but I sure could not find it so here goes.
+
+A while back my buddy Bruce needed some randomly generated images in a particular format for a project. The specs were more of a "I'll know it when I see it" kind of thing so I volunteered to help out and have some fun with Racket in the process. 
+
+The nifty part is that during development and also use you may preview the images directly inside of DrRacket. This feature made the work so, so fun (other editors do this, too). 
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/09/mipmap.zip][Here]] is a copy of the code. Try running manual.scm and the image will show up in the REPL. If you run automatic.scm it will dump the image in /tmp.
+
+
+

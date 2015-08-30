@@ -1,0 +1,13 @@
+#+POSTID: 2019
+#+DATE: [2009-03-04 Wed 03:38]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Computer Science
+#+TITLE: The Genius of Turing's Machine
+
+[[http://syntax.wikidot.com/blog:11][Here]] is one person's take on the genius of Turing's machine.
+
+I forget how I reached this page.
+
+
+

@@ -1,0 +1,48 @@
+#+POSTID: 2937
+#+DATE: [2009-05-08 Fri 02:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Macros, Programming Language, Scheme
+#+TITLE: What are syntax-case pattern variables?
+
+I asked [[http://groups.google.com/group/plt-scheme/browse_thread/thread/49e07aa0cd440861/763d3b747557f4ea?lnk=gst&q=What+are+syntax-case+pattern+variables%3F#763d3b747557f4ea][here]]:
+
+
+
+#+BEGIN_QUOTE
+  syntax-case takes a syntax object as an argument and destructures it via pattern matching into pattern variables. 
+
+What are pattern variables composed of? 
+
+syntax takes a template, and the pattern variables in it, to produce a syntax object that has the same lexical scoping as that of the pattern variable, so where does that lexical scope get stored?
+#+END_QUOTE
+
+
+
+and then Ryan explained:
+
+
+
+#+BEGIN_QUOTE
+  The short answer is that syntax objects store scoping information and 
+that pattern variables have nothing to do with it. 
+
+Here's a longer answer: 
+
+A pattern variable is essentially bound to an ellipsis-depth n and syntax object(s). If the pattern variable doesn't have ellipses after it, then n is 0 and the pattern variable refers to a single syntax object. If it has one ellipsis after it, then n is 1 and there is a list of syntax objects. And so forth. 
+
+The 'syntax' form is like 'quasiquote', except that there is no explicit 'unquote'; rather, pattern variables are automatically substituted, and the rest of the template becomes syntax object literals (via 'quote-syntax') that remember the bindings in scope where they occurred. 
+
+So pattern variables, while convenient, are not necessary for writing macros. You could do just the same with 'quote-syntax', 'syntax-e', 'datum->syntax', 'car', etc. 
+
+Lexical scoping is managed by the syntax objects. The macro arguments already have their lexical contexts embedded in them, and that is preserved as the macro takes them apart and puts them together with new syntax. This new syntax mostly comes from syntax literals. 
+
+The essence of the algorithm is explained in "[[http://www.cs.indiana.edu/~dyb/pubs/LaSC-5-4-pp295-326.pdf][Syntactic Abstraction in Scheme"]] by Dybvig et al.
+#+END_QUOTE
+
+
+
+
+
+
+

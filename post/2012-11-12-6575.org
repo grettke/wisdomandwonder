@@ -1,0 +1,13 @@
+#+POSTID: 6575
+#+DATE: [2012-11-12 Mon 20:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Engine, Fun, Learning, Service
+#+TITLE: First Small Engine Rebuild
+
+Last week my partner and I finished the process of disassembling a working 5HP engine, learning how to measure, how to service, and finally reassembling and successfully starting the engine. It was a lot of fun. Those gasoline lawn mower engines are very remarkable machines!
+
+[gallery]
+
+
+

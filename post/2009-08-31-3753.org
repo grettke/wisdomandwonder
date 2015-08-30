@@ -1,0 +1,28 @@
+#+POSTID: 3753
+#+DATE: [2009-08-31 Mon 16:59]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Common Lisp, Programming Language, Scheme
+#+TITLE: A Dan Weinreb talk about enterprise software, Lisp, and Scheme
+
+[[http://www.youtube.com/watch?v=xquJvmHF3S8][Here]] is a good talk by Dan Weinreb about enterprise software, Lisp, and Scheme. Here are some parts that I found interesting:
+
+
+
+-  "There must be some really hard problem that we can profitably solve": Generally good advice from a group of PhD students looking to apply their expertise who would go on to start up Dan's employer.
+-  "Sometimes syntax does matter": Indeed!
+-  They use Clozure CL for their new app; and SBCL for their old one.
+-  "[We] provison for static type checking: we have macros to do checking, and also for defining functions that are typed. We use them at major module interfaces." Dan's reply when asked if they use static type checking anywhere in the system. This is how PLT's contract system works.
+-  The ILC '09 videos will get posted; seriously.
+-  PLT Scheme kudos were given.
+-  The future of Lisp is unifying the efforts of Common Lisp and Scheme.
+-  That unification might very well come on the JVM (good libs, large investment in runtime).
+
+
+
+Still wondering why only five people showed up for this talk (excluding Norvig).
+
+(via [[http://sift.info/pipermail/tc-lispers_sift.info/2009-August/000289.html][tc-lispers]])
+
+
+

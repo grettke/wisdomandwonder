@@ -1,0 +1,29 @@
+#+POSTID: 775
+#+DATE: [2008-09-16 Tue 03:50]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Packed Binary Routines for PLT Scheme 
+
+Per [[http://drschemer.blogspot.com/2008/09/packed-binary-routines-for-plt-scheme.html][Doug's post]]:
+
+
+#+BEGIN_QUOTE
+  
+I have implemented an equivalent of the Python pack/unpack functions in PLT Scheme. I needed it primarily to be able to (more easily) read binary data from other applications for analysis in PLT Scheme.
+
+#+END_QUOTE
+
+
+
+Here is what it does:
+
+
+#+BEGIN_QUOTE
+  
+This module performs conversions between PLT Scheme values and C structs represented as PLT Scheme byte strings. It uses format strings (explained below) as compact descriptions of the layout of the C structs and the intended conversion to/from PLT Scheme values. This can be used in handling binary data stored in files or from network connections, among other sources.
+
+#+END_QUOTE
+
+
+

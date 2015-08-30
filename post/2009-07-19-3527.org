@@ -1,0 +1,17 @@
+#+POSTID: 3527
+#+DATE: [2009-07-19 Sun 22:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: C++, Programming Language
+#+TITLE: Two books on C
+
+I can't recall who made these recommenations, but I had bookmarked these two:
+
+[[http://www.amazon.com/Reference-Manual-Samuel-P-Harbison/dp/013089592X][C: A Reference Manual]]
+
+[[http://www.cs.princeton.edu/software/cii/][C Interfaces and Implementations]]
+
+Both look good.
+
+
+

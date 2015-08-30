@@ -1,0 +1,11 @@
+#+POSTID: 8511
+#+DATE: [2014-05-01 Thu 18:59]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Parallel code execution in Emacs with org-mode literate-programming
+
+The question of how to do so comes up quite often and is answered quite well [[http://draketo.de/english/emacs/parallel-babel][here]] how to accomplish it.
+
+
+

@@ -1,0 +1,49 @@
+#+POSTID: 6629
+#+DATE: [2012-11-23 Fri 17:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Ide, Lisp, PLT, Programming Language, Racket, Scheme
+#+TITLE: This is How Easy it is to Make Changes to DrRacket
+
+[[http://docs.racket-lang.org/drracket/][DrRacket]] is open-source (LGPL) editor for [[http://racket-lang.org/][Racket]]. Sometimes you want to make changes to it. For example today I wanted to enable online compilation on single-core machines. Here is how easy it is to do it:
+
+
+
+1. Assuming that DrRacket is already installed. This is a normal installation using the installer; you do not typically have to check out the Git repo to make changes.
+2. Asked Robby how to make the change. Robby is super everybody knows that, he explained the fix. The check for enabling the feature is in module-language.rkt. Here are the steps
+3. #+BEGIN_EXAMPLE
+       
+cd /opt/racket/5.3.1/collects/drracket/private/
+sudo cp module-language.rkt module-language.rkt-ORG
+# Made the change
+# View it
+diff module-language.rkt module-language.rkt-ORG 
+1329,1330c1329
+<                    ;;(> (processor-count) 1))
+<                    (> (processor-count) 0))
+---
+>                    (> (processor-count) 1))
+1348,1349c1347
+<                    ;;(> (processor-count) 1))
+<                    (> (processor-count) 0))
+---
+>                    (> (processor-count) 1))
+# Tell Racket to recompile that collection (aka library)
+sudo raco setup -l drracket
+# Restart DrRacket
+
+   #+END_EXAMPLE
+
+4. Now the online compilation indicator shows up and errors are automatically flagged.
+5. It works fine on a 1.6GHz Pentium with 2GB of RAM.
+
+
+
+Hope this gave you a taste of how easily and quickly you can try new stuff out in DrRacket itself. 
+
+Here is how it looks with it turned on:
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/add1.rkt-DrRacket-_004.png][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/add1.rkt-DrRacket-_004-300x217.png]]]]
+
+
+

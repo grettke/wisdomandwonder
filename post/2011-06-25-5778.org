@@ -1,0 +1,13 @@
+#+POSTID: 5778
+#+DATE: [2011-06-25 Sat 20:38]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Maintenance, Motorcycle
+#+TITLE: Great motorcycle battery charger
+
+A few weeks ago after adding some distilled water to the battery; it ran out of juice. The guys recommended a Schumacher SEM-1562A 1.5 Amp Speed Charge Maintainer.
+
+The SEM-1652A worked brilliantly; it is a wonderful little piece of technology.
+
+
+

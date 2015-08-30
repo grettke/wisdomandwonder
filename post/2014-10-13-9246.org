@@ -1,0 +1,11 @@
+#+POSTID: 9246
+#+DATE: [2014-10-13 Mon 23:36]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, R-Project, Reproducible research, elisp, org-mode
+#+TITLE: A must-see of advanced babel usage in org with R
+
+[[https://lists.gnu.org/archive/html/emacs-orgmode/2014-10/msg00264.html][This]] post is a must-see of advanced babel usage in org with R
+
+
+

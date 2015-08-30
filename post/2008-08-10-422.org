@@ -1,0 +1,21 @@
+#+POSTID: 422
+#+DATE: [2008-08-10 Sun 23:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming
+#+TITLE: 2008 IEEE Jon Von Neumann Award Winner: Leslie Lamport
+
+Via [[http://www.ieee.org/portal/pages/about/awards/bios/2008Recips/2008vonneumann-Lamport.html][IEEE Bios]]:
+
+
+
+#+BEGIN_QUOTE
+  Leslie Lamport's pioneering work in distributed and concurrent algorithms has improved numerous consumer and industrial computing systems. The result of his work can be found in multi-processor technology such as very-large-scale-integration (VLSI) semiconductors and multi-computer networks used in aircraft control systems. Since 2001 he has been at the Microsoft Research Silicon Valley Center, where he is a principal researcher. Prior to that, Dr. Lamport spent 16 years as a researcher at Digital Equipment Corporation (later Compaq Corporation). There he developed the Temporal Logic of Actions (TLA) system, a toolset for mechanical verification that is used to describe the behaviors of concurrent systems. Dr. Lamport developed several well-known concurrent and distributed algorithms, including solutions for Byzantine Fault Tolerance. The algorithm is a method of prevention against Byzantine Failure, in which a component of a system behaves erroneously while failing to behave consistently when interacting with multiple other components in the system. During his career, he has authored or co-authored nearly 150 publications on concurrent and distributed computing and their applications. One of his most notable papers, “Time, Clocks, and the Ordering of Events in a Distributed System,” still ranks as one of the most important and influential papers in computer science. He is a past recipient of the IEEE Emanuel R. Piore Award, the Edsger W. Dijkstra Prize in Distributed Computing and the influential paper award at the Principles of Distributed Computing Conference. Dr. Lamport holds a bachelor's degree from the Massachusetts Institute of Technology, Cambridge, as well as a masters and doctorate from Brandeis University, Waltham, Massachusetts.
+#+END_QUOTE
+
+
+
+(via [[http://www.qmags.com/download/default.aspx?pub=IEEEAWARDS&upid=13564&fl=others/IEEEAWARDS/SPEC_20080701A_Jul_2008.pdf][this pdf]])
+
+
+

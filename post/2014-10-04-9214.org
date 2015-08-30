@@ -1,0 +1,16 @@
+#+POSTID: 9214
+#+DATE: [2014-10-04 Sat 15:22]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: philosophy
+#+TITLE: Be compassionate
+
+#+BEGIN_QUOTE
+  Be [compassionate], for every man is fighting a hard battle
+#+END_QUOTE
+
+
+-- John Watson, [[http://quoteinvestigator.com/2010/06/29/be-kind/][in 1903]]
+
+
+

@@ -1,0 +1,21 @@
+#+POSTID: 3841
+#+DATE: [2009-09-05 Sat 04:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: philosophy
+#+TITLE: When To Deliver News
+
+#+BEGIN_QUOTE
+  Want something to blow up? Tell the world about it on a Tuesday morning. Avoids the Monday avalanche people face and gives you the rest of the week to get play.
+
+Want something to fade away? Tell the world about it on a Friday afternoon. It'll fade into the weekend.
+#+END_QUOTE
+
+
+
+Obvious, but had /you/ thought about it?
+
+(via [[http://37signals.com/svn/posts/1876-want-something-to-blow-up-tell-the-world][37signals]])
+
+
+

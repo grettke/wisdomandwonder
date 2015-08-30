@@ -1,0 +1,15 @@
+#+POSTID: 4151
+#+DATE: [2009-11-18 Wed 21:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Career, philosophy
+#+TITLE: The Grass is Always Greener
+
+Here is a little tongue in cheek developer career philosophy/humor:
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2009/11/academia_vs_business.png][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2009/11/academia_vs_business-300x154.png]]]]
+
+(via xkcd via [[http://pyre.third-bit.com/blog/archives/3191.html][Greg Wilson]])
+
+
+

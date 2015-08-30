@@ -1,0 +1,23 @@
+#+POSTID: 4175
+#+DATE: [2009-12-07 Mon 19:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Paralell Programming with PLT Scheme
+
+Via [[http://list.cs.brown.edu/pipermail/plt-dev/2009-December/001761.html][plt-dev]]:
+
+
+
+#+BEGIN_QUOTE
+  I'm pleased to announce the initial release of parallel futures, a construct for fine-grained parallelism in PLT. Roughly speaking, a programmer passes a thunk to 'future' and it gets run in parallel. That "roughly" holds a few gotchas, partly because we're just getting started and partly due to the technique we're using. See the documentation for more details:
+
+[[http://pre.plt-scheme.org/docs/html/futures/]]
+#+END_QUOTE
+
+
+
+
+
+
+

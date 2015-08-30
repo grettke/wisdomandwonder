@@ -1,0 +1,22 @@
+#+POSTID: 3295
+#+DATE: [2009-06-08 Mon 22:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Guile, Programming Language, Scheme
+#+TITLE: Guile Took Psyntax to Heart
+
+Psyntax is now integrated into the heart of [[http://www.gnu.org/software/guile/guile.html][Guile]]:
+
+
+
+#+BEGIN_QUOTE
+  For users, the practical implication of this is that syntax-rules and syntax-case are available, all the time. This is a lovely, lovely thing.
+#+END_QUOTE
+
+
+-- Wingo
+
+(via [[http://wingolog.org/archives/2009/06/08/hospitalized-for-approaching-perfection][wingolog]])
+
+
+

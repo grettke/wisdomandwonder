@@ -1,0 +1,15 @@
+#+POSTID: 9476
+#+DATE: [2015-02-01 Sun 21:01]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: DevOps, Programming, Reproducible research
+#+TITLE: Lightweight DevOps
+
+Introducing DevOps to your organization can be done really, really simply.
+
+First have the project team lead set up the development environment on his machine, all the while documenting how to do so. Second have a another team member follow and execute the steps. The lead and team member should discuss and review the process and make improvement. Third, have an engineer totally unfamiliar with the project follow the steps to the point where he can successfully run the automated tests in less than sixty minutes. 
+
+When this may be done successfully, it is time for a DevOps engineer to automate that process.
+
+
+

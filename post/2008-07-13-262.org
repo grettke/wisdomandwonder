@@ -1,0 +1,27 @@
+#+POSTID: 262
+#+DATE: [2008-07-13 Sun 03:06]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Mosh Scheme
+
+[[http://code.google.com/p/mosh-scheme/][Mosh Scheme]] is
+
+
+
+#+BEGIN_QUOTE
+  A Fast R6RS Scheme interpreter.
+#+END_QUOTE
+
+
+
+I saw Mosh referenced on the [[http://srfi.schemers.org/srfi-98/mail-archive/maillist.html][SRFI-98 email discussion archive]].
+
+There already a [[http://mosh.monaos.org/wiki/LambdaWiki][wiki]] written using Mosh.
+
+*Addendum 7/18/8:*
+
+Mosh has been updated to [[http://code.google.com/p/mosh-scheme/source/browse/tags/mosh-0.0.5/RELNOTE][version 0.0.5]].
+
+
+

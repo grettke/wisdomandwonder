@@ -1,0 +1,21 @@
+#+POSTID: 685
+#+DATE: [2008-09-06 Sat 02:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Study-HTDP
+#+TITLE: Thoughts on HTDP
+
+Originally I figured that a lot of my thoughts would show up here, but they haven't. Instead they get posted directly to the [[http://groups.google.com/group/study-htdp][group]]. That said, here are some thoughts from the week:
+
+
+
+-  The beginning student language is interesting: no variable binding and function definitions are only one expression long
+-  It is great to be able to talk to other folks about it; interested folks especially
+-  A disciplined approach to function definitions is fine with me!
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 4735
+#+DATE: [2010-05-08 Sat 12:14]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Programming
+#+TITLE: Emacs 23.2 is out
+
+(via [[http://permalink.gmane.org/gmane.emacs.announce/17][gmame]] via [[http://alexott.blogspot.com/2010/05/gnu-emacs-232-released.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+alexott+%28Alex+Ott%27s+blog%29][Alex]])
+
+
+

@@ -1,0 +1,17 @@
+#+POSTID: 61
+#+DATE: [2008-02-22 Fri 00:25]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: PLT, Programming Language, Scheme, Utility
+#+TITLE: DrScheme: Insert Lambda Template Keybinding
+
+[[http://www.drscheme.org/][DrScheme]] provides a very versatile [[http://schemekeys.blogspot.com/2007/05/keybinding-101-in-drscheme.html][keybinding system]]. Out of the box you get bindings that make it very easy to navigate and even refactor your code. One keybinding, insert-lambda-template, works by surrounding the selected code with a lambda function. By default, insert-lambda-template uses the lowercase lambda symbol λ rather than the word lambda. As DrScheme encodes its files in utf-8 it has got no problems with this (in fact DrScheme has shortcuts for inserting most other Greek characters), but if you use other tools to edit or process your source code you may find that they (quite disappointingly) choke on it. For that reason, I wanted to modify the keybinding so that it would use the world lambda rather than the symbol. There are two ways to go about doing this. 
+
+The first involves modifying the source code of DrScheme itself. This sounds harder than it is as it doesn't even involve downloading the source code. When you install DrScheme, it includes a number of source files used to customize itself. If you wanted, you could look up this keybinding, change it, and re-run the setup program. I don't like this approach, though, since it forces the user to re-build part of the program. That leaves us with the second alternative, a custom keybinding.
+
+A custom keybinding is easy to implement and add. To write it, I copied the definition of insert-lambda-template and changed the lambda symbol to the word lambda. Next, I went through DrScheme's Edit->Keybindings menu to select Add User-defined Keybinding. That is all it takes. 
+
+My keybinding file can be downloaded [[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/02/mykeys.ss][here]].
+
+
+

@@ -1,0 +1,17 @@
+#+POSTID: 1229
+#+DATE: [2008-11-18 Tue 02:46]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Scheme Constraints Window Manager
+
+#+BEGIN_QUOTE
+  [[http://scwm.sourceforge.net/][Scwm]] is the Scheme Constraints/Configurable Window Manager. It is a window manager with a powerful dynamic configuration language based on Guile Scheme. Scwm has many, many advanced features, often implemented in the configuration language itself.
+#+END_QUOTE
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 7440
+#+DATE: [2013-03-30 Sat 02:11]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Linux, X11
+#+TITLE: Linux Window Manager Memory Costs
+
+[[https://l3net.wordpress.com/2013/03/17/a-memory-comparison-of-light-linux-desktops/][Here]] is a great post that mirrors my search for a window manager for one of my virtuals. I couldn't get JWM working for some reason and ended up with FVWM. Maybe I should have gone with BlackBox instead.
+
+
+

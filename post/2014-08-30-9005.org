@@ -1,0 +1,62 @@
+#+POSTID: 9005
+#+DATE: [2014-08-30 Sat 23:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: R-Project
+#+TITLE: Ultra-lightweight-reproducibility for R: which version of R that you used
+
+
+Here is another post from the realm of ultra-lightweight-reproducibility for R:
+
+
+
+
+
+
+
+If are going to get serious about locking down your system then only let it run
+on the version of =R= that /you personally used/ to obtain your results!
+
+
+
+
+
+
+
+It takes very, very little effort:
+
+
+
+
+
+
+#+BEGIN_HTML
+  <div class="org-src-container">
+#+END_HTML
+
+
+
+
+#+BEGIN_EXAMPLE
+    stopifnot(R.version$major==3 && R.version$minor==1.1)
+
+#+END_EXAMPLE
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+
+
+99% of the time, using a newer version won't matter, but make it crystal clear
+both to yourself and your collaborators how you obtained your results, at least
+when it comes to which version of =R= that you used.
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 88
+#+DATE: [2008-03-31 Mon 16:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: .NET, F#, Programming Language
+#+TITLE: IntelliFactory 
+
+[[http://www.intellifactory.com/][IntelliFactory]] is a company that facilitates the adoption of functional programming, in particular, F#.
+
+(via [[http://groups.google.com/group/cufp][cufp]])
+
+
+

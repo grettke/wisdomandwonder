@@ -1,0 +1,56 @@
+#+POSTID: 863
+#+DATE: [2008-10-09 Thu 15:59]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Functional, Programming Language, Scheme
+#+TITLE:  Closest statically typed FP "cousin" to Scheme? 
+
+Most of the folks with whom I've talked about Functional Programming seem to be very skilled in both dynamically and statically typed languages. I've learned only Scheme well. Wondering what should come next, I posted to [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/1fa8fb06885cfd8f/][comp.lang.scheme]] asking about what is a good statically typed Functional Programming language to learn after Scheme. Anton's reply piqued my interest. Here are the relevant bits:
+
+
+
+#+BEGIN_QUOTE
+  If you want to learn a more traditional typed functional language, and keep additional learning to a minimum, then SML might make sense both because it's relatively close to Scheme in its semantics, and because it's "small" for a typed functional language. It'll teach you the essentials of typed functional programming. 
+
+#+END_QUOTE
+
+
+
+"It'll teach you the essentials of typed functional programming", perfect!
+
+
+
+#+BEGIN_QUOTE
+  
+On the other hand, if you're looking to stretch your brain, Haskell is worth learning. Some might argue that you haven't really done functional programming unless you've done pure functional programming. The combination of purity, lazy evaluation, and a highly advanced type system (particularly in the main Haskell implementation, GHC), makes for a programming style significantly different from that of the (relatively) impure, strict languages like SML, OCaml, and Scheme.
+#+END_QUOTE
+
+
+
+"On the other hand, if you're looking to stretch your brain", mmmmm... brain-stretching :).
+
+*Addendum: 10/12/08*
+
+I got a /lot of great feedback/ on this post from a very diverse bunch of people. It looks like the best place for me to start is with SML and the move on to either OCaml, Haskell, or F#. [[http://www.cl.cam.ac.uk/~lp15/MLbook/][ML for the Working Programmer]] was consistently recommended as the best book on SML.
+
+While I haven't got an urgent schedule for this course of study, I am happy to have a reasonable path to follow when I do pursue it!
+
+*Addendum: 12/07/08*
+
+Via [[http://dobbscodetalk.com/index.php?option=com_myblog&show=Learn-as-Many-Languages-as-You-Can-or-just-learn-Scala-.html&Itemid=29][this post]]:
+
+
+#+BEGIN_QUOTE
+  
+* ML - ML is one of the favourite languages used by computer scientists. I suggest learning algebraic data types (sum types and product types) then to move on quickly to Haskell.
+
+* Haskell - I find Haskell makes the most sense only after knowing Scheme and ML. Go crazy with pattern matching, but avoid using monads unless absolutely neccessary because they are cheating! You will be sorely tempted to resort to using them all over the place. 
+
+#+END_QUOTE
+
+
+
+Additional advice to start with ML and then move to Haskell.
+
+
+

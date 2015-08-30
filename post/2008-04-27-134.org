@@ -1,0 +1,177 @@
+#+POSTID: 134
+#+DATE: [2008-04-27 Sun 23:03]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Lisp, Macros, Programming Language, Scheme
+#+TITLE: Anaphoric Macros
+
+Does the convenience that [[http://www.bookshelf.jp/texi/onlisp/onlisp_15.html][anaphoric macros]] provide justify breaking [[http://en.wikipedia.org/wiki/Hygienic_macro][hygiene]]? In that chapter of [[http://www.bookshelf.jp/texi/onlisp/onlisp.html#SEC_Top][On Lisp]], the author stated that: 
+
+
+
+#+BEGIN_QUOTE
+  This chapter will show that variable capture can also be used constructively. There are some useful macros which couldn't be written without it.
+#+END_QUOTE
+
+
+
+My evaluation of that claim is that while the former is true, anaphoric macros are not evidence of such a case as they only save you a variable binding. The latter claim is interesting because it begs the question of whether or not they should be written as macros at all. It made me wonder how anaphoric macros might look in Scheme, how they might look as functions, and whether one is clearly superior to the other.
+
+
+I wrote two versions of aif, the first is a macro (m-aif) and the second is a function (f-aif). Both provide the same functionality albeit with a different mechanism for implementation and syntax for application:
+
+m-aif
+
+
+
+#+BEGIN_EXAMPLE
+    
+(define-syntax m-aif
+  (λ (stx)
+    (syntax-case stx ()
+      ((_ test-form then-form)
+       (syntax (_ test-form then-form void)))
+      ((_ test-form then-form else-form)
+       (with-syntax ((it (syntax-local-introduce (syntax it))))
+         (syntax
+          (let ((it test-form))
+            (if it
+                then-form
+                else-form))))))))
+
+#+END_EXAMPLE
+
+
+
+f-aif
+
+
+
+#+BEGIN_EXAMPLE
+    
+(define f-aif
+  (λ (test-form then-form . else-form)
+    (let ((it (test-form)))
+      (if it
+          (then-form it)
+          (unless (null? else-form)
+            ((car else-form)))))))
+
+#+END_EXAMPLE
+
+
+
+The difference between utilizing the two versions becomes a matter of syntactic preference:
+
+m-aif
+
+
+#+BEGIN_EXAMPLE
+    
+(m-aif (identity 10)
+       (display (* it 23)))
+
+#+END_EXAMPLE
+
+
+
+f-aif
+
+
+#+BEGIN_EXAMPLE
+    
+(f-aif (λ () (identity 10))
+       (λ (it) (display (* it 23))))
+
+#+END_EXAMPLE
+
+
+
+Which do /you/ like better?
+
+It should be an easy decision; with f-aif you get the desired functionality without breaking hygiene, albeit at the "cost" forcing the user to utilize lambda expressions. 
+
+In practice, requiring the use of lambda expressions is not an egregious demand of the user; instead, it is a pleasure. lambda is a special thing. The functionality that it provides is often more than enough to implement functionality that may initially appear to require macros (hygienic or not). 
+
+Macros are often times clearly the /only/, and the best, solution. This time isn't one of them.
+
+*ADDENDUM: 03/04/11*:
+
+[[http://3e8.org/zb/][Jim]] asked:
+
+
+
+#+BEGIN_QUOTE
+  If you are concerned about variable capture then why don't you write an anaphoric if macro that takes the variable name to introduce as an argument?
+#+END_QUOTE
+
+
+
+Answer: When I wrote this I still didn't grok hygiene.
+
+Here is what I mean (and think Jim means):
+
+
+
+#+BEGIN_EXAMPLE
+    
+#!r6rs
+
+(import (rnrs))
+
+(define-syntax aif*
+  (syntax-rules ()
+    ((_ it test con . alt)
+     (let ((it test))
+       (if it con . alt)))))
+
+(define-syntax stomp?
+  (syntax-rules ()
+    ((_ body)
+     (let ((foo 0))
+       (begin
+         body
+         (display "Stomp's foo: ")
+         (display foo)(newline))))))
+
+(aif* foo (+ 10) 
+      (stomp? 
+       (begin (display "My foo: ")
+              (display foo)(newline))))
+
+#+END_EXAMPLE
+
+
+
+What do you think would get printed out here? At first glance you might think that stomp? will clobber foo and the user will not get the value they had expected, something like this: 
+
+
+
+#+BEGIN_EXAMPLE
+    
+My foo: 0
+Stomp's foo: 0
+
+#+END_EXAMPLE
+
+
+
+Here is the output though:
+
+
+
+#+BEGIN_EXAMPLE
+    
+My foo: 10
+Stomp's foo: 0
+
+#+END_EXAMPLE
+
+
+
+Surprised? syntax-rules retains the correct lexical binding so the user's code and the macro's code both referred to the correct binding of foo (foo\_user==10 vs. foo\_{stomp macro}==0). This is the benefit of "hygeine". Looking back, I'm not sure why hygiene didn't jump out as an extremely simple concept: macro bodies retain their lexical bindings.
+
+Great question. Thanks for posting even after 3 years!
+
+
+

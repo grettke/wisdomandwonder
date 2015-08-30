@@ -1,0 +1,24 @@
+#+POSTID: 8575
+#+DATE: [2014-05-15 Thu 23:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: OSX, Utility
+#+TITLE: How to keep OSX awake
+
+If you have long-running tasks you surely want to keep your Mac awake to at allow them to complete, or more. A lot of GUI applications claimed to fit the bill but the first one I tried let the Mac go to sleep! The solution is [[https://developer.apple.com/library/mac/documentation/Darwin/Reference/Manpages/man8/caffeinate.8.html][caffeinate]]; run it from the terminal.
+
+*ADDENDUM*
+
+Here is the flag for preventing the machine from sleeping, perhaps the most important one:
+
+
+
+#+BEGIN_EXAMPLE
+    
+-s      Create an assertion to prevent the system from sleeping. This asser-
+             tion is valid only when system is running on AC power.
+
+#+END_EXAMPLE
+
+
+

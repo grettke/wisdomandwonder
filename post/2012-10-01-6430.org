@@ -1,0 +1,44 @@
+#+POSTID: 6430
+#+DATE: [2012-10-01 Mon 23:41]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Clojure, Lisp, Programming, Programming Language
+#+TITLE: Which power function is right for Clojure?
+
+#+BEGIN_EXAMPLE
+    (ns power.examples)
+
+(defn non-acc-pow [base exp]
+  (if (zero? exp)
+    1
+    (* base (non-acc-pow base (dec exp)))))
+
+(defn acc-pow [base exp]
+  (letfn [(loop [base exp acc]
+            (if (zero? exp)
+              acc
+              (recur base (dec exp) (* base acc))))]
+    (loop base exp 1)))
+
+(defn lazy-pow [base exp]
+  (letfn [(loop [cur]
+            (cons cur (lazy-seq (loop (* cur base)))))]
+    (nth (take exp (loop base)) (dec exp))))
+
+(defn iter-pow [base exp]
+  (nth (take exp (iterate (partial * base) base)) (dec exp)))
+
+(defn apply-pow [base exp]
+  (apply * (repeat exp base)))
+
+(= 16
+   (non-acc-pow 2 4)
+   (acc-pow 2 4)
+   (lazy-pow 2 4)
+   (iter-pow 2 4)
+   (apply-pow 2 4))
+
+#+END_EXAMPLE
+
+
+

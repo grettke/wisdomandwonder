@@ -1,0 +1,147 @@
+#+POSTID: 1524
+#+DATE: [2009-01-04 Sun 04:10]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: DSL, Lisp, Programming
+#+TITLE: What is all the fuss about how you can write DSLs in Lisp?
+
+In this [[http://list.cs.brown.edu/pipermail/plt-scheme/2007-June/018711.html][post]] on the PLT discussion list I asked:
+
+
+
+#+BEGIN_QUOTE
+  What is all the fuss about how you can write DSLs in Lisp?
+
+Everyone from thought-leaders to blog-posters to grandma's are talking
+about how Lisp is so great for DSLs.
+
+About what are these people talking about? Because no one of said
+people actually elaborate on any of this, of course, which leads me to
+question their claims.
+#+END_QUOTE
+
+
+
+jrm provided the following excellent reply (mirrored [[http://funcall.blogspot.com/2007/06/domain-specific-languages-in-lisp.html][here]]):
+
+
+
+#+BEGIN_EXAMPLE
+    
+On 6/7/07, Grant Rettke  wrote:
+
+That said, when I think of a DSL think about letting folks write
+"programs" like:
+
+"trade 100 shares(x) when (time < 20:00) and timingisright()"
+
+When I think about syntax transformation in Lisp I think primarily
+about language features.
+
+In order to talk about domain-specific languages you need a definition of what a
+language is.  Semi-formally, a computer language is a system of syntax and
+semantics that let you describe a computational process.  It is characterised
+by these features:
+ 1.  Primitive constructs, provided ab-initio in the language.
+ 2.  Means of combination to create complex elements from the primitives.
+ 3.  Means of abstraction to control the resulting complexity.
+
+So a domain-specific language would have primitives that are specific
+to the domain
+in question, means of combination that may model the natural combinations in
+the domain, and means of abstraction that model the natural abstractions in the
+domain.
+
+To bring this back down to earth, let's consider your `trading language':
+
+ "trade 100 shares(x) when (time < 20:00) and timingisright()"
+
+One of the first things I notice about this is that it has some
+special syntax.  There
+are three approaches to designing programming language syntax.  The first is to
+develop a good understanding of programming language grammars and parsers and
+then carefully construct a grammar that can be parsed by an LALR(1), or LL(k)
+parser.  The second approach is to `wing it' and make up some ad-hoc syntax
+involving curly braces, semicolons, and other random punctuation.  The third
+approach is to `punt' and use the parser at hand.
+
+I'm guessing that you took approach number two.  That's fine because you aren't
+actually proposing a language, but rather you are creating a topic of
+discussion.
+
+I am continually amazed at the fact that many so-called language designers opt
+for option 2.  This leads to strange and bizarre syntax that can be very hard to
+parse and has ambiguities, `holes' (constructs that *ought* to be expressable
+but the logical syntax does something different), and `nonsense'
+(constructs that
+*are* parseable, but have no logical meaning).  Languages such as C++ and
+Python have these sorts of problems.
+
+Few people choose option 1 for a domain-specific language.  It hardly
+seems worth
+the effort for a `tiny' language.
+
+Unfortunately, few people choose option 3.  Part of the reason is that
+the parser
+for the implementation language is not usually separable from the compiler.
+
+For Lisp and Scheme hackers, though, option 3 is a no-brainer.  You call `read'
+and you get back something very close to the AST for your domain specific
+language.  The `drawback' is that your DSL will have a fully
+parenthesized prefix
+syntax.  Of course Lisp and Scheme hackers don't consider this a drawback at
+all.
+
+So let's change your DSL slightly to make life easier for us:
+
+ (when (and (< time 20:00)
+                 (timing-is-right))
+    (trade (make-shares 100 x)))
+
+When implementing a DSL, you have several strategies:  you could write
+and interpreter for it, you could compile it to machine code, or you
+could compile it
+to a different high-level language.  Compiling to machine code is unattractive
+because it is hard to debug, you have to be concerned with linking,
+binary formats,
+stack layouts, etc. etc.
+
+Interpretation is a popular choice, but there is an interesting
+drawback.  Almost all DSLs have generic language features.  You
+probably want integers and strings and
+vectors.  You probably want subroutines and variables.  A good chunk of your
+interpreter will be implementing these generic features and only a
+small part will
+be doing the special DSL stuff.
+
+Compiling to a different high-level language has a number of
+advantages.  It is easier to read and debug the compiled code, you can
+make the `primitives' in your
+DSL be rather high-level constructs in your target language.
+
+Lisp has a leg up on this process.  You can compile your DSL into Lisp
+and dynamically link it to the running Lisp image.  You can `steal'
+the bulk of the
+generic part of your DSL from the existing Lisp:  DSL variables become Lisp
+variables.  DSL expressions become Lisp expressions where possible.  Your
+`compiler' is mostly the identity function, and a handful of macros
+cover the rest.
+
+You can use the means of combination and means of abstraction as provided by
+Lisp.  This saves you a lot of work in designing the language, and it saves the
+user a lot of work in learning your language (*if* he already knows
+lisp, that is).
+
+The real `lightweight' DSLs in Lisp look just like Lisp.  They *are* Lisp.  The
+`middleweight' DSLs do a bit more heavy processing in the macro expansion
+phase, but are *mostly* lisp.  `Heavyweight' DSLs, where the language semantics
+are quite different from lisp, can nonetheless benefit from Lisp
+syntax.  They'll
+*look* like Lisp, but act a bit differently (FrTime is a good example).
+
+You might even say that nearly all Lisp programs are `flyweight' DSLs.
+
+#+END_EXAMPLE
+
+
+

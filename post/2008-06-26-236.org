@@ -1,0 +1,22 @@
+#+POSTID: 236
+#+DATE: [2008-06-26 Thu 11:25]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Programming, Teaching, philosophy
+#+TITLE: Why Computer Science Doesn’t Matter
+
+[[http://www.ccs.neu.edu/home/matthias/Essays/not-matter.html][Why Computer Science Doesn't Matter]] is an essay about the lack of computer science in the educational curriculum today, and what can be done about it. They've come up with an interesting, and successful, approach.
+
+
+
+#+BEGIN_QUOTE
+  [I want] to place computing where it belongs: in the hearts and minds of every single student.
+#+END_QUOTE
+
+
+
+Here here!
+
+
+
+

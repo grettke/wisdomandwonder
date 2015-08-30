@@ -1,0 +1,19 @@
+#+POSTID: 105
+#+DATE: [2008-04-20 Sun 22:42]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Lisp, Programming, philosophy
+#+TITLE: How do you find the perfect programming language?
+
+For many years I sought “the perfect programming language”. Traveling aim-fully from language to language, I found that there are a number of aspects to enjoy when it comes to a particular programming language, but I never found one that was “just right”. 
+
+During that journey, I started out as a slave to syntax. I had to “like” the syntax. Even when I found a syntax I liked, I would find that the language would be too narrowly-focused. Most general-purpose languages force you to shoe-horn your solution to a problem into how the language creator wants you to solve it. Most programmers hate being forced to do anything; especially how to think.
+
+Eventually I realized that there is no “perfect programming language”. Perhaps, though, there is a language that is “good enough”. 
+
+A lot of folks love the programming language Lisp. It provides all of the core language features you could ever need. On top of that, it lets you tailor the syntax to your pleasure. 
+
+From what I know about Lisp, it is “good enough”, and in the world programming languages, that is probably just about the best compliment you could give /any/ language.
+
+
+

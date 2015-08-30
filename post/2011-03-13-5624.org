@@ -1,0 +1,28 @@
+#+POSTID: 5624
+#+DATE: [2011-03-13 Sun 18:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: MATLAB, Octave, Operating System, Programming Language, Windows
+#+TITLE: Fixing Octave's Plot on the Windows 3.2.4 Release
+
+Out of the box a lot of us Windows users who added all of the Octave-Forge packages are disappointed to find that the plot function produces an invisible window. 
+
+Here is the problem and solution:
+
+
+
+#+BEGIN_QUOTE
+  
+Realistic solution at this moment, do not install the oct2mat package when you install octave with octave-forge packages if you do not use this package. One one of different solutions is to execute
+
+ pkg rebuild -noauto oct2mat
+
+at the octave prompt and then restart octave. The operation results in the oct2mat package not to be auto-loaded in startup. When you want to use oct2mat, execute "pkg load oct2mat" command.
+#+END_QUOTE
+
+
+
+(via [[http://wiki.octave.org/wiki.pl?OctaveForWindows][octave-forge]], via [[http://octave.1599824.n4.nabble.com/plot-window-is-invisible-td2014869.html][octave-bugs]])
+
+
+

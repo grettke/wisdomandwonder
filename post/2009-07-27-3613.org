@@ -1,0 +1,15 @@
+#+POSTID: 3613
+#+DATE: [2009-07-27 Mon 19:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Ide, Learning, Objective-C, Programming Language, Xcode
+#+TITLE: A Brief Review of PragProg's Becoming Productive in Xcode Screencasts  
+
+I just finished watching the first 2 episodes of [[http://www.pragprog.com/screencasts/v-mcxcode/becoming-productive-in-xcode][this]] screencast series. It has a pleasant tone and a lot of helpful information in it. You might imagine it as sitting down with another developer already familiar with Xcode and having him show you the very best features and highlights of the IDE. The author doesn't play up Xcode too much, but by demoing all of the specific features he did, the viewer will find that ultimately they all make for a very powerful and pleasant to use IDE.
+
+This is a great screencast to combine with reading the vendor documentation ([[http://developer.apple.com/IPhone/library/documentation/DeveloperTools/Conceptual/XcodeWorkspace/100-The_Text_Editor/ed_editor_window.html][here]]). The screencast gives you a jumpstart by highlighting the best features and getting you productive with the IDE while the vendor documentation gives you some important details that wouldn't make sense to include in a screencast like this.
+
+The author presented with a pleasant tone and a good meter, and the content was perfect for showing off Xcode. Apple should thank him as the documentation doesn't come anywhere close to selling the great features that Xcode provides as the author does in these screencasts.
+
+
+

@@ -1,0 +1,244 @@
+#+POSTID: 5790
+#+DATE: [2011-06-26 Sun 03:27]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Computational Science, Fun, Learning, mathematics
+#+TITLE: When is your math always wrong?
+
+Last year in my Applied Linear Algebra class we were assigned a homework that introduced Backward Substituation, Forward Substitution, Horner's Method. Something really interesting happened though as a side effect of the assigned work. 
+
+
+
+For one of the problems we were given the equation:
+
+
+
+#+BEGIN_EXAMPLE
+    
+P = @(x) (x-2)^9;
+
+#+END_EXAMPLE
+
+
+
+Which produces this over [1.92, 2.08]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2011/06/PofX.png][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2011/06/PofX.png]]]]
+
+One of the awesome things about MATLAB (or GNU Octave) is that it has a great graphing libraries and a REPL that lets you literally "play" with the problems you are working on. You can visualize it different ways, you can dig deep into different corners, there is really no limit. The net result is a very fun and educational learn-by-doing system very much in the spirit of [[http://www.htdp.org/][HtDP]]. That said I wanted to play around with the function we were given. 
+
+Out of curiosity I multiplied out P into PEX:
+
+
+
+#+BEGIN_EXAMPLE
+    
+PEX = @(x) ...
+      (x^9)       - (18 * x^8)   + (144 * x^7)  - (672 * x^6) ...
+    + (2016 *x^5) - (4032 * x^4) + (5376 * x^3) - (4608 * x^2) ...
+    + (2304 * x)  - (512);
+
+#+END_EXAMPLE
+
+
+
+Now you and I know that P and PEX are equivalent. What do you think will happen we we plot P and PEX together? I figured that we would get one line on top of the other since they are literally the same equation. Why did I want to do this? I can only attribute it to providence.
+
+After thinking about it, go to the next page.
+
+
+
+Here is the plot of P(x) vs. PEX(x):
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2011/06/PofXvsPEXofX.png][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2011/06/PofXvsPEXofX.png]]]]
+
+Well folks, I was really surprised. So what happened? I asked my teacher about it.
+
+Basically any time that you do math on a computer, it is wrong. It is an approximation; it can never represent numbers as the are in our minds (they are perfect, without compromise); so you are always getting the right answer to the wrong problem. I tried to determine whether I really understood this and came up with the following example.
+
+Imagine some distance say the distance between you and the wall. In your minds eye, you can split up this distance into:
+
+
+
+-  1 (100\^0) equally spaced units
+-  And then 100 (100\^1) equally spaced units
+-  And then 10,000 (100\^2) equally spaced units
+-  And then 1,000,000 (100\^3) equally spaced units
+-  And then 100,000,000 (100\^4) equally spaced units
+-  And basically keep doing this until you have divided this distance into an extremely large amount of small numbers, say a trillion.
+-  You were probably able to do this effortless; in your own mind there is no obstacle to conceiving of enough precision to represent that level of measurement.
+
+
+
+The numbers in your mind are limitless; the problem is the numbers that computers can represent are limited. They might have a number which represents the smallest difference that you can have between two numbers, called epsilon. If you start trying to perform computations on these very small numbers that are very close together, like subtracting them; then you are eventually going to come up with differences that are smaller than epsilon, so they are not representable and you end up losing that precision in the subtraction. This is OK though as long as you are aware of this and know what you are doing. This was the first homework; and would be come a running theme throughout the semester: "Know what you are doing, where, how, and why!".
+
+In the case of the problem above, there are probably both roundoff errors and subtractive cancellation going on; both cases of loss-of-precision that screw up the calculation. Very roughly: the machine is trying to deal with differences between numbers that are so small that it can't keep track of them. How bad is the difference? Plug x=1.993 into both of the equations:
+
+
+
+#+BEGIN_EXAMPLE
+    
+>> x=1.993;
+>> P(x)
+ans = -4.0354e-020
+>> PEX(x)
+ans =  1.5461e-011
+>> P(x) - PEX(x)
+ans = -1.5461e-011
+
+#+END_EXAMPLE
+
+
+
+That is a big difference. 
+
+What has this got to deal with the "real world"? A lot!
+
+When you are doing math on a computer; you really need to grok all of the layers of the system all the way down, otherwise you will screw up the math and give somebody a really "bad day", at least yourself, and probably the people paying you to do the work (eg. the client). 
+
+Is this purely an academic problem? No way. Anytime you do math on a computer you need to be conscious of how you are doing it and how "wrong" is your answer because anytime you do math on a computer, your math will /always/ be wrong!
+
+*ADDENDUM: 07/10/11*
+
+To Nick's point, is this a precision issue?
+
+[[http://www.mathworks.com/help/techdoc/matlab_prog/f2-12135.html][Via]]:
+
+
+#+BEGIN_QUOTE
+  
+By default, MATLAB stores all numeric values as double-precision floating point. 
+
+#+END_QUOTE
+
+
+
+And [[http://www.mathworks.com/help/techdoc/matlab_prog/f2-12135.html#f2-101310][via]]:
+
+
+#+BEGIN_QUOTE
+  
+MATLAB constructs the double-precision (or double) data type according to IEEE® Standard 754 for double precision.
+
+#+END_QUOTE
+
+
+
+Being unfamiliar with this, I read the Wikipedia page on IEEE-754 [[http://en.wikipedia.org/wiki/IEEE_754-2008][here]]. For double-precision it looks like the values are stored like this:
+
+
+-  The value itself is computed like this: (−1)\^s × c × b\^q
+-  s = the sign, 0|1
+-  c = the coefficient, the significant parts of the value
+-  b = the base, 2|10
+-  q = the exponent
+
+
+
+Here are some example of how these values might be used to store the number 123.45:
+
+
+-  b=10, s=0, c=12345, q=-2
+-  b=10, s=0, c=1.2345, q=2
+-  b=10, s=0, c=.12345, q=-3
+
+
+
+So what is happening? [[http://www.mathworks.com/support/tech-notes/1100/1108.html%20][Here]] is a MATLAB page that explained the fact that a number like 0.1 can not be represented precisely and gave some examples. The thing was that the examples were straightforward, for example here is an example in Java which uses IEEE-754 double-precision:
+
+App.java
+
+
+#+BEGIN_EXAMPLE
+    
+public double computeDoubles() {
+        double a = 0.1;
+        double b = 0.3;
+        double result = (a + a + a) + b;
+        return result;
+    }
+
+    public BigDecimal computeBigDecimals() {
+        BigDecimal a = new BigDecimal(0.1);
+        BigDecimal b = new BigDecimal(0.3);
+        BigDecimal result = a.add(a).add(a).add(b);
+        return result;
+    }
+
+#+END_EXAMPLE
+
+
+
+AppTest.java
+
+
+#+BEGIN_EXAMPLE
+    
+    public void testDouble()
+    {
+        App app = new App();
+        assertEquals(0d, app.computeDoubles());
+    }
+
+    public void testBigDecimal()
+    {
+        App app = new App();
+        assertEquals(new BigDecimal(0), app.computeBigDecimals());
+    }
+
+#+END_EXAMPLE
+
+
+
+
+
+#+BEGIN_EXAMPLE
+    
+junit.framework.AssertionFailedError: expected:<0.0> but was:<0.6000000000000001>
+at roundoff.AppTest.testDouble
+
+junit.framework.AssertionFailedError: expected:<0> but was:<0.6000000000000000055511151231257827021181583404541015625>
+at roundoff.AppTest.testBigDecimal
+
+#+END_EXAMPLE
+
+
+
+Racket does the same:
+
+
+#+BEGIN_EXAMPLE
+    
+#lang racket
+
+(require rackunit)
+
+(define (compute)
+  (- (+ 0.1 0.1 0.1) 0.3))
+
+(check = (compute) 0)
+
+#+END_EXAMPLE
+
+
+
+
+#+BEGIN_EXAMPLE
+    
+--------------------
+FAILURE
+name:       check
+location:   (unsaved-editor601 8 0 81 21)
+expression: (check = (compute) 0)
+params:     (# 5.551115123125783e-017 0)
+
+--------------------
+
+#+END_EXAMPLE
+
+
+
+But, I still had a hard time grokking how the representation was screwing up the number. Take for example 0.1. How is it stored? I need to do some more work here before I understand how to find the difference between 0.1 and the number actually represented by the IEEE-754 double precision value.
+
+
+

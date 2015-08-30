@@ -1,0 +1,13 @@
+#+POSTID: 162
+#+DATE: [2008-05-03 Sat 22:14]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Programming Language, elisp
+#+TITLE: Color Theme: pink-bliss.el 
+
+Although [[http://www.emacswiki.org/cgi-bin/emacs/pink-bliss.el][pink-bliss.el]] color theme for Emacs is sure to elicit repressed memories of "Hello Kitty", the normal confusion about why it exists doesn't come along with it as you are simply all too lost in the ocean of pink (and pink-compatible) colors.
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/05/pink-bliss.png][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/05/pink-bliss.thumbnail.png]]]]
+
+
+

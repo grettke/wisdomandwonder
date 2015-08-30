@@ -1,0 +1,11 @@
+#+POSTID: 3306
+#+DATE: [2009-06-10 Wed 12:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: IronScheme, Programming Language, Scheme
+#+TITLE: A Demonstration of IronScheme's New Debugger
+
+Leppie posted a video that shows off IronScheme's new debugger [[http://xacc.wordpress.com/2009/06/02/ironscheme-debugging/][here]].
+
+
+

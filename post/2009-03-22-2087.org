@@ -1,0 +1,11 @@
+#+POSTID: 2087
+#+DATE: [2009-03-22 Sun 23:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Java, Programming Language
+#+TITLE: Philosophy always comes down to the details
+
+[[http://vijaymathew.wordpress.com/2009/03/13/dangerous-designs/#comment-17][Here]] is a good post about language design philosophy and implementation details of inner classes in Java. The focus is more on the latter; and the article is still interesting.
+
+
+

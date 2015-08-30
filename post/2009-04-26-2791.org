@@ -1,0 +1,11 @@
+#+POSTID: 2791
+#+DATE: [2009-04-26 Sun 22:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Django, Programming Language, Python, Web
+#+TITLE: Python and Django
+
+[[http://www.python.org/][Python]] and [[http://www.djangoproject.com/][Django]] look interesting in how they empower you to work with the web. I was reading some interesting points about both [[http://www.zedshaw.com/blog/2009-03-20.html][here]] (the one interesting part about Python is that you might not need to know it in order to appreciate Django).
+
+
+

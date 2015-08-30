@@ -1,0 +1,25 @@
+#+POSTID: 69
+#+DATE: [2008-03-17 Mon 01:43]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming, Programming Language, Scheme
+#+TITLE: Nonstandard Interpretation with Scheme
+
+In response to [[http://calculist.blogspot.com/2008/03/crazy-debugging-feature-idea.html][this]] excellent blog post by Dave Herman, Jay McCarthy pointed the reader to [[http://www.bcl.hamilton.ie/~qobi/map-closure/papers/popl2007b.pdf][this]] interesting paper about creating a language construct that allows you to modularly redefine how your code (that you may or may not have written) gets evaluated (in other words, nonstandard interpretation). 
+
+Nonstandard interpretation
+
+#+BEGIN_QUOTE
+  is a powerful and useful construct that supports such tasks as tracing, security logging, sandboxing, error checking, profiling, code instrumentation and metering, run-time code patching, and resource monitoring.
+#+END_QUOTE
+
+
+
+Obviously, these things aren't new features. You can probably already perform nonstandard interpretation using your language of choice.
+
+The interesting thing about this approach is that rather than performing compile time environment or code manipulation, a new language feature is applied to perform the non standard interpretation at runtime. 
+
+While both will get you to the place that you want to go; only the latter offers you an opportunity to build a conceptual framework for understand how you reached your destination. Neat!
+
+
+

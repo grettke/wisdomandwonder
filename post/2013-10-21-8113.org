@@ -1,0 +1,40 @@
+#+POSTID: 8113
+#+DATE: [2013-10-21 Mon 00:35]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Books, Javascript, Learning, Review, Teaching, Web development
+#+TITLE: Effective JavaScript Book Review
+
+Looking for resources to help you maximize your learnings and minimize your 
+time use is often fruitless. Publishing deadlines cut books short, real life
+gets in the author's way, and personal preference, well there isn't much you
+can do about that. In many ways, this book is an oddity.
+
+The voice is at ease, nothing is crammed down your throat and it doesn't feel
+like he was slamming caffeinated beverages just to get it done. It is refreshing
+being the recipient of an exposition that not only teaches you, but questions
+you, and sets expectations of you and what you should learn. The book is broken
+up into 68 different lessons, and it ends up being a perfect approach. It gives
+you time to pick it up when you are free and dig as deep as you want. It also
+is very humble, the sections make the point and pose the advice, and if you 
+don't grok it then you had better revisit it. Again, it makes for peaceful and
+pleasant reading, without sacrificing the seriousness or even urgency of the
+valuable points contained within. 
+
+Books like this are few and far between, at least when it comes to industrial
+concerns. This book is a gem for the JavaScript technology, because it poses
+the technology for thoughtful grownups instead of obsessing over the 24h
+tricks, recipes of the week, and "one way to do it right", it will be a timeless
+contribution that will always be valued. 
+
+Just like the author said, it is not for new learners of the language, it is for
+experiences programmers who have gotten through the first 80% and now want to
+master the remaining 80%.
+
+On the Kindle it looked great, text, code, and pictures. 
+
+In my eyes, this is the missing manual that should have gone out with
+ECMA-262. 5/5
+
+
+

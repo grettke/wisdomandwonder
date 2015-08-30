@@ -1,0 +1,17 @@
+#+POSTID: 1670
+#+DATE: [2009-02-01 Sun 02:06]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: LaTeX, TeX, Utility
+#+TITLE: Active-DVI
+
+#+BEGIN_QUOTE
+  [[http://pauillac.inria.fr/activedvi/][Active-DVI]] is a Unix-platform DVI previewer and a programmable presenter for slides written in LaTeX.
+#+END_QUOTE
+
+
+
+
+
+
+

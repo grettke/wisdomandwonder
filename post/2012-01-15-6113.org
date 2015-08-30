@@ -1,0 +1,19 @@
+#+POSTID: 6113
+#+DATE: [2012-01-15 Sun 15:05]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Dolphin, Programming Language, Smalltalk
+#+TITLE: Version Control in Dolphin Smalltalk
+
+If you've ever wondered how to do version control in a Smalltalk system then check out these videos that Andy Bower recorded for our benefit:
+
+Sts Setup: [[http://bit.ly/StsSetup%20][http://bit.ly/StsSetup]]
+Sts Projects: [[http://bit.ly/StsProjects%20][http://bit.ly/StsProjects]]
+Sts Changes: [[http://bit.ly/StsPkgChanges%20][http://bit.ly/StsPkgChanges]]
+Sts Project Changes: [[http://bit.ly/StsProjChanges%20][http://bit.ly/StsProjChanges]]
+Sts Community Repository: [[http://bit.ly/StsCommRepo]]
+
+(lost the source)
+
+
+

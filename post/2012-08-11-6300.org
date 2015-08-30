@@ -1,0 +1,17 @@
+#+POSTID: 6300
+#+DATE: [2012-08-11 Sat 16:07]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Fun, Learning, Teaching
+#+TITLE: How Mathematicians Eat Corn
+
+Those who favor analysis eat in a spiral. 
+
+Those who favor algebra eat row-wise.
+
+More data is required for the remaining styles.
+
+(via [[http://bentilly.blogspot.com/2010/08/analysis-vs-algebra-predicts-eating.html][bentilly]])
+
+
+

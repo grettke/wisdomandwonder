@@ -1,0 +1,11 @@
+#+POSTID: 1597
+#+DATE: [2009-01-14 Wed 20:37]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: A Scheme Tutorial in Gimp
+
+It is well known that Gimp uses Scheme, but [[http://www.gimp.org/tutorials/Basic_Scheme/][here]]is a tutorial on Scheme with Gimp anyway.
+
+
+

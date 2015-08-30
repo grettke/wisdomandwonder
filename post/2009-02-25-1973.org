@@ -1,0 +1,30 @@
+#+POSTID: 1973
+#+DATE: [2009-02-25 Wed 20:48]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Minor Scheme
+
+#+BEGIN_QUOTE
+  [[http://www.red-bean.com/trac/minor/][Minor Scheme]]is an implementation of the Scheme programming language. Its planned features include: 
+good performance, via: 
+
+
+
+  -  just-in-time and ahead-of-time compilers generating native machine code
+  -  precise, generational garbage collection
+  -  full support for native system threads
+  -  full source-level debugging
+  -  a C API and a foreign function interface, for interfacing with C code
+  -  a module system which supports separate compilation and cross-compilation
+  -  a hygenic macro system
+#+END_QUOTE
+
+-- [[http://www.red-bean.com/jimb/][Jim Blandy
+]]
+
+
+
+
+
+

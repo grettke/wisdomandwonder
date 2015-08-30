@@ -1,0 +1,13 @@
+#+POSTID: 150
+#+DATE: [2008-05-03 Sat 13:28]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Idea, Learning, Programming
+#+TITLE: Writing a Brainf*** compiler and interpreter
+
+[[http://esoteric.voxelperfect.net/wiki/Brainfuck][Brainf***]] is a Turing complete programming language, known for its esoteric "minimalist nature", that has gained quite a bit of popularity over the years. 
+
+While you most certainly wouldn't want to write much code /in/ this language, it might be fun to write a compiler for this language, and even an interpreter to test our your compiler!
+
+
+

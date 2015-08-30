@@ -1,0 +1,11 @@
+#+POSTID: 8795
+#+DATE: [2014-06-29 Sun 00:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Emacs Lisp, Flycheck, Ide, Lisp, Utility
+#+TITLE: Flycheck does Emacs Lisp Checkdoc
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2014/06/Screenshot-2014-06-28-19.28.01.png][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2014/06/Screenshot-2014-06-28-19.28.01.png]]]]
+
+
+

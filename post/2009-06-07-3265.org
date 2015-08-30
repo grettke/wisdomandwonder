@@ -1,0 +1,18 @@
+#+POSTID: 3265
+#+DATE: [2009-06-07 Sun 01:37]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Business, Sales
+#+TITLE: The 10/20/30 Rule of PowerPoint
+
+#+BEGIN_QUOTE
+  It's quite simple: a PowerPoint presentation should have ten slides, last no more than twenty minutes, and contain no font smaller than thirty points.
+#+END_QUOTE
+
+
+-- Guy Kawasaki
+
+(via [[http://blog.guykawasaki.com/2005/12/the_102030_rule.html][Guy]])
+
+
+

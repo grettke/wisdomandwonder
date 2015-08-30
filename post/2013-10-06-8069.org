@@ -1,0 +1,11 @@
+#+POSTID: 8069
+#+DATE: [2013-10-06 Sun 01:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Artificial Intelligence, Java, Jess, Rules Engine
+#+TITLE: The Jess Blog
+
+[[http://zen-of-jess.blogspot.com/][The]] only blog on Jess that I've found.
+
+
+

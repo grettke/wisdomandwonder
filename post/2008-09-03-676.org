@@ -1,0 +1,13 @@
+#+POSTID: 676
+#+DATE: [2008-09-03 Wed 02:14]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Sake: a build tool
+
+The prolific [[http://schematics.sourceforge.net/][Schematics]] guys have released a Scheme build tool called [[http://planet.plt-scheme.org/package-source/schematics/sake.plt/1/0/planet-docs/sake/index.html][Sake]] out on [[http://planet.plt-scheme.org/][PLaneT]].
+
+Sake tasks are currently sparse, contributions are welcome.
+
+
+

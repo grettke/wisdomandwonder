@@ -1,0 +1,15 @@
+#+POSTID: 137
+#+DATE: [2008-04-28 Mon 02:50]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide
+#+TITLE: Donald Knuth uses emacs
+
+Donald Knuth [[http://www.informit.com/articles/article.aspx?p=1193856][uses emacs]].
+
+(that says it all)
+
+(via [[http://emacslife.blogspot.com/2008/04/knuth.html][sness]])
+
+
+

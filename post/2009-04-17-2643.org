@@ -1,0 +1,19 @@
+#+POSTID: 2643
+#+DATE: [2009-04-17 Fri 01:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Career
+#+TITLE: How To Nail A Job Interview
+
+#+BEGIN_QUOTE
+  What is it that certain people say or do during a job interview that makes them stand out? Why do some people struggle to find work, while others land a job in no time? I wanted to know, and the only way to find out was to experience the interview from the other side of the table. If I could be the one asking the interview questions, not answering, I could see first hand what made candidates stand out. I could then take that knowledge and cater my behavior in any future interview to give myself the best chance of getting hired.
+#+END_QUOTE
+
+
+
+This fellow recorded interviews, highlighted key points, and posted both [[http://www.howtonailaninterview.com/][here]].
+
+(via [[http://sethgodin.typepad.com/seths_blog/2009/04/things-to-remember-on-a-job-interview.html][Seth]])
+
+
+

@@ -1,0 +1,22 @@
+#+POSTID: 124
+#+DATE: [2008-04-27 Sun 15:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: The Community Scheme Wiki
+
+[[http://community.schemewiki.org/][The Community Scheme Wiki]]
+
+
+#+BEGIN_QUOTE
+  
+is about anything even remotely related to the programming language Scheme
+
+#+END_QUOTE
+
+
+
+It is a great site with high quality posts, definitely worth your time.
+
+
+

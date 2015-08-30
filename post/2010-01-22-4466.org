@@ -1,0 +1,19 @@
+#+POSTID: 4466
+#+DATE: [2010-01-22 Fri 18:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Fun, Operating System, UNIX
+#+TITLE: What is your PS1?
+
+Mine is:
+
+
+
+#+BEGIN_EXAMPLE
+    
+PS1='\u@\h:$pwd>'
+
+#+END_EXAMPLE
+
+
+

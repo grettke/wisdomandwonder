@@ -1,0 +1,17 @@
+#+POSTID: 5647
+#+DATE: [2011-04-20 Wed 16:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide
+#+TITLE: Enabling PNG, JPG, and GIF in Emacs on Windows
+
+Today I installed [[http://www.graphviz.org/Misc/graphviz-dot-mode.el][graphviz mode for Emacs]]. One of its features is that it will show you the rendered image in a buffer. When I tried it out, the image was opened as text. This is of course not what I wanted :).
+
+The Emacs user guide says [[http://www.gnu.org/software/emacs/windows/Installing-Emacs.html][here]] that to enable support on Windows you should check "Other useful ports". 
+
+[[http://stackoverflow.com/questions/2650041/emacs-under-windows-and-png-files][This]] post was particularly helpful because it explained that the contents of the 'image-library-alist' variable tell us everything we need to know. When you view its contents, it tells you which DLLs that it is looking for in order to view each particular format of image file. Just get the Windows version of those DLLs and throw them in the Emacs bin directory and restart Emacs for image support to be enabled.
+
+I got zlib1.dll, jpeg62.dll, and giflib4.dll from [[http://getgnuwin32.sourceforge.net/][GetGnuWin32]]and libpng14-14.dll from [[http://ftp.gnome.org/pub/gnome/binaries/win32/dependencies/libpng_1.4.3-1_win32.zip][Gnome]].
+
+
+

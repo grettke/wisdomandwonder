@@ -1,0 +1,22 @@
+#+POSTID: 699
+#+DATE: [2008-09-10 Wed 15:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming, philosophy
+#+TITLE: A Prodigious Error Message
+
+For my [[http://barcampmadison2.org/][BarCampMadison2]] presentation this year, I prepared a DVD "gift bag" with a lot of material on Functional Programming (FP) and specific FP languages like Scheme and Haskell, and also included [[http://plt-scheme.org/][DrScheme]] binaries for Mac and Windows and source for UNIX. 
+
+Yesterday I received an email from one of the attendees. He was copying the contents of the DVD to a directory on his UNIX system. In the course of doing so, he got an error message. If you are even superficially familiar with Monads and Haskell (as *I* am), you will surely find this error message prodigious!
+
+
+
+#+BEGIN_EXAMPLE
+    
+/mnt/cdrom$ cp -R library ~/lisp-library
+cp: cannot access `library/Haskell/Monads': Input/output error
+
+#+END_EXAMPLE
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 91
+#+DATE: [2008-04-02 Wed 00:28]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Bus Scheme
+
+[[http://bus-scheme.rubyforge.org/][Bus Scheme]] is an implementation of Scheme in Ruby.
+
+You can read a little more about it in various posts on the authors [[http://technomancy.us/104][blog]].
+
+
+

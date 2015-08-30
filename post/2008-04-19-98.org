@@ -1,0 +1,15 @@
+#+POSTID: 98
+#+DATE: [2008-04-19 Sat 21:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Design, Lisp, Programming Language, Scheme
+#+TITLE: R6RS can complete with Common Lisp?
+
+[[http://www.r6rs.org/][R6RS]] is the new language specification for Scheme. The goal is to provide programming features that folks need for programming "in the large". 
+
+Can it compete with Common Lisp? I don't think so. I like to think of R6RS as an experiment.
+
+I might be right; I [[http://groups.google.com/group/comp.lang.lisp/msg/3a5cc1353190030b][might be wrong]].
+
+
+

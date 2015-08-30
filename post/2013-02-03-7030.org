@@ -1,0 +1,17 @@
+#+POSTID: 7030
+#+DATE: [2013-02-03 Sun 22:47]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 02947, CB750, CB750F, Honda, Motorcycle, Repair
+#+TITLE: CB750F: Day 10
+
+Back to class again. This time it is only twice a week but for 4.5 hours. The majority of the evening was spent taking the rack of carbs apart. Not much to screw up here, but I always find a way. Most of the screws were stuck and/or stripped out, so Brian helped me with the last one using just a pliers. Arriving late to class, that is all I got done.
+
+Most of these photos are for my reference later. In particular the spring locations are important.
+
+For directions I'm using the Honda service manual, [[http://www.motorcycleproject.com/motorcycle/text/booknook.html][Mike Nixon's guide]], [[http://www.cb750c.com/publicdocs/SeanG/Honda_Carb_Manual_revD.pdf][MacGregor Carb Cleaning Services guide]], and [[http://randakks.com/collections/honda-dohc4/products/randakks-own-dohc-four-master-carb-overhaul-kit][Randakk's]] rebuild kit.
+
+[gallery ids="7068,7067,7066,7065,7064,7063,7062,7061,7060,7059,7058,7057,7056,7055,7054,7053,7052"]
+
+
+

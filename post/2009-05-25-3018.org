@@ -1,0 +1,11 @@
+#+POSTID: 3018
+#+DATE: [2009-05-25 Mon 21:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Typed Scheme 2.0 now in SVN
+
+Sam T.H.'s [[http://www.ccs.neu.edu/home/samth/typed-scheme/][Typed Scheme]] [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-May/033301.html][2.0 is now in SVN]] and will be available in the first release post 4.2.0.
+
+
+

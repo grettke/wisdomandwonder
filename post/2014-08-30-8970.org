@@ -1,0 +1,58 @@
+#+POSTID: 8970
+#+DATE: [2014-08-30 Sat 00:03]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Fun, Java, R-Project
+#+TITLE: Who ever got fired for compiling code?
+
+#+BEGIN_QUOTE
+  Q. How do you fix a memory corruption in S-PLUS?
+A. [[https://www.youtube.com/watch?v=qLrdYhizEMg][Use R.]]
+
+#+END_QUOTE
+
+
+
+
+
+
+The IBM [[https://en.wikipedia.org/wiki/IBM_System_i][AS/400]] is an application-platform consisting of custom hardware, an operating system, and database. It is a quite interesting system giving you literally everything that you need to develop a custom computing environment for a company immediately "out of the box".
+
+
+
+
+
+
+
+Working to deploy a pretty typical Java based system with DB2 and WebSphere backing it up, my co-worker and I ran into a bug with the JVM. The issue revolved around the fact that the web-application layer utilized a byte-code engineering library that resulted in the revelation of a bug in the JVM itself. First level support explained that it was our bug so we provided a stand-alone example in straight Java and that got us to second level support.
+
+
+
+
+
+
+
+They explained that they would look into it and that that we should watch for a release note in the next version of OS/400. This was getting kind of silly so our department wanted to cash-in in one of their immediate-support "get out of jail free cards" that you get when you spend hundreds-of-thousands-of-dollars per quarter for IBM support. That got us to third level support.
+
+
+
+
+
+
+
+Upon reviewing the issue that we researched, tracked down the exact situation where the bug occurred, and demonstrated a reproducible example, they expertly agreed that there was indeed a bug in their JVM, that they would have it fixed for the next release six months from now, and thanks for letting them know.
+
+
+
+
+
+
+
+One of the /value-adds/ of purchasing something from IBM is that every C-level knows that /you can't get fired for buying IBM/. Something that you can't have done either apparently is computing Java! :P
+
+
+
+
+
+
+

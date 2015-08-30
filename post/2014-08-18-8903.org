@@ -1,0 +1,856 @@
+#+POSTID: 8903
+#+DATE: [2014-08-18 Mon 00:29]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: Debugging in R
+
+
+Debugging in =R= is quite fine.
+
+
+
+
+
+
+
+
+#+BEGIN_HTML
+  <div id="outline-container-sec-1" class="outline-2">
+#+END_HTML
+
+
+
+** 1 Core debugging tools in R
+
+
+
+
+#+BEGIN_HTML
+  <div id="text-1" class="outline-text-2">
+#+END_HTML
+
+
+
+
+These exist purely to facilitate debugging. They are presented in no particular
+order:
+
+
+
+
+
+
+-  [[http://stat.ethz.ch/R-manual/R-devel/library/base/html/debug.html][debug]]
+
+
+   -  "Set, unset or query the debugging flag on a function."
+
+   -  Browser-context is touched upon
+
+   -  A way to enter the /browser/
+
+   -  How to debug internal definitions
+
+   -  When to use =trace=
+
+   -  =debugonce=
+
+   -  When you don't have the source
+
+
+   
+
+-  [[http://stat.ethz.ch/R-manual/R-devel/library/base/html/browser.html][browser]]
+
+
+   -  "Interrupt the execution of an expression and allow the inspection of the
+environment where browser was called from."
+
+   -  "browses in the frame of the function being traced"
+
+   -  Can be called from inside the body of a function
+
+   -  Pauses execution and gives access to the interpreter
+
+   -  Implemented to make it easy to user dev tools for debugging
+eg =text= and =condition=
+
+   -  May use =ls=, too
+
+   -  Any expressions are passed to the interpreter, but for the ones that
+control the browser
+
+
+      -  What happens if you bind =c=, =n=, and =s=?
+
+
+         -  Should print them as you would expect
+
+         -  But keep your eye open
+
+
+         
+
+
+      
+
+   -  When you do have the source
+
+
+   
+
+-  [[http://stat.ethz.ch/R-manual/R-devel/library/utils/html/recover.html][recover]]
+
+
+   -  "This function allows the user to browse directly on any of the currently
+active function calls, and is suitable as an error option."
+
+   -  "allows browsing in any of the currently active calls"
+
+   -  Specifically useful as an error global error handler via =options(error = recover)=
+
+   -  Choose a function context and jump to it's browser
+
+   -  When you may have the source
+
+
+   
+
+-  [[http://stat.ethz.ch/R-manual/R-devel/library/base/html/trace.html][trace]]
+
+
+   -  "A call to trace allows you to insert debugging code (e.g., a call to
+browser or recover) at chosen places in any function. A call to untrace
+cancels the tracing. Specified methods can be traced the same way, without
+tracing all calls to the function. Trace code can be any R expression."
+
+   -  Key point, you can use it any time, anywhere as you please
+
+   -  Implemented just as you would expect in this language
+
+
+      -  =untrace= swaps back the original version
+
+
+      
+
+   -  =tracer= is any expression that you want evaluated within the =trace='d function
+
+   -  Does not nest
+
+
+      -  Nested calls replace the previously =trace='d version
+
+
+      
+
+   -  When you may have the source
+
+
+   
+
+-  [[http://stat.ethz.ch/R-manual/R-devel/library/base/html/traceback.html][traceback]]
+
+
+   -  "By default traceback() prints the call stack of the last uncaught error,
+i.e., the sequence of calls that lead to the error. This is useful when an
+error occurs with an unidentifiable error message. It can also be used to
+print the current stack or arbitrary lists of deparsed calls."
+
+   -  Is as it says
+
+
+   
+
+
+
+
+
+
+The *best* way to make sense of them is to play with them to get the basics and
+wait until you've got some issues to debug before digging further.
+
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+
+#+BEGIN_HTML
+  <div id="outline-container-sec-2" class="outline-2">
+#+END_HTML
+
+
+
+** 2 Core language tools in R
+
+
+
+
+#+BEGIN_HTML
+  <div id="text-2" class="outline-text-2">
+#+END_HTML
+
+
+
+
+These exist to provide the core R language features, and are particularly useful
+to support debugging. They are presented in no particular order:
+
+
+
+
+
+
+-  [[http://stat.ethz.ch/R-manual/R-devel/library/base/html/cat.html][cat and print]]
+
+
+   -  Oldies and goodies
+
+
+   
+
+-  [[http://stat.ethz.ch/R-manual/R-devel/library/base/html/conditions.html][conditions (including tryCatch)]]
+
+
+   -  "These functions provide a mechanism for handling unusual conditions,
+including errors and warnings."
+
+   -  Won't totally grok on first read... wait until real usage
+
+
+   
+
+-  [[http://stat.ethz.ch/R-manual/R-devel/library/base/html/try.html][try]]
+
+
+   -  "try is a wrapper to run an expression that might fail and allow the user's
+code to handle error-recovery."
+
+
+   
+
+-  [[http://stat.ethz.ch/R-manual/R-devel/library/base/html/stop.html][stop]]
+
+
+   -  "stop stops execution of the current expression and executes an error action."
+
+
+   
+
+-  [[http://stat.ethz.ch/R-manual/R-devel/library/base/html/warning.html][warning]]
+
+
+   -  "Generates a warning message that corresponds to its argument(s) and
+(optionally) the expression or function from which it was called."
+
+   -  Explains warning levels
+
+   -  Explains temporary warning level modification for a single call
+
+
+   
+
+-  [[http://stat.ethz.ch/R-manual/R-devel/library/base/html/stopifnot.html][stopifnot]]
+
+
+   -  "If any of the expressions in ... are not all TRUE, stop is called,
+producing an error message indicating the first of the elements of ...
+which were not true."
+
+   -  Very nice form of /design by contract/
+
+
+   
+
+-  [[http://stat.ethz.ch/R-manual/R-devel/library/base/html/connections.html][connections]]
+
+
+   -  "Functions to create, open and close connections."
+
+   -  =file=, =url=, =gzfile=, =bzfile=, =xzfile=, =unz=, =pipe=, =fifo=, =socket=, =socketConnection=
+
+   -  See also "modes", "Blocking", "Encoding", "Compression"
+
+   -  Thorough overview
+
+
+   
+
+-  [[http://stat.ethz.ch/R-manual/R-devel/library/base/html/showConnections.html][showConnections]]
+
+
+   -  "Display aspects of connections."
+
+   -  Details about =stdin= or =stdout=
+
+
+   
+
+-  [[http://stat.ethz.ch/R-manual/R-devel/library/base/html/sink.html][sink]]
+
+
+   -  "sink diverts R output to a connection."
+
+
+   
+
+-  [[http://stat.ethz.ch/R-manual/R-devel/library/base/html/options.html][options]]
+
+
+   -  "Allow the user to set and examine a variety of global options which affect
+the way in which R computes and displays its results."
+
+   -  Pass in key-pair values
+
+   -  =options()= totally worth a read
+
+
+      -  =papersize= wasn't set
+
+      -  =ESS= stuff
+
+
+      
+
+   -  =error= documentation here is priceless
+
+
+   
+
+
+
+
+
+
+In combination with the core functions, there is a nice way to build a support
+workflow for yourself at all stages of the development cycle.
+
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+
+#+BEGIN_HTML
+  <div id="outline-container-sec-3" class="outline-2">
+#+END_HTML
+
+
+
+** 3 Articles about debugging in R
+
+
+
+
+#+BEGIN_HTML
+  <div id="text-3" class="outline-text-2">
+#+END_HTML
+
+
+
+
+There are a lot of articles here for a good reason: they are all necessary.
+
+
+
+
+
+
+They all reveal some key points, just not all of them, and all do so a little
+differently.
+
+
+
+
+
+
+-  [[https://support.rstudio.com/hc/en-us/articles/200713843-Debugging-with-RStudio][Debugging with RStudio]]
+
+
+   -  Nice example of an external tool using built-in features
+
+   -  Excellent lessons learned regardless of the tool
+
+
+      -  Setting a breakpoint vs sourcing the file for example is key!
+
+
+      
+
+   -  Very LISPy, modify the functions internals during debugging
+
+   -  Ponder RStudio's choice to auto-disable package breakpoints on un-load
+
+
+   
+
+-  [[https://code.google.com/p/ess-tracebug/][ess-tracebug]]
+
+
+   -  Do it all in Emacs
+
+   -  [[https://code.google.com/p/ess-tracebug/wiki/GettingStarted][Here]] is how
+
+   -  Wherever you do it, you must understand what is happening in order for any
+debugger tool to make sense
+
+
+   
+
+-  [[http://seananderson.ca/2013/08/23/debugging-r.html][Debugging R Functions]]
+
+
+   -  "Knowing how to debug functions is a critical skill if you want to work
+proficiently in R."
+
+   -  "Old-school strategies"
+
+
+      -  "Trial and error"
+
+
+         -  Use logical deduction
+
+
+         
+
+      -  "Make your function global"
+
+
+         -  When developing new code, REPL or not, this is not scary or bad
+
+         -  Maybe use =<<-= to aid transition to or debugging of existing
+
+
+         
+
+      -  "Add print statements"
+
+
+         -  Totally!
+
+
+         
+
+      -  "When things get complicated"
+
+
+         -  =traceback= to get a clue
+
+         -  =browser= it to get more /inside/
+
+         -  =options(error = recover)= *YES!!!*
+
+
+            -  May also start the debugger on warnings =options(warn=2)=
+
+
+            
+
+         -  "Debugging installed packages"
+
+
+            -  Jump to error locations with =recover= as given above
+
+
+            
+
+
+         
+
+
+      
+
+   -  "Error handling and recovery"
+
+
+      -  =try= and =tryCatch=
+
+
+      
+
+   -  Great article
+
+
+      -  Lightweight, thorough, detailed
+
+      -  Will make sense once you've got a personal workflow and experience
+
+
+      
+
+
+   
+
+-  Wrap the body in =try= via [[https://stackoverflow.com/questions/1395622/debugging-lapply-sapply-calls][this]]
+
+-  [[https://stackoverflow.com/questions/4442518/general-suggestions-for-debugging-r][SO Mega Discussion: General suggestions for debugging R?]]
+
+
+   -  Great discussion and references
+
+   -  Many workflows are shared
+
+
+      -  Eg:
+
+
+         -  First =traceback=
+
+         -  Second =options(error=recover)=
+
+         -  Finally =debug=
+
+         -  See also =findLineNum= and =setBreakpoint=
+
+         -  Also use =try= and =tryCatch= a lot
+
+         -  Also =debugonce=
+
+
+         
+
+
+      
+
+   -  Reset your debug options if you used them =options(error = NULL, warn = 0)=
+
+   -  Do [[https://stackoverflow.com/questions/8142339/continue-executing-after-browser][conditional debugging]]
+
+
+      -  Documentation explains of the illusion above
+
+      -  Commenters say wrapping in =if= statements is still faster
+
+
+      
+
+   -  [[http://cran.r-project.org/web/packages/debug/index.html][debug]]
+
+
+      -  "Debugger for R functions, with code display, graceful error recovery,
+line-numbered conditional breakpoints, access to exit code, flow control,
+and full keyboard input."
+
+      -  Thoughtful author, doesn't use Emacs and still identified things to maybe
+look for when using ESS
+
+
+      
+
+   -  =.verbose = TRUE in foreach()=
+
+   -  [[http://www.biostat.jhsph.edu/~rpeng/docs/R-debug-tools.pdf][An Introduction to the Interactive Debugging Tools in R]]
+
+
+      -  First =traceback= to figure out which function call the error occurred
+
+      -  Then =debug= to find out where in that function the error occurred
+
+
+         -  Free to maninuplate the environment as you please during a debugged
+function's dynamic extent
+
+
+            -  Example gen's a histogram of some data... true exploration!
+
+
+            
+
+         -  =print= names if you bound them to commands
+
+         -  Recursive debugging is explained mostly
+
+
+         
+
+      -  A direct =browser= is what most of us would call "setting a breakpoint"
+
+      -  A =trace= is what most of us would call "setting a conditional breakpoint"
+
+
+         -  Args
+
+
+            -  Function to trace
+
+            -  Code to "insert"
+
+
+               -  Function name
+
+               -  Unevaluated expression
+
+
+               
+
+            -  Quoting inhibits evaluation of the expression in the =trace= call, and
+inserts it into the recipients dynamic extent for evaluation then
+
+            -  =at=
+
+
+               -  "Where" to insert the code (or breakpoint)
+
+               -  A number. Where to get this number?
+
+               -  Say you want to trace the function =nLL= and want to trace a
+particular spot
+
+               -  Call =as.list(body(nLL))=
+
+               -  The number that you specify says that you want to set the break
+point to occur /just before/ *that* line executes
+
+
+               
+
+
+            
+
+         -  Nice example
+
+
+         
+
+      -  =recover= allows you to easily traverse the call stack in a debugging
+scenario
+
+
+         -  Example 1: =trace= a line to call =recover= to help you figure out what is
+going on
+
+         -  Example 2: set it s a global error handler =options(error = recover)=
+
+
+         
+
+      -  Great article, very different voice and perspective
+
+
+      
+
+
+   
+
+-  Read [[http://adv-r.had.co.nz/Exceptions-Debugging.html][Advanced R on Debugging, condition handling, and defensive programming]]
+
+
+   -  conditions: errors, warning, and messages
+
+
+      -  =stop= halts execution
+
+      -  =warning= display possible issues
+
+      -  =message= inform
+
+      -  =withCallingHandlers=, =tryCatch=, and =try= handle conditions
+
+
+      
+
+   -  "fail fast", definitey
+
+
+      -  validate inputs
+
+      -  avoid non-standard evluation
+
+      -  avoid different result types
+
+
+      
+
+   -  Outline
+
+
+      -  Debugging techniques: how to find and resolve bugs
+
+      -  Debugging tools: intro
+
+      -  Condition handling: how to handle conditions
+
+      -  Defensive programming: introduction
+
+
+      
+
+   -  Debugging techniques
+
+
+      -  Identify the bug, reproduce the bug, locate it, fix and test it
+
+
+      
+
+   -  Debugging tools
+
+
+      -  =traceback=, =browser=
+
+      -  Built in tools are given 2nd class attention vs RStudio, makes sense
+
+      -  RStudio doesn't have conditional breakpoints?!
+
+
+         -  Goal is to keep =trace= statements out of code I guess?
+
+
+         
+
+      -  =trace= is only occasionally useful?! Good to know lol.
+
+      -  /Sweet/ debugging hackery tips posted, clearly an expert
+
+
+         -  Shows how to define an option-handler that will stop execution if
+a message is called
+
+
+            -  Very LISPy
+
+
+            
+
+
+         
+
+
+      
+
+   -  Condition handling
+
+      -   See also [[[[http://r-pkgs.had.co.nz/tests.html][R]] Packages  :: Testing]]
+
+      -   (no term)  :: =try= swallows the exception, =tryCatch= makes you handle it,
+=withCallingHandlers= redefines handlers for the called code
+
+      -   (no term)  :: try
+
+
+         -  Takes multiline statements inside of a block
+
+         -  *Calls display more helpful error messages inside of try blocks*
+
+         -  Looking at descendants of =try-error= is more hackery
+
+
+         
+
+      -   (no term)  :: tryCatch
+
+
+         -  Can handle interrupts
+
+         -  Handlers match on option class
+
+
+            -  =error=, =warning=, =message=, =interrupt=, =condition=
+
+
+            
+
+         -  =finally= exists
+
+
+            -  Simpler than =on.exit=
+
+
+            
+
+         -  withCallingHandlers
+
+
+            -  Ignores body results, does not evaluate to them
+
+            -  Handlers are called within the context of the call that generated the
+condition whereas handlers in =tryCatch= are called within the context
+where it is called
+
+
+            
+
+         -  Custom signal classes
+
+
+            -  Excellent haven't seen this mentioned anywhere
+
+
+            
+
+
+         
+
+
+      
+
+   -  Defensive programming
+
+
+      -  [[https://github.com/hadley/assertthat][Nice assertion package]]
+
+      -  Don't do [[http://adv-r.had.co.nz/Computing-on-the-language.html#nse][this]]
+
+
+         -  Don't use: =subset=, =transform=, and =with=
+
+
+         
+
+      -  Keep result types the same
+
+
+         -  Never =DROP= and always use =vapply=
+
+
+         
+
+
+      
+
+
+   
+
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+

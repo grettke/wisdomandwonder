@@ -1,0 +1,13 @@
+#+POSTID: 37
+#+DATE: [2008-02-09 Sat 01:22]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming, Programming Language
+#+TITLE: 14 Ways to Write a Spelling Corrector
+
+[[http://www.norvig.com/bio.html][Peter Norvig]] posted [[http://www.norvig.com/spell-correct.html][this article]] explaining how implement an "industrial-strength spell corrector like Google's" in only 21 lines of [[http://www.python.org/][Python]]!
+
+This article is a pretty fun read, especially for folks looking for fun problems to solve in their programming language of choice (or hopefully in the new language that they are currently learning). Be sure to check out the implementations that folks provided in other languages.
+
+
+

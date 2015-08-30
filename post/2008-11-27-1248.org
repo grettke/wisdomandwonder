@@ -1,0 +1,21 @@
+#+POSTID: 1248
+#+DATE: [2008-11-27 Thu 17:21]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Programming, Teaching, philosophy
+#+TITLE: What is a program?
+
+#+BEGIN_QUOTE
+  A program is one or more functions that work together.
+#+END_QUOTE
+
+
+
+-- [[http://home.adelphi.edu/sbloch/][Stephen Bloch]]
+
+(via [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-November/028868.html][PLT]])
+
+
+
+
+

@@ -1,0 +1,30 @@
+#+POSTID: 7663
+#+DATE: [2013-04-26 Fri 03:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 02947, CB750, CB750F, Honda, Motorcycle, Repair
+#+TITLE: CB750F: Day 29: More Reassembly
+
+Tonight I had high hopes of achieving completion of many tasks despite lots of evidence that I could not work that quickly.
+
+
+
+-  New rear shocks Progressive PS1205: Cleaned mount points and installed shims as guided. torquied top to 216 in/lb and bottom to 213 in/lb, twice. To seat things things correctly, I disconnected the rear swing arm and let the shocks fall into it to verify that they fell straight (mostly) up and down so they were seated correctly. Comparing new to old, Pat said it was obvious that that the seals had blown out long ago.
+-  Installed the new chain DID 630V-90 (and rear wheel first): What a beautiful chain. The old one was way beyond usage; with 88 links it still was sagging 5cm when this one with 90 fits perfectly. The wheels on my bike are in very nice shape. To get the master link on, I use a channel lock and squeezed as hard as I could; that was what it took to get it on. A needle nose pliers was fine to get the clip on there. Somehow I didn't get any further than this tonight.[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130425_162554.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130425_162554-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130425_163715.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130425_163715-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130425_164117.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130425_164117-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130425_174725.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130425_174725-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130425_180325.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130425_180325-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130425_180345.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130425_180345-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130425_182242.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130425_182242-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130425_194031.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130425_194031-300x225.jpg]]]]
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 153
+#+DATE: [2008-05-03 Sat 13:57]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Ide, Lisp, VI
+#+TITLE: Limp brings Common Lisp to VIM
+
+[[http://mikael.jansson.be/hacking/limp][Limp]] brings Common Lisp to VIM.
+
+
+

@@ -1,0 +1,17 @@
+#+POSTID: 1987
+#+DATE: [2009-02-26 Thu 19:45]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: HTDP, Study-HTDP
+#+TITLE: image.ss and universe.ss in HtDP
+
+#+BEGIN_QUOTE
+  Let me recommend, however, that you skip exercises that involve draw.ss. If you can, make up alternatives using image.ss or universe.ss (see teachpack docs).
+#+END_QUOTE
+
+-- Matthias
+
+(via [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-February/030899.html][PLT]])
+
+
+

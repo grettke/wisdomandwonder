@@ -1,0 +1,20 @@
+#+POSTID: 1609
+#+DATE: [2009-01-15 Thu 01:46]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: JVM, Programming Language
+#+TITLE: The problem of tail calls and security on the JVM
+
+Here are two papers that address the problem of tail calls and security on the JVM:
+
+
+
+-  [[http://www.ccs.neu.edu/scheme/pubs/esop2003-cf.pdf][A Tail-Recursive Semantics for Stack Inspections]]
+-  [[http://www.ccs.neu.edu/scheme/pubs/cf-toplas04.pdf][A Tail-Recursive Machine with Stack Inspection]]
+
+
+
+(via Jens via [[http://debasishg.blogspot.com/2006/03/non-java-languages-on-jvm.html][Debasish]])
+
+
+

@@ -1,0 +1,17 @@
+#+POSTID: 4816
+#+DATE: [2010-05-30 Sun 19:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Erlang style programming in PLT
+
+#+BEGIN_QUOTE
+  [[http://weblambda.blogspot.com/2009/09/erlang-style-programming-in-plt.html][bzlib/thread]]provides additional concurrency constructs by building on top of PLT Scheme's concurrency primitives to help simplify programming in message passing style that Erlang has helped popularized.
+#+END_QUOTE
+
+
+
+(via [[http://groups.google.com/group/plt-scheme/browse_thread/thread/ed287f6a9986ce3/c3183b1b267927df?lnk=gst&q=bzlib+thread#c3183b1b267927df][PLT]])
+
+
+

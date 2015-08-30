@@ -1,0 +1,11 @@
+#+POSTID: 3225
+#+DATE: [2009-06-07 Sun 01:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: thinking
+#+TITLE: Coming Up with Fresh Ideas
+
+[[http://benjisimon.blogspot.com/2009/05/5-strategies-for-coming-up-with-fresh.html][Here]] is a nice article that describes a strategy for coming up with at least 3 very fresh ideas.
+
+
+

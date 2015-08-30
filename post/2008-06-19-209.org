@@ -1,0 +1,17 @@
+#+POSTID: 209
+#+DATE: [2008-06-19 Thu 08:06]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming, philosophy
+#+TITLE: Subtlety
+
+#+BEGIN_QUOTE
+  [[http://www.merriam-webster.com/dictionary/subtle][Subtlety]] can be hard
+#+END_QUOTE
+
+
+-- [[http://www.sacrideo.us/][Aaron Hsu]]
+
+
+
+

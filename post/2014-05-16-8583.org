@@ -1,0 +1,18 @@
+#+POSTID: 8583
+#+DATE: [2014-05-16 Fri 13:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Information theory
+#+TITLE: Entropy
+
+#+BEGIN_QUOTE
+  In [[https://en.wikipedia.org/wiki/Information_theory][information theory]], [[https://en.wikipedia.org/wiki/Entropy_%28information_theory%29][entropy]] is a measure of the uncertainty in a [[https://en.wikipedia.org/wiki/Random_variable][random variable]].
+#+END_QUOTE
+
+
+
+(via [[https://en.wikipedia.org/wiki/Entropy_%28information_theory%29][Wikipedia]])
+
+
+
+

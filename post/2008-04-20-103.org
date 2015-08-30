@@ -1,0 +1,15 @@
+#+POSTID: 103
+#+DATE: [2008-04-20 Sun 22:13]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: mathematics
+#+TITLE: Where to start with The Lambda Calculus
+
+When you first start studying functional programming, one of the things that people will ask you is "So; have you learned lambda calculus (TLC)?". 
+
+The fact is that while you don't need to learn TLC to learn about functional programming; you /ought/ too study the TLC at some point.
+
+In [[http://lambda-the-ultimate.org/node/492][this great LtU thread]] on "where to get started with studying programming language theory", Anton van Straaten [[http://lambda-the-ultimate.org/node/492#comment-36585][posted a comment]] referencing two posts on the PLT discussion list detailing [[http://list.cs.brown.edu/pipermail/plt-scheme/2007-August/020296.html][a plan]] on what you should study when it comes to TLC and [[http://list.cs.brown.edu/pipermail/plt-scheme/2007-August/020302.html][the texts]] that you should use to facilitate those studies.
+
+
+

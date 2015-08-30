@@ -1,0 +1,11 @@
+#+POSTID: 8083
+#+DATE: [2013-10-12 Sat 14:37]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: ML, Programming Language, SML
+#+TITLE: HaMLet: An experimental, optionally dynamically typed, and compiling to JavaScript SML.
+
+"To Be Or Not To Be Standard ML"... [[http://www.mpi-sws.org/~rossberg/hamlet/][here]].
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 9732
+#+DATE: [2015-05-10 Sun 01:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming
+#+TITLE: Renegade Coder
+
+"[[http://c2.com/cgi/wiki?CowboyCoder][Cowboy Coders]] are programmers who write code according to their own rules". "Cowboy" is meant to be a derogatory term in this usage. "Cowboy" is a powerful and positive word though, and its connotation is difficult to shake. Perhaps a more appropriate term is "[[http://www.merriam-webster.com/dictionary/renegade][Renegade]] Coder".
+
+
+

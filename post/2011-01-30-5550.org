@@ -1,0 +1,15 @@
+#+POSTID: 5550
+#+DATE: [2011-01-30 Sun 18:21]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, R-Project, Statistics, applied statistics
+#+TITLE: Getting Started With R
+
+-  Read the [[http://www.r-project.org/posting-guide.html][posting guide]], and [[https://stat.ethz.ch/mailman/listinfo/r-help][sign up]] to the r-help mailing list
+-  Join sci.stat.consult (applied statistics and consulting) and sci.stat.math (mathematical stat and probability) for asking Statistics related questions
+-  [[http://www.stats.ox.ac.uk/pub/MASS4/][Modern Applied Statistics with S. Fourth Edition]] and [[http://cran.r-project.org/doc/manuals/][An Introduction to R]] were mentioned in the posting guide
+
+-  Download [[http://www.r-project.org/][R]]
+
+
+

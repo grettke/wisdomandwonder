@@ -1,0 +1,15 @@
+#+POSTID: 2759
+#+DATE: [2009-04-25 Sat 13:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Macro, Programming Language, Scheme
+#+TITLE: An insane application of syntax-rules
+
+Check it out [[http://www.neilvandyke.org/weblog/2008/11/#2008-11-03][here]].
+
+(via [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-April/032436.html][PLT[1]]])
+
+[1]: "Macro practice" Todd O'Bryan toddobryan at gmail.com Fri Apr 24 12:11:52 EDT 2009
+
+
+

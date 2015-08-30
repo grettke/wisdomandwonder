@@ -1,0 +1,108 @@
+#+POSTID: 1055
+#+DATE: [2008-11-02 Sun 19:46]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Functional, Haskell, Learning, Programming Language, Scheme, Teaching
+#+TITLE: Why Calculating is Better than Scheming
+
+In 1987 [[http://homepages.inf.ed.ac.uk/wadler/][Phil Wadler]] wrote the paper [[http://www.cs.kent.ac.uk/people/staff/dat/miranda/wadler87.pdf][Why Calculating is Better than Scheming]]. It is an essay on the shortcomings of using Scheme as the programming language with which to teach beginning programmers in [[http://mitpress.mit.edu/sicp/full-text/book/book.html][SICP]], and how [[http://miranda.org.uk/][Miranda]] would have a better choice for teaching the software engineers of tomorrow. This was very fun for me to read, and might be for you, too, if you are interested in teaching or the history of both [[http://en.wikipedia.org/wiki/Haskell_(programming_language)][Haskell]] and [[http://en.wikipedia.org/wiki/Scheme_programming_language][Scheme]].
+
+
+
+There are lot of arguments made in this paper. The points that I found most interesting, though, had to do with teaching, criticism of Scheme, and insights into the history of both Scheme and Haskell; so that is what I will share. I recommend that you read the paper yourself, though. It is a very light and fun to read 28 pages that goes by in no time.
+
+
+
+*** Teaching
+
+
+Wadler's criticism is driven entirely by his experience in the classroom. Having taught a few classes using the SICP curriculum, he found that his students had the same sort of problems over and over. So, his motivation is entirely for helping his students to learn programming. This is really delightful to read criticism driven not only by experience and reason, but a good reason at that. This is remarkably different than what you would hear from the Haskell "masses" who hate Scheme but couldn't tell you why to save their life!
+
+The paper starts by stating that "[SICP] may start a revolution in the way that programming is taught". 'May' seems to have been the right word. SICP is lauded as /the/ best book on learning how to program, ever, but, on the other hand, it also takes the blame for turning a whole generation sour on functional programming languages. At times it can be hard to understand where SICP fits in history, and without that, criticisms and praise make equally little sense. Reading papers like this one or [[http://en.wikipedia.org/wiki/The_Structure_and_Interpretation_of_the_Computer_Science_Curriculum][SICSC]] help to get a little more perspective on why. Whatever your take on it, SICP is recognized as a classic; and to Wadler's point, maybe if something like it were written using Miranda (or Haskell) it would be even better, but unfortunately for us, nothing like it has been written yet.
+
+
+
+*** History of Haskell
+
+
+You may have wondered why this post is tagged with 'Haskell". Well, in the paper, Wadler argues that Miranda, a non-strict (aka lazy evaluation), pure (no destructive assignment) programming language would better serve the goals SICP; in other words it is a superior language for teaching. What the paper /doesn't/ convey, though, is just how much of an impact that it made on the author. You should read [[http://research.microsoft.com/~simonpj/papers/history-of-haskell/index.htm][A History of Haskell: being lazy with class]] to see just how influential Miranda was to the creation of [[http://www.haskell.org/][Haskell]]. It is really interesting to sort of peek through a window into the history of Haskell and how it was shaped by Scheme and Miranda! By the way, you replace Haskell anywhere you see Miranda in the paper, and I suspect that it would read exactly the same way.
+
+
+
+*** Criticisms of Scheme
+
+
+
+Somewhere on the [[http://www.plt-scheme.org/maillist/][PLT discussion list]] Matthias Felleisen once said "If you condemn something, know it. Know it well." I think that Wadler knows Scheme well. While he makes some good arguments, he does rely on the reader knowing the details of how Scheme works, and also, despite his knowledge, he is not afraid of making very wimpy arguments, too. Here are some of the highlights:
+
+
+
+-  Argument: Pattern matching allows for more pleasant implementation of 
+ the recursive and termination of a function.
+-  Reply: Agreed. Pattern matching libraries exist today, but it doesn't come 
+ close to the syntactic sugar that Haskell has.
+
+
+
+
+
+-  Argument: Data types make the code more manageable.
+-  Reply: Agreed. I'm not sure why SICP didn't use them as they surely could have defined the themselves. Most Scheme's have them. R6RS [[http://www.r6rs.org/final/html/r6rs-lib/r6rs-lib-Z-H-7.html#node_chap_6][includes them]].
+
+
+
+
+
+-  Argument: Quote is generally confusing.
+-  Reply: Agree. Students ought not worry about things like evaluation, 
+ but, they are going to have to learn it some time, why not now?
+
+
+
+
+
+-  Argument: Lazy evaluation would negate need for special forms.
+-  Reply: True, but avoiding understanding the how evaluation works will only
+ take students so far. Additionally, special forms are one of the most 
+ interesting parts of the language.
+
+
+
+
+
+-  Argument: The difference between cons and list is confusing.
+-  Reply: The primary data structure in Lisp is the cons cell. It is a two-cell
+object used to build singly-linked lists. Unfortunately, you have to understand
+this to know the difference between cons and list.
+
+
+
+
+
+-  Argument: Students might screw up if they don't pay attention.
+-  Reply: The problem of lazy students can't be fixed by a programming language, no matter what any good salesman would tell you! :)
+
+
+
+This paper came to my attention after it was mentioned on the PLT Discussion list [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-October/027874.html][here]].
+
+*Addendum: 11/08/08*
+
+Looking for more papers on Scheme criticism, I had posted to the [[http://groups.google.com/group/plt-scheme/browse_thread/thread/aecfb21c143ca51?hl=en][PLT discussion list]], mentioning this paper as an example. While feedback on the paper was mixed, it was Alex's pointing out of Wadler's momentary confusion when the following code did not work correctly (remember Scheme is prefix notation):
+
+
+
+#+BEGIN_EXAMPLE
+    
+((+ 3 4) = (+ 5 2))
+
+#+END_EXAMPLE
+
+
+
+that forced me to go back to the paper and read it a little more closely.
+
+Reading closer, I see that he didn't teach the Scheme class for two years, someone else did. The thing is that the error above would have never occurred for someone who had spent more than a day or two learning Scheme. What I had attributed to Wadler "hamming it up" for the paper, /seemingly/ was due to lack of familiarity with Scheme. That said, all of the points he made are still valid! It was refreshing to get someone's perspective who wasn't totally in love with Scheme and was willing to write about it.
+
+
+

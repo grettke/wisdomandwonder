@@ -1,0 +1,108 @@
+#+POSTID: 1426
+#+DATE: [2009-01-02 Fri 01:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Macros, Programming Language, Scheme
+#+TITLE: Automata via Macros
+
+Last year I asked a [[http://list.cs.brown.edu/pipermail/plt-scheme/2007-August/019831.html][question]] about [[http://www.cs.brown.edu/~sk/Publications/Papers/Published/sk-automata-macros/][Automata via Macros]] to the [[http://www.plt-scheme.org/maillist/][PLT Discussion List]]. The paper is about an extended example of a problem posed by [[http://www.cs.brown.edu/~sk/][Shriram Krishnamurthi]] at the [[http://ll1.ai.mit.edu/][Lightweight Languages 1]] conference. I was trying to understand how one might use the same [[http://en.wikipedia.org/wiki/Finite_state_machine][FSA]] language to generate different outputs. Many folks explained how that would work and the thread finished. It didn't finish for me, though. To say my understanding of the solution was superficial would be an overstatement. I knew I didn't "get it", and kept it on my list to revisit once I had a better grasp on things. That was a year and a half ago.
+
+Over my holiday I revisited the paper and found, for lack of a better way to say it, that it "made sense". In the past year I've tried to: read a lot, write a lot of code, read other people's code, and most importantly do so with some [[http://www.wisdomandwonder.com/article/374/study-flaws-steady-flaws][discipline and attention to detail]] that I had not applied before. That seems to have paid off; as it felt like I was reading the paper with brand new eyes. 
+
+This time around, I also listened to a recording of the presentation itself and watched the PowerPoint that went along with it. This was especially valuable because it drew attention to various tidbits that appeared in the paper but were much easier to delineate by virtue of Shriram pointing them out in context of the presentation. It was those comments, along with what I had learned in the past year that really got me thinking about things again.
+
+In a conversation with [[http://www.sacrideo.us/][Aaron Hsu]], he once said something to the effect that "Scheme is hard because it is subtle.", and that sort of rang true with my intuition, but I had a difficult time verbalizing exactly why I thought that to be true. Outwardly Scheme appears to be "simple", but the more you learn about it and the deeper you dig, you start to see that it is [[http://www.wisdomandwonder.com/article/119/deceptively-simple][*Deceptively Simple*]]. 
+
+Scheme seems to take only a few days to learn, but a few years to master; but why? I don't know yet, but what I do know is that some of the ideas and topics presented in this paper and presentation are surely some of the aforementioned "subtleties" that serve as landmarks on this multi-year path towards understanding Scheme. For my own reference, and for others who may be studying Scheme and wondering exactly why "Subtlety is hard", perhaps this paper will serve to shed some light on things. 
+
+My advice: read [[http://www.wisdomandwonder.com/article/497/lambda-the-ultimate-imperative][LAMBDA: The Ultimate Imperative]] and [[http://www.wisdomandwonder.com/article/509/lambda-the-ultimate-goto][LAMBDA: The Ultimate GOTO]] first.
+
+
+
+*** Abstract
+
+
+
+
+
+#+BEGIN_QUOTE
+  Lisp programmers have long used macros to extend their language. Indeed, their success has inspired macro notations for a variety of other languages, such as C and Java. There is, however, a paucity of effective pedagogic examples of macro use. This paper presents a short, non-trivial example that implements a construct not already found in mainstream languages. Furthermore, it motivates the need for tail-calls, as opposed to mere tail-recursion, and illustrates how support for tail-call optimization is crucial to support a natural style of macro-based language extension.
+#+END_QUOTE
+
+
+
+
+
+*** Key notes from the audio
+
+
+
+These are mostly my notes and summaries for some key points that rang true with me. The ideas that they represent may or may not be contained within my summary as it would be too far outside the scope of this blog post to address them. Such work is better done by other papers and presentations. 
+
+
+
+-  09:00: Without the hidden gems, syntax, macros, and tail calls, it all falls apart.
+-  11:16: What you generate must fit well into the language.
+-  18:00: It is really tail-transfer (tail-calls) that matter, not tail-recursion.
+-  21:00: Scheme is really an indentation based language.
+-  23:00: Macro languages belong in modules; you can use your data (DSL) where you wish.
+-  25:30: If you claim to be smart, leverage the work of others.
+-  26:10: Scheme is subtle. Takes years to understand what is beautiful. You can look at a book but you won't notice. The language hides it jewels.
+-  26:45 If you don't get tail calls, you don't get it.
+
+
+
+
+
+*** Key notes from the paper
+
+
+
+
+
+-  P2P3: "A macro gives the programmer a consistent, representation-independent means of describing the datum
+while still resolving the representation before compilation."
+-  P7P4: Macros are likely to be used to optimize the abstraction that the data represents.
+-  P8P3: Scheme's macro system could be called "a lightweight compiler API".
+-  P9P2: Tail-calls ought to be called tail-transfer per Steele. I wonder why they didn't push that definition more.
+-  P9P3: Here is a good explanation of tail calls.
+-  P9P5: "languages represent the ultimate form of reuse, because we get to reuse everything from the mathematical (semantics) to the practical (libraries), as well as decades of research and toil in compiler construction (Hudak, 1998)."
+-  P13P2: "it shows how features that would otherwise seem orthogonal, such as macros and tail-calls, are in fact intimately wedded together; in particular, the absence of the latter would greatly complicate use of the former."
+-  
+
+
+
+
+
+*** The automaton language
+
+
+\\
+
+
+
+#+BEGIN_EXAMPLE
+    
+; An automaton that recognizes the language c(ad)*r
+(define m 
+  (automaton init
+             (init : 
+                   (c → more))
+             (more : 
+                   (a → more)
+                   (d → more)
+                   (r → end))
+             (end : accept)))
+
+#+END_EXAMPLE
+
+
+
+
+
+
+
+
+
+
+

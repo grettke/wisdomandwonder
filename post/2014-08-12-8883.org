@@ -1,0 +1,34 @@
+#+POSTID: 8883
+#+DATE: [2014-08-12 Tue 17:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Algorithmic Trading, Big Data, Business Intelligence, Data Analysis and Modeling, Data Mining, Data Visualization, Data science, Financial Engineering, Machine Learning, Mathematical Modelling, Predictive Analytics, Quantitative Analysis, Quantitative Finance, R-Project, Risk Management, Statistical Computing
+#+TITLE: Key data points
+
+#+BEGIN_QUOTE
+  The purpose of computing is insight, not numbers.
+#+END_QUOTE
+
+
+-- [[https://en.wikiquote.org/wiki/Richard_Hamming][Richard Hamming]]
+
+
+
+#+BEGIN_QUOTE
+  Essentially, all models are wrong, but some are useful.
+#+END_QUOTE
+
+
+-- [[https://en.wikiquote.org/wiki/George_E._P._Box][George E. P. Box]]
+
+
+
+#+BEGIN_QUOTE
+  Data is not information, information is not knowledge, knowledge is not understanding, understanding is not wisdom.
+#+END_QUOTE
+
+
+-- [[https://www.brainyquote.com/quotes/quotes/c/cliffordst212166.html][Clifford Stoll]]
+
+
+

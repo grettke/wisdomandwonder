@@ -1,0 +1,13 @@
+#+POSTID: 5683
+#+DATE: [2011-06-01 Wed 02:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Eiffel, Programming Language
+#+TITLE: Concurrent Eiffel
+
+Seemingly without much fanfair, SCOOP is released with Eiffel [[http://docs.eiffel.com/book/solutions/concurrent-eiffel-scoop][here]]. Wow. 
+
+Hopefully I'm not the only one who finds this exciting.
+
+
+

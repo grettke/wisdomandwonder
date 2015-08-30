@@ -1,0 +1,48 @@
+#+POSTID: 9223
+#+DATE: [2014-10-08 Wed 19:43]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Algorithmic Trading, Big Data, Business Intelligence, Data Analysis and Modeling, Data Mining, Data Visualization, Data science, Financial Engineering, MDS, Machine Learning, Mathematical Modelling, Predictive Analytics, Quantitative Analysis, Quantitative Finance, R-Project, Risk Management, Statistical Computing
+#+TITLE: Milwaukee Data Science: Next Steps
+
+
+The purpose of [[http://www.meetup.com/Milwaukee-Data-Science/events/207103982/][this Meetup]] is to provide a safe, pleasant, and convenient venue (physical and virtual) to facilitate the growth and nurturing of the Data Science community in Southeastern Wisconsin.
+
+
+
+
+
+
+
+Since Data Science covers the entirety of all human endeavors, this group serves to facilitate dialogue and discussion between all realms of mastery. Strategic advisers, managers, investors, health-care administrators, and quantitative analysts will feel equally at home here, as will mathematicians, statisticians, ecologists, biologists, and social-scientists. All realms of mastery are invited and welcomed to join.
+
+
+
+
+
+
+
+Given the limitless application of technology here, all members of the Information Technology field are welcomed to join. All roles are welcome ranging from technical (developers, architects, system and devops administrators) to project managers and business analysts.
+
+
+
+
+
+
+
+Experts and neophytes with interest in particular languages, environments, frameworks, and technologies have a home here. Be it R, Python, Java, or Octave, there is a place for everyone to learn and share. Our doors are equally open to practitioners applying specific technological offerings for every industry and platform.
+
+
+
+
+
+
+
+With a laid back approach open to all ideas, this group will reflect the contributions and participation of its members, in whatever form time and resources permit.
+
+
+
+
+
+
+

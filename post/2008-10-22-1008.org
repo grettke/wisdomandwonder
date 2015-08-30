@@ -1,0 +1,17 @@
+#+POSTID: 1008
+#+DATE: [2008-10-22 Wed 00:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: LaTeX, TeX, Utility
+#+TITLE: PGF and TikZ
+
+#+BEGIN_QUOTE
+  [[http://sourceforge.net/projects/pgf/][PGF]] is a TeX macro package for generating graphics. It is platform- and format-independent and works together with the most important TeX backend drivers, including pdftex and dvips. It comes with a user-friedly syntax layer called TikZ.
+#+END_QUOTE
+
+
+
+(via [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-October/027991.html][this post]] on the PLT list)
+
+
+

@@ -1,0 +1,88 @@
+#+POSTID: 9352
+#+DATE: [2014-11-30 Sun 21:50]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode, philosophy
+#+TITLE: Easily check src block correctness in org-mode
+
+
+Thank you [[https://lists.gnu.org/archive/html/emacs-orgmode/2014-11/msg00776.html][Nicolas Goaziou]], for the beginnings of an =org-lint=. The goal here was to:
+
+
+
+
+
+1. Report an error if there is a source block without a language
+specified
+
+2. Report an error if there is a source block with a language specified
+that is *not* present in `org-babel-load-languages'
+
+
+
+
+
+
+And, it does.
+
+
+
+
+
+
+#+BEGIN_EXAMPLE
+    
+(defun gcr/src-block-check ()
+  (interactive)
+  (org-element-map (org-element-parse-buffer 'element) 'src-block
+    (lambda (src-block)
+      (let ((language (org-element-property :language src-block)))
+        (cond ((null language)
+               (error "Missing language at position %d"
+                      (org-element-property :post-affiliated src-block)))
+              ((not (assoc-string language org-babel-load-languages))
+               (error "Unknown language at position %d"
+                      (org-element-property :post-affiliated src-block)))))))
+  (message "Source blocks checked in %s." (buffer-name (buffer-base-buffer))))
+
+#+END_EXAMPLE
+
+
+
+*Addendum: 2015-02-05*
+
+Sebastien Vauban just posted his improved version to:
+- "Check as well for the language of inline code blocks,"
+- "Report the line number instead of the char position."
+
+
+
+#+BEGIN_EXAMPLE
+    
+  (defun org-src-block-check ()
+    (interactive)
+    (org-element-map (org-element-parse-buffer)
+      '(src-block inline-src-block)
+      (lambda (sb)
+        (let ((language (org-element-property :language sb)))
+          (cond ((null language)
+                 (error "Missing language at line %d in %s"
+                        (org-current-line
+                         (org-element-property :post-affiliated sb))
+                        (buffer-name)))
+                ((not (assoc-string language org-babel-load-languages))
+                 (error "Unknown language `%s' at line %d in `%s'"
+                        language
+                        (org-current-line
+                         (org-element-property :post-affiliated sb))
+                        (buffer-name)))))))
+    (message "Source blocks checked in %s." (buffer-name (buffer-base-buffer))))
+
+#+END_EXAMPLE
+
+
+
+Not seeing this post on the web yet so no link.
+
+
+

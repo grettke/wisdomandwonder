@@ -1,0 +1,17 @@
+#+POSTID: 4375
+#+DATE: [2010-01-07 Thu 22:06]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Computational Science, Learning, PhD, Statistics
+#+TITLE: Fall 2009 Classes
+
+In Fall of 2009 I took one class:
+
+[[http://www.mscs.mu.edu/~dbrowe/mscs6010.html][MSCS 6010: Probability]] which used Statistical Inference, Second edition by Casella & Berger.
+
+*Addendum: 01/23/10*
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/01/Syllabus_Rowe_6010.pdf][Here]] is the syllabus for the course.
+
+
+

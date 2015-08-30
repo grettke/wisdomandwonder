@@ -1,0 +1,25 @@
+#+POSTID: 2835
+#+DATE: [2009-05-02 Sat 11:37]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, philosophy
+#+TITLE: Most programming languages are created without any theory
+
+The argument is made in [[http://lambda-the-ultimate.org/node/3296#comment-48388][this]] quote that most programming languages are created without any theory, and end up looking for it later, and rarely find it. 
+
+Here is the quote from Robin Milner:
+
+
+
+#+BEGIN_QUOTE
+  Is there any lesson from the research field that you don't see applied?
+
+Robin: Most programming languages have been desgined without first thinking about the theory on which the meaning would be based. So, very often a language gets designed and implemented, and then what it means, what is supposed to happen when every program is run, is not necessarily predicted. Of course it was in some cases wonderfuly predicted, for example, in ALGOL60; the ALGOL60 report of 1960 was so accurate that one could follow it and find out what was going to happen. This isn't always the case. Even in the good languages, the formal basis is not there before the language arrives, so what people do is later to retrofit a theory of meaning to the language, and maybe that means that the design could not take advantage of theoretical understanding.
+#+END_QUOTE
+
+
+
+
+
+
+

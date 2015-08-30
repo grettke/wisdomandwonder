@@ -1,0 +1,11 @@
+#+POSTID: 145
+#+DATE: [2008-05-01 Thu 01:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming
+#+TITLE: Dynamic languages need modules
+
+Dave wrote a great post explaining why [[http://calculist.blogspot.com/2008/04/dynamic-languages-need-modules.html][dynamic languages need modules]].
+
+
+

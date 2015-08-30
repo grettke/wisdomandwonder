@@ -1,0 +1,19 @@
+#+POSTID: 7315
+#+DATE: [2013-03-16 Sat 03:36]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Artificial Intelligence, Computation, Knowledge Engineering, Rules Engine, mathematics
+#+TITLE: Post's Tenth Rule of Computing
+
+#+BEGIN_QUOTE
+  Any sufficiently complicated enterprise system contains an ad-hoc, informally-specified bug-ridden slow implementation of half of a rules engine.
+#+END_QUOTE
+
+
+
+Ok, [[https://en.wikipedia.org/wiki/Emil_Leon_Post][Post]] didn't really say it I'm just having a little fun here paraphrasing [[http://philip.greenspun.com/research/][Greenspun]].
+
+Think about it though; it works!
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 1601
+#+DATE: [2009-01-14 Wed 20:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Profiling in PLT Scheme
+
+Will posted [[http://wmfarr.blogspot.com/2009/01/profiling-using-mzscheme-and-errortrace.html][here]]on how to profile applications in PLT Scheme.
+
+
+

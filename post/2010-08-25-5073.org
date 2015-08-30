@@ -1,0 +1,17 @@
+#+POSTID: 5073
+#+DATE: [2010-08-25 Wed 15:09]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Racket, Scheme
+#+TITLE: Okasaki's Purely Functional Data Structures in Typed Racket
+
+#+BEGIN_QUOTE
+  A [[http://planet.plt-scheme.org/display.ss?package=pfds.plt&owner=krhari][library]] of purely functional data structures in [[http://docs.racket-lang.org/ts-guide/index.html][Typed Racket]]. Data structures in the library are based on Chris Okasaki's book Purely Functional Data Structures, work by Phil Bagwell and others
+#+END_QUOTE
+
+
+
+(via [[http://groups.google.com/group/racket-users/browse_thread/thread/b2122fa83e4ba8ed/beac76b29995477d?lnk=gst&q=Interesting+article#beac76b29995477d][racket]])
+
+
+

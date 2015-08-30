@@ -1,0 +1,11 @@
+#+POSTID: 7658
+#+DATE: [2013-04-27 Sat 20:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, Programming Language, elisp
+#+TITLE: Some Essential Elisp Libraries
+
+[[http://www.wilfred.me.uk/blog/2013/03/31/essential-elisp-libraries/][Here]] is a nice article on what sound like some nice support libraries for Elisp.
+
+
+

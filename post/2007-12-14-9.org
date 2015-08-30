@@ -1,0 +1,17 @@
+#+POSTID: 9
+#+DATE: [2007-12-14 Fri 03:14]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Learning, Music, Programming
+#+TITLE: How do you practice?
+
+Someone noticed that I've learned how to practice guitar. I asked what they meant by that, and they said that I “start slow, memorize the piece, and keep practicing, a little faster each time”. That is what works for me. When it comes to learning how to become a better programmer, I'm not sure that it is so simple (not to say guitar is simple of course!).
+
+How do you practice programming?
+
+I've got some ideas on how I do it, but it I'm going to take some time to think about it. 
+
+That post is over the hills and far away!
+
+
+

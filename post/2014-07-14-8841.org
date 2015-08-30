@@ -1,0 +1,13 @@
+#+POSTID: 8841
+#+DATE: [2014-07-14 Mon 01:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Another Emacs configuration in org
+
+[[https://github.com/larstvei/dot-emacs][Here]]. It is nice.
+
+My apologies for forgetting how I ended up here.
+
+
+

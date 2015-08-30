@@ -1,0 +1,30 @@
+#+POSTID: 9008
+#+DATE: [2014-08-31 Sun 12:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: A progress indicator for code blocks in org-mode
+
+
+A progress indicator for code blocks in [[https://lists.gnu.org/archive/html/emacs-orgmode/2014-08/msg01000.html][org-mode]] courtesy
+of John Kitchin:
+
+
+
+
+
+
+#+BEGIN_EXAMPLE
+    ;; give us some hint we are running
+(defadvice org-babel-execute-src-block (around progress nil activate)
+  (set-face-attribute
+   'org-block-background nil :background "LightSteelBlue")
+  (message "Running your code block")
+  ad-do-it
+  (set-face-attribute 'org-block-background nil :background "gray")
+  (message "Done with code block"))
+
+#+END_EXAMPLE
+
+
+

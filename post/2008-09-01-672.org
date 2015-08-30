@@ -1,0 +1,13 @@
+#+POSTID: 672
+#+DATE: [2008-09-01 Mon 19:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: One programmer's Scheme bookshelf
+
+Here is one programmer's [[http://jaortega.wordpress.com/2007/01/31/a-scheme-bookshelf/][Scheme bookshelf]]. 
+
+It provides a good overview of a lot of the best material out there, along with the authors opinions on all of it.
+
+
+

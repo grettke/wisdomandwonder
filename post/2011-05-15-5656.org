@@ -1,0 +1,13 @@
+#+POSTID: 5656
+#+DATE: [2011-05-15 Sun 22:32]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Racket, Scheme
+#+TITLE: Portable Racket for Windows Users
+
+[[https://bitbucket.org/chust/racket-portable/wiki/Home][Here]] it is.
+
+(via [[http://groups.google.com/group/racket-users/browse_thread/thread/327ffb3a70a6a4c3/09ffa28ff1e9ee77?show_docid=09ffa28ff1e9ee77&pli=1][racket users]])
+
+
+

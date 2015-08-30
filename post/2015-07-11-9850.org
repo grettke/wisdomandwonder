@@ -1,0 +1,15 @@
+#+POSTID: 9850
+#+DATE: [2015-07-11 Sat 00:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Blogging, Web, WordPress
+#+TITLE: What is Your Blog Backup Strategy?
+
+What is your blog backup strategy?
+
+Mine is basic: rolling site and database backups.
+
+Tests are currently done in a local instance but I'm moving testing into a Vagrant box instead.
+
+
+

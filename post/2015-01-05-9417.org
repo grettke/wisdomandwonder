@@ -1,0 +1,11 @@
+#+POSTID: 9417
+#+DATE: [2015-01-05 Mon 20:12]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Git, Version Control, Windows
+#+TITLE: How to authenticate Git at the command line on Windows over HTTPS
+
+[[https://gitcredentialstore.codeplex.com/][This]] is how. It really is that simple.
+
+
+

@@ -1,0 +1,21 @@
+#+POSTID: 874
+#+DATE: [2008-10-09 Thu 17:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Skimp Scheme
+
+[[http://www.ip9.org/munro/skimp/][Skimp Scheme]] is a toy interpreter, about which the author makes a lighthearted quip:
+
+
+
+#+BEGIN_QUOTE
+  Early days yet, but during a couple of enthusiastic hacking sessions while on Summer holiday in Italy, Skimp started talking back. It's a surreal moment when a new interactive language interpreter come to life... like something with legs just strolled out of your primordial C program and asking for a pan galactic gargle blaster.
+#+END_QUOTE
+
+
+
+
+
+
+

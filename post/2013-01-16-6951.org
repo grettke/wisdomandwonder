@@ -1,0 +1,11 @@
+#+POSTID: 6951
+#+DATE: [2013-01-16 Wed 20:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, PLT, Programming Language, Racket, Scheme, Utility
+#+TITLE: Rebootable Programs in Racket
+
+[[https://gist.github.com/4548874][Here]] is how to do it courtesy of TonyG.
+
+
+

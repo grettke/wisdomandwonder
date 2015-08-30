@@ -1,0 +1,15 @@
+#+POSTID: 8164
+#+DATE: [2014-01-15 Wed 01:55]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Gear, Java, Programming Language, Sun
+#+TITLE: The Sun JavaStation
+
+You don't have to like any aspect of the old [[https://en.wikipedia.org/wiki/Sun_Microsystems][Sun Microsystems]] to enjoy the fresh design of one of their little [[https://en.wikipedia.org/wiki/JavaStation][JavaStation]] thin-clients. It would really be nice to have "the network be the computer" :). 
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2014/01/javastationHDR.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2014/01/javastationHDR-1024x764.jpg]]]]
+
+Reminiscing aside, where do software engineers find real engineering jobs these days?
+
+
+

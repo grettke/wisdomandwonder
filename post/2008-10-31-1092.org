@@ -1,0 +1,19 @@
+#+POSTID: 1092
+#+DATE: [2008-10-31 Fri 02:32]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming
+#+TITLE: An Improved Approach to the Sieve of Eratosthenes
+
+#+BEGIN_QUOTE
+  For an explanation and easy improvemnts see Colin Runciman's functional pearl "The primes using The Sieve of Eratosthenes".
+#+END_QUOTE
+
+
+
+Found here in [[http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=068D8FB2C68D1D2B3C3B32298E5B2716?doi=10.1.1.55.7096&rep=rep1&type=pdf][PDF]] or [[http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=068D8FB2C68D1D2B3C3B32298E5B2716?doi=10.1.1.55.7096&rep=rep1&type=ps][PS]].
+
+(via the [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-October/028160.html][PLT Discussion List]])
+
+
+

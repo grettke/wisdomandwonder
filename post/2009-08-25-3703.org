@@ -1,0 +1,25 @@
+#+POSTID: 3703
+#+DATE: [2009-08-25 Tue 19:49]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: HtmlPrag ported to PLT 4.x
+
+#+BEGIN_QUOTE
+  
+HtmlPrag finally works with PLT 4.x. 
+
+[[http://www.neilvandyke.org/htmlprag/]]
+
+#+END_QUOTE
+
+
+
+(via [[http://groups.google.com/group/plt-scheme/browse_thread/thread/c2426b91860e1cc9/2c3228021366e6b0?lnk=gst&q=HtmlPrag+ported+to+PLT+4.x#2c3228021366e6b0][PLT]])
+
+While I've never used it, most of the folks recommended this as the best tool for HTML generation /and/ parsing.
+
+For the longest time it had not run on 4.x and people have been frequently asking when it will. Thanks Neil!
+
+
+

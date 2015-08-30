@@ -1,0 +1,13 @@
+#+POSTID: 9342
+#+DATE: [2014-11-28 Fri 14:11]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: DevOps, Packer, Vagrant
+#+TITLE: Hyper-v plugin for Packer.io
+
+[[https://github.com/MSOpenTech/packer-hyperv][Here]] is a hyper-v plugin for Packer.io.
+
+Great to see the infrastructure taking off for Windows.
+
+
+

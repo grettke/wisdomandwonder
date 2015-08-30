@@ -1,0 +1,15 @@
+#+POSTID: 8589
+#+DATE: [2014-05-17 Sat 19:38]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Emacs Lisp, Ide, Programming
+#+TITLE: God Mode — no more RSI
+
+Lot of posts recently about the desire to reduce [[http://web.eecs.umich.edu/~cscott/rsi.html][RSI]] from too much keyboard use in Emacs. Although I didn't look up any studies or evidence of this, the idea of hacking how to handle keybindings in Emacs is always interesting. 
+
+[[https://github.com/chrisdone/god-mode][God mode]] is one way to "simplify" things.
+
+Basically you go in and out of the mode, and when in it, single key strokes are automatically prefaced with a control, and meta commands are prefaced with a g instead.
+
+
+

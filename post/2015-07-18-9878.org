@@ -1,0 +1,11 @@
+#+POSTID: 9878
+#+DATE: [2015-07-18 Sat 16:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Applied mathematics, Programming, Programming Language, SAS, WPS, applied statistics
+#+TITLE: Milwaukee SAS Meetup
+
+Milwaukee has a great [[http://www.meetup.com/Milwaukee-SAS-Coders-Group/][SAS meetup]]. Zeke and the community are very nice.
+
+
+

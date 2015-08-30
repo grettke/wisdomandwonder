@@ -1,0 +1,17 @@
+#+POSTID: 2077
+#+DATE: [2009-03-22 Sun 05:31]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Teaching, philosophy
+#+TITLE: Succeeding as a Scientist
+
+[[http://www.cs.virginia.edu/~robins/YouAndYourResearch.html][This]] presentation is brilliant and inspiring. Maybe the ideas aren't new; but the way that Hamming put it all together really "spoke" to me. 
+
+It might seem like a long read; but isn't personal success worth your time?
+
+For now I am not going to highlight the key points; that is an exercise much better left to the reader.
+
+(via [[http://www.reddit.com/r/science/comments/862en/you_and_your_research_a_lecture_on_how_to_win_a/][Reddit]])
+
+
+

@@ -1,0 +1,21 @@
+#+POSTID: 9295
+#+DATE: [2014-11-06 Thu 01:25]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: ProjectTemplate for R
+
+#+BEGIN_QUOTE
+  [[http://projecttemplate.net/index.html][ProjectTemplate]] is a system for automating the thoughtless parts of a data analysis project
+#+END_QUOTE
+
+
+
+Just read the overview. If you are not already doing these things, by any means, then see what this package has to offer immediately. It will make your life better.
+
+If you are not convinced yet, then read the sections listed on the left. They do so, so much. 
+
+One nice example is the great flexibility provided in its configuration. For example, automatically converting loaded data.frame to data.table is just [[http://projecttemplate.net/configuring.html][one flag]], very nice.
+
+
+

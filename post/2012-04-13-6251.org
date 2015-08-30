@@ -1,0 +1,11 @@
+#+POSTID: 6251
+#+DATE: [2012-04-13 Fri 20:36]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Python
+#+TITLE: The Best Article on Python Decorators
+
+[[http://stackoverflow.com/questions/739654/understanding-python-decorators][Here]] it is.
+
+
+

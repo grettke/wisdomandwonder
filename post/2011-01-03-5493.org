@@ -1,0 +1,11 @@
+#+POSTID: 5493
+#+DATE: [2011-01-03 Mon 02:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 22656, Concours, Kawasaki, Motorcycle
+#+TITLE: Trickle Charging
+
+Due to scheduling difficulties (project deadlines, semester endings, family homecomings), I put off hooking up my battery to a trickle charger (which I'd yet to purchase). After letting her sit around in the teens and single-digits (in a garage) for the last month or so I was pleasantly surprised to find that my buddy had a charger to loan me, space to leave it in his basement, and finally that the battery only needed about 2m of charging for the charger to give it the thumbs up. Awesome!
+
+
+

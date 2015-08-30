@@ -1,0 +1,13 @@
+#+POSTID: 8851
+#+DATE: [2014-07-24 Thu 20:35]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: DevOps, Packer, Vagrant
+#+TITLE: Recompile virtualbox modules after a kernel upgrade
+
+If you upgrade the Linux kernel in a Vagrant box then be sure to upgrade the "addons" for your provider.
+
+[[https://groups.google.com/forum/#!topic/vagrant-up/sTYxl97cnTE][Here]] is a post on how to do it with virtualbox.
+
+
+

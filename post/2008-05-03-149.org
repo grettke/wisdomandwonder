@@ -1,0 +1,23 @@
+#+POSTID: 149
+#+DATE: [2008-05-03 Sat 13:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Latently Typed, Programming Language, Smalltalk
+#+TITLE: An Introduction to Seaside
+
+From the page on [[http://www.lulu.com/content/2234565][An Introduction to Seaside]]:
+
+
+
+#+BEGIN_QUOTE
+  Seaside is a Web development framework implemented in Smalltalk. It allows the easy creation of powerful Web applications using high level abstractions on the application components and on the underlying hypertext transfer protocol.
+#+END_QUOTE
+
+
+
+While I have not read this book, I did take a dive into Squeak Smalltalk and heard a wonderful 4 hour presentation on Seaside by Avi Bryant. Seaside takes a novel approach to web application development that looks quite fun.
+
+This book looks like a great read!
+
+
+

@@ -1,0 +1,19 @@
+#+POSTID: 1992
+#+DATE: [2009-02-28 Sat 01:43]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Scheme is the Rodney Dangerfield of languages
+
+#+BEGIN_QUOTE
+  Scheme is the Rodney Dangerfield of languages: no respect from the FP community, the OOP community, or the imperative community, even though it actually does all those things well.
+#+END_QUOTE
+
+-- John Cowan
+
+(via [[http://lists.r6rs.org/pipermail/r6rs-discuss/2009-February/004366.html][R6RS]])
+
+
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 3919
+#+DATE: [2009-09-21 Mon 14:21]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Ide, PLT, Programming Language, Scheme
+#+TITLE: Using Syntax Highlighting to Flag Mutation
+
+As Robby describes [[http://blog.plt-scheme.org/2009/09/set-vs-set-box-and-unbox.html][here]], in a recent build of DrScheme he added mutation flagging to the syntax-highlighting.
+
+
+

@@ -1,0 +1,15 @@
+#+POSTID: 271
+#+DATE: [2008-07-20 Sun 18:21]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Setting the memory limit in DrScheme
+
+When you use DrScheme, you should be sure to set the memory limit by going to the menu-item:
+
+=Scheme->Limit Memory=
+
+Doing so allows DrScheme to "play nice" with the operating system when you write some code that eats up all of the free memory. Rather than taking the whole operating system down; DrScheme dies gracefully.
+
+
+

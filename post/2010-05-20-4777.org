@@ -1,0 +1,15 @@
+#+POSTID: 4777
+#+DATE: [2010-05-20 Thu 19:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Statistics
+#+TITLE: Markov Chains and Monte-Carlo Simulation
+
+Ever wondered why Markov Chains in Monte Carlo methods converge after enough iterations?
+
+I did.
+
+Tanvir shared [[http://www.mathematik.uni-ulm.de/stochastik/lehre/ss06/markov/skript_engl/][this]] link with me to find out why.
+
+
+

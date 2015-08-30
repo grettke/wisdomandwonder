@@ -1,0 +1,19 @@
+#+POSTID: 4512
+#+DATE: [2010-01-31 Sun 18:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Clojure, Fun, Java, Programming Language
+#+TITLE: Funny Java Standards
+
+#+BEGIN_QUOTE
+  Swing is the GUI standard for Java. Clojure is the awesomeness standard for Java.
+#+END_QUOTE
+
+
+
+
+
+(via [[http://stuartsierra.com/2010/01/02/first-steps-with-clojure-swing][Stuart]])
+
+
+

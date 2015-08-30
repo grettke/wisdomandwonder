@@ -1,0 +1,11 @@
+#+POSTID: 4488
+#+DATE: [2010-01-23 Sat 14:01]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Computational Science, Computer Science, Learning, PhD, Statistics
+#+TITLE: Spring 2010 Classes
+
+In Spring of 2010 I am taking two classes: MSCS 6020: Simulation ([[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/01/syllabus_6020_Spring10.pdf][syllabus]]) and MSCS 6060: Parallel & Distributed Systems ([[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/01/MSCS6060_-Parallel-Computing-Spring-2010.pdf][syllabus]]).
+
+
+

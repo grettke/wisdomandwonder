@@ -1,0 +1,15 @@
+#+POSTID: 1490
+#+DATE: [2009-01-02 Fri 19:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Concatenative, Programming
+#+TITLE: The Joy programming language
+
+A few weeks ago I was asking about stack based languages in #scheme. I would like to learn more about them and I was looking for a good language with which to start.
+
+[[http://en.wikipedia.org/wiki/Joy_(programming_language)][Joy]] was pointed out as a great place to start, and in particular [[http://www.latrobe.edu.au/philosophy/phimvt/joy/j01tut.html][this tutorial]] is the best place to start with Joy.
+
+From what the Joyer in #scheme shared and from what I have read, Joy seems to be a very interesting language as it is very Lisp like in its simplicity and extensibility.
+
+
+

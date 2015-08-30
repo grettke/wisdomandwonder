@@ -1,0 +1,21 @@
+#+POSTID: 3998
+#+DATE: [2009-09-26 Sat 00:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: mathematics
+#+TITLE: The Mathematics Genealogy Project
+
+#+BEGIN_QUOTE
+  
+The intent of [[http://genealogy.math.ndsu.nodak.edu/][this]] project is to compile information about ALL the mathematicians of the world. We earnestly solicit information from all schools who participate in the development of research level mathematics and from all individuals who may know desired information.
+
+Please notice: Throughout this project when we use the word "mathematics" or "mathematician" we mean that word in a very inclusive sense. Thus, all relevant data from statistics, computer science, or operations research is welcome.
+
+#+END_QUOTE
+
+
+
+You can trace lineages as far back as Euler.
+
+
+

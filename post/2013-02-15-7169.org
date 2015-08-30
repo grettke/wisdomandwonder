@@ -1,0 +1,19 @@
+#+POSTID: 7169
+#+DATE: [2013-02-15 Fri 03:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 02947, CB750, CB750F, Honda, Motorcycle, Repair
+#+TITLE: CB750F: Day 15
+
+Stopped at Tom's house and bought a side cover, but the back end pin was missing. Between the two of them I should be able to fabricate one. John from The Shop happened to be sitting there, so I talked to them for a while. Stopped at The Shop the next day but they didn't have the float valves, so they ordered them for Tuesday.
+
+At class I install the air cuts, slowly, and cleaned the air cut covers for 1 and 4 again, they were filthy for some reason. Tightened up the pucks to the required tightness. Cleaned the air cut passages themselves with carb cleaner and guitar string and finally they were clear. Those were all sealed to a two-finger tightness. Installed all of them. On carb 2 Pat said that something non-metal could hold the throttle plate open fine. 
+
+Replaced the gaskets in the float bowl drain screws. Started removing the gaskets from the connecting hardware between the carbs. It was rotten hard in place and required a pick to get it off. The locking grip was my new best friend. 
+
+The hex key buttonhead screws are nice. Replaced the keychain with a much nicer one, too.
+
+[gallery ids="7171,7172,7173,7174,7175,7176,7177,7178,7179,7180,7181,7182,7183,7184,7188,7189,7190"]
+
+
+

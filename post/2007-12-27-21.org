@@ -1,0 +1,70 @@
+#+POSTID: 21
+#+DATE: [2007-12-27 Thu 20:04]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Lisp, Macros, Programming Language, Ruby, Scheme
+#+TITLE: Rubys Upto in a Scheme macro
+
+For a lot of folks, Ruby has a syntax that is really irresistible. Iteration is one of the things in particular that is described as being quite simply, fun. Here is how it works:
+
+
+
+Pass a message to the integer start index which includes both the inclusive stop index and a single argument function that is to be called with the current index in the iteration. The implementation of this feature, which can be found [[http://ruby-doc.org/core/classes/Integer.src/M001158.html][here]], is written nearly as you would imagine, albeit in C. Here is how the code looks when you call this function:
+
+
+#+BEGIN_EXAMPLE
+    
+1.upto(3) {|x| printf "#{x}\n"}
+1
+2
+3
+
+#+END_EXAMPLE
+
+
+
+With my programmer's glasses on this, I would say that this syntax feels nice. In fact, it feels nice enough to think about adding a feature like this to Scheme. Here is what I came up with:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(define-syntax from
+  (syntax-rules (upto)
+    ((from x upto y fn)
+     (let ([finish (add1 y)])
+       (let loop ([cur x])
+         (if (not (= cur finish))
+             (begin
+               (fn cur)
+               (loop (add1 cur)))))))))
+
+#+END_EXAMPLE
+
+
+
+Here is how the Ruby sample from above looks in Scheme.
+
+
+#+BEGIN_EXAMPLE
+    
+(from 1 upto 3 (λ (x) (printf "~a~n" x)))
+1
+2
+3
+
+#+END_EXAMPLE
+
+
+
+
+What do you think? The two samples really don't look all that different.
+
+Grow-able languages are truly exciting. If you want to add a feature to the language, you add it. 
+
+Programming with grow-able languages takes you from “power-user” to /empowered-user/!
+
+Which would you rather be?
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 6757
+#+DATE: [2012-12-03 Mon 19:41]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: Great post on Elisp hacking in Emacs
+
+[[http://www.masteringemacs.org/articles/2010/11/29/evaluating-elisp-emacs/][Here]] is a great post on Elisp hacking in Emacs. 
+
+Cache [[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/12/Evaluating-Elisp-in-Emacs-_-Mastering-Emacs.pdf][here]].
+
+
+

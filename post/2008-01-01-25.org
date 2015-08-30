@@ -1,0 +1,17 @@
+#+POSTID: 25
+#+DATE: [2008-01-01 Tue 17:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: XO
+#+TITLE: Imaging your OLPC XO
+
+[[http://wiki.laptop.org/go/Activated_Upgrade][This page]] explains how to image your OLPC XO if you have hosed it up somehow.
+
+I've followed the steps and it works like a charm.
+
+If you instead only want to upgrade your system to a newer release, you should follow the steps [[http://wiki.laptop.org/go/Olpc-update][here]].
+
+
+
+
+

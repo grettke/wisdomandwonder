@@ -1,0 +1,19 @@
+#+POSTID: 9357
+#+DATE: [2014-12-09 Tue 02:01]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Hardware, Programming, Software
+#+TITLE: People who are really serious about software
+
+#+BEGIN_QUOTE
+  
+People who are really serious about software should make their own hardware.
+
+#+END_QUOTE
+
+
+-- Alan Kay
+
+
+
+

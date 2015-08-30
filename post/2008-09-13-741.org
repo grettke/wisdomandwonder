@@ -1,0 +1,15 @@
+#+POSTID: 741
+#+DATE: [2008-09-13 Sat 03:37]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Study-HTDP
+#+TITLE: Working with Google Groups
+
+Overall it has been a pleasant experience working with Google Groups. 
+
+Rather than set up a server, install the wiki, file share, and listserve myself, and host it on the Internet; I can set up a group there instead. It is pretty convenient. Additionally, their interface is pleasant and search works pretty well (no surprises on that one!).
+
+One decision that I made is that anyone can join the group, there are no restrictions. Additionally, there is no moderation on posts. I hope to encourage a certain atmosphere and culture. Thus far it has worked well.
+
+
+

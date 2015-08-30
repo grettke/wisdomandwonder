@@ -1,0 +1,19 @@
+#+POSTID: 8674
+#+DATE: [2014-06-07 Sat 21:32]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: org-scraps
+
+Every org-mode literate programmer must at least become aware of [[https://eschulte.github.io/org-scraps/][org-scraps]].
+
+Studying and mastering each of them brings you further down the path of org-mode literate programming mastery.
+
+*Addendum:* 
+
+[[https://github.com/eschulte/babel-dev/blob/master/scraps.org][Here]] is perhaps a better link.
+
+These examples to reveal the evaluation model, which is helpful for understanding what exactly is possible with babel. For example, I like the use of a var binding to force evaluation before a computation is performed, unnamed source blocks may still tangle code, the noweb ref expansion without a newline clearly shows successfully integration between the noweb feature and the shell language, noweb variable index syntax, single line data blocks, examples of argument variable binding, obtaining values in code that are defined as properties by SHA1 id which is kind of radical when you stare at it, unnamed variables in a call, inline function call, and there I must stop. The file is 5960 lines long. It will take some time to work through it. Perhaps a better approach would be to a need first, though.
+
+
+

@@ -1,0 +1,25 @@
+#+POSTID: 891
+#+DATE: [2008-10-15 Wed 16:49]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: HTDP, Learning, Programming, Teaching
+#+TITLE: HtDP Languages and Math
+
+A [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-October/027779.html][comment]] by Matthais on the nature of the first three HtDP languages:
+
+
+
+#+BEGIN_QUOTE
+  HtDP's first three teaching languages are basically mathematics, ignoring the parentheses. We use
+ -- arithmetic, for many different forms of data
+ -- algebra, for (potentially conditional) function definitions
+ -- pre-calculus, for induction and recursion (these things converge, like series)
+#+END_QUOTE
+
+
+
+
+
+
+
+

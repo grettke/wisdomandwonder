@@ -1,0 +1,13 @@
+#+POSTID: 22
+#+DATE: [2007-12-27 Thu 23:03]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Conference, Functional, Programming Language
+#+TITLE: CUFP 07 Write-Up now available
+
+A write-up on the Commercial Users of Functional Programming 07 conference is now available [[http://cufp.galois.com/CUFP-2007-Report.pdf][here]].
+
+It is definitely worth a read for folks who wonder about the “real world” problems that are solved using functional programming. There is a nice mix of both languages and problem domains, and the tone is pretty laid back.
+
+
+

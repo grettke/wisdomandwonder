@@ -1,0 +1,25 @@
+#+POSTID: 5310
+#+DATE: [2010-09-25 Sat 02:47]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: ML, OCaml, Programming Language
+#+TITLE: Enhanced Ocaml Documentation Version 3.12
+
+The [[http://www.askra.de/ocaml-doc/3.12][Enhanced Ocaml Documentation]] is provided by Hendrik Tews; basically it visually highlights any difference between the previous and current version of the documentation. Here is how he does it:
+
+
+
+#+BEGIN_QUOTE
+  
+I diff the txt versions of the reference manual and change the html version by hand. For the grammar rule index I use a tool and manual editing.
+#+END_QUOTE
+
+
+--Hendrik Tews
+
+Wow. What a labor of love. Be sure to give him a hand!
+
+(via [[http://caml.inria.fr/pub/ml-archives/caml-list/2010/09/1a6851c39a25cb011ac6a57ef3eda729.en.html][Caml-list]])
+
+
+

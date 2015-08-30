@@ -1,0 +1,15 @@
+#+POSTID: 2819
+#+DATE: [2009-05-01 Fri 02:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Muvee Scheme
+
+[[http://code.google.com/p/muvee-style-authoring/][Muvee Scheme]] serves as the foundation and scripting engine for [[http://www.muvee.com/en/products/reveal/][muvee Reveal]], a personal movie editing program.
+
+Looks like it might be interesting.
+
+(via [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/e47ae1e3723ef24c/257b411fe1385766?lnk=gst&q=muvee#257b411fe1385766][comp.lang.scheme]])
+
+
+

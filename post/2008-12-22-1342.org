@@ -1,0 +1,13 @@
+#+POSTID: 1342
+#+DATE: [2008-12-22 Mon 02:32]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Google APIs with PLT Scheme
+
+Eli shared some sample code [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-December/029245.html][here]] for working with the Google APIs. 
+
+This would be a good project for someone to implement and add to [[http://planet.plt-scheme.org/][PLaneT]] :).
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 172
+#+DATE: [2008-05-05 Mon 00:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, VI
+#+TITLE: VI Commands Translated to Emacs
+
+[[http://grok2.tripod.com/][Here]] is a good page that gives VI users the equivalent Emacs commands for very common actions.
+
+This is sure to help those of us making the transition!
+
+
+

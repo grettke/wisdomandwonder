@@ -1,0 +1,11 @@
+#+POSTID: 472
+#+DATE: [2008-08-14 Thu 13:12]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Update
+#+TITLE: Updated: Live Coding with Fluxus
+
+See [[http://www.wisdomandwonder.com/link/128/live-coding-with-fluxus][here]]
+
+
+

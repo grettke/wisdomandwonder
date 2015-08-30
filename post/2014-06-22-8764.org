@@ -1,0 +1,32 @@
+#+POSTID: 8764
+#+DATE: [2014-06-22 Sun 14:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Line snippet helper for posting code
+
+On the org list there are a few ways that people post code indicate the start and end of that code. This is my version that might work in any mode:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(defun gcr/insert-noticeable-snip-comment-line ()
+  "Insert a noticeable snip comment line (NSCL)."
+  (interactive)
+  (if (not (bolp))
+      (message "I may only insert a NSCL at the beginning of a line.")
+    (let ((ncl (make-string 70 ?✂)))
+      (newline)
+      (previous-line)
+      (insert ncl)
+      (comment-or-uncomment-region (line-beginning-position) (line-end-position)))))
+
+#+END_EXAMPLE
+
+
+
+*ADDENDUM: 2014-06-22T10:18:59-0500:* Added newline first
+
+
+

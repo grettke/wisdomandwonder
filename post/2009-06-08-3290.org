@@ -1,0 +1,11 @@
+#+POSTID: 3290
+#+DATE: [2009-06-08 Mon 15:03]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Utility
+#+TITLE: Clearing the Terminal Screen in Cygwin
+
+It bugged me that Cygwin didn't include the 'clear' command. [[http://hafizpariabi.blogspot.com/2008/02/no-clear-command-in-cygwin-default.html][This]] post explains that installing the 'ncurses' package will add clear; and also that C:l will clear the screen in bash. Thanks Hafiz!
+
+
+

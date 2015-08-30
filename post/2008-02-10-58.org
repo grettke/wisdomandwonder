@@ -1,0 +1,13 @@
+#+POSTID: 58
+#+DATE: [2008-02-10 Sun 19:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp
+#+TITLE: Dynamic video game development
+
+What would /you/ do if you could use your favorite scripting language to dynamically call in to all sorts of libraries and frameworks native to your operating system?
+
+This is probably very possible with your favorite scripting language; but is it is fun as hearing about doing so to [[http://nightschool.near-time.net/news/2007/12/19/re-steve-yegge-codes-worst-enemy][write video games in Lisp]]?
+
+
+

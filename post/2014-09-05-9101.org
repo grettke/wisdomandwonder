@@ -1,0 +1,18 @@
+#+POSTID: 9101
+#+DATE: [2014-09-05 Fri 00:27]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Algorithmic Trading, Big Data, Business Intelligence, Data Analysis and Modeling, Data Mining, Data Visualization, Data science, Financial Engineering, Machine Learning, Mathematical Modelling, Predictive Analytics, Quantitative Analysis, Quantitative Finance, R-Project, Risk Management, Statistical Computing, philosophy
+#+TITLE: The Wealth of Information
+
+#+BEGIN_QUOTE
+  A wealth of information creates a poverty of attention.
+#+END_QUOTE
+
+
+-- Herbert Simon
+
+Via [[http://joelcadwell.blogspot.com/2014/09/attention-is-preference-foundation.html][EMR]].
+
+
+

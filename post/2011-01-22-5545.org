@@ -1,0 +1,13 @@
+#+POSTID: 5545
+#+DATE: [2011-01-22 Sat 00:14]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Eclipse, Ide
+#+TITLE: Refreshing Eclipse
+
+After installing a customized version of Eclipse I was horrified to find that automatic workspace refresh was disabled!
+
+Not anymore.
+
+
+

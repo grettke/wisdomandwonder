@@ -1,0 +1,13 @@
+#+POSTID: 6077
+#+DATE: [2011-12-18 Sun 21:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Android, Programming Language, Scheme
+#+TITLE: Chibi likely to be deployed on Android next
+
+Via [[http://groups.google.com/group/chibi-scheme/browse_thread/thread/431b49f8512cb894][this thread]].
+
+
+
+
+

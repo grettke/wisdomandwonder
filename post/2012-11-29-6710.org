@@ -1,0 +1,11 @@
+#+POSTID: 6710
+#+DATE: [2012-11-29 Thu 20:07]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Utility
+#+TITLE: Nice SFTP Server for Windows: KPYM
+
+Check it out [[http://www.kpym.com/2/kpym/index.htm%20][here]]. It is free and open and donations are recommended.
+
+
+

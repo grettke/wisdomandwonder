@@ -1,0 +1,18 @@
+#+POSTID: 8827
+#+DATE: [2014-07-09 Wed 19:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: org-gamify
+
+#+BEGIN_QUOTE
+  Org-agenda module for turning task management into a game.
+#+END_QUOTE
+
+
+-- via [[https://bitbucket.org/eeeickythump/org-gamify][here]]
+
+Haven't read the overview yet but skimming it, it appears to be rich and thoughtful. Perfect timing for those of us curious about gamification.
+
+
+

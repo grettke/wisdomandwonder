@@ -1,0 +1,11 @@
+#+POSTID: 9209
+#+DATE: [2014-09-29 Mon 00:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Algorithmic Trading, Big Data, Business Intelligence, Data Analysis and Modeling, Data Mining, Data Visualization, Data science, Financial Engineering, Machine Learning, Mathematical Modelling, Predictive Analytics, Quantitative Analysis, Quantitative Finance, R-Project, Risk Management, Statistical Computing, philosophy
+#+TITLE: ProPublica’s Guide to Mechanical Turk
+
+[[http://www.propublica.org/article/propublicas-guide-to-mechanical-turk][ProPublica's Guide to Mechanical Turk]] seems to definitely be worth a read.
+
+
+

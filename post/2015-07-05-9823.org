@@ -1,0 +1,17 @@
+#+POSTID: 9823
+#+DATE: [2015-07-05 Sun 17:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme, forth
+#+TITLE: A Scheme Interpreter in Forth
+
+#+BEGIN_QUOTE
+  [[http://www.complang.tuwien.ac.at/schani/oldstuff/#schemeinforth][This]] is an interpreter for a really simple dynamically scoped Scheme dialect. It only runs with Gforth, because it uses Gforth's structs to implement its data structures.
+#+END_QUOTE
+
+
+
+
+
+
+

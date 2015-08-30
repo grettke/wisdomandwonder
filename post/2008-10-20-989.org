@@ -1,0 +1,24 @@
+#+POSTID: 989
+#+DATE: [2008-10-20 Mon 16:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: IrRegular Expressions
+
+IrRegex version 0.7.0 is now available [[http://synthcode.com/scheme/irregex/][here]]: 
+
+
+
+#+BEGIN_QUOTE
+  A fully portable and efficient R[456]RS implementation of regular expressions, supporting both POSIX syntax with various (irregular) PCRE extensions, as well as SCSH's SRE syntax, with various aliases for commonly used patterns. DFA matching is used when possible, otherwise a closure-compiled NFA approach is used. The library makes no assumptions about the encoding of strings or range of characters and can thus be used in Unicode-aware Scheme implementations. Matching may be performed over standard Scheme strings, or over arbitrarily chunked streams of strings.
+#+END_QUOTE
+
+
+
+IrRegex is portable between R4RS, R5RS, and R6RS; and almost completely [[http://en.wikipedia.org/wiki/PCRE][PCRE]] compatible. Very nice!
+
+(via [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/6ab5281b402e994d#][comp.lang.scheme]])
+
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 8204
+#+DATE: [2014-01-23 Thu 03:04]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Computer Science, Programming, Programming Language, compiler, interpreter, philosophy
+#+TITLE: The Role Of Compiler and Interpreter Writers
+
+Compiler and interpreter writers fill a delightful yet barely occupied role of those who are tasked with bridging the literal gap between machine and implementation and philosophical gap between desire for feature and fulfillment. 
+
+My lack of experience in the topic and with such professionals leaves me surprised that not more roles and holders of the expertise exist compared to the more common areas of implementation.
+
+
+

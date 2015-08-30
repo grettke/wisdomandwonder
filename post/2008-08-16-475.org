@@ -1,0 +1,207 @@
+#+POSTID: 475
+#+DATE: [2008-08-16 Sat 17:36]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Learning, Programming Language, Scheme, Teaching
+#+TITLE: Addressing slow looping
+
+In the comp.lang.lisp post [[http://groups.google.com/group/comp.lang.lisp/browse_thread/thread/52961c689bb418eb#][[Slow Loop (alternatives in lisp?)]]] Francogrex asked how to implement pivot table functionality without it taking forever using inner loops. Folks posted clearly faster solutions along with good advice. By the way, taking forever means 12 hours for inputs of 1 million data points.
+ 
+I wondered how you might lead someone down the path to understand how to approach solving a problem (this is pre-HTDP). Here is what I came up with, primarily for myself, mostly as a thought exercise.
+
+Now you have the solution. Here is something else to think about, how that solution was reached. 
+ 
+What was your problem statement? You described it as wanting an Excel style pivot table that adds up similar items. Make what you already know a little more exactly:
+ 
+You got a set C, of collections, of integers: C [a, b, c ,d, e, ...] .
+ 
+Your goal is to provide the sum of each collection and present it to the user. The problem is that rather than defining the collections individually like this (Using PLT Scheme notation):
+
+
+#+BEGIN_EXAMPLE
+    
+; $LastChangedDate: 2008-08-16 12:27:49 -0500 (Sat, 16 Aug 2008) $
+; $LastChangedRevision: 2718 $
+; $HeadURL: svn://osiris/scheme-grant/trunk/slow-loop.scm $
+#lang scheme
+(require (planet schematics/schemeunit:3)
+         (prefix-in srfi/1: srfi/1))
+
+(define collection-A '(1 4 3 6 1 3 5))
+(define collection-B '(8 5 2 7 4 8 9))
+
+#+END_EXAMPLE
+
+
+
+They are defined in two separate lists like this:
+
+
+
+#+BEGIN_EXAMPLE
+    
+
+(define collection-names'("a" "b" "c" "d" "e" "a" "b"))
+(define collection-values '(1 4 2 7 5 2 1))
+
+#+END_EXAMPLE
+
+
+The implication being that collection-names is a list of symbols (or some other object) that represent the collection, and collection-values is a list of integers, and that both lists are the same size and when iterated over in order, the relationship between collection-names[n] and collection-values[n] is that the latter is a member of the former.
+
+Your goal is to do something like (apply + collection-A), (apply + collection-B) and so on, but you can't because of the given constraints. Ask yourself what is the next best thing? 
+
+The simplest thing is to start by getting the value, and the collection to which it belongs (after doing that you can figure out what to do with it).
+
+At this point, there are a few ways to get closer to your goal, and you should pursue the easiest one right now. The reason is that the way you are solving the problem is most important at this point. You already did that, and it was too slow. Since you are using 1 million data points, now you have to think about how to optimize your solution.
+
+Your solution does too much work. For every element that is in the list, it will iterate over the entire list that many times (N*N). That would imply that when you do the work, you actually need to go back to the beginning because you care about all of the values in there. In the case of a pivot table, though, you don't. Here is why:
+
+Suppose you've got the data a:1, b:4, c:2, d:7, e:5, a:2, b:1. When you, I mean *you* read it, you go along saying "1 is member of a", and since you know you don't want to save it, all you want to do is to sum up the members of a, you can apply 1 to the sum of the members of the collection a. So straight away you would say "the current sum of members of a is 0, I'll add 1 to it, so now the sum is 1", you make a mental note of this. Now you look at the rest of the list: b:4, c:2, d:7, e:5, a:2, b:1 and do the same thing, and you keep repeating that until you are finished. This is our "counting algorithm". What we'll do in the code is replace our "memory" with a hashtable that stores sums for a given collection.
+
+There are two ways to get the data into pair values like this. Here is the first way:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(map cons collection-names collection-values)
+
+; > (("a" . 1) ("b" . 4) ("c" . 2) ("d" . 7) ("e" . 5) ("a" . 2) ("b" . 1))
+
+#+END_EXAMPLE
+
+
+
+Now we can implement the counting algorithm (which expects pairs), and uses an immutable hash table:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(define (counting-algorithm1 pairs sums)
+  (if (null? pairs) sums
+      (let* ([pair (car pairs)]
+             [name (car pair)]
+             [value (cdr pair)]
+             [old-value (hash-ref sums name 0)])
+        (counting-algorithm1 (cdr pairs) (hash-set sums name (+ old-value value))))))
+
+(define c1-pairs (map cons collection-names collection-values))
+(define c1-results (counting-algorithm1 c1-pairs (make-immutable-hash '())))
+c1-results
+
+; And run it to get the result.
+; > #hash(("c" . 2) ("d" . 7) ("a" . 3) ("b" . 5) ("e" . 5))
+
+; We'll test it to be sure this is what we expect:
+
+(define (check-sums sums)
+  (check-equal? (hash-ref sums "a") 3 "Collection A")
+  (check-equal? (hash-ref sums "b") 5 "Collection B")
+  (check-equal? (hash-ref sums "c") 2 "Collection C")
+  (check-equal? (hash-ref sums "d") 7 "Collection D")
+  (check-equal? (hash-ref sums "e") 5 "Collection E"))
+
+(check-sums c1-results)
+
+#+END_EXAMPLE
+
+
+
+This seems to work correctly. The problem with it, though, is that it loops over the entire data set twice: the first time is to generate the pairs and the second time is to execute the counting algorithm. Ideally we could pair the values *and* execute the counting algorithm in the same step reducing execution time to N. We can start by looking at another way to build pairs, but this time doing nothing with the resulting pair.
+
+
+
+#+BEGIN_EXAMPLE
+    
+(define (associate-values names values)
+  (unless (null? names)
+    (let ([name (car names)] [value (car values)])
+      (printf "~a:~a~n" name value))
+    (associate-values (cdr names) (cdr values))))
+
+(associate-values collection-names collection-values)
+
+; For which you get the result:
+; > a:1
+; > b:4
+; > c:2
+; > d:7
+; > e:5
+; > a:2
+; > b:1
+
+#+END_EXAMPLE
+
+
+
+By looking at the relationship, you can see that the collection a has 1 and 2 in it, and b has 4 in it, and so on. This is the same thing that we did before. The difference with this approach, though, is that we can integrate our counting algorithm right in to it.
+
+
+
+#+BEGIN_EXAMPLE
+    
+(define (counting-algorithm2 names values sums)
+  (if (null? names) sums
+      (let* ([name (car names)] 
+             [value (car values)]
+             [old-value (hash-ref sums name 0)])
+        (counting-algorithm2 
+         (cdr names) (cdr values) (hash-set sums name (+ old-value value))))))
+
+; We'll test the results here, too:
+
+(define c2-results 
+  (counting-algorithm2 
+   collection-names 
+   collection-values 
+   (make-immutable-hash '())))
+c2-results
+
+(check-sums c2-results)
+
+; Both approaches seem to yield the same result. The difference is in execution times
+; in large data sets. Have a look:
+
+(define data-set-size 1000000)
+(define collection-names-size 5) ; Only ever use ("a" "b" "c" "d" "e")
+(define collection-names-chunk-size (/ data-set-size collection-names-size))
+
+(define large-collection-names #f)
+(set! 
+ large-collection-names
+ (append
+  (srfi/1:make-list collection-names-chunk-size "a")
+  (srfi/1:make-list collection-names-chunk-size "b")
+  (srfi/1:make-list collection-names-chunk-size "c")
+  (srfi/1:make-list collection-names-chunk-size "d")
+  (srfi/1:make-list collection-names-chunk-size "e")))
+  
+(define large-collection-values (srfi/1:make-list data-set-size 1))
+
+(time (counting-algorithm1 
+       (map cons large-collection-names large-collection-values)
+       (make-immutable-hash '())))
+
+(time (counting-algorithm2 
+       large-collection-names 
+       large-collection-values 
+       (make-immutable-hash '())))
+
+#+END_EXAMPLE
+
+
+
+I ran each a few times to get the results: Algorithm 1: 1484, 1391, 1438, 1313, 1406, Algorithm 2: 984, 968, 953, 969, 938.
+
+You can process 1 million values in under a second using algorithm 2, versus 1.5 with algorithm one. I was expecting N versus 2N, not 1.5N. I wonder why there is a difference. Additionally, once in a while when I run algorithm 1, it takes more than twice as long, so for now I threw those values out.
+
+More research is required here.
+
+This was an interesting thought experiment to perform. Teaching (explaining) takes skill and practice, clearly. I'm glad I started with a friendly audience, namely, myself; teaching is tough!
+
+The source code is [[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/08/slow-loop.scm][here]]. (Currently the syntax-highlighting has a bug in how it formats Scheme code, inserting too many forward slashes).
+
+
+

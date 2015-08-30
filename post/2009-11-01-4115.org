@@ -1,0 +1,13 @@
+#+POSTID: 4115
+#+DATE: [2009-11-01 Sun 05:08]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: A Library for Conditional Module Inclusion and Compilation in PLT Scheme
+
+[[http://planet.plt-scheme.org/display.ss?package=os.plt&owner=bzlib][Here]] is a library to do it. Thanks YC!
+
+(via [[http://groups.google.com/group/plt-scheme/msg/8d590364d82c6112][PLT]])
+
+
+

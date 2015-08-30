@@ -1,0 +1,19 @@
+#+POSTID: 5255
+#+DATE: [2010-09-19 Sun 18:12]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, Programming Language, Racket, Scheme
+#+TITLE: A Proposal Against Parentheses in Racket
+
+[[http://shriram.github.com/p4p/][P4P]]:
+
+
+#+BEGIN_QUOTE
+  This document proposes an alternate syntax for Racket. It reduces the parenthetical burden, makes the language appear more traditional, and respects indentation, though not in the way you think. It does all this while retaining the essence of Racket syntax, and even offering a high degree of tool reuse.
+#+END_QUOTE
+
+
+(via [[http://www.mail-archive.com/users@racket-lang.org/msg01759.html][Racket-users]])
+
+
+

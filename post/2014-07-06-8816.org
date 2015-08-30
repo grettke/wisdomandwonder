@@ -1,0 +1,19 @@
+#+POSTID: 8816
+#+DATE: [2014-07-06 Sun 15:04]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Font, Graphics, HTML, Scalable Vector Graphics, Usability, User experience, User experience design, Vector Graphics, Word wide web
+#+TITLE: SCALABLE VECTOR GRAPHICS (SVG)
+
+#+BEGIN_QUOTE
+  [[http://www.w3.org/Graphics/SVG/][SVG]] is a markup language for describing two-dimensional graphics applications and images, and a set of related graphics script interfaces.
+#+END_QUOTE
+
+
+
+That is probably one of the "understatements of the century" kind of things. At least, it would appear that way to folks like myself who have never worked with such things (nor had the need to hand-code Postscript as seemingly many others have). 
+
+The fact that full access to the document is provided for the HTML container and is entirely accessible both to and from JavaScript makes this a quite amazing computational/visual platform.
+
+
+

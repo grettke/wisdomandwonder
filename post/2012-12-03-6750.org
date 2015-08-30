@@ -1,0 +1,11 @@
+#+POSTID: 6750
+#+DATE: [2012-12-03 Mon 19:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: parenface-plus Package for Emacs
+
+[[http://marmalade-repo.org/packages/parenface-plus][Here]] is an enhancement to [[http://marmalade-repo.org/packages/parenface][parenface]] that adds support for the editor and REPL for Clojure, Jess, and Elisp.
+
+
+

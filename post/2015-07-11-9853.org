@@ -1,0 +1,23 @@
+#+POSTID: 9853
+#+DATE: [2015-07-11 Sat 01:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Fun, forth
+#+TITLE: A FORTH on a TV Dream Machine
+
+The desire to build my own personal computer has been growing. My requirements are non-existent. That has never stopped anyone before, right? Not going down to the silicon, it seemed the making it inexpensive and FORTH driven would be the best approach. Using nothing more than a television and a keyboard also seemed like a great idea. Everything else would be a distraction. Anything costing much would be a barrier. Tonight I came upon the [[https://sites.google.com/site/libby8dev/fignition][FIGnition FUZE]]. This is my and surely your FORTH on a TV dream machine!
+
+
+
+#+BEGIN_QUOTE
+  FIGnition FUZE is the definitive £20 educational DIY computer! It works like an 8-bit home Micro: outputting to composite video and ready to be interactively programmed from the moment you switch it on. FUZE now has bitmapped graphics; sprites, sound and audio saving/loading as well as 8Kb of RAM; 384Kb of storage; an 8-key keypad and runs a variant of FIG-Forth. It uses USB for power; firmware upgrades and program downloads.
+#+END_QUOTE
+
+
+
+Just read "What Can It Do?" and you will be drooling. Faster than every 80s box ever? Yes. External flash appears as re-usable disk? Yes. Graphics? Yes. Audio system for loading/saving data? Yes. The list goes on.
+
+This is the vintage FORTH box that you have wanted to build all these years even though you didn't know it!
+
+
+

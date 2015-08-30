@@ -1,0 +1,17 @@
+#+POSTID: 9021
+#+DATE: [2014-08-31 Sun 14:10]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: 
+#+TITLE: crantastic
+
+#+BEGIN_QUOTE
+  [[http://crantastic.org/][crantastic]], a community site for R packages where you can search for, review and tag CRAN packages.
+#+END_QUOTE
+
+
+
+The keyword there is *review*. That is very helpful to get a sense of what packages are valued by the community because they may also be valuable to you.
+
+
+

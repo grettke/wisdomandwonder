@@ -1,0 +1,11 @@
+#+POSTID: 2614
+#+DATE: [2009-04-16 Thu 00:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Macros, Programming Language, Ruby
+#+TITLE: Macros in Ruby
+
+[[http://weblog.raganwald.com/2008/06/macros-hygiene-and-call-by-name-in-ruby.html][This]] looks like an interesting article about writing macros in Ruby.
+
+
+

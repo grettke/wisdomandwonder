@@ -1,0 +1,23 @@
+#+POSTID: 4523
+#+DATE: [2010-02-04 Thu 04:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Clojure, Emacs, Ide, Lisp, Programming Language, Scheme
+#+TITLE: ParEdit for Editing Lispy Languages
+
+#+BEGIN_QUOTE
+  [[http://www.emacswiki.org/emacs/ParEdit][ParEdit]] (paredit.el) is a minor mode for performing structured editing of S-expression data. The typical example of this would be Lisp or Scheme source code.
+
+ParEdit helps keep parentheses balanced and adds many keys for moving S-expressions and moving around in S-expressions.
+#+END_QUOTE
+
+
+
+That quote from EmacsWiki /really undersells/ Paredit, though. 
+
+Paredit makes it virtually *impossible to un-balance parentheses* (aka round, square, and curly brackets). 
+
+This mode would be especially interesting for folks avoiding Lisp because of the /nightmare of balancing parentheses/ is too much of an obstacle to overcome (in practice of course it really isn't, even if you don't use Paredit).
+
+
+

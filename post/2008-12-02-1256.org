@@ -1,0 +1,15 @@
+#+POSTID: 1256
+#+DATE: [2008-12-02 Tue 04:17]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: LaTeX, TeX, Utility
+#+TITLE: LaTeX Advice
+
+While reading [[http://albertskblog.blogspot.com/2008/08/useful-latex-preambles.html][this]] article, it occurred to me that one ought to approach LaTeX coding much as one would code in any other language: re-use whenever possible. 
+
+Aspiring TeXnicians should get comfortable with searching for packages that contain the desired functionality, and using them, rather than starting from scratch each time.
+
+Perhaps this is something of a no-brainer, but, it is very easy to get caught up in the fact that you are writing, rather then coding, while using LaTeX.
+
+
+

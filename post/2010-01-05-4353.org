@@ -1,0 +1,25 @@
+#+POSTID: 4353
+#+DATE: [2010-01-05 Tue 16:22]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Learning, ML, OCaml, Programming Language
+#+TITLE: OCaml Recommended Reading
+
+[[http://knauth.org/gsk/][Geoff]] recommended the following books for getting started with OCaml via [[http://www.wisdomandwonder.com/article/4315/using-virtualbox-for-ocaml/comment-page-1#comment-963][this]] comment:
+
+
+
+#+BEGIN_QUOTE
+  
+
+[[http://www.cs.caltech.edu/courses/cs134/cs134b/book.pdf][Introduction to Objective Caml]] by Jason Hickey
+
+[[http://caml.inria.fr/pub/docs/oreilly-book/index.html][Developing Applications With Objective Caml]] by Emmanuel Chailloux, Pascal Manoury and Bruno Pagano
+
+[[http://www.ffconsultancy.com/products/ocaml_for_scientists/index.html][OCaml for Scientists]]by Dr. Jon D. Harrop
+
+
+#+END_QUOTE
+
+
+

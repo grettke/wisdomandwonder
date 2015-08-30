@@ -1,0 +1,19 @@
+#+POSTID: 9096
+#+DATE: [2014-09-05 Fri 00:17]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: littler: a scripting front-end for GNU R
+
+#+BEGIN_QUOTE
+  [[http://dirk.eddelbuettel.com/code/littler.html][littler]] provides the r program, a simplified command-line interface for GNU R. This allows direct execution of commands, use in piping where the output of one program supplies the input of the next, as well as adding the ability for writing hash-bang scripts, i.e. creating executable files starting with, say, #!/usr/bin/r.
+#+END_QUOTE
+
+
+
+Wonderful, wonderful to know that this exists as it fills a definite void.
+
+Via [[http://dirk.eddelbuettel.com/blog/2014/09/01/#littler-0.2.0][Dirk Eddelbuettel]].
+
+
+

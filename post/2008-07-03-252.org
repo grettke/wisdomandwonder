@@ -1,0 +1,19 @@
+#+POSTID: 252
+#+DATE: [2008-07-03 Thu 20:31]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming, Programming Language, Scheme
+#+TITLE: The 90 Minute Scheme to C compiler
+
+#+BEGIN_QUOTE
+  90 minute video presentation from Marc Feeley, along with accompanying PowerPoint slides and source code, for a [[http://www.iro.umontreal.ca/%7Eboucherd/mslug/meetings/20041020/minutes-en.html][Scheme to C]] compiler. Good discussion of continuations and closures, as well as some dipping into the area of compiler construction.
+#+END_QUOTE
+
+
+
+I didn't work through this but it looks like it might be a fun project to undertake (I'll add it to the list).
+
+(via [[http://lambda-the-ultimate.org/node/349][LtU]])
+
+
+

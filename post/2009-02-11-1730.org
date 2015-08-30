@@ -1,0 +1,13 @@
+#+POSTID: 1730
+#+DATE: [2009-02-11 Wed 15:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: About the PLT Scheme Source Search
+
+John asked about the status of the [[http://www.plt-scheme.org/][PLT Scheme]] [[http://planet.plt-scheme.org/][PLaneT]] source search system [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-February/030345.html][here]]; to which Jens replied [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-February/030347.html][here]] and referenced this [[http://www.scheme.dk/blog/archive/2006_09_01_archive.html][post]]. This post has information about why you might want to use the search engine (find out where set! is abused!) and also links to all of his posts about the development of the engine itself.
+
+Jens mentions that he is not able to focus on maintenance at the moment; but if anyone is interested he would be happy to pass them the code.
+
+
+

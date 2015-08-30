@@ -1,0 +1,11 @@
+#+POSTID: 3123
+#+DATE: [2009-06-06 Sat 12:32]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming
+#+TITLE: The Inconsolata Font
+
+[[http://www.levien.com/type/myfonts/inconsolata.html][Inconsolata]] is my new favorite programming font. It looks great /and/ it works fine across Windows and OS X.
+
+
+

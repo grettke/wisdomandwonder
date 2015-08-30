@@ -1,0 +1,25 @@
+#+POSTID: 1919
+#+DATE: [2009-02-25 Wed 02:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: What does Scheme do well?
+
+#+BEGIN_QUOTE
+  What does Scheme do well? What does Scheme (not just RnRS Scheme, but Scheme more broadly) have that no one else has? It isn't lexical scope - everyone but elisp has that, these days. It isn't real first-class functions - lots of languages have that too. It isn't proper tail calls - ML does that right. It's not advanced compilers for functional languages - those are a dime a dozen. It's not even first-class control, which a few other languages have. And the REPL - even Python has that.
+
+It's macros. Since 1986, Scheme has had a macro system that other languages can't compete with, and haven't succeeded in matching in the last 23 years. And over those 23 years, Scheme hasn't stood still - Schemers have developed a vastly more expressive system in which huge numbers of new and powerful language extensions are possible.
+
+So I say, press our advantage. Improve the macro system. Show the programming language world what the real power of "a very small number of rules for forming expressions" is.
+
+That's not to say that we should neglect the other things that make Scheme a high-quality programming language. They are important, and Scheme needs a community that cares about all her aspects. But this is not the tail wagging the dog - it's knowing where our strengths lie.
+#+END_QUOTE
+
+-- Sam T.H.
+
+(via [[http://lists.r6rs.org/pipermail/r6rs-discuss/2009-February/004338.html][R6RS]])
+
+
+
+
+

@@ -1,0 +1,46 @@
+#+POSTID: 785
+#+DATE: [2008-09-20 Sat 14:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Study-HTDP
+#+TITLE: HtDP: Problem 10.1.9
+
+In problem 10.1.9, I wanted to force a problem to be recursive when it really wasn't. Matthias and Carl helped me see the difference [[http://groups.google.com/group/plt-scheme/browse_thread/thread/213ded41c52c3890?hl=en][here]] in the discussion that followed. Here are some notes:
+
+Matthias:
+
+
+#+BEGIN_QUOTE
+  
+In HtDP, the word "natural" is a technical word. It means
+
+if your INPUT data definition has a self-reference in the Nth clause for the Kth field then your template has a recursion in the Nth cond clause for the Kth field.
+
+Try this:
+
+An RD is one of:
+ -- 'doll
+ -- (cons RD empty)
+
+Problem: design a function that counts the number of cons layers around 'doll. 
+
+#+END_QUOTE
+
+
+
+Carl:
+
+
+#+BEGIN_QUOTE
+  what's so recursion about it? To be less cryptic, if you read your purpose statement, and apply it to the recursive call, does it make sense? Are you really solving a smaller instance of the same problem, or are you just solving a smaller problem? The former is recursion; the latter is not (and suggests either inlining or a helper function).
+
+For future reference, what I described is a way to tell after the fact whether what you wrote makes sense as recursion, but what Matthias described is the part of the design recipe that tells you whether to use it or not before you even start. Focus on what he said (and what's in the book) for figuring out how to apply recursion, and you'll find you can always answer what I asked with "yes". 
+
+#+END_QUOTE
+
+
+
+
+
+
+

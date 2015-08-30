@@ -1,0 +1,27 @@
+#+POSTID: 254
+#+DATE: [2008-07-03 Thu 20:43]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Teaching
+#+TITLE: TeachScheme, ReachJava
+
+#+BEGIN_QUOTE
+  A silent revolution has changed the way computer science is understood and taught. The modern curriculum no longer focuses on the constructs of a language and the state changes in the machine. Instead, programming is taught as a problem-solving process that starts from a thorough understanding of classes of data and objects. The [[http://www.teach-scheme.org/][TeachScheme! Project]] has been at the vanguard of this revolution; the new series is its natural extension to cover a seamless transition to object-oriented design using Java.
+#+END_QUOTE
+
+
+
+Teaching is hard, and getting people to change how they teach is even harder. TeachScheme! (read Teach Scheme, NOT!) 
+
+
+
+#+BEGIN_QUOTE
+  wants to turn Computing and Programming into an indispensable part of the liberal arts curriculum.
+#+END_QUOTE
+
+
+
+There are truly world class folks involved in this effort whom I trust. Though I do not yet understand the depth of this project, I find it fascinating, and inspiring.
+
+
+

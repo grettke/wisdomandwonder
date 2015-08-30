@@ -1,0 +1,11 @@
+#+POSTID: 6081
+#+DATE: [2011-12-18 Sun 22:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: LaTeX, TeX
+#+TITLE: Generating pretty diffs for LaTeX files
+
+[[http://www.ctan.org/tex-archive/support/latexdiff][This]] utility generates pretty diffs for LaTeX files. The example I was was of the 5th draft of R7RS [[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2011/12/r7rs-draft-5-diff.pdf][attached]] to this post. Thanks Alex Shinn for the link.
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 8538
+#+DATE: [2014-05-09 Fri 19:10]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Emacs Lisp, Ide, Programming
+#+TITLE: An Emacs FFI proof of concept
+
+Fun read [[http://nullprogram.com/blog/2014/04/26/][here]].
+
+Very much a nice to have despite no specific need.
+
+
+

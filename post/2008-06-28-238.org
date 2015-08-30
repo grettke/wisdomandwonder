@@ -1,0 +1,23 @@
+#+POSTID: 238
+#+DATE: [2008-06-28 Sat 12:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming, philosophy
+#+TITLE: An interview with Charles H. Moore 
+
+This [[http://www.computerworld.com.au/index.php/id;766897508;fp;16;fpid;1][interview with Charles H. Moore]] is a great read.
+
+
+
+#+BEGIN_QUOTE
+  I think it behooves new programmers to sample all the languages available. Forth is the only one that's fun. The satisfaction of finding a neat representation cannot be equaled in Fortran, C or even Lisp.
+#+END_QUOTE
+
+
+
+Well clearly he hasn't tried out Scheme :)
+
+(via [[http://www.findinglisp.com/blog/2008/06/forth-timelessness-redux.html][Dave]])
+
+
+

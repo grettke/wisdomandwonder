@@ -1,0 +1,23 @@
+#+POSTID: 7941
+#+DATE: [2013-07-17 Wed 14:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Angular, Framework, Javascript, Programming Language
+#+TITLE: Angular Unstable will be in Bower Soon
+
+Tried to install AngularJS unstable today via bower and followed this trail:
+
+
+-  [[https://github.com/angular/angular.js/issues/3098][make version 1.1.5 available on bower packages ( create a 1.1.5 tag )]]
+-  [[https://github.com/angular/bower-angular/issues/9][Include unstable versions]]
+-  [[https://github.com/bower/bower/issues/266][Bower should install stable components by default]]
+-  [[https://github.com/bower/bower/issues/188][Add support for semver 2.0.0-rc.1's build level]]
+
+
+
+to find that Bower currently doesn't support unstable releases due to a versioning issue, but, they will soon.
+
+In the meantime, [[https://github.com/michaelahlers][Michael Ahlers]] went above and beyond to provide an alternative [[https://github.com/PatternConsulting/bower-angular][here]].
+
+
+

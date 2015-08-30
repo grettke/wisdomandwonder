@@ -1,0 +1,11 @@
+#+POSTID: 8888
+#+DATE: [2014-08-17 Sun 00:01]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, R-Project, Statistics, applied statistics, emacs speaks statistics
+#+TITLE: Getting started with ess-tracebug for R
+
+[[https://code.google.com/p/ess-tracebug/wiki/GettingStarted][Here]] is a great overview how to get started with ess-tracebug.
+
+
+

@@ -1,0 +1,24 @@
+#+POSTID: 9275
+#+DATE: [2014-10-29 Wed 13:36]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Programming, R-Project, Teaching
+#+TITLE: Practicing debugging instance eca20d1a-21de-0a34-ff53-833f3aea7918
+
+
+[[https://groups.google.com/forum/#!searchin/knitr/Knitr$20giving$20different$20p-values$20than$20in$20the$20console%257Csort:relevance/knitr/7OHyzPVXnho/Hva-HwMyk6cJ][This]] post documents how bugs get de-bugged.
+
+
+
+
+
+
+
+It is short, and sweet, with enough depth to be interesting.
+
+
+
+
+
+
+

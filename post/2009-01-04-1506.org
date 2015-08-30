@@ -1,0 +1,18 @@
+#+POSTID: 1506
+#+DATE: [2009-01-04 Sun 03:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: 
+#+TITLE: Warp Speed Introduction to CLOS
+
+#+BEGIN_QUOTE
+  [[http://eval.apply.googlepages.com/guide.html][[The Warp Speed Introduction to CLOS]]] is an extremely short overview of the Common Lisp Object System (CLOS). Newcomers to CLOS are often intimidated by its apparent complexity and possibly confused by its unusual approach. For a long time I considered CLOS to be “too hairy”, but after working on a large project that made heavy use of CLOS, I found that CLOS is actually one of the simplest and easiest object systems to understand and use. The more complex parts of CLOS can be safely ignored.
+#+END_QUOTE
+
+
+
+(via [[http://funcall.blogspot.com/2007/04/restored-my-warp-speed-introduction.html][jrm]])
+
+
+
+

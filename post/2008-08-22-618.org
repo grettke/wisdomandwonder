@@ -1,0 +1,19 @@
+#+POSTID: 618
+#+DATE: [2008-08-22 Fri 02:50]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Programming, Scheme, Teaching
+#+TITLE: Teaching Programming Languages in a Post-Linnaean Age
+
+#+BEGIN_QUOTE
+  Programming language ``paradigms'' are a moribund and tedious legacy of a bygone age. Modern language designers pay them no respect, so why do our courses slavishly adhere to them? [[http://www.cs.brown.edu/~sk/Publications/Papers/Published/sk-teach-pl-post-linnaean/][This paper]] argues that we should abandon this method of teaching languages, offers an alternative, reconciles an important split in programming language education, and describes a textbook that explores these matters.
+#+END_QUOTE
+
+
+
+This is a nice paper explaining the author's rationale for his approach.
+
+(via [[http://www.plt-scheme.org/maillist/][PLT]])
+
+
+

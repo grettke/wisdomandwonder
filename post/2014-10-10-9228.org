@@ -1,0 +1,11 @@
+#+POSTID: 9228
+#+DATE: [2014-10-10 Fri 14:36]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: barNest in R
+
+[[http://rgm3.lab.nig.ac.jp/RGM/R_rdfile?f=plotrix/man/barNest.Rd&d=R_CC][barNest]] makes it easy to visualize the decomposition of categorical by its constuent parts.
+
+
+

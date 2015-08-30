@@ -1,0 +1,25 @@
+#+POSTID: 5904
+#+DATE: [2011-08-27 Sat 02:09]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 
+#+TITLE: Reflective Tape
+
+Wanting to add some more nighttime visibility I searched for reflective tape and found [[http://solutions.3m.com/wps/portal/3M/en_US/Traffic_Safety/TSS/Offerings/Products/Veh_Conspicuity_Markings/?PC_7_RJH9U5230GE3E02LECFTDQOVB5_nid=V0W5MLC6NBbeMRKM0WZXCWgl][this]]:
+
+
+
+#+BEGIN_QUOTE
+  
+3M™ Scotchlite™ Flexible Reflective Graphic Film Series 680
+
+Use this durable, flexible, enclosed-lens, retroreflective film to make permanent, multicolor commercial signs, striping, vehicle or railroad graphics. These graphics have a similar daytime and nighttime appearance. The film has positionable, pressure-activated adhesive and a total thickness of .007 to .008 inches.
+This enclosed-lens, retroreflective film is intended for making permanent, durable graphics. Applications include multicolor commercial vehicle graphics, railroad graphics, commercial signs and striping. Graphics subjected to fuel vapors or occasional spills can also be made with this film, and it is ideal for large graphics and graphics applied to corrugated substrates. This flexible film has excellent angularity, retains 90 percent of its retroreflectivity when totally wet, and resists cracking in cold climates. Graphics made with this film have a similar daytime and nighttime appearance, and film 680-85 has a black daytime appearance but reflects white at night.The combined thickness of the film and its adhesive is .007 to .008 inch. The adhesive is positionable and pressure-activated, which allows it to be repositioned during installation until pressure is applied to the film's surface. The adhesive is clear with silver underneath. The film has a 94 pound, polyethylene-coated paper liner. It applies best to flat, flat with rivets, moderate compound curves, or corrugated surfaces. Recommended substrates include aluminum, FRP and paint. This is not a removable product. Heat helps take off the top layer, but removing the adhesive requires a solvent-based remover. Refer to Instruction Bulletin 6.5 for more details about removal.When used according to written instructions, graphics made with this film are covered by the 3M™ MCS™ Warranty - the most comprehensive warranty in the industry. When used with compatible products, produced by a 3M Scotchprint® Graphics Authorized Manufacturer and applied according to written instructions, this film can be used to produce a Scotchprint® Graphic.Reference the Product Bulletin for more detailed information.
+#+END_QUOTE
+
+
+
+That sounds like a great product; just ordered a roll of the 1/2" tape from Amazon.
+
+
+

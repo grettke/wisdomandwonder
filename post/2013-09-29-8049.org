@@ -1,0 +1,11 @@
+#+POSTID: 8049
+#+DATE: [2013-09-29 Sun 16:07]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Operating System, Utility, Windows
+#+TITLE: How to delete a folder containing trailing spaces in Windows 7
+
+Use 7-Zip to rename the folder. Via [[http://superuser.com/questions/198256/how-to-delete-a-folder-containing-trailing-spaces][superuser]].
+
+
+

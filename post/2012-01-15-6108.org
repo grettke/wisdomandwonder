@@ -1,0 +1,31 @@
+#+POSTID: 6108
+#+DATE: [2012-01-15 Sun 15:01]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Dolphin, Linux, Programming Language, Smalltalk
+#+TITLE: Dolphin runs under Wine
+
+#+BEGIN_QUOTE
+  Folks, 
+
+As promised I have put up a blog post on how to get Dolphin running native under Wine (in this particular case on Mac OSX using a free product called WineSkin). You can find the blog at: 
+
+[[http://object-arts.com/blog/blog.html]] 
+
+There are a few videos to go along with the blog and these can be found in the OA video library at: 
+
+[[http://object-arts.com/support/videos.html]] 
+
+Best regards 
+
+Andy Bower 
+
+#+END_QUOTE
+
+
+
+
+(via [[http://groups.google.com/group/comp.lang.smalltalk.dolphin/browse_thread/thread/62a46f3334d11fdb/c14d0e058e55d656?show_docid=c14d0e058e55d656&pli=1][comp.lang.smalltalk.dolphin]])
+
+
+

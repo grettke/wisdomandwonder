@@ -1,0 +1,17 @@
+#+POSTID: 9765
+#+DATE: [2015-06-07 Sun 00:17]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Physics. Philosophy, Science
+#+TITLE: Reality doesn’t exist until we measure it, quantum experiment confirms
+
+#+BEGIN_QUOTE
+  [[http://www.sciencealert.com/reality-doesn-t-exist-until-we-measure-it-quantum-experiment-confirms][Australian scientists have recreated a famous experiment and confirmed quantum physics's bizarre predictions about the nature of reality, by proving that reality doesn't actually exist until we measure it - at least, not on the very small scale.]]
+#+END_QUOTE
+
+
+
+
+
+
+

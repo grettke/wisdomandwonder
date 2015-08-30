@@ -1,0 +1,11 @@
+#+POSTID: 3155
+#+DATE: [2009-06-06 Sat 13:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Objective-C, PLT, Programming Language, Scheme
+#+TITLE: Objective-C Bindings for PLT Scheme
+
+[[http://docs.plt-scheme.org/objc/index.html][Objective-C Bindings for PLT Scheme]] are included in the most recent release. They are brand new and apparently limited; but they are a start.
+
+
+

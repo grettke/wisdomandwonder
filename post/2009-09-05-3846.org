@@ -1,0 +1,17 @@
+#+POSTID: 3846
+#+DATE: [2009-09-05 Sat 04:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: philosophy
+#+TITLE: Being Scrappy
+
+#+BEGIN_QUOTE
+  What does it mean, exactly? It's basically the diminutive form of belligerent. Someone who's scrappy manages to be both threatening and undignified at the same time. Which seems to me exactly what one would want to be, in any kind of work. If you're not threatening, you're probably not doing anything new, and dignity is merely a sort of plaque.
+#+END_QUOTE
+
+
+
+(via [[http://www.paulgraham.com/kate.html][pg]])
+
+
+

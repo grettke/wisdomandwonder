@@ -1,0 +1,25 @@
+#+POSTID: 244
+#+DATE: [2008-06-28 Sat 14:42]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: XO
+#+TITLE: OLPC XO OS build 703 changes
+
+OLPC XO OS [[http://download.laptop.org/xo-1/os/official/703/jffs2/][build 703]] has at least [[http://wiki.laptop.org/go/OLPC_Update.1_Software_Release_Notes][two significant changes]]:
+
+The first is that it automatically suspend when closed, with [[http://wiki.laptop.org/go/Suspend_and_resume][this caveat]]:
+
+
+
+#+BEGIN_QUOTE
+  the system can't suspend when the USB bus is in use by an external device (unless it's a USB mass storage device and has been fully allowed to write any cached info and quiesce itself).
+#+END_QUOTE
+
+
+
+This might not seem like a big deal, but folks have been wanting it for a long time.
+
+The second is that activities no longer come pre-installed in the OS image.
+
+
+

@@ -1,0 +1,25 @@
+#+POSTID: 249
+#+DATE: [2008-06-28 Sat 22:32]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Advice on writing teachpacks
+
+[[http://blog.plt-scheme.org/2007/12/design-of-extended-exercises.html][Here]] is some advice on writing [[http://docs.plt-scheme.org/teachpack/index.html][teachpacks]] for [[http://www.drscheme.org/][PLT's DrScheme]].
+
+About teachpacks:
+
+
+
+#+BEGIN_QUOTE
+  Teaching languages are small subsets of a full programming language. While such restrictions simplify error diagnosis and the construction of tools, they also make it impossible (or at least difficult) to write some interesting programs. To circumvent this restriction, it is possible to import teachpacks into programs written in a teaching language.
+
+In principle, a teachpack is just a library written in the full language, not the teaching subset. Like any other library, it may export values, functions, etc. In contrast to an ordinary library, however, a teachpack must enforce the contracts of the "lowest" teaching language into which it is imported and signal errors in a way with which students are familiar at that level.
+#+END_QUOTE
+
+
+
+
+
+
+

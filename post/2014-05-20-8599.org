@@ -1,0 +1,17 @@
+#+POSTID: 8599
+#+DATE: [2014-05-20 Tue 22:29]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: OSX, Utility
+#+TITLE: Skim
+
+#+BEGIN_QUOTE
+  [[http://skim-app.sourceforge.net/][Skim]] is a PDF reader and note-taker for OS X. It is designed to help you read and annotate scientific papers in PDF, but is also great for viewing any PDF file.
+#+END_QUOTE
+
+
+
+
+
+
+

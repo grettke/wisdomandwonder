@@ -1,0 +1,13 @@
+#+POSTID: 3640
+#+DATE: [2009-07-31 Fri 17:12]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Cocoa, Objective-C, iPhone
+#+TITLE: Resources for getting started with Cocoa
+
+[[http://www.sunsetlakesoftware.com/2009/02/13/resources-getting-started-cocoa][Here]] is a link to a good blog post about resources for getting started with Cocoa.
+
+(via [[http://groups.google.com/group/madison-cocoa-developers][Madison CocoaHeads]])
+
+
+

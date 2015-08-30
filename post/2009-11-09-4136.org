@@ -1,0 +1,25 @@
+#+POSTID: 4136
+#+DATE: [2009-11-09 Mon 15:17]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Career, Statistics, applied statistics
+#+TITLE: Where to Find Jobs in Statistics
+
+[[http://www.amstat.org/jobweb/index.cfm%20][http://www.amstat.org/jobweb/index.cfm]]
+
+[[http://www.stat.ufl.edu/vlib/jobs.html%20][http://www.stat.ufl.edu/vlib/jobs.html]]
+
+[[http://www.stat.purdue.edu/resources/jobs/jobs.cgi?type=1%20][http://www.stat.purdue.edu/resources/jobs/jobs.cgi?type=1]]
+
+[[http://jobs.imstat.org/c/search_results.cfm?site_id=1847%20][http://jobs.imstat.org/c/search\_results.cfm?site\_id=1847]]
+
+[[http://eims.ams.org/search/%20][http://eims.ams.org/search/]]
+
+[[http://www.mathjobs.org/jobs%20][http://www.mathjobs.org/jobs]]
+ 
+
+
+(via Dr. Rowe)
+
+
+

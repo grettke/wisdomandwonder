@@ -1,0 +1,21 @@
+#+POSTID: 1955
+#+DATE: [2009-02-25 Wed 15:55]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Programming, Teaching, philosophy
+#+TITLE: The energy to become productive in a language
+
+#+BEGIN_QUOTE
+  I'm not doing programming for it's own sake, but because I'm trying to get my real work done and that involves writing code. I have neither the inclination nor the luxury of time to really delve down and spend three or six months learning a complex language in the hope that I'll be more productive
+#+END_QUOTE
+
+-- Janne
+
+In the past I have said the same thing myself. This seems to be the status quo for the industry. I don't feel that way anymore, though. It was the result of a /feeling/ and not a rational thought process. Once you think about it, it doesn't really make much sense.
+
+If we don't learn anything more than what we already know, then how will we ever get any more productive?
+
+(via [[http://wingolog.org/archives/2009/01/07/a-brief-history-of-guile#a48eb365a35f28bb33a556d5d47bb32cd0940b53][this]] comment)
+
+
+

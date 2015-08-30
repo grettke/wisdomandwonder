@@ -1,0 +1,13 @@
+#+POSTID: 8937
+#+DATE: [2014-08-24 Sun 14:37]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: R-Project
+#+TITLE: Wait a bit until getting aggressive about error handling in R
+
+You might want to handle all unexpected situations in your code doing something like =options(error=recover)= and =options(warn=2)= in your =.Rprofile=. That is a /good thing/.
+
+Just be sure to do it *after* your system is initialized, because if you don't then you are sure to kill your startup!
+
+
+

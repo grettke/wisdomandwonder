@@ -1,0 +1,28 @@
+#+POSTID: 1027
+#+DATE: [2008-10-24 Fri 18:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: .NET, Programming Language, Scheme
+#+TITLE: LINQ for R6RS Scheme 
+
+#+BEGIN_QUOTE
+  The [[http://msdn.microsoft.com/en-us/netframework/aa904594.aspx][LINQ]] Project is a codename for a set of extensions to the .NET Framework that encompass language-integrated query, set, and transform operations. It extends C# and Visual Basic with native language syntax for queries and provides class libraries to take advantage of these capabilities.
+#+END_QUOTE
+
+
+
+Leppie has covertly added LINQ support to another language, R6RS Scheme!
+
+
+
+-  [[http://bazaar.launchpad.net/~leppie/ikarus-libraries/ironscheme/annotate/5?file_id=linq.ss-20080429163154-wzccoinpzjq7htdl-1][The Code]]; including documentation, tests, and examples
+-  [[http://xacc.wordpress.com/2008/05/19/linq-for-r6rs-scheme-final/][A post about it]]
+-  [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/e4e29d1657cc4fd/5050706ccaa1c68b?hl=en&lnk=st&q=LINQ+for+R6RS+Scheme#5050706ccaa1c68b][A comp.lang.scheme post]] discussing part of its implementation
+-  [[http://stackoverflow.com/questions/131023/list-comprehension-library-for-scheme][Where I heard about it]]
+
+
+
+
+
+
+

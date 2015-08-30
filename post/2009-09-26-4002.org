@@ -1,0 +1,13 @@
+#+POSTID: 4002
+#+DATE: [2009-09-26 Sat 15:05]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming
+#+TITLE: Mitch Wand Symposium Slides are Up
+
+Most of the slides from the [[http://www.ccs.neu.edu/events/wand-symposium/][Mitchfest]] talks are now available; linked [[http://www.ccs.neu.edu/events/wand-symposium/program.html][here]].
+
+(via [[http://calculist.blogspot.com/2009/09/mitchfest-blog.html][the little calculist]])
+
+
+

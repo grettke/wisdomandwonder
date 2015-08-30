@@ -1,0 +1,64 @@
+#+POSTID: 5114
+#+DATE: [2010-09-01 Wed 21:50]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Career, PhD
+#+TITLE: Easy Ways to Fail a Ph.D.
+
+[[http://matt.might.net/articles/ways-to-fail-a-phd/][Here]]is one person's top ten list of ways to fail to obtain a PhD.
+
+Interesting quotes:
+
+
+
+
+
+#+BEGIN_QUOTE
+  Ph.D. school seems to be a magnet for every kind of procrastinator.
+#+END_QUOTE
+
+
+
+
+
+
+
+
+
+#+BEGIN_QUOTE
+  Advisors expect near-terminal Ph.D. students to be proto-professors with intimate knowledge of the challenges in their field. They should be capable of selecting and attacking research problems of appropriate size and scope.
+#+END_QUOTE
+
+
+
+
+
+
+
+
+
+#+BEGIN_QUOTE
+  A Ph.D. is a small but significant contribution to human knowledge. Impact is something students should aim for over a lifetime of research. Making a big impact with a Ph.D. is about as likely as hitting a bullseye the very first time you've fired a gun. Once you know how to shoot, you can keep shooting until you hit it. Plus, with a Ph.D., you get a lifetime supply of ammo.
+#+END_QUOTE
+
+
+
+
+
+
+
+
+
+#+BEGIN_QUOTE
+  It does not matter at all what you get your Ph.D. in. All that matters is that you get one. It's the training that counts--not the topic.
+#+END_QUOTE
+
+
+
+
+
+
+(via [[http://news.ycombinator.com/item?id=1652895][ycombinator]])
+
+
+

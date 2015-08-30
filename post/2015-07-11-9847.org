@@ -1,0 +1,11 @@
+#+POSTID: 9847
+#+DATE: [2015-07-11 Sat 00:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Fun, Ide, Lisp, Programming, creativity, elisp, philosophy
+#+TITLE: VIM is a Perfect Configuration of EMACS
+
+VIM is a perfect configuration of EMACS that has replaced Elisp with Vimscript and heavily utilizes transient keymaps and/or Hydras.
+
+
+

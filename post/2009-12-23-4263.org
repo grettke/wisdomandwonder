@@ -1,0 +1,21 @@
+#+POSTID: 4263
+#+DATE: [2009-12-23 Wed 02:08]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: BitC, Programming Language
+#+TITLE: The BitC Programming Language
+
+Via [[http://www.bitc-lang.org/][bitc-lang.org]]:
+
+
+
+#+BEGIN_QUOTE
+  BitC is a new systems programming language. It seeks to combine the flexibility, safety, and richness of Standard ML or Haskell with the low-level expressiveness of C.
+#+END_QUOTE
+
+
+
+
+
+
+

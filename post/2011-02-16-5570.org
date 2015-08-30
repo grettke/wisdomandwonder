@@ -1,0 +1,19 @@
+#+POSTID: 5570
+#+DATE: [2011-02-16 Wed 17:55]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 22656, Concours, Kawasaki, Motorcycle
+#+TITLE: Pending Backrest Cleanup
+
+On my quest to rid my ride of rust I found the contaminants on the backrest mounts to be unacceptable. Take a look:
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2011/02/DSC_0045.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2011/02/DSC_0045-150x150.jpg]]]][[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2011/02/DSC_0048.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2011/02/DSC_0048-150x150.jpg]]]]
+
+Sure it is not bad, but then again, it isn't good, either.
+
+I did replace all of the rusty bolts, however, the powdercoating seems to be eaten away and what is left remaining is a layer of rust. 
+
+Current investigating technical remediation for this that involve sandblasting and powdercoating.
+
+
+

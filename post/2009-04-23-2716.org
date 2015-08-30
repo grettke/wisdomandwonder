@@ -1,0 +1,11 @@
+#+POSTID: 2716
+#+DATE: [2009-04-23 Thu 13:22]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scala
+#+TITLE: Scala 2.8 will have continuations
+
+See [[http://www.scala-lang.org/node/1564][here]].
+
+
+

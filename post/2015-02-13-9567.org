@@ -1,0 +1,11 @@
+#+POSTID: 9567
+#+DATE: [2015-02-13 Fri 03:07]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: How to Handle and Large Slow Org Files
+
+When some of us open large Org mode files, Emacs becomes nearly unresponsive, and nearly unusable. My stock advice has always been to call =#+STARTUP: showeverything= or do a binary search more or less to figure out which package is stomping Emacs. In this [[https://lists.gnu.org/archive/html/emacs-orgmode/2015-02/msg00352.html][post]], though, Puneeth explains that the issue may go away entirely for some of us.
+
+
+

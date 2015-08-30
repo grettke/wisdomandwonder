@@ -1,0 +1,64 @@
+#+POSTID: 9373
+#+DATE: [2014-12-22 Mon 02:43]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming, Programming Language, forth
+#+TITLE: On FORTH and a Friend
+
+
+FORTH is a [[https://en.wikipedia.org/wiki/Forth_(programming_language)][programming language]] with a lot of both [[http://www.forth.org/][interested]] and interesting users and implementers. Unbeknownst to you, your anti-lock brake controllers and fuel-injectors could be running by FORTH, and even if they aren't, surely other critical parts of your vehicle are running on it, or diagnosed and maintained with it, or *both*.
+
+
+
+
+
+
+
+The curious thing about the language is that its manifestation in this reality demonstrated how a single programming language could be both highly perform-ant *and* highly expressive. This is rare and uncommon. Today, no language achieve this feat. To consider that FORTH achieved it on limited computers, a long time ago, adds further wonder and respect for this delightful language. If you haven't even taken at least a single look at it, then you should grab your copy of whatever you call /hardware systems/, along with the latest copy of [[https://www.gnu.org/software/gforth/][gforth]], to write /hello world/ and play with the stack a little bit. It is /interesting/ how much expressivity and *power* you can get out of a /little/ computer system using this neat language. The language isn't the most important thing though; it is the people.
+
+
+
+
+
+
+
+When choosing a Scheme distribution, someone quipped that "When you choose one, you aren't choosing a interpreter, so much as, you are choosing the a community". This is true. Since it was tradition to implement your own FORTH interpreter, you could join a *lot* of different communities. The common traits among all of them were humans who could think for themselves, optimize at every level of the implementation (both software and hardware), and have a *lot* of fun doing it. One of those people was a best friend of mine named Bruce Langenbach.
+
+
+
+
+
+
+
+Bruce [[http://www.legacy.com/obituaries/kenoshanews/obituary.aspx?n=bruce-langenbach&pid=170861336][passed away]] this year. His [[https://www.linkedin.com/in/brucelangenbach25yearswveteran][LinkedIn]] profile is still up; though I put in a request to retire it. For some bizarre reason, he never mentions FORTH on this resume. At [[http://www.teambearusa.com/][Bear Automotive Service Equipment]] he used it to run all of the equipment (Bear sells automobile maintenance systems). The cool thing was that FORTH didn't just run the equipment, it was also the operating system, code-editor, and debugger, all implemented and executed *on-device*. All of the REPL-joy that people blog about today was there long ago on little computers (which are somewhat dismissively called "micro-controllers" when in reality they are just computers like any others). That was a really, really fun job.
+
+
+
+
+
+
+
+Bruce told me about it all of the time. It was the most fun job that he ever had. Anyone knows that with any job you have ups and downs. It is especially hard though when your first job is your best one. Fortunately he was investing in and exploring non-programming related forms of employment and expression. The neatest stuff was the [[https://en.wikipedia.org/wiki/Encaustic_painting][encaustic painting.]]
+
+
+
+
+
+
+
+Encaustic painting, using my simple understanding of it, uses layers of hot wax. It is beautiful, and, is a beautiful form of expression. Bruce was working on integrating LEDs and Arduino-systems with the canvas and the art. I loved hearing about it and was really, really looking forward to seeing what he was ready to share.
+
+
+
+
+
+
+
+If he had been able to finish his work, he surely would have done it on FORTH. [[http://www.offete.com/328eForth.html][This]] implementation in particular says all of the right things, in spirit, intent, and implementation, and surely would have been a great place to start.
+
+
+
+
+
+
+

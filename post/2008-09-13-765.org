@@ -1,0 +1,22 @@
+#+POSTID: 765
+#+DATE: [2008-09-13 Sat 16:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Study-HTDP
+#+TITLE: Checking Errors
+
+Originally posted [[http://groups.google.com/group/study-htdp/browse_thread/thread/a70e7d69813d5745?hl=en][here]]:
+
+
+
+#+BEGIN_QUOTE
+  
+You can check for error messages on your functions by using:
+
+(check-error (fun arg1 ... argn) "fun: <err message>")
+
+See also: [[http://docs.plt-scheme.org/htdp-langs/Test_Cases.html#(form._((lib._lang/htdp-beginner..ss)._check-error))][here]]
+#+END_QUOTE
+
+
+

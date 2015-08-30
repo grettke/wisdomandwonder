@@ -1,0 +1,18 @@
+#+POSTID: 27
+#+DATE: [2008-01-08 Tue 02:11]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, XO, forth
+#+TITLE: Unlock Forth on the OLPC XO
+
+A week or so ago I ended up on "Luke's Weblog" reading an [[http://lukego.livejournal.com/8987.html][article]] about [[http://wiki.laptop.org/go/Forth][Forth]] on the OLPC XO.
+
+The OLCP Wiki has got [[http://wiki.laptop.org/go/Forth_Lessons][Forth Lessons]] for everyone to enjoy. Forth is a pretty neat language!
+
+You may have noticed that although access to the Forth shell is explained on [[http://wiki.laptop.org/go/Forth_Lesson_1#Getting_a_Forth_Interpreter][this page]], it doesn't work. The reason can be two-fold. First, you can only access the Forth shell if the firmware security is disabled. Second, on newer machines you access the Forth shell by hitting the escape key at boot time. 
+
+[[http://wiki.laptop.org/go/Activation_and_Developer_Keys][This page]] explains how to gain access to the Forth shell on machines that have got the firmware security enabled (G1G1 owners, that means you). You need a developer key to unlock your firmware, the request takes less than 24 hours to be fulfilled. Please read the page closely (disable-security twice!) and heed their advice of disabling firmware security (you can always enable it later).
+
+
+
+

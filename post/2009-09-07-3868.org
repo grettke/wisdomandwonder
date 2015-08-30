@@ -1,0 +1,19 @@
+#+POSTID: 3868
+#+DATE: [2009-09-07 Mon 15:35]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme, philosophy
+#+TITLE: Why PLT Scheme disllows one-armed ifs
+
+#+BEGIN_QUOTE
+  In 1991 I asked Bob Hieb (Kent's Chez Scheme buddy then, and my co-researcher on theoretical stuff) what the most frequent annoying bug was in the code. He ranked an accidentally omitted else branch among the top three. Indeed, he said that because of this, they had agreed to use WHEN and UNLESS exclusively for cases when they needed a one-armed IF and that they considered all one-armed uses as a bug or a legacy issue (which they corrected as soon as they touched a file). 
+
+We have chosen to codify their restriction. It's a minor inconvenience that buys a good deal of clarity
+#+END_QUOTE
+
+
+
+(via [[http://groups.google.com/group/plt-scheme/msg/39144ae84fe3518b][plt]])
+
+
+

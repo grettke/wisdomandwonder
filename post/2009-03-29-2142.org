@@ -1,0 +1,13 @@
+#+POSTID: 2142
+#+DATE: [2009-03-29 Sun 22:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Books
+#+TITLE: Energiya-Buran: The Soviet Space Shuttle
+
+Energiya-Buran: The Soviet Space Shuttle is a book about the Soviet space shuttle program. In particular it covers the Soviet version of the US space shuttle. This looks like an interesting and fun read.
+
+(via IEEE Spectrum Volume 45 Number 3, 2008)
+
+
+

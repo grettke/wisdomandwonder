@@ -1,0 +1,53 @@
+#+POSTID: 6891
+#+DATE: [2013-01-05 Sat 03:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Artificial Intelligence, Java, Jess, Rules Engine, jess-sample-java-setup
+#+TITLE: Jess Sample Java Setup Project: Mission Statement
+
+For a couple of months I have thought about how fun it would be to set up a real simple Java+Jess project to help myself out with the basics of dependency management and logistics of interaction between Java and Jess. Recently it made sense to start using GitHub. With the hope that lowering the barriers to anyone interested in using Jess, I decided to throw the project out [[https://github.com/grettke/jess-sample-java-setup][here]]. More so, because I will be working on it piecemeal, I decided to log progress in this diary and also on the blog I'm hoping it will serve as a resource for anyone interested in the project. My particular interest in Jess is for where a rules engine might fit in a 3 month to 2 year long Java project with a team of 3-12.
+
+Here are some of my goals:
+
+
+
+-  Provide a preconfigured project setup using Maven
+-  Demonstrate some sample projects
+-  Learn and cover interesting aspects of how Java and Jess work together
+-  Learn or create nice ways of testing the system
+
+
+
+Here are some of the options for sample projects to drive it:
+
+
+
+-  Porting CLIPS samples
+-  Logic puzzles
+-  Video games
+-  HVAC system
+-  Form data validation
+-  Data conversion
+
+
+
+
+
+Here are some of ways to test it:
+
+
+
+-  TestNG
+-  Fitnesse
+
+
+
+
+My preparation so far has been to read virtually everything available on Jess ( [[http://herzberg.ca.sandia.gov/]]), twice, and additionally read whatever I can find about CLIPS ([[http://clipsrules.sourceforge.net/]]), rules engines, and expert systems in books and on the Internet.
+
+Getting started with Git meant reading the official docs ([[http://git-scm.com/documentation]]) and man pages, and GitHub itself has excellent documentation ([[https://help.github.com/]]). One helpful page was for the basic Markdown syntax which I had never learned officially ([[http://daringfireball.net/projects/markdown/basics]]) (except for using it in various wikis).
+
+Admittedly, the Jess wiki cites a project like the above to be outside the sweet-spot of Jess. My worldview right now, though, is that the rules engine way-of-thinking has a lot to offer beyond mega-million enterprise-style projects, and that anyone who masters it will have a very valuable and powerful tool in his kit when he is done!
+
+
+

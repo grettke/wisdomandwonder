@@ -1,0 +1,11 @@
+#+POSTID: 113
+#+DATE: [2008-04-21 Mon 01:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Programming Language, elisp
+#+TITLE: Inform Users with BoxQuote
+
+Have a look at how to [[http://rlazo.supersized.org/archives/70-BEH-How-to-display-info-help-inside-a-box.html][utilize the "box control"]] within Emacs to help users with the task at hand.
+
+
+

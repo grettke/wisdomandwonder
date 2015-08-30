@@ -1,0 +1,11 @@
+#+POSTID: 9729
+#+DATE: [2015-05-05 Tue 02:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming, Typography
+#+TITLE: The PragmataPro Font
+
+In the comments of [[http://ergoemacs.org/emacs/emacs_unicode_fonts.html][this article]] the font [[http://www.fsd.it/fonts/pragmatapro.htm][PragmataPro]] is mentioned. It is very cool to see the passion, effort, and mastery in this typographer's endeavor!
+
+
+

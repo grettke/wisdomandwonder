@@ -1,0 +1,11 @@
+#+POSTID: 8131
+#+DATE: [2013-11-05 Tue 03:14]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Reproducible research, Research, bioinformatics, biology, philosophy
+#+TITLE: Personal Accountability in Research
+
+[[http://videolectures.net/cancerbioinformatics2010_baggerly_irrh/][This]] video makes me think about how all quality assurance engineers must learn about the [[https://en.wikipedia.org/wiki/Therac-25][Therac-25]].
+
+
+

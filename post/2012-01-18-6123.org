@@ -1,0 +1,17 @@
+#+POSTID: 6123
+#+DATE: [2012-01-18 Wed 20:50]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Programming, Python, Scheme, Teaching, philosophy
+#+TITLE: How one class brought SICP back at MIT
+
+#+BEGIN_QUOTE
+  Zombie-like, 6.001 rises from the dead to threaten students again. Unlike a zombie, though, it's moving quite a bit faster than it did the first time. Like the original, don't walk into the class expecting that it will teach you Scheme; instead, it attempts to teach thought patterns for computer science, and the structure and interpretation of computer programs. Three projects will be assigned and graded. Prereq: some programming experience; high confusion threshold.
+#+END_QUOTE
+
+
+
+(via [[http://web.mit.edu/alexmv/6.S184/][MIT]] via [[http://mainisusuallyafunction.blogspot.com/2012/01/zombie-6001-starts-tomorrow.html][keegan]] via [[http://planet.haskell.org/][planethaskell]])
+
+
+

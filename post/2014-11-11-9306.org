@@ -1,0 +1,79 @@
+#+POSTID: 9306
+#+DATE: [2014-11-11 Tue 19:08]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Org-Mode Details To Accompany Questions
+
+The details that are likely to help questions to be answered on the org mailing list.
+
+=#+begin_src emacs-lisp
+(print emacs-version)
+#+end_src
+
+#+begin_src emacs-lisp
+(print org-version)
+#+end_src
+
+#+begin_src emacs-lisp
+(print (pp-to-string org-babel-default-header-args))
+#+end_src
+
+#+begin_src emacs-lisp
+(print (pp-to-string org-babel-default-header-args:R))
+#+end_src
+=
+
+Eg:
+
+
+
+#+BEGIN_EXAMPLE
+    
+"24.3.1"
+
+#+END_EXAMPLE
+
+
+
+
+
+#+BEGIN_EXAMPLE
+    
+"8.2.10"
+
+#+END_EXAMPLE
+
+
+
+
+
+#+BEGIN_EXAMPLE
+    
+"((:eval . \"always\")
+ (:padline . \"yes\")
+ (:noweb . \"no-export\")
+ (:exports . \"both\")
+ (:results . \"output replace\")
+ (:comments . \"noweb\")
+ (:session . \"none\")
+ (:cache . \"no\")
+ (:hlines . \"no\")
+ (:tangle . \"no\"))
+"
+
+#+END_EXAMPLE
+
+
+
+
+
+#+BEGIN_EXAMPLE
+    
+"((:session . \"*R*\"))
+"
+
+#+END_EXAMPLE
+
+
+

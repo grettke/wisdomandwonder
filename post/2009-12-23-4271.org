@@ -1,0 +1,18 @@
+#+POSTID: 4271
+#+DATE: [2009-12-23 Wed 02:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming, Programming Language, philosophy
+#+TITLE: The aim of a language
+
+#+BEGIN_QUOTE
+  to turn ideas into software, quickly and faithfully
+#+END_QUOTE
+
+
+-- [[http://en.wikipedia.org/wiki/S_programming_language][John Chambers]]
+
+Great aim!
+
+
+

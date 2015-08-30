@@ -1,0 +1,13 @@
+#+POSTID: 3719
+#+DATE: [2009-08-25 Tue 20:39]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: SHP: A PHP-like web framework for PLT Scheme
+
+[[http://weblambda.blogspot.com/2009/08/introducing-shp-01-sheme-hypertext.html?showComment=1251232608758#c3905875698916991021][Here]] is a post about a newly release PHP-like framework for PLT Scheme. I read through the whole article and it looks like YC has the beginnings of a /very/ nice framework: simple and powerful are the perfect mix.
+
+(via [[http://groups.google.com/group/plt-scheme/browse_thread/thread/246e9403e92e61df/c4ce67075b30fae?q=a+PHP-like+web+framework+for+PLT+Scheme][PLT]])
+
+
+

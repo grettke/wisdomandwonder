@@ -1,0 +1,31 @@
+#+POSTID: 75
+#+DATE: [2008-03-23 Sun 17:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Art, Programming, compiler, interpreter, virtual machine
+#+TITLE: When Code Really is Art
+
+For all of the programmers who lament the fact that code is not recognized as art, there is [[http://www.dangermouse.net/esoteric/piet.html][Piet]].
+
+Joking aside, once you get up to speed on stack based programming, this looks like a fun interpreter project. I am supposing that there are some very interesting opportunities on how to literally make your code "more beautiful"!
+
+*Addendum: 09/08/08*
+
+[[http://www.retas.de/thomas/computer/programs/useless/piet/explain.html][Here]] is a hello world program with a thorough walk-through and explanation of how it works.
+
+*Addendum: 12/28/08*
+
+Possible projects:
+
+
+-  An interpreter
+-  A picture editor
+-  A graphical representation of the interpreter
+-  A Scheme to Piet compiler; trained to generate "pretty pictures"
+
+
+
+
+
+
+

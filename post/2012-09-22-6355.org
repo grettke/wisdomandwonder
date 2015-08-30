@@ -1,0 +1,21 @@
+#+POSTID: 6355
+#+DATE: [2012-09-22 Sat 15:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: Tweaking the modeline characters for a minor mode
+
+The modeline characters (call the lighter in Emacs terms) weren't displaying correctly on my system for [[http://emacswiki.org/emacs/centered-cursor-mode.el][this]] excellent plugin. A cent sign should have been displayed but instead " \242" was displayed. 'forcer' in #emacs explained that those display settings are stored in 'minor-mode-alist' so we can modify them. I added this code at the end of my config:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(let ((ccm-cons (assoc 'centered-cursor-mode minor-mode-alist)))
+  (when ccm-cons
+    (setcdr ccm-cons '(" ccm"))))
+
+#+END_EXAMPLE
+
+
+

@@ -1,0 +1,27 @@
+#+POSTID: 6762
+#+DATE: [2012-12-05 Wed 19:50]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 02947, CB750, CB750F, Honda, Motorcycle, Repair
+#+TITLE: CB750F: Day 04
+
+Took the exhaust and muffler off, muffler first. There was a bolt missing from the thing that attaches them. There was one missing stem and one stem that came out from the parts that hold on the muffler. Teacher said that I can go to U-Spray to media-blast it and paint the exhaust, it is in decent enough shape. Maybe this is a POR-15 candidate.
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/12/20121204_180622s.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/12/20121204_180622s-300x225.jpg]]]]
+
+That bolt that was misaligned in the frame, I used a jack to lift up the frame. It was specifically for stuff like this, I was surprised to see that you can turn it and lift it just with your hand.
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/12/20121204_181028s.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/12/20121204_181028s-300x225.jpg]]]]
+
+Teacher brought the compression tester adapter, it was 114 and 110 on 1 and 2 but in the process the battery wore out. 4 turnovers wasn't enough to test it, so Teacher said turn it over until the gauge doesn't go up any further. I set up the battery charger and 12V on medium for 40 minutes, I will test the other two tonight. 
+
+Followed the direction in the service manual to get the carbs out. Set up a drain pain under the carb drain hoses, loosened the air cleaner bands, loosened the airbox top bolt, and slid the air cleaner back. Loosened the manifold bands, drained fuel out of the carbs, and disconnected the drain cables. Still figuring out how to get the shrouds off the carbs on the manifold side, they are solid and stuck on there. I will finish tomorrow.
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/12/20121204_190037s.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/12/20121204_190037s-300x225.jpg]]]]
+
+Once we look at the carbs we will look at what parts to order.
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/12/20121204_200350s.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/12/20121204_200350s-300x225.jpg]]]]
+
+
+

@@ -1,0 +1,36 @@
+#+POSTID: 9903
+#+DATE: [2015-08-05 Wed 01:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode, philosophy
+#+TITLE: Org-Mode Release 8.3
+
+#+BEGIN_QUOTE
+  [[https://lists.gnu.org/archive/html/emacs-orgmode/2015-08/msg00076.html][Org 8.3 is now out.]]
+#+END_QUOTE
+
+
+
+*Addendum: 2015-08-16*
+
+Interesting: 
+
+
+
+-  org-show-context-detail
+-  Markdown export supports switches in source blocks
+-  ASCII export additions
+-  Export inline source blocks
+-  ascii plot
+-  date macro parms
+-  mathjax cdn
+-  viewport for html mobile
+-  remotely edit footnote definition
+-  texinfo image support
+-  Removed option org-koma-letter-use-title
+-  Three slash URI links
+-  Footnotes in included files are now local to the file
+-  When exporting, throw an error on unresolved id/fuzzy links and code refs
+
+
+

@@ -1,0 +1,23 @@
+#+POSTID: 5272
+#+DATE: [2010-09-19 Sun 22:27]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: 22656, Concours, Kawasaki, Motorcycle
+#+TITLE: Do you really want to rev it like that?
+
+#+BEGIN_QUOTE
+  FYI, but engine stresses go up as the square of RPM.
+
+IOW, double the revs, and you quadruple the stresses on the engine parts. Triple the revs, and you increase stress by a factor of 9x.
+
+If there's no compelling reason to have the engine spinning at high revs (ie, I want the power), I don't.
+
+Above is theoretical.
+#+END_QUOTE
+
+
+
+(via Doug G on [[http://micapeak.com/mailman/listinfo/cog][COG]])
+
+
+

@@ -1,0 +1,17 @@
+#+POSTID: 9626
+#+DATE: [2015-03-01 Sun 00:42]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, elisp
+#+TITLE: EWS support for Emacs
+
+#+BEGIN_QUOTE
+  I use Exchange at work for calendaring. I also use terminal-mode emacsclient when I'm logged in from another machine. In that scenario I can't easily open a web browser to use Outlook Web Access. It annoyed me that I couldn't check my schedule from within a terminal Emacs session. Thus, I did the only sensible thing and implemented full Exchange Web Services API support for Emacs.
+#+END_QUOTE
+
+
+
+Of course [[http://www.fitzsim.org/blog/?p=229][you did]].
+
+
+

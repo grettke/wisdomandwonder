@@ -1,0 +1,15 @@
+#+POSTID: 9206
+#+DATE: [2014-10-19 Sun 13:13]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: R-Project
+#+TITLE: Useful functions in R never mentioned anywhere
+
+=which=
+
+=ifelse=
+
+=exists=
+
+
+

@@ -1,0 +1,36 @@
+#+POSTID: 9419
+#+DATE: [2015-01-09 Fri 00:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode, org-modeLiterate Programming
+#+TITLE: The Lenticular Text Style of Literate Programming
+
+
+[[https://www.mail-archive.com/gnu-emacs-sources@gnu.org/msg02522.html][This announcement]] is pretty exciting because it reveals a new-to-me take on literate programming. The style is to store a single file as a source, and render disparate parts of that file in different buffers in a mode correct for the content.
+
+
+
+
+
+
+
+For example you may have an Emacs Lisp file serve as the source and two separate buffers, one Emacs Lisp and one Organization (Mode), to work on the content, with all of the mode-specific assistance.
+
+
+
+
+
+
+
+Is it a new idea? It is new to me and I am curious to find out about other approaches people have taken to realize this style.
+
+
+
+
+
+
+
+[[http://www.russet.org.uk/blog/3035][Here]] is an overview and a nice [[http://vimeo.com/116078853][video]] that demonstrates it.
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 241
+#+DATE: [2008-06-28 Sat 13:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Update
+#+TITLE: Updated: How to Learn Programming
+
+See [[http://www.wisdomandwonder.com/article/115/how-to-learn-programming][here]]
+
+
+

@@ -1,0 +1,19 @@
+#+POSTID: 6159
+#+DATE: [2012-01-25 Wed 04:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Endometriosis, Research
+#+TITLE: What is Endocrinology
+
+A lot of papers on endometriosis that talk about measurements are talking about hormones. Reading about the study of those chemicals and mechanisms lead me to read [[http://en.wikipedia.org/wiki/Endocrinology][Wikipedia's]] article on the topic. These were the main high level points from the introductory paragraph:
+
+
+
+-  "is a branch of biology and medicine dealing with the endocrine system, its diseases, and its specific secretions called hormones"
+-  and it's mechanisms: "the coordination of metabolism, respiration, excretion, movement, reproduction, and sensory perception depend on chemical cues, substances synthesized and secreted by specialized cells."
+-  "is concerned with the study of the biosynthesis, storage, chemistry, and physiological function of hormones and with the cells of the endocrine glands and tissues that secrete them."
+-  "The endocrine system consists of several glands, all and in different parts of the body, that secrete hormones directly into the blood rather than into a duct system. Hormones have many different functions and modes of action; one hormone may have several effects on different target organs, and, conversely, one target organ may be affected by more than one hormone."
+-  "In the original 1902 definition by Bayliss and Starling, they specified that, to be classified as a hormone, a chemical must be produced by an organ, be released (in small amounts) into the blood, and be transported by the blood to a distant organ to exert its specific function. This definition holds for most "classical" hormones, but there are also paracrine mechanisms (chemical communication between cells within a tissue or organ), autocrine signals (a chemical that acts on the same cell), and intracrine signals (a chemical that acts within the same cell)"
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 3240
+#+DATE: [2009-06-07 Sun 01:32]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Business, Tools
+#+TITLE: Justifying GNUPlot
+
+[[http://www.gnuplot.info/][GNUPlot]] has always seemed like a great tool for presenting data in a visually compelling manner.
+
+[[http://www.manning.com/janert/][This]] might make it easier to do so. I am waiting for the right opportunity to justify buying it :).
+
+
+

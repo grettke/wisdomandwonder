@@ -1,0 +1,17 @@
+#+POSTID: 8135
+#+DATE: [2014-01-08 Wed 02:17]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Gambit, Programming Language, Scheme
+#+TITLE: Scheme Spheres
+
+#+BEGIN_QUOTE
+  [[http://www.schemespheres.org/][Scheme Spheres]] is the batteries (as in "batteries included") for the Gambit Scheme Compiler. It is a collection of modules and tools to help you build stuff.
+#+END_QUOTE
+
+
+
+
+
+
+

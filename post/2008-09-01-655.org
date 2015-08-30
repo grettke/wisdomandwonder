@@ -1,0 +1,21 @@
+#+POSTID: 655
+#+DATE: [2008-09-01 Mon 19:07]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Component Deployment with PLaneT
+
+[[http://people.cs.uchicago.edu/~jacobm/pubs/planet.pdf][Here]] is a paper about how PLT Scheme's package repository, [[http://planet.plt-scheme.org/][PLanetT]] was designed. PLanetT is a the [[http://plt-scheme.org/][PLT Scheme]] equivalent of [[http://www.cpan.org/][CPAN]].
+
+
+
+#+BEGIN_QUOTE
+  For the past two years we have been developing PLaneT, a package manager built in to PLT Schemes module system that simplifies program development by doing away with the distinction between installed and uninstalled packages. In this paper we explain how PLaneT works and the rationales behind our major design choices, focusing particularly on our decision to integrate PLaneT into PLT Scheme and the consequences that decision had for PLaneTs design. We also report our experience as PLaneT users and developers and describe what have emerged as PLaneTs biggest advantages an drawbacks.
+#+END_QUOTE
+
+
+
+(mentioned in this post [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-August/026813.html][PLT]])
+
+
+

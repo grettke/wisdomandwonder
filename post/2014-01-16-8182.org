@@ -1,0 +1,13 @@
+#+POSTID: 8182
+#+DATE: [2014-01-16 Thu 02:08]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Fun, Programming
+#+TITLE: Phosphor Green Color Scheme
+
+With nostalgia apparently in full-effect tonight, here is another post with the retro-green-color-scheme for our enjoyment:
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2014/01/emacs-phosphor-green.png][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2014/01/emacs-phosphor-green-300x205.png]]]]
+
+
+

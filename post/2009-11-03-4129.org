@@ -1,0 +1,15 @@
+#+POSTID: 4129
+#+DATE: [2009-11-03 Tue 14:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: CONS-WM: The First R6RS Scheme Window Manager
+
+[[http://github.com/dharmatech/psilab/tree/master/cons-wm][CONS-WM]] appears to be the first [[http://www.r6rs.org/][R6RS Scheme]] [[http://en.wikipedia.org/wiki/Window_manager][window manager]].
+
+It runs on [[http://code.google.com/p/ypsilon/][Ypsilon]] Scheme.
+
+(via [[http://groups.google.com/group/ikarus-users/msg/f5e5aa0fd5d4aee6][ikarus]])
+
+
+

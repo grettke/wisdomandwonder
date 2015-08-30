@@ -1,0 +1,30 @@
+#+POSTID: 1340
+#+DATE: [2008-12-31 Wed 03:09]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming, philosophy
+#+TITLE: Is Unicode in the code taboo?
+
+[[http://www.plt-scheme.org/][MzScheme]] supports [[http://en.wikipedia.org/wiki/UTF-8][UTF-8]] encoded files. Combine that with [[http://www.drscheme.org/][DrScheme]], which makes it pretty easy to type in [[http://en.wikipedia.org/wiki/Unicode][Unicode]] symbols, and somewhat suddenly, and surprisingly, you have the opportunity to work with symbols in your code beyond the standard 95 character [[http://en.wikipedia.org/wiki/Ascii][ASCII]] set that we all know and love. What are the implications to you as a programmer?
+
+The simplest implication is that you now have the ability to work with 100,000+ characters. In case you felt limited by the inability to use the characters of your native tongue like [[http://www.alanwood.net/unicode/tamil.html][Tamil]] or perhaps [[http://en.wikipedia.org/wiki/List_of_Unicode_characters#Braille_Patterns][Braille]], you are restricted no more. Scientific programmers may enjoy using Greek letters; and who of us wouldn't like to use the letter π to represent [[http://en.wikipedia.org/wiki/Pi][Pi]]? For [[http://en.wikipedia.org/wiki/Scheme_(programming_language)][Schemers]], perhaps you would use → rather than ->. 
+
+The common theme among these atypical examples is that they facilitate communication. Without getting into the deep theories and concepts behind the value of communication and how the limitations of a language affect it; I would share a quote relevant to us as programmers regarding how we communicate to each other with our code:
+
+
+
+#+BEGIN_QUOTE
+  Let us change our traditional attitude to the construction of programs: Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do.
+#+END_QUOTE
+
+
+-- [[http://www.icn.ucl.ac.uk/courses/MATLAB-Tutorials/Ashish_Ranpura/quote.html][Donald Knuth]]
+
+It seems like Unicode might facilitate that communication, but Unicode in code today is not at all common. Why might that be? 
+
+The [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-December/029133.html][usual suspects]] are that our tooling (IDEs and text-processing tools) doesn't support Unicode well. Perhaps that is the case, but I am had pressed to believe that if people thought it had any value they wouldn't simply add support to their tooling for Unicode. Fonts seem to be the biggest practical issue; lack of a supporting font usually results in an ugly box in place of the character. In the end I suspect that the worst culprit here is simply that Unicode in the code is a taboo: people simply won't give it a try until a thought leader or two sheds light on the power to facilitate communication that Unicode brings. 
+
+Until then, you will have to be happy with [[http://www.gnu.org/software/emacs/][Emacs]] and DrScheme.
+
+
+

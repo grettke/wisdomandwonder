@@ -1,0 +1,11 @@
+#+POSTID: 9842
+#+DATE: [2015-07-11 Sat 00:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: TI-99/4A, forth
+#+TITLE: Best Way to Learn FORTH On TV
+
+Running TurboForth on a TI-99/4A seems like the best way to learn FORTH on a TV.
+
+
+

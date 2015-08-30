@@ -1,0 +1,69 @@
+#+POSTID: 9663
+#+DATE: [2015-04-04 Sat 01:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, R-Project, Statistics, applied statistics, emacs speaks statistics
+#+TITLE: How to Format Magrittr Chains with ESS
+
+[[https://github.com/emacs-ess/ESS/issues/96][Here]] is an example of how to format magrittr chains with ESS. Those interested will also be happy to learn of =ess-R-fl-keyword:%op%= and =ess-%op%-face=.
+
+For example, to get the an indent after only the first statement.
+
+
+
+#+BEGIN_EXAMPLE
+    
+(add-to-list 'ess-style-alist
+             '(my-style
+               (ess-indent-level . 4)
+               (ess-first-continued-statement-offset . 2)
+               (ess-continued-statement-offset . 0)
+               (ess-brace-offset . -4)
+               (ess-expression-offset . 4)
+               (ess-else-offset . 0)
+               (ess-close-brace-offset . 0)
+               (ess-brace-imaginary-offset . 0)
+               (ess-continued-brace-offset . 0)
+               (ess-arg-function-offset . 4)
+           (ess-arg-function-offset-new-line . '(4))
+               ))
+
+(setq ess-default-style 'my-style)
+
+#+END_EXAMPLE
+
+
+
+Thank you Mr. Vitalie Spinu.
+
+*ADDENDUM*
+
+How I did it:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(setq gcr/ess-style
+      (copy-alist
+       (assoc 'RRR ess-style-alist)))
+(setf (nth 0 gcr/ess-style) 'GCR)
+(setf (cdr
+       (assoc 'ess-continued-statement-offset
+              (cdr gcr/ess-style)))
+      0)
+(add-to-list 'ess-style-alist gcr/ess-style)
+(setq ess-default-style 'GCR)
+
+#+END_EXAMPLE
+
+
+
+*Addendum: 2015-08-12*
+
+The latest version of ESS includes a =RRR= style. 
+
+It formats Magrittr chains as expected by default with e=ss-first-continued-statement-offset=.
+
+
+

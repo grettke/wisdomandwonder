@@ -1,0 +1,17 @@
+#+POSTID: 440
+#+DATE: [2008-08-11 Mon 02:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: HTDP, Learning, Programming, Teaching, philosophy
+#+TITLE: The First Year 
+
+The First Year? It's not Scheme.
+
+Matthias Felleisen talks [[http://www.ccs.neu.edu/home/matthias/Presentations/ccsne.html][here]] about his teams approach to first-year courses on programming and computing.
+
+[[http://www.ccs.neu.edu/home/matthias/Presentations/CCSNE/first%20year.pdf][Here]] is a presentation on the approach. Be sure to read it as there are a lot of interesting bits in there.
+
+(via [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-August/026372.html][PLT]])
+
+
+

@@ -1,0 +1,39 @@
+#+POSTID: 6399
+#+DATE: [2012-09-25 Tue 16:37]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: Emacs Pretty Mode Plus ELPA Package
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/09/pretty-mode-plus-1.0.tar][Here]] is an ELPA package for the [[http://www.emacswiki.org/emacs/PrettySymbol][pretty-mode.el]] library. 
+
+The +code+ functionality is original from the author, I just tweaked the pretty symbols and packaged it up!
+
+Here is one way to install it:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(url-copy-file 
+ "http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/09/pretty-mode-plus-1.0.tar"
+ "/tmp/pretty-mode-plus-1.0.tar"
+ t)
+
+(require 'package)
+(package-install-file "/tmp/pretty-mode-plus-1.0.tar")
+
+#+END_EXAMPLE
+
+
+
+*Addendum: 09/29/12*
+
+Fixed the package definition and now it is on Marmalade [[http://marmalade-repo.org/packages/pretty-mode-plus/1.0][here]].
+
+*Addendum: 11/29/12*
+
+Added Jess mode support.
+
+
+

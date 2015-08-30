@@ -1,0 +1,17 @@
+#+POSTID: 9257
+#+DATE: [2014-10-19 Sun 13:50]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project, Science, mathematics, philosophy
+#+TITLE: When is a number an integer?
+
+[[http://r.789695.n4.nabble.com/how-to-judge-a-virable-is-a-integer-td4698489.html][This]] post poses a seemingly very simple question:
+
+"When is a number an integer?"
+
+and very quickly evolves to provide a delightful exposition of what it means when someone answers with "it depends".
+
+My vote is that the most intuitive and least-surprising approach is =x%%1==0=.
+
+
+

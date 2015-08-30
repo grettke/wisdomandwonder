@@ -1,0 +1,19 @@
+#+POSTID: 7097
+#+DATE: [2013-02-12 Tue 03:03]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 02947, CB750, CB750F, Honda, Motorcycle, Repair
+#+TITLE: CB750F: Day 12
+
+Tonight was ostensibly the least exciting of any, but I got a ton of work done. Every carburetor and all of their supporting parts got a bath in the ultrasonic cleaner with 55/45 SimpleGreen/H20 tonight. Afterwards they got a solvent rinse and a thorough carburetor cleaner clean-down. It was so impressive how dirty they were outside; and to a lesser degree inside. 
+
+[[http://www.cb750c.com/publicdocs/SeanG/Honda_Carb_Manual_revD.pdf][MacGregor Carb Cleaning Services guide]] has turned out to be stellar; the notes are brief and can be no briefer, everything is included there for a reason and failure to follow the instructions will result in unhappiness. 
+
+The light brass bristle brushes were really helpful for cleaning the carbs where the q-tips just didn't do enough, but was still gentle no tearing up the metal anywhere. One mistake I mad was not to use an exacto, I used a bench-grinder instead. The tip got a little hot and melted, so again, do what the MacGregor guide says, it is really optimized! The tip about wrapping up the end of the cleaner tube was just great; the thing was though that you really have to blast the cleaner in there to even get a drizzle out of the pilot screw as expected. You can see the crud coming out of those carbs... geez!
+
+Had one inspired though while the solution in the ultrasonic cleaner heated up to boiling and cooked my fingers... if we designed an ultrasonic cleaner that also worked as a deep-fryer, then after using the fryer, the machine could clean itself. It might just work.
+
+[gallery ids="7100,7101,7102,7103,7104"]
+
+
+

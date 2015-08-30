@@ -1,0 +1,19 @@
+#+POSTID: 5373
+#+DATE: [2010-11-22 Mon 02:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Vicare Scheme
+
+#+BEGIN_QUOTE
+  Vicare Scheme is an experimental fork of Ikarus Scheme; "Vicare" is pronounced the etruscan way. While the long term aim of the project is still not clearly established, Vicare has the following short and midterm goals: fix bugs; push compliance with R6RS, keeping a pragmatic eye at issues; enhance the POSIX interface.
+#+END_QUOTE
+
+
+
+The thing is that [[http://ikarus-scheme.org/][Ikarus]]hasn't been maintained and Aziz seems to be busy with other things.
+
+(via [[http://marcomaggi.github.com/vicare.html][marcomaggi]]via[[http://groups.google.com/group/ikarus-users/browse_thread/thread/1f62678073d2e6d5][ikarus-users]])
+
+
+

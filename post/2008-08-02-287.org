@@ -1,0 +1,25 @@
+#+POSTID: 287
+#+DATE: [2008-08-02 Sat 14:42]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: The PLT Card Game API
+
+PLT has a very neat API for writing [[http://docs.plt-scheme.org/cards/index.html][card games]].
+
+Here are some examples of what you can do with it:
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/08/go-fish.png][
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/08/go-fish.thumbnail.png]]
+]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/08/blackjack.png][
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/08/blackjack.thumbnail.png]]
+]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/08/spider-solitaire.png][
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/08/spider-solitaire.thumbnail.png]]
+]]
+
+
+

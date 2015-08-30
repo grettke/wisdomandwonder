@@ -1,0 +1,15 @@
+#+POSTID: 202
+#+DATE: [2008-06-07 Sat 16:29]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp
+#+TITLE: P-Lisp rides again!
+
+In [[http://groups.google.com/group/comp.lang.lisp/msg/35fce9b4bd111a98][this comp.lang.lisp]] post Ron Garret explains how he found and is in the process of exploring a copy of P-Lisp (PLisp) for the Apple IIe. 
+
+*Addendum 06/24/08*:
+
+Ron [[http://groups.google.com/group/comp.lang.lisp/msg/39fa569b8844f58c][explains how he created]] and released a disk image [[http://www.flownet.com/ron/PLisp.dsk][here]].
+
+
+

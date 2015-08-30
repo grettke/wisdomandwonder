@@ -1,0 +1,28 @@
+#+POSTID: 3900
+#+DATE: [2009-09-13 Sun 20:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: bzlib/dbi - an extensible database interface for PLT
+
+#+BEGIN_QUOTE
+  bzlib/dbi has just been made available via planet - inspired by Perl DBI, it is an extensible database interface, currently with the following drivers implemented: 
+
+bzlib/dbd-spgsql - wraps around schematics/spgsql 
+bzlib/dbd-jsqlite - wraps around jaymccarthy/sqlite 
+bzlib/dbd-jazmysql - wraps around jaz/mysql 
+bzlib/dbi/app - a kill-safe wrapper over raw database handles 
+bzlib/dbi/pool - a database connection pool wrapper 
+
+So if you need to switch within the three databases you now can do so more easily, and you get database connection pools and kill-safe wrappers for free. 
+
+You can find more details at [[http://weblambda.blogspot.com/2009/09/extensible-abstract-database-interace.html]] - which explains more in details about the interface.
+#+END_QUOTE
+
+
+
+(via [[http://groups.google.com/group/plt-scheme/browse_thread/thread/897eb80003fb7e46/1b1dcbf9c65c2903?lnk=gst&q=bzlib%2F#1b1dcbf9c65c2903][PLT]])
+
+
+
+

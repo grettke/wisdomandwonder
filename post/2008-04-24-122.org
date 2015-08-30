@@ -1,0 +1,43 @@
+#+POSTID: 122
+#+DATE: [2008-04-24 Thu 20:39]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Scheme
+#+TITLE: Lovable code
+
+Today I ended up reading a [[http://blackgrit.blogspot.com/2008/03/buy-lisp-stuff-at-black-grit-cafepress.html][particular post]] over at [[http://blackgrit.blogspot.com/][Black Grit, Inc.]] about their [[http://www.cafepress.com/blackgrit][CafePress storefront]].
+
+Since mzscheme supports unicode, I would've done it like this (in R5RS code):
+
+
+
+#+BEGIN_EXAMPLE
+    
+(define ♥
+  (lambda xs
+    (begin
+      (display "I ♥ ")
+      (let loop ((xs xs))
+        (display (car xs))
+        (if (not (null? (cdr xs)))
+            (begin
+              (display " ")
+              (display "and ")
+              (loop (cdr xs))))))))
+
+#+END_EXAMPLE
+
+
+
+so that you could write:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(♥ ’scheme)
+
+#+END_EXAMPLE
+
+
+

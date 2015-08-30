@@ -1,0 +1,13 @@
+#+POSTID: 3511
+#+DATE: [2009-07-08 Wed 03:27]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Haskell, Programming Language
+#+TITLE: Haskell 2010 Features
+
+[[http://www.haskell.org/pipermail/haskell-prime/2009-July/002812.html][This]] post includes information on proposed features of Haskell 2010.
+
+(via [[http://www.reddit.com/r/programming/comments/8z0pz/haskell_2010/][reddit]]).
+
+
+

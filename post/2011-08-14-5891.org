@@ -1,0 +1,15 @@
+#+POSTID: 5891
+#+DATE: [2011-08-14 Sun 00:38]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: C Sharp, Lisp, Programming Language, Racket, Scheme
+#+TITLE: Adding raw string syntax to Racket
+
+Racket is great; if you are missing a language feature then you just add it. How empowering. 
+
+Joan wanted C# style @-escaped strings and documents how he added them [[http://jarnaldich.me/2011/08/07/raw-strings-in-racket.html][here]].
+
+(via [[http://groups.google.com/group/racket-users/browse_thread/thread/e21d111e3beecd89/4106508bac901302?lnk=gst&q=Adding+raw+string+syntax#4106508bac901302][Racket]])
+
+
+

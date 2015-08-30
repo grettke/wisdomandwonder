@@ -1,0 +1,13 @@
+#+POSTID: 4243
+#+DATE: [2009-12-23 Wed 01:41]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Software
+#+TITLE: Windows XP is Great
+
+Windows XP is simple, reliable, and extensible. It has served many hundreds of thousands well for many, many years. It serves as a vehicle for businesses to prosper, people to have fun, and students (of all ages) to learn.
+
+Windows XP is great.
+
+
+

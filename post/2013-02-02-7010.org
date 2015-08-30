@@ -1,0 +1,11 @@
+#+POSTID: 7010
+#+DATE: [2013-02-02 Sat 21:21]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Guile, Lisp, Programming Language, Scheme
+#+TITLE: The Guile 100 Programs Project
+
+The Guile folks are looking for programmers curious about contributing, having some fun, and possibly winning a monetary reward for their work! Details [[https://lists.gnu.org/archive/html/guile-user/2013-01/msg00116.html][here]].
+
+
+

@@ -1,0 +1,21 @@
+#+POSTID: 9047
+#+DATE: [2014-09-01 Mon 00:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, R-Project, emacs speaks statistics
+#+TITLE: eval-in-repl: Consistent ESS-like eval interface for various REPLs
+
+#+BEGIN_QUOTE
+  [[https://github.com/kaz-yos/eval-in-repl/][This]] package does what ESS does for R for various REPLs, including ielm.
+
+Emacs Speaks Statistics (ESS) package has a nice function called ess-eval-region-or-line-and-step, which is assigned to C-RET. This function sends a line or a selected region to the corresponding shell (R, Julia, Stata, etc) visibly. It also start up a shell if there is none.
+
+This package implements similar work flow for various read-eval-print-loops (REPLs)
+#+END_QUOTE
+
+
+
+Via [[https://stat.ethz.ch/pipermail/ess-help/2014-August/010067.html][ess-help]].
+
+
+

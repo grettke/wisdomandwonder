@@ -1,0 +1,23 @@
+#+POSTID: 157
+#+DATE: [2008-05-03 Sat 14:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Conference, Functional, Programming Language
+#+TITLE:  CUFP 2007 Videos in the ACM Digital Library
+
+#+BEGIN_QUOTE
+  The videos recorded at CUFP 2007 have been posted in the
+ACM Digital Library. You can find them either by searching for "CUFP"
+at the top level DL page or by using [[http://portal.acm.org/toc.cfm?id=1362702&coll=ACM&dl=ACM&type=proceeding&idx=SERIES824∂=series&WantType=Proceedings&title=ICFP&CFID=16603487&CFTOKEN=68446686][this link]].
+#+END_QUOTE
+
+
+
+Hopefully they are soon to be released to Google Video!
+
+(via [[http://groups.google.com/group/cufp/browse_thread/thread/2f36df913c3e45c1?hl=en][CUFP]])
+
+
+
+
+

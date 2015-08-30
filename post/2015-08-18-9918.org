@@ -1,0 +1,15 @@
+#+POSTID: 9918
+#+DATE: [2015-08-18 Tue 17:31]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode, philosophy
+#+TITLE: Generating autoloads and Compiling Org without make
+
+[[http://orgmode.org/worg/org-hacks.html][Here]] is how to do it.
+
+Search for the heading "Generating autoloads and Compiling Org without make".
+
+This is very helpful for non-developer Org-Mode users who want to run Org-Mode from source via Git.
+
+
+

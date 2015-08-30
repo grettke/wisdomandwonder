@@ -1,0 +1,19 @@
+#+POSTID: 3010
+#+DATE: [2009-05-22 Fri 00:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Teaching, XO
+#+TITLE: Laptops make a good school better, but they don't make a bad school good
+
+#+BEGIN_QUOTE
+  Laptops make a good school better, but they don't make a bad school good.
+#+END_QUOTE
+
+
+
+There is an entire book about it [[http://www.amazon.com/gp/product/0807747262?ie=UTF8&tag=olpcnewspost-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0807747262][here]].
+
+(via [[http://www.olpcnews.com/commentary/academia/asus_eee_pcs_in_usa_schools_a.html][OLPC News]])
+
+
+

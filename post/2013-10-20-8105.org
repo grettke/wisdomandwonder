@@ -1,0 +1,21 @@
+#+POSTID: 8105
+#+DATE: [2013-10-20 Sun 20:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: A reminder for a library config
+
+I always forget to set up js-mode correctly for auto-complete mode so I added this reminder in my startup:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(unless (file-exists-p
+         (concat (car (ac-dictionary-directories)) "/js-mode"))
+  (display-warning :emergency "auto-complete not enabled for js-mode"))
+
+#+END_EXAMPLE
+
+
+

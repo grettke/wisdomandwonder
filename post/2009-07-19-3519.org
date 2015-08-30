@@ -1,0 +1,17 @@
+#+POSTID: 3519
+#+DATE: [2009-07-19 Sun 22:11]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Impromptu, OS X, Programming Language, Scheme
+#+TITLE: Impromptu Scheme for OS X
+
+#+BEGIN_QUOTE
+  [[http://impromptu.moso.com.au/index.html][Impromptu]] is an OSX programming environment for composers, sound artists, VJ's and graphic artists with an interest in live or interactive programming. Impromptu is a Scheme language environment, a member of the Lisp family of languages.
+#+END_QUOTE
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+#+POSTID: 9844
+#+DATE: [2015-07-11 Sat 00:28]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Fun, forth
+#+TITLE: Cost For Building a FORTH Based Personal Computer?
+
+How much would it cost to build a personal computer using a TI [[https://www.ti.com/ww/en/launchpad/launchpads.html][Launchpad]] and [[http://www.calcentral.com/~forth/forth/][eForth]]?
+
+It would need to output over HDMI and accept a USB keyboard. FAT32 for storage would make it easier to manage, too. 
+
+It is not this simple.
+
+
+

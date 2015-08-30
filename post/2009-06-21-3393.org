@@ -1,0 +1,11 @@
+#+POSTID: 3393
+#+DATE: [2009-06-21 Sun 22:57]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Scripting Excel With PLT Scheme via COM
+
+[[http://benjisimon.blogspot.com/2009/06/scripting-excel-with-plt-scheme-goodbye.html][Here]] is a good article about scripting Microsoft Excel with PLT Scheme via COM.
+
+
+

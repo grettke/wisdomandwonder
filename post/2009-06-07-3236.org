@@ -1,0 +1,13 @@
+#+POSTID: 3236
+#+DATE: [2009-06-07 Sun 01:31]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Business, model
+#+TITLE: Using mapping tools for information sharing
+
+[[http://benjisimon.blogspot.com/2009/05/map-fallen-project.html][Here]] is an article about an interesting application of mapping technology.
+
+I wonder what kind of business ventures might be driven from such an approach.
+
+
+

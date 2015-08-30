@@ -1,0 +1,17 @@
+#+POSTID: 5414
+#+DATE: [2010-12-19 Sun 22:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Eiffel, Programming Language
+#+TITLE: Gobo Eiffel Compiler
+
+#+BEGIN_QUOTE
+  The [[http://www.gobosoft.com/eiffel/gobo/gec/index.html][Gobo Eiffel Compiler]], or gec for short, is an open source command-line Eiffel compiler. The Eiffel community is already equipped with several Eiffel compilers, all supporting their own dialect despite the efforts of standardization of the Eiffel language and kernel library. So why yet another Eiffel compiler? The goal of gec is not to augment the number of incompatible Eiffel compilers but to provide both the open source community and the industry with a compiler fully compatible with ISE Eiffel and compliant with the ECMA Eiffel standard. OK, so what is the benefit of having a clone of ISE Eiffel? First gec is not a clone of ISE Eiffel. It uses different compilation techniques which make the compiler and the compiled applications perform better in some contexts or in some parts of the development cycle. Then, gec also provides an alternative to ISE Eiffel for those who invest a lot in the Eiffel technology and don't want to be tied to a single vendor.
+#+END_QUOTE
+
+
+
+
+
+
+

@@ -1,0 +1,27 @@
+#+POSTID: 9931
+#+DATE: [2015-08-29 Sat 18:05]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode, philosophy
+#+TITLE: DITAA Org2Blog Test
+
+#+BEGIN_HTML
+  <div class="figure">
+#+END_HTML
+
+
+[[./image/6A7C2226-0F1C-4415-A6B7-F0ED817DA00E.png][
+[[./image/6A7C2226-0F1C-4415-A6B7-F0ED817DA00E.png]] 
+]]
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2015/08/wpid-6A7C2226-0F1C-4415-A6B7-F0ED817DA00E2.png][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2015/08/wpid-6A7C2226-0F1C-4415-A6B7-F0ED817DA00E2.png]]]]
+
+
+

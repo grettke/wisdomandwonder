@@ -1,0 +1,99 @@
+#+POSTID: 9914
+#+DATE: [2015-08-18 Tue 02:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode, philosophy
+#+TITLE: Link Roundup
+
+
+
+
+
+-  [[http://www.lunaryorn.com/2015/04/29/the-power-of-display-buffer-alist.html]]
+
+
+   -  Preconfigure size and location of new windows by regex
+   -  Docked windows, nice
+   -  Perhaps my ielm/eshell stuff can be replaced by this
+
+-  [[http://blog.binchen.org/posts/emacs-speed-up-1000.html]]
+
+
+   -  Should put Emacs on a RAM disk on boxes without a SSD?
+   -  Comments include a Windows approach
+   -  Find OSX approach too, maybe
+
+-  [[http://oremacs.com/2015/05/08/avy-0.1.0/]]
+
+
+   -  Avy is now the base library behind all the ace- libraries
+   -  Can use the home keys for decisions keys
+   -  Mentions the "At" style is more efficien
+   -  See [[http://emacsredux.com/blog/2015/07/19/ace-jump-mode-is-dead-long-live-avy/][also]]
+
+-  [[http://batsov.com/emacsredux/blog/2015/05/09/emacs-on-os-x/]]
+
+
+   -  [[http://emacsredux.com/blog/2013/11/12/a-crazy-productivity-boost-remap-return-to-control/]]
+   -  [[https://github.com/lydell/dual]]
+   -  Set up vkill since there is no proced
+   -  Set up dired correctly
+   -  [[http://pragmaticemacs.com/emacs/dired-replace-text-in-multiple-files/][This]] too
+   -  What is Dash about exactly?
+
+
+      -  Mentioned [[http://irreal.org/blog/?p=3970][here]]
+
+   -  Comments
+
+
+      -  Good discussion in links about key parity, and even more: the space should be
+the control key: thumbs are stronger... wow
+      -  Open current thing in finder
+      -  Just read all of them they all look good
+
+-  [[http://oremacs.com/2015/05/13/ace-window-0.9.0/]]
+
+
+   -  I don't use ace-window this powerfully, and this makes me curious. Do you?
+   -  How did he generate that keyboard diagram?
+
+-  [[http://irreal.org/blog/?p=3963]]
+
+
+   -  How scroll works has been bothering me. I want scroll to work like with a
+mouse wheel. Now that I said that, I'm not sure exactly what I want. I just
+want to come and go to the same place always.
+
+-  [[http://irreal.org/blog/?p=3967]]
+
+
+   -  Great to have/know count words, I value that and need that
+   -  Add/document it
+   -  How does it handle org documents with org-markup that is insignificant
+   -  That thing always happens to me, think I need advice, and go and look and
+there is a function for it!
+   -  Key word: infuriating
+
+-  [[http://irreal.org/blog/?p=3979]]
+
+
+   -  Should I migrate to use-package? Sacha also uses it.
+   -  Navigating my package blocks seems like a good idea, too.
+
+-  [[http://irreal.org/blog/?p=3997]]
+
+
+   -  When publishing, include the original org document
+   -  Interesting for record keeping outside of vcs!
+
+-  [[http://irreal.org/blog/?p=4003]]
+
+
+   -  Configure
+
+
+
+
+
+

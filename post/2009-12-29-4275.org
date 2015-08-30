@@ -1,0 +1,11 @@
+#+POSTID: 4275
+#+DATE: [2009-12-29 Tue 18:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Caml, Programming Language
+#+TITLE: Caml Online Forums
+
+[[http://caml.inria.fr/resources/forums.en.html][This]] seems to be the best guide to Caml online forums. In particular, caml-list, caml-announce, ocaml-jobs, and "OCaml Beginners" look good.
+
+
+

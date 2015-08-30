@@ -1,0 +1,13 @@
+#+POSTID: 6475
+#+DATE: [2012-10-17 Wed 15:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, elisp
+#+TITLE: Elisp REPL in Emacs
+
+Nice Emacs setup for playing with Elisp, make sure to enable Paredit in the REPL and disable paredit-newline:
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/10/ElispDevFun.png][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/10/ElispDevFun-300x225.png]]]]
+
+
+

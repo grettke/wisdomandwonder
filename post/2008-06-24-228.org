@@ -1,0 +1,11 @@
+#+POSTID: 228
+#+DATE: [2008-06-24 Tue 22:29]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Update
+#+TITLE: Updated: Using Scheme’s Eval in Sandbox
+
+See [[http://www.wisdomandwonder.com/link/49/using-schemes-eval-in-sandbox][here]]
+
+
+

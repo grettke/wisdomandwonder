@@ -1,0 +1,11 @@
+#+POSTID: 5481
+#+DATE: [2011-01-02 Sun 06:49]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Eiffel, Programming Language
+#+TITLE: Late 2010 Musings in Real-World Eiffel
+
+Larry shares them in a decent post [[http://www.eiffelroom.org/node/489][here]].
+
+
+

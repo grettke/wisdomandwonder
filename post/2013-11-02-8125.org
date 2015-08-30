@@ -1,0 +1,22 @@
+#+POSTID: 8125
+#+DATE: [2013-11-02 Sat 23:46]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Business, Business Intelligence, Computational Science, Computer Science, Data Modeling, Data science, Database, Learning, Programming, R-Project, Statistics, Teaching, mathematics, philosophy
+#+TITLE: Tidy Data
+
+#+BEGIN_QUOTE
+  A huge amount of effort is spent cleaning data to get it ready for data analysis,
+but there has been little research on how to make data cleaning as easy and effective
+as possible. This paper tackles a small, but important, subset of data cleaning: data
+“tidying”.
+
+#+END_QUOTE
+
+
+-- Wickham
+
+[[http://vita.had.co.nz/papers/tidy-data.html][Tidy Data]] is a must-read paper.
+
+
+

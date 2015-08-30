@@ -1,0 +1,15 @@
+#+POSTID: 3311
+#+DATE: [2009-06-12 Fri 04:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Brian's Brain
+
+Eduardo posted some new OpenGL demos [[http://github.com/dharmatech/agave/tree/master][here]].
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2009/06/brians-brain.png][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2009/06/brians-brain-150x150.png]]]]
+
+(via [[http://github.com/dharmatech/agave/tree/master][Ikarus]])
+
+
+

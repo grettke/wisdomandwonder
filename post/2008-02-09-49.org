@@ -1,0 +1,17 @@
+#+POSTID: 49
+#+DATE: [2008-02-09 Sat 22:37]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Using Scheme's Eval in Sandbox
+
+One of the most tantalizing features that folks hear about Scheme is the [[http://www.schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-9.html#%_idx_578][eval]] function. While in reality, when it comes to meta-programming most modern Scheme distributions have evolved [[http://download.plt-scheme.org/doc/372/html/mzscheme/mzscheme-Z-H-12.html#node_chap_12][other mechanisms]] to do so, eval is still a big draw. The [[http://groups.google.com/group/plt-scheme/browse_thread/thread/46c3f636f5e9afae/da8679b59995d348?hl=en&lnk=gst&q=eval#da8679b59995d348][biggest shock]] most folks have when it comes to Scheme, though, is that you can only evaluate expressions in the top level environment. If eval holds your interest long enough, for perhaps any number of different different reasons, you will eventually reach the point where you want to do use it to evaluate code that you didn't write (my inspiration came in the form of the [[http://www.object-arts.com/][Dolphin Smalltalk tutorial]] task where you write network chat clients that can send code to each other for execution). Whatever *your* inspiration was, though, you will also reach the point where you realize that you don't necessarily want arbitrary code to be executed in the environment in which you are running your program; you don't want folks sending =(exit)= for example, that can be pretty irritating. One way to work around this issue to to evaluate your code in a sandbox.
+
+Here are three ways to do it with [[http://www.plt-scheme.org/][PLT Scheme]]: [[http://schemecookbook.org/Cookbook/DynamicEvalCustomNamespace][DynamicEvalCustomNamespace]], [[http://schemecookbook.org/Cookbook/DynamicUntrustedEval][DynamicUntrustedEval]], and [[http://download.plt-scheme.org/doc/372/html/mzlib/mzlib-Z-H-41.html#node_chap_41][Sandboxed Evaluation]].
+
+*Addendum 04/22/08*: 
+
+Here is a link directly to the Schematics [[http://planet.plt-scheme.org/display.ss?package=namespace.plt&owner=schematics][PLT package]] which provides "a library of useful procedures on namespaces".
+
+
+

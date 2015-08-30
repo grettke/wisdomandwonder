@@ -1,0 +1,23 @@
+#+POSTID: 4559
+#+DATE: [2010-03-01 Mon 00:27]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: C++, Cygwin, Ikarus, Programming Language, Scheme
+#+TITLE: How are DLLs used on Cygwin 1.7?
+
+Over the weekend I needed to set up a R6RS Scheme interpreter on Cygwin. It came down to either PLT or Ikarus. Both seem to be straightforward builds but I couldn't make PLT happy so I went with Ikarus instead. It was a very simple and straightforward configuration and took maybe a minute to build. Once things were clearly working fine I figured I would try to get some of Ed's OpenGL ([[http://github.com/dharmatech/box2d-lite][box2d-lite]] and [[http://github.com/dharmatech/agave][agave]]) demos running just for the fun of it.
+
+Both of the programs depend on the GL and GLUT libraries. At runtime the correct DLL is loaded depending on the OS type. There wasn't a setting for Cygwin so I added one. The thing was that I specified the wrong file name: /usr/lib/libGL.dll.a and /usr/lib/libglut.dll.a. 
+
+It was an uneducated guess in the first place. I figured there would be a one to one mapping. After Marco kindly kicked my butt on the Ikarus list though, by asking some basic questions like has it ever worked and have I checked out the difference in error messages, I got me thinking that I should have read up on this. 
+
+The Cygwin documentation [[http://cygwin.com/cygwin-ug-net/dll.html#dll-link][here]] and the Redhat documentation [[http://www.redhat.com/docs/manuals/enterprise/RHEL-4-Manual/gnu-linker/win32.html][here]] seem to explain it... Windows DLLs need additional information to be linked against. On Cygwin, when GCC sees .dll.a files it "knows" how to get the additional data out of them in case you want to link to Win32. Reading on in the Redhat documentation, it lists the DLL search path when you specify -L argument for GCC. In that list I saw that /bin is included. That surprised me.
+
+It turns out that on Cygwin, DLLs that are not compiled to work with Win32 are located there. At least, this is my understanding. When you link to these DLLs though, the OpenGL demos work just fine on Cygwin with Ikarus. 
+
+Is this also your understanding? I need to dig in more to this topic.
+
+I had been trying to get so many things working this weekend that I didn't invest the amount of the time that this deserved, or most of those things for that matter.
+
+
+

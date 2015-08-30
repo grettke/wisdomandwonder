@@ -1,0 +1,33 @@
+#+POSTID: 854
+#+DATE: [2008-10-06 Mon 05:27]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: CGI scripting with MzScheme
+
+[[http://curiousprogrammer.wordpress.com/2007/06/28/cgi-scripting-with-mzscheme/][Here]] is a post on using mzscheme for CGI.
+
+For safe keeping, here is the code:
+
+
+#+BEGIN_EXAMPLE
+    
+#!mzscheme -mqf
+
+(define *query-string* (getenv "QUERY_STRING"))
+
+(define (header type)
+  (string-append "Content-type: " type "; charset=iso-8859-1~n~n"))
+
+(printf (header "text/html"))
+(printf "Hello World~n")
+
+(when *query-string*
+      (printf "[~a]~n" *query-string*))
+
+(exit)
+
+#+END_EXAMPLE
+
+
+

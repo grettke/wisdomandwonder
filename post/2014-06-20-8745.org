@@ -1,0 +1,13 @@
+#+POSTID: 8745
+#+DATE: [2014-06-20 Fri 16:21]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: Emacs Lisp programmers must know about pcase
+
+[[https://en.wikipedia.org/wiki/Pattern_matching][Pattern matching]] is available in a bunch of programming languages. For some reason, I never thought to look for a library in Emacs Lisp for it, and it is here in [[http://www.emacswiki.org/emacs/PatternMatching][pcase]]. 
+
+There is this weird thing that happens when you start using Emacs Lisp. Unlike other languages where you start learning it for "its great features", most of us only learned it to configure Emacs. Because of this, our brains kind of turn off when it comes to using the language. Or perhaps instead, our expectations change. They are just, lower, and it makes our minds slower. That is why you see so many posts like "if you are programming Emacs Lisp then you must...".
+
+
+

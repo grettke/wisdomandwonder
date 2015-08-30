@@ -1,0 +1,13 @@
+#+POSTID: 166
+#+DATE: [2008-05-03 Sat 22:41]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming
+#+TITLE: Motivational John McCarthy Posters
+
+For programmers, how motivational is a [[http://xach.livejournal.com/170311.html][poster with John McCarthy on it]]?
+
+(Mirrored [[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/05/doing-it-wrong.jpg][here U.S.]] and [[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/05/doing-it-wrong-at-a4.jpg][here A4]].)
+
+
+

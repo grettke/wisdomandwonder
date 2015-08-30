@@ -1,0 +1,15 @@
+#+POSTID: 3441
+#+DATE: [2009-06-28 Sun 01:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Smalltalk
+#+TITLE: A Re-Imagining of Smalltalk: Pharo
+
+[[http://www.pharo-project.org/about][Here]] is the main page for Pharo Smalltalk; it looks pretty interesting.
+
+From talking to a Squeak maintainer; I got the impression that a lot of Squeak developers and maintainers feel sort of a love hate thing with Squeak. On the one hand it has so much history and it is such a great tool that they loathe change. On the other hand, the inability to change things is the biggest issue in moving forward.
+
+(via [[http://www.reddit.com/r/programming/comments/8up13/pharo_smalltalk_a_fork_of_squeak_geared_toward/][reddit]])
+
+
+

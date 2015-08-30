@@ -1,0 +1,17 @@
+#+POSTID: 8739
+#+DATE: [2014-06-18 Wed 15:41]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: DevOps, Packer, Vagrant
+#+TITLE: Vagrant provider for libvirt
+
+#+BEGIN_QUOTE
+  [[[https://github.com/pradels/vagrant-libvirt][vagrant-libvirt]] is a] Vagrant provider for [[http://libvirt.org/][libvirt]].
+#+END_QUOTE
+
+
+
+
+
+
+

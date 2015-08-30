@@ -1,0 +1,17 @@
+#+POSTID: 4215
+#+DATE: [2009-12-21 Mon 21:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: 
+#+TITLE: Bertrand Meyer's take on Learning How to Program
+
+[[http://se.inf.ethz.ch/people/meyer/down/touch/index.html][Here]] is Bertrand Meyer's take on learning how to program.
+
+The site includes a rationale for the teacher, and introduction for the students, and recorded lectures among other things. 
+
+Having read [[http://docs.eiffel.com/book/method/object-oriented-software-construction-2nd-edition][OOSC2]], it will be interesting to see his philosophy on teaching new programmers.
+
+(via [[http://bertrandmeyer.com/2009/12/19/touch-of-class-book-page-available/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+BertrandMeyer+%28Bertrand+Meyer%27s+technology+blog%29&utm_content=Google+Reader][Bertrand Meyer]])
+
+
+

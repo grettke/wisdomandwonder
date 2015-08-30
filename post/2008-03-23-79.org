@@ -1,0 +1,21 @@
+#+POSTID: 79
+#+DATE: [2008-03-23 Sun 20:01]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Naughty Dogs use Scheme in Video Games
+
+Once again [[http://www.naughtydog.com/][Naughty Dog Software]] has used [[http://en.wikipedia.org/wiki/Game_Oriented_Assembly_Lisp][Lisp]] to write their video games.
+
+Here are the two blurbs where I heard about it:
+
+
+-  [[https://webmail.iro.umontreal.ca/pipermail/mslug/2008-February/000274.html][MSLUG Post]]
+-  [[https://www.cmpevents.com/GD08/a.asp?option=G&V=3&id=562983][Game Developers Conference 2008 page]]
+
+
+
+I had held off posting this for a while in hopes that presentations materials would show up. They haven't set; so I'm going to have to do some digging!
+
+
+

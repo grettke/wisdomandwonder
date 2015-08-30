@@ -1,0 +1,13 @@
+#+POSTID: 276
+#+DATE: [2008-07-24 Thu 04:06]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Wraith Scheme
+
+[[http://web.mac.com/jay_reynolds_freeman/My/Software.html][Wraith Scheme]] is a R5RS Scheme implementation written exclusively for the Mac.
+
+It is interesting and warrants more investigation, but for the fact that I haven't got a Mac.
+
+
+

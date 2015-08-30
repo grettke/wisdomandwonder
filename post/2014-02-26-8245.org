@@ -1,0 +1,15 @@
+#+POSTID: 8245
+#+DATE: [2014-02-26 Wed 03:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide, Lisp, Programming Language, elisp, org-mode
+#+TITLE: org-mode Observations 2014-02-25
+
+[[https://github.com/abo-abo/org-download/blob/master/org-download.el][org-download]] lets you drag and drop images in org-mode.
+
+[[http://orgmode.org/worg/org-contrib/org-drill.html][org-drill]] helps you write flash-cards.
+
+[[http://orgmode.org/manual/Handling-links.html][org-id-links]] are more flexible than simple ones.
+
+
+

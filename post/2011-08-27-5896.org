@@ -1,0 +1,18 @@
+#+POSTID: 5896
+#+DATE: [2011-08-27 Sat 01:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Fun, Science
+#+TITLE: The Sloan Digital Sky Survey
+
+#+BEGIN_QUOTE
+  The [[http://www.sdss.org/][Sloan Digital Sky Survey]] (SDSS) is one of the most ambitious and influential surveys in the history of astronomy. Over eight years of operations (SDSS-I, 2000-2005; SDSS-II, 2005-2008), it obtained deep, multi-color images covering more than a quarter of the sky and created 3-dimensional maps containing more than 930,000 galaxies and more than 120,000 quasars.
+#+END_QUOTE
+
+
+
+It is hard not to dream about exploring space when you see what Sloan has to offer.
+
+
+
+

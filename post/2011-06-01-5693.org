@@ -1,0 +1,24 @@
+#+POSTID: 5693
+#+DATE: [2011-06-01 Wed 03:01]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide
+#+TITLE: Clipped fonts in Emacs
+
+The awesome [[http://www.emacswiki.org/emacs/pretty-mode.el][pretty-mode]] for Emacs displays symbols of your choosing rather than text for specified patterns. For example if you have a lot of Greek letter names in your MATLAB code you might just have the symbol show up instead. 
+
+After upgrading to Emacs version 23 on Windows (GNU Emacs 23.3.1 (i386-mingw-nt6.1.7600) of 2011-03-10 on 3249CTO) though the symbols get clipped off. Here is what I mean:
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2011/05/prettymode1.png]]
+
+When I place the cursor on the lambda in this case, it renders correctly:
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2011/05/prettymode2.png]]
+
+However, when I modify the buffer, the characters again renders incorrectly.
+
+When I type in the Unicode characters directly; they render just fine.
+
+My current approach for figuring out what is going on has been to read the code and the Elisp API. From what I can see, it "looks right". Right now I'm just documenting it here to try to get a pointer on where to look next.
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 3992
+#+DATE: [2009-09-25 Fri 17:38]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Looking at Generic Functions in Scheme
+
+A common criticism of Scheme is that it does not have generic methods; resulting in the tedium of having to call variations of the same function but for different types. Wanting to learn more about this, within Scheme, I was pointed at TinyCLOS [[http://community.schemewiki.org/?Tiny-CLOS][here]] and [[http://chicken.wiki.br/tinyclos][here]], for reference.
+
+(via [[http://www.snell-pym.org.uk/archives/author/alaric/][alaric]])
+
+
+

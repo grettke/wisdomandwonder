@@ -1,0 +1,15 @@
+#+POSTID: 3448
+#+DATE: [2009-06-28 Sun 01:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Haskell, Programming Language, iPhone
+#+TITLE: Haskell on the iPhone
+
+[[http://www.haskell.org/pipermail/haskell/2009-June/021442.html][Here]].
+
+I assume that this is not a joke.
+
+(via [[http://www.reddit.com/r/programming/comments/8upau/ipwn_studios_releasing_haskell_on_the_iphone/][reddit]])
+
+
+

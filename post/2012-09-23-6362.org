@@ -1,0 +1,26 @@
+#+POSTID: 6362
+#+DATE: [2012-09-23 Sun 17:27]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: Debugging an ELPA Package Install on Marmalade
+
+To get started with ELPA packages I started small by trying to package up [[http://www.emacswiki.org/emacs/hide-comnt.el][hide-comnt.el]]. Marmalade wouldn't let me upload it though giving me a "520 Bad Gateway error". [[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/09/hide-comnt-40.tar][Here is the package]] that I'm testing with.
+
+Here are the steps I have since followed to try to address it:
+
+
+
+1.  Guys in #emacs said it might be Internet access. I think it could be Internet access, package format might be wrong, OS issues, or tar might be bad.
+2.  Tried first with Chrome on Windows, and then Firefox on Windows. No change.
+3.  Tried first with GNU Tar on Windows, and then 7zip on Windows. No change.
+4.  Installed Lubuntu 12.04 then tried GNU Tar and Chrome. No change.
+5.  On Windows, blew away my manually installed copy of hide-comnt and installed the package (from above) from inside Emacs using 'package-install-file'. This worked fine; the package installed and worked as expected. The package seems ok since Emacs installed it.
+6.  Tried using a web proxy from home and did not get the 502 error, but the file was not uploaded.
+7.  Noticed that there is a sample multi-file TAR package [[http://marmalade-repo.org/packages/marmalade-test][here]]. Think mine is OK but this is a useful reference.
+8.  Found [[http://marmalade-repo.org/packages/marmalade][this]] package and tried doing a programmatic upload. It didn't work, the result was "502 Bad Gateway".
+9.  Tried uploading using 4G on my Android and got the same result, "502 Bad Gateway".
+10. #2, #5, and #9 make it /seem/ like the package I made is OK and it is not my Internet connection. Only Nic can check, so I'm passing it to him now.
+
+
+

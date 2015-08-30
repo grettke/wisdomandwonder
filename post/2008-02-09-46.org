@@ -1,0 +1,17 @@
+#+POSTID: 46
+#+DATE: [2008-02-09 Sat 17:29]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 
+#+TITLE: Static and Dynamic in Programming Languages
+
+References to static and dynamic programming language features often come up on discussion boards; and are often made in an inconsistent if not confusing manner. It seems that dynamic and static refer both to name binding and type checking. I wanted a clarification; the following is my take on what I learned based on reading a [[http://www.scheme.com/tspl3/][TSPL]] along with Wikipedia articles on [[http://en.wikipedia.org/wiki/Name_binding][Name binding]] and [[http://en.wikipedia.org/wiki/Type_system][Type systems]].
+
+Name binding refers to the abstraction provided by programming languages by which we associate a “name” in the code with an “object” in the execution environment. In statically bound languages, the binding can not change, so it can be made before the program runs. In dynamically bound languages, the binding can change or in other words is not yet known, so it can not be made before the program is executed.
+
+Type checking refers the process by which the language runtime applies its type rules. In statically typed languages, this process occurs before the program is executed. In dynamically typed languages, this process occurs while the program is executed.
+
+The fun thing to do now, of course, is to determine how name binding and type checking occur in your current language of choice, and then figure /why/ they do so in that manner!
+
+
+

@@ -1,0 +1,28 @@
+#+POSTID: 3415
+#+DATE: [2009-06-21 Sun 23:42]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Computer Science, PLT, Programming Language
+#+TITLE: Lambda Calculus Modeled with PLT Redex
+
+[[http://telefonica.net/web2/koot/lc-with-redex.zip][Here]] is material on understanding Lambda Calculus using PLT Redex: 
+
+
+
+#+BEGIN_QUOTE
+  In this zip directory you can find file lc-with-Redex.doc which is a short intro in Lambda Calculus and contains info on how to use the material that goes with the essay. I have included a very condenced note on a system even without lambda, which is called 'combinatory logic'. My essay is adressed to Schemers and uses PLT Scheme, particularly PLT's redex library. It has become somewhat more verbose than I had in mind originally. If you have any ideas how to condence and simplify further without loosing too much content and accuracy, I welcome your suggestions. Comments about inaccuracies and other faults are welcome too, of course. My essay does not contain any new views. It is a compilation of views taken from books that have inspired me. They are mentioned in the essay.
+ 
+If the format of the above link does not suit you, give me a ping and I'll try to send you the material in a format that suits you.
+ 
+With thanks to Douglas R. Hofstadter, Daniel P Friedman, Matthias Felleisen, Roby Findler, Casey Klein and others, in all feasible orders.
+#+END_QUOTE
+
+
+-- Jos
+
+I did not read it yet; this is on my long list.
+
+(via [[http://groups.google.com/group/plt-scheme/browse_thread/thread/b611fdc2194cbe43/8302a69d08f8c698?lnk=gst&q=llc-with-redex#8302a69d08f8c698][plt]])
+
+
+

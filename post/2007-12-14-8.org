@@ -1,0 +1,18 @@
+#+POSTID: 8
+#+DATE: [2007-12-14 Fri 03:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: .NET, F#, Programming Language
+#+TITLE: One reason why F Sharp is exciting
+
+One of the most common reasons cited for not learning more about functional programming is the lack of both good libraries and good development environments. This is a little bit surprising, because when it comes to learning a language, these two features are likely to have the /least/ impact on the learning process. Despite that, this lament continues; there must be more to it!
+
+Programmers, like most folks today, are largely short on time. Wherever they invest it, they expect a good return. When it comes to programming, every programmer hopes that the investment he makes in learning a new language has at least a /fighting chance/ at being applied to solving a /billable problem/. 
+
+F# completely blows away these two huge barriers to folks learning more about functional programming: it has complete access to the .NET platform and has excellent integration with Visual Studio .NET. 
+
+This is very, very exciting: even if a programmer never ends up using a functional programming language for billing work, he will have had a lot of fun learning a new paradigm, and will be a better programmer for it!
+
+
+
+

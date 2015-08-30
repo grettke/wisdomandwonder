@@ -1,0 +1,44 @@
+#+POSTID: 101
+#+DATE: [2008-04-20 Sun 21:05]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Functional, Programming Language, Scheme
+#+TITLE: Composing Functions with Scheme
+
+In the PLT thread [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-February/022993.html][['complement'[?] of map]]] Stephen de Gabriel asked if there was a function that would take any number of functions, and an argument, and then apply the first function to the argument, and apply the second function to the result of the first, and so on. 
+
+In PLT Scheme, the function is called 'compose'. Compose:
+
+
+
+#+BEGIN_QUOTE
+  Returns a procedure that composes the given functions, applying the last f first and the first f last. The composed functions can consume and produce any number of values, as long as each function produces as many values as the preceding function consumes.
+#+END_QUOTE
+
+
+
+I asked if this was typical FP style, and Noel replied that it is so common that compose is an infix operation in Haskell and ML, as far as he could recall.
+
+Here is an example (from the thread) of how it works using the "Pretty Big" language:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(define pam
+  (lambda (datum . proc-list) 
+    ((apply compose proc-list) datum)))
+
+(pam
+ 2
+ (lambda (n) (/ n 7))
+ (lambda (n) (- n 3))
+ (lambda (n) (+ n 10))
+ (lambda (n) (* n 7)))
+
+> 3
+
+#+END_EXAMPLE
+
+
+

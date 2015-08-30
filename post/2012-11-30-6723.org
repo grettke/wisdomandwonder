@@ -1,0 +1,31 @@
+#+POSTID: 6723
+#+DATE: [2012-11-30 Fri 19:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 02947, CB750, CB750F, Honda, Motorcycle, Repair
+#+TITLE: CB750F: Day 03
+
+The night before I had spent an hour trying to get out that bolt holding on the tip over bars. I griped to Teacher about it. He said "Grant... most of mechanics is about patience." and walked away. It was very memorable. Tonight I spent another 45m on that bolt, this time with a small flat head screwdriver and a hammer. Great progress, got it out. On to the other side, same problem with a twist, the bolt had the top half of its threads stripped, so there were 8 washers between the bolt and the frame. Same trick with the screwdriver to get it out. This one doesn't get a photo though, I refuse to give publicity to such bad practices.
+
+It really got me thinking though. In software, things are very malleable and flexible and poorly defined so you can screw up a lot easily. Motorcycles on the other hand are not, they are well-defined, you buy a manual and then you use the correct parts and tools and torque. What a waste to take such a beautifully designed system and screw it up with crap like this? That last bolt I took out was ground almost to a circular-octagon shape before I got it out.
+
+Tonight I wore plastic gloves. That helped a lot in the really dirty areas underneath the bike. Nitrile gloves don't cost much. 
+
+Teacher reminded me that I can use a lift, and I did, it was just too hard to work on the floor anymore. Teacher showed me how to use it, the safety, and so on.
+
+One note, any errors expressed here are a product of myself, not of Teacher. This is really a journal for me more than anything else.
+
+Tonight I talked to Teacher about POR-15'ing the tank, he said if it ain't broke.... Good point. He said just drain it out and put some fresh gas in there. I had this idea that it would be time that would be the big cost since I'm a newbie... well that is true, but 2H to remove a bolt! Geez I didn't expect that. Now I'm a lot more interested in reducing work (without cutting corners of course). 
+
+Looked into replacing the 4-into-1 exhaust pipe, looks expensive, 200-300, ouch. Maybe I can just POR-15 them. Next time I will take them off and Teacher will check them out. I will also check whether I can do an oil change without removing the current pipes, that would be a nice to have. 
+
+Left the bike with the right side frame needed to bolt on, it sagged a bit. Teacher showed me a lift specifically to lift up motorcycle frames... brilliant, I would never have this stuff at home or even know it existed. Compression check and carb removal are still on the agenda, once we look at the latter we will order the rebuild kit. Will also remove the pipes next week. Teacher said since a sporty 4-1 pipe is on there, the carbs have probably been modified, too. Teacher said that both of those engine mount points are probably stripped out, so we should fix it at some point. It makes me curious about what kind of life this machine has had until my ownership.
+
+Once again I forgot my dirty clothes to work in. It might be a lot easier just to buy some overalls and leave them there.
+
+I bought a 35G plastic container to store the gas tank in, that way nobody will easily walk into it or something. Ordered a battery charger last night, SEM-1562, should get it next Wednesday. I also bough large and small ziplock bags, a notepad, sharpie, pen, and painter's tape to label things, along with a little first-aid kit in case of anything.
+
+To wrap up the night I got the tip over bars off. Teacher said it is OK to clean them in solvent, then soap and water, then air dry. Look much better, though still might make sense to blast them and paint them as most of the chrome is off.
+
+
+

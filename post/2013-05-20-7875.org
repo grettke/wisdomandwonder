@@ -1,0 +1,17 @@
+#+POSTID: 7875
+#+DATE: [2013-05-20 Mon 20:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, Programming Language, Scheme
+#+TITLE: Husk: An R5RS-compatible Scheme written in Haskell
+
+#+BEGIN_QUOTE
+  [[https://github.com/justinethier/husk-scheme][Husk]] is a dialect of Scheme written in Haskell that adheres to the R5RS standard. Advanced R5RS features are provided including continuations, hygienic macros, and a full numeric tower.
+#+END_QUOTE
+
+
+
+(via [[https://github.com/justinethier/husk-scheme][husk-scheme]])
+
+
+

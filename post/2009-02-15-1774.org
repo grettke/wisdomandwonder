@@ -1,0 +1,23 @@
+#+POSTID: 1774
+#+DATE: [2009-02-15 Sun 03:08]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Macros, Programming Language, Scheme
+#+TITLE: One reason for hygiene
+
+You need hygiene because:
+
+
+#+BEGIN_QUOTE
+  Only superstars on their highest alert level [while writing macros] get things right all the time.
+#+END_QUOTE
+
+
+--Matthias
+
+That said, hygiene alone isn't a cure-all for writing predictable macros. If you don't understand what you are doing, thoroughly; you will screw up eventually. "Thar be dragons here" as someone once warned on the PLT list.
+
+(via [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-February/030376.html][PLT]])
+
+
+

@@ -1,0 +1,59 @@
+#+POSTID: 59
+#+DATE: [2008-02-11 Mon 02:36]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: PLT, Programming Language, Scheme, Utility
+#+TITLE: DrSync: Automatically synchronize file changes in DrScheme v370 and above
+
+[[http://planet.plt-scheme.org/display.ss?package=drsync.plt&owner=grettke][DrSync]] is a plugin that saves your files on frame deactivation and reverts them on frame activation. This tool is of particular interest to folks who run external programs like version control or build related tools on files which they are editing inside of [[http://www.plt-scheme.org/software/drscheme/][DrScheme]].
+
+
+
+*** What
+
+
+
+DrSync does two things:
+
+
+
+1. Synchronizes files on frame activation.
+2. Saves files on frame deactivation.
+
+
+
+
+
+*** Why
+
+
+
+
+1. Switching between DrScheme and your version control client, it is easier knowing that your file is saved, and ready for a commit. After going through this process only fifty or sixty times, you will begin to appreciate any way to make it easier.
+2. If you use version control keyword expansion, you need to revert your file each time you return to DrScheme.
+3. If you use an external compilation process, sometimes you forget to save your changes, resulting in your quizzical stares and hair pulling.
+
+
+
+
+
+*** How
+
+
+
+DrSync follows the KIS principle: Keep It Simple.
+
+
+
+1. Synchronization occurs only on frame activation and deactivation and at no other time. Opening file menus, switching between tabs, or moving between the editor and the REPL will not trigger synchronization.
+2. Every type of file will be synchronized. Whether you edit SS, SCM, or TXT files in the editor makes no difference. If there is a file open in a tab, it will be synchronized.
+3. Synchronization always occurs, it is not configurable. If you use this tool, you most probably have a good reason to do so, and in the long run you will be better off always knowing that your files are in sync at all times.
+
+
+
+*Addendum 7/19/8:*
+
+I just updated DrSync to work more nicely with DrScheme 4.x and posted it to Planet, version 2.7/1.0.2.
+
+
+

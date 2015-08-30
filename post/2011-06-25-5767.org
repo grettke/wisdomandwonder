@@ -1,0 +1,11 @@
+#+POSTID: 5767
+#+DATE: [2011-06-25 Sat 20:25]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 22656, Concours, Kawasaki, Motorcycle
+#+TITLE: Get a green light at every stop
+
+Last year I bought a [[http://www.greenlightstuff.com/trigger.html][greenlight trigger]] from Green Light Products. Installation was easy; I left it clamped overnight. Does it work? Yes, definitely. The only problem is at history has shown me, I don't seen to actually use many intersections that utilize this approach for changing lights :).
+
+
+

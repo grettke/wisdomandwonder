@@ -1,0 +1,18 @@
+#+POSTID: 321
+#+DATE: [2008-08-06 Wed 03:07]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Joel Bartlett's Famous Scheme->C System
+
+#+BEGIN_QUOTE
+  Joel Bartlett's original Scheme->C system has been in stealth mode for some years now, but with a recent re-license under F/OSS terms by HP, the allocation of a web site [[http://scheme2c.alioth.debian.org/]], the integration of all known useful patches including LINUX/i386 and LINUX/amd64 ports, and uploading into the Debian incoming queue, this zippy R4RS Scheme is on the move again!
+#+END_QUOTE
+
+
+
+(via [[http://groups.google.com/group/comp.lang.scheme/msg/39910fda0ee8a9a9][comp.lang.scheme]])
+
+
+
+

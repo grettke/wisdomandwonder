@@ -1,0 +1,11 @@
+#+POSTID: 267
+#+DATE: [2008-07-14 Mon 22:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Update
+#+TITLE: Updated: Mr Ed Designer: Generating User Interfaces with PLT Scheme
+
+See [[http://www.wisdomandwonder.com/link/73/mr-ed-designer-generating-user-interfaces-with-plt-scheme][here]]
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 9150
+#+DATE: [2014-09-18 Thu 00:25]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: dplyr: A gamechanger for data manipulation in R
+
+If you've never looked at [[https://github.com/hadley/dplyr][dplyr]], then [[http://practicalrvideos.blogspot.com/2014/08/dplyr-gamechanger-for-data-manipulation.html][this]] is a must watch lecture.
+
+
+

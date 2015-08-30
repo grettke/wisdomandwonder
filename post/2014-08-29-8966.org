@@ -1,0 +1,17 @@
+#+POSTID: 8966
+#+DATE: [2014-08-29 Fri 23:14]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Algorithmic Trading, Big Data, Business Intelligence, Data Analysis and Modeling, Data Mining, Data Visualization, Data science, Financial Engineering, Machine Learning, Mathematical Modelling, Predictive Analytics, Quantitative Analysis, Quantitative Finance, R-Project, Risk Management, Statistical Computing
+#+TITLE: DATA-COPE
+
+#+BEGIN_QUOTE
+  [[http://www.datacope.org/][DATA-COPE]] seeks to provide information for research analysts accessing and using administrative data. A key aspect of this mission is resource sharing and curation of quality information that is recommended by our members.
+#+END_QUOTE
+
+
+
+
+
+
+

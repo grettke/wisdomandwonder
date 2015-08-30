@@ -1,0 +1,45 @@
+#+POSTID: 7562
+#+DATE: [2013-04-16 Tue 15:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 02947, CB750, CB750F, Honda, Motorcycle, Repair
+#+TITLE: CB750F: Day 26: Some Shiny Stuff
+
+Tonight was great, a very "in the flow" kind of night.
+
+
+
+-  Completed cleaning the drive sprocket enclosure area. Years of chain oil had hardened up to 1cm think. I didn't think it could be cleaned, but with time it eventually gave way. I used some old twigs too weak to scratch up the finish.
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130416_161823.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130416_161823-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130416_173242.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130416_173242-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130416_173248.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130416_173248-300x225.jpg]]]]
+-  Removed the old chain. There was a master link that I tapped out the pins on with a hammer.
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130416_173556.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130416_173556-300x225.jpg]]]]
+-  Inspected the rear hub, it is fine. Noticed that it was dirty and had to clean it. It is curious how as you clean, you notice more and more that you did not previously, which results in more cleaning. Another example, after cleaning the surface of the hub I cleaned out the 4 holes in it.
+-  Installed the new rear final drive sprocket, following a star pattern, and torquing it twice.
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130416_182750.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130416_182750-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130416_182753.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130416_182753-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130416_184533.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130416_184533-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130416_184618.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130416_184618-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130416_190450.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130416_190450-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130416_191547.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130416_191547-300x225.jpg]]]]
+-  Cleaned the rear swingarm. I had previously thought that it was clean using brake cleaner, but upon further staring noticed that it was just filthy. Pat noticed me not making much progress and got a plastic brush and recommended that I use mineral spirits. The result was brilliant, it worked so well that I cleaned the top of the center stand too, and started on the bottom, but that will take some work. It looks noticeably better so far, it is really wonderful.
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130416_200756.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130416_200756-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130416_200800.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130416_200800-300x225.jpg]]]]
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130416_200750.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130416_200750-300x225.jpg]]]]
+-  In preparation for replacing the rear shocks I measured from the eye to the "U", and it was a little over 14".
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130416_204934.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130416_204934-300x225.jpg]]]]
+-  Tomorrow I will order stuff for next week, and pack up the exhaust for carb installation and syncing on Thursday.
+-  Checked the tolerances for the rear brake pads. Replace at spec is 6mm, one was 6mm and the other was 5mm. Pat recommended sintered, EBC pads. I will replace all of them, I couldn't even see anymore red wear lines on the front brake pads.
+-  Some brake cleaner got onto my rear tire. Pat said that it is fine as long as you aren't soaking the tire in it.
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 213
+#+DATE: [2008-06-16 Mon 16:14]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Linked In to PLT 
+
+Tom Schouten has kindly set up a PLT Scheme group in Linked In.
+
+To join it, go to his [[http://www.linkedin.com/in/tomschouten][web page]] and click on the "PLT Scheme" link to request membership.
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 1086
+#+DATE: [2008-10-30 Thu 16:35]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Haskell, Programming Language
+#+TITLE: Haskell Super Mario Bros
+
+[[http://groups.google.com/group/fa.haskell/browse_thread/thread/b6e41d00388de008][Here]] is a post on a reimplementation of Super Mario Bros written in Haskell.
+
+(via [[http://calculist.blogspot.com/2008/10/sweet.html][The Little Calculist]])
+
+
+

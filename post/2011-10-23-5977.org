@@ -1,0 +1,45 @@
+#+POSTID: 5977
+#+DATE: [2011-10-23 Sun 20:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: R7RS Initial Results of Implementor Intentions Poll
+
+#+BEGIN_QUOTE
+  The following all intend to support R7RS small:
+
+ * Per Bothner (Kawa)
+ * Will Clinger (Larceny)
+ * Shiro Kawai (Gauche)
+ * Manuel Serrano (Bigloo) - "not sure about libraries"
+ * Alex Shinn (Chibi) - "already fully implemented, but lacking tests"
+ * Felix Winkelmann (Chicken)
+
+The following were less committal, but open, and their
+implementations are flexible enough to implement R7RS in
+third-party code:
+
+ * Kent Dybvig (Chez) - "if it's as simple as you say I don't see why not"
+ * Matthew Flatt (Racket) - "if there's sufficient user demand"
+ * Andy Wingo (Guile) - "probably"
+
+The following are simply unable to implement R7RS or uninterested
+in standards:
+
+ * Taylor Campbell (MIT) - "MIT lacks the infrastructure for modules"
+ * Jonathan Shapiro (TinyScheme) - thinks call/cc should be removed
+ * Jeffery Mark Siskind (Stalin) - "no longer working on Stalin"
+ * Michael Sperber (Scheme48) - "no time even for R6RS"
+
+No one refused to implement based on the content of the standard,
+or cited any features as showstoppers.
+#+END_QUOTE
+
+
+
+That last part is important; R6RS didn't have that quality.
+
+(via [[http://lists.scheme-reports.org/pipermail/scheme-reports/2011-October/001595.html][scheme-reports]])
+
+
+

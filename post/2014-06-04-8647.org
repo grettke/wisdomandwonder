@@ -1,0 +1,11 @@
+#+POSTID: 8647
+#+DATE: [2014-06-04 Wed 23:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: OSX, Utility
+#+TITLE: OSX configuration management with Boxen
+
+[[https://boxen.github.com/][Boxen]], which is [[https://github.com/boxen][free software]], looks interesting.
+
+
+

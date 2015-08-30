@@ -1,0 +1,19 @@
+#+POSTID: 2969
+#+DATE: [2009-05-09 Sat 20:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Ruby
+#+TITLE: Adding Soft Typing to Ruby
+
+[[http://on-ruby.blogspot.com/2009/05/diamondback-ruby-interview.html][Here]] is an interview with two of the [[http://www.cs.umd.edu/projects/PL/druby/index.html][Diamondback Ruby]] developers. You can read more about how there system works in this paper: [[http://www.cs.umd.edu/projects/PL/druby/papers/druby-oops09.pdf][Static Type Inference for Ruby]].
+
+It is interesting that they took the approach to compromise by neither being too aggressive nor to permissive; in other words they wanted to make sure that people would actually use the tool. As such, type inference is strong enough to detect type errors, but permissive enough to allow for the same variable to have a different type of object assigned to it within the flow (dynamic extent) of a single method. 
+
+Another nice feature is the addition of a contract system for cases where type inference would not work; the two primary examples being utilization of the built-in classes which are implemented in C or the use of eval. The contracts specify the behavior and the implementation needs to conform to it.
+
+With things like Diamondback Ruby, [[http://docs.plt-scheme.org/guide/contract-boundaries.html][PLT Scheme Contracts]], and [[http://www.ccs.neu.edu/home/samth/typed-scheme/][Typed Scheme]] (mentioned in the paper) becoming available; I wonder if the statically vs lately typed language arguments will eventually go away.
+
+(via [[http://lambda-the-ultimate.org/node/3307][LtU]])
+
+
+

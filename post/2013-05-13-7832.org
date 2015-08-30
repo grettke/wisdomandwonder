@@ -1,0 +1,17 @@
+#+POSTID: 7832
+#+DATE: [2013-05-13 Mon 12:59]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, Programming Language, R7RS, Scheme
+#+TITLE:  mickey-scheme
+
+#+BEGIN_QUOTE
+  [[https://github.com/cslarsen/mickey-scheme#readme][Mickey Scheme]] is an interpreter for R7RS Scheme written in C++
+#+END_QUOTE
+
+
+
+
+
+
+

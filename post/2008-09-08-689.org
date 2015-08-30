@@ -1,0 +1,11 @@
+#+POSTID: 689
+#+DATE: [2008-09-08 Mon 03:39]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming
+#+TITLE: DSL adventures 
+
+An article and discussion about DSLs and Perl linked [[http://lambda-the-ultimate.org/node/2977][here]] (via LtU).
+
+
+

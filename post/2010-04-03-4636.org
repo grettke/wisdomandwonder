@@ -1,0 +1,15 @@
+#+POSTID: 4636
+#+DATE: [2010-04-03 Sat 02:11]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: PLT Scheme v4.2.5 adds real parallelism and class contracts
+
+PLT Scheme v4.2.5 adds [[http://docs.plt-scheme.org/guide/performance.html?q=future#(part._effective-futures)][real parallelism]] and [[http://docs.plt-scheme.org/reference/Object_and_Class_Contracts.html?q=scheme/class&q=future][class contracts]].
+
+Awesome.
+
+(via [[http://groups.google.com/group/plt-scheme/browse_thread/thread/de9d4e94fb896496][Eli]])
+
+
+

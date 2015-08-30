@@ -1,0 +1,15 @@
+#+POSTID: 8264
+#+DATE: [2014-03-01 Sat 22:38]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Business Intelligence, Computational Science, Computer Science, Learning, Programming, Reproducible research, Teaching, abacus, data modelling, mathematics, philosophy, soroban, spirituality
+#+TITLE: The Infinite Abacus
+
+An Infinite Abacus (AIA) is both a mathematical and computational tool. Its features include the ability to store any kind of numerical measurement along with the ability to retrieve it. Conceptually it may record any number of measurements, but from an analysis perspective it would only make sense to record a single value "on" a particular device (datum), and as many as you see fit "with" a particular device (metadata). Its beads and frames may be used to model various computational systems, but it is not a mandatory feature of the tool. 
+
+The AIA should be viewed as a physical device that lives within the constraints of this reality but also exists beyond them. You may work with 1 of them as easily as you would work with 1 million of them. Additionally they have no identity or location within the time-space continuum, but for the sake of analysis they may be granted those elements for the sake of modeling so that spatial and material-property analyses may be performed given attributes of each AIA that we find valuable. AIA is not subject to death or decay. They have no mass of their own, or value of their own; instead they live only to serve. The masses of the things that they define, though, maybe be utilized; along with the reason for their existence. 
+
+The computational engineer is responsible for defining, allocating, collecting, analyzing, refining, and redefining a system of AIAs. An iterative processes is repeatedly performed as new AIAs are revealed and existing AIAs are returned. The primary limiting factors in defining a system of AIAs are the ignorance of the fundamental nature of this reality that comes with being human, the limited cognitive capacity that comes with it, and the relatively small knowledge base held by humanity given the magnitude and volume of the entirety of reality.
+
+
+

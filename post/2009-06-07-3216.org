@@ -1,0 +1,13 @@
+#+POSTID: 3216
+#+DATE: [2009-06-07 Sun 01:28]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Business, technology
+#+TITLE: Voice-driven and hand held apps: a match made in heaven?
+
+[[http://theschemeway.blogspot.com/2009/05/my-first-tropo-javascript-application.html][Here]] is an article about writing voice-driven applications. 
+
+It might be interesting to "think differently" about problem solving by taking into consideration that you might combine the power of your handheld with the ease of use (potentially at least) of voice driven applications on a server. They might compliment each other well.
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 2152
+#+DATE: [2009-03-29 Sun 22:48]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, mathematics
+#+TITLE: Math on DVD
+
+Both [[http://www.teach12.com/ttcx/CourseDescLong2.aspx?cid=1423][Joy of Thinking: The Beauty and Power of Classical Mathematical Ideas]] and the [[http://www.teach12.com/ttcx/CourseDescLong2.aspx?cid=1411][Joy of Mathematics]] were advertised in the IEEE Spectrum. I am sort of intrigued as to how they go about teaching.
+
+
+

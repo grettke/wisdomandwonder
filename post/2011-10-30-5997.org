@@ -1,0 +1,19 @@
+#+POSTID: 5997
+#+DATE: [2011-10-30 Sun 23:48]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: LaTeX, Learning, TeX, Teaching, Tools
+#+TITLE: AcroTEX and eqExam for the Truly Impatient
+
+[[http://www.math.uakron.edu/~dpstory/eqexam.html][eqExam]] is just a wonderful LaTeX package for writing things like exams and quizzes. It takes into account most of what you are about right out of the box like whether you are proctoring the exam online or in printed form and whether you want an answer key printed or not. [[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2011/10/atest.pdf][Here]] is an example of something that I threw together quickly by hacking up one of the example tests.
+
+There are even really advanced things like exporting the answer data for automatic electronic submission; it's got me really curious how people are using this in the wild. 
+
+Setup is really easy, the only caveat is that you must use MiKTEX version 2.8. Version 2.9 seems not to run at this point. 
+
+If you have never set up MiKTEX or eqExam before then my directions are attached [[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2011/10/acrotex.pdf][here]]. Please let me know how it worked for you if you try them out.
+
+One big question for some of you is why you would use something like this rather than MS Word or Adobe Acrobat Pro and it is a good question. The only answer that I can share is why it is so valuable for me... it is because you get to use all of the power of LaTeX to generate PDF forms and exams. That might sound like not a big deal, but if it doesn't then you should really dig deeper into LaTeX to see how it could help you to better communicate.
+
+
+

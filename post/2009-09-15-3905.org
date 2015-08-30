@@ -1,0 +1,30 @@
+#+POSTID: 3905
+#+DATE: [2009-09-15 Tue 16:31]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: A New Version of Mini Scheme
+
+#+BEGIN_QUOTE
+  In the past days I have hacked Atsushi Moriwaki and Akira KIDA's MiniScheme a bit and I must say that it is quite a nice and clean implementation.
+#+END_QUOTE
+
+
+-- Nils
+
+
+
+#+BEGIN_QUOTE
+  In case you want to give it a try: [[http://www.t3x.org/miniscm]]
+#+END_QUOTE
+
+
+-- Nils
+
+
+
+
+(via [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/96d9446a1d8638d8#][comp.lang.scheme]])
+
+
+

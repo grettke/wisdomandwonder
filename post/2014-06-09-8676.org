@@ -1,0 +1,22 @@
+#+POSTID: 8676
+#+DATE: [2014-06-09 Mon 00:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode, org-modeLiterate Programming
+#+TITLE: Lower casing your source block templates
+
+org-mode has nice template expansion for its frequently used blocks via [[http://orgmode.org/manual/Easy-Templates.html#Easy-Templates][Easy Templates]]. I wanted them to be lower cased because my document won't tangle with upper case block statements. Thorsten pointed out which variable needs to be configured. This approach is preferable because it it is temporary:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(mapc (lambda (asc)
+        (let ((org-sce-dc (downcase (nth 1 asc))))
+          (setf (nth 1 asc) org-sce-dc)))
+      org-structure-template-alist)
+
+#+END_EXAMPLE
+
+
+

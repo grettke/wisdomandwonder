@@ -1,0 +1,11 @@
+#+POSTID: 9726
+#+DATE: [2015-05-05 Tue 02:21]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Fun, Genera, Joshua, Lisp, Movies, Symbolics, Wargames
+#+TITLE: For Sale: Symbolics MacIvory
+
+Are you the only kid who learned about artificial intelligence in the 80s from the film [[http://www.imdb.com/title/tt0086567/][WarGames]]? Probably not. Would you like to play a game, though? You still can. Pick up a piece of history [[http://www.ebay.com/itm/Symbolics-MacIvory-model-3-co-processor-in-Apple-Mac-Quadra-700-with-Genera-8-3-/111662317576][here]]. Very very cool. Consciousness expanding when you realize that this dev tech was around in the 80s, long before it would appear in the mainstream.
+
+
+

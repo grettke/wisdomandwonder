@@ -1,0 +1,31 @@
+#+POSTID: 9632
+#+DATE: [2015-03-06 Fri 17:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: OSX
+#+TITLE: Speed Up FileVault2 Decryption
+
+FileVault2 (FV2) provides disk encryption for OSX. I am unfamiliar with it. 
+I read about it at the Apple website. It doesn't explain much. I wanted to know 
+how OSX handles it. To learn I tried it out.
+
+After installing OSX I turned on FV2. The encryption was seamless. 8GB in 15m. 
+I installed 58GiB more of applications and copied files. Then I wanted to 
+re-provision the machine. 
+
+I booted into an external drive with OSX 10.9 (10.9) on it. I erased the disk on
+the box. When I erased it I was asked for a new password. I provided it. I am
+guessing that FV2 wanted a new password. I booted back into 10.9 and OSX 
+reported that FV2 is turned on. Seems like you can't just wipe a FV2
+encrypted partition. I asked OSX to decrypt the partition. It did and I tried
+erasing the partition again and it worked fine. Going through the provisioning
+process again I found that decrypting 58GiB takes about 2 hours.
+
+Some experimentation left with the plan that when I want to re-provision a OSX
+box I will erase the partition and re-image it and boot into it to decrypt the
+partition. Surely there are command line tools to do so. I did investigate
+that people I want directions that anyone may follow in the UI.
+
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 999
+#+DATE: [2008-10-20 Mon 17:01]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming
+#+TITLE: Programming Language People
+
+Sometimes it is helpful to know that programming language creators are people (celebrities?) just like anyone else. 
+
+[[http://www.angelfire.com/tx4/cus/people/index.html][Here]] are some pictures of programming language people.
+
+
+

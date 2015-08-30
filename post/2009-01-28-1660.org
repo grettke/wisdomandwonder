@@ -1,0 +1,31 @@
+#+POSTID: 1660
+#+DATE: [2009-01-28 Wed 21:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Scheme
+#+TITLE: R6RS Steering Committee Replacement Statement of Interest
+
+The following is the statement of interest from my [[http://www.r6rs.org/steering-committee/election/announcement.html][R6RS Steering Committee Replacement]] voter registration form:
+
+
+
+#+BEGIN_QUOTE
+  
+Scheme has not only met, but has far exceeded its goals for academia. With the latitude of problems faced by industrial developers today; now is the time to let Scheme's light shine in the industry. As a software designer and developer, my interest in this process is that its outcome reflects the needs of “The Working Scheme Programmer”. Ultimately, though, the standardization committee must serve both communities in R7RS.
+
+Until now, the essence of Scheme, “Programming languages should be designed not by piling feature on top of feature...”, has served academia well, but not the industry. Consequently, the community has moved forward independently from the standard. While this is not a problem in and of itself (the SRFIs, for example, have served the community well); incompatible changes have been made between distributions resulting in frustrating incompatibilities. Solutions to standard problems like modules ought not to require any effort to be made portable across different implementations.
+
+The efforts of R6RS, the first step at addressing the needs of both communities, were largely marred by the dissatisfaction with its result. The community simply felt that the report did not hold true to the spirit of Scheme. It is that spirit which will be so important not only to the community, but to the steering committee itself, in moving forward with R7RS.
+
+At one moment in time, Scheme itself was an experiment. Scheme encourages experimentation. Sometimes experiments fail, though, and when they do, it is up to the scientist to learn from the mistake and keep moving forward. The outcome of R6RS can either be used as an excuse for the community to disband, or as a lesson on how to move forward. I choose the latter.
+
+The new steering committee needs to focus on the processes and procedures that allow for both communities to be served in the manner that best realizes the spirit of Scheme; doing so in a manner that honors Scheme's past, listens to the voice of its community today, and steers diligently towards the future.
+
+#+END_QUOTE
+
+
+
+If you have an opinion about the future of Scheme then you should register and participate in the process.
+
+
+

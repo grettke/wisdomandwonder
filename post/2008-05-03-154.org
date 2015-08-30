@@ -1,0 +1,19 @@
+#+POSTID: 154
+#+DATE: [2008-05-03 Sat 14:13]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Lisp, Programming Language, Scheme, philosophy
+#+TITLE: Scheme Versus Common Lisp: Why?
+
+Anyone new to Lisp will quickly find that among certain folks there is very much an "us versus them" mentality when it comes to Scheme and Common Lisp. 
+
+Is it just human nature that drives the mentality? Is it boredom?
+
+Since Scheme and Common Lisp are both Lisp dialects, in some ways they are very similar; but in other ways they are quite different. The thing is that every language decision is a trade off from which we can learn. Most students of programming would look to both the similarities /and/ differences in each language and recognize their function and beauty! 
+
+One thing that I can guarantee that you will notice pretty quickly once you start hanging around Lispers (in general) is that there is a noticeable difference in attitude and demeanor among folks that have studied and appreciate both Common Lisp and Scheme, and the folks that have not. 
+
+The folks that have studied and appreciate both languages are simply a much more pleasant group of people to be around. Perhaps that is how the expression about "the haves and the have nots" came to be?
+
+
+

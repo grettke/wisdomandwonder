@@ -1,0 +1,11 @@
+#+POSTID: 9890
+#+DATE: [2015-07-20 Mon 20:57]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Bicycle
+#+TITLE: Should I Do The Two-Speed Conversion
+
+My single-speed is great. Won't be out-riding this bicycle any time soon. Still, everything needs tweaks. A video about the [[http://www.rekluse.com/][Rekluse Clutch]] got me thinking about my bicycle. It wouldn't hurt to have a two-speed without having any additional gear (weight isn't gear). This [[http://mccraw.co.uk/sram-automatix-review/][SRAM Automatix hub]] seems like a great way to do it because it is totally adjustable to your preference.
+
+
+

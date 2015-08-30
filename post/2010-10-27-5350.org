@@ -1,0 +1,15 @@
+#+POSTID: 5350
+#+DATE: [2010-10-27 Wed 20:21]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Dolphin, Programming Language, Smalltalk
+#+TITLE: Dolphin Smalltalk New Website and Lower Price
+
+Dolphin is very nice; good libraries and pleasant to use.
+
+[[http://www.object-arts.com/][Dolphin Smalltalk]] has a nice new website and lower price.
+
+Hope those guys keep making it.
+
+
+

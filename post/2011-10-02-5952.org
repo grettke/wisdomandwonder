@@ -1,0 +1,44 @@
+#+POSTID: 5952
+#+DATE: [2011-10-02 Sun 01:48]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Hardware, Motorcycle
+#+TITLE: Penetrating Oil Review
+
+#+BEGIN_QUOTE
+  Machinist's Workshop magazine actually tested penetrants for break out torque on rusted nuts.
+
+Significant results! They are below, as forwarded by an ex-student and professional machinist, Bud Baker.
+
+Don't forget the April 2007 "Machinist's Workshop" magazine comparison test.
+
+They arranged a subjective test of all the popular penetrants with the control being the torque required to remove the nut from a "scientifically rusted" environment.
+
+
+
+  -  Penetrating oil ..... Average load
+  -  None ...................... 516 pounds
+  -  WD-40 .................... 238 pounds
+  -  PB Blaster .............. 214 pounds
+  -  Liquid Wrench ........ 127 pounds
+  -  Kano Kroil ............... 106 pounds
+  -  ATF-Acetone mix.......53 pounds
+
+  
+
+The ATF-Acetone mix was a "home brew" mix of 50 - 50 automatic transmission fluid and acetone.
+
+Note the "home brew" was better than any commercial product in this one particular test.
+
+Our local machinist group mixed up a batch and we all now use it with equally good results.
+
+Note also that "Liquid Wrench" is about as good as "Kroil" for about 20% of the price.
+
+(via [[http://autos.groups.yahoo.com/group/concourstech/][Concours Tech]])
+#+END_QUOTE
+
+
+
+
+
+

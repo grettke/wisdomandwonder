@@ -1,0 +1,167 @@
+#+POSTID: 1802
+#+DATE: [2009-02-17 Tue 00:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: A Guide to the R7RS Steering Committee Candidates
+
+[[http://www.ccs.neu.edu/home/will/][Will Clinger]] posted "a politically incorrect guide to the candidates" in hopes of helping registered voters [[http://lists.r6rs.org/pipermail/r6rs-discuss/2009-February/003776.html][here]]. 
+
+It is well written and worth a read by anyone interested in the future of Scheme.
+
+The following is a copy of the entire message:
+
+
+
+#+BEGIN_EXAMPLE
+    
+The Scheme Language Steering Committee's announcement
+of the forthcoming election says
+
+    When the nomination period ends, the complete list
+    of candidates will be published on www.r6rs.org.
+
+    Candidates may also post whatever messages they wish
+    to comp.lang.scheme, the r6rs-discuss mailing list,
+    or whatever other forums they feel appropriate, and
+    voters should feel free to discuss the candidates
+    and their positions on these fora.
+
+After 12 candidates have been nominated, and 129 voters
+registered, we now begin the campaign and/or endorsement
+period.
+
+Voters will be asked to rank the candidates, and three
+candidates will be elected by "single transferable vote
+proportional representation."
+
+The top two votes on my ballot will be John Cowan and
+Jonathan Rees (in some order).  My reasoning is simple:
+In my opinion, any subset of the twelve candidates that
+includes those two would make a fine Scheme Language
+Steering Committee.
+
+The Steering Committee is responsible for the process
+and its direction.  As Rees and Cowan indicated in their
+statements, they have experience with process issues and
+also understand that the direction of this process needs
+to change.
+
+That does not make them unique among this group of twelve
+candidates.  Indeed, I have not decided which of several
+worthy candidates I should rank third.
+
+The candidates can be aggregated along several dimensions.
+Three voted to ratify the R6RS; five voted against
+ratification; four did not vote.  Three candidates were
+editors of the R6RS, and two more served on the editors'
+committee but resigned before any documents were put to
+a vote.  Eight candidates have implemented or are now
+maintaining a popular implementation of Scheme.
+
+There is much to be said for the neutrality that comes of
+not being associated with any particular implementation;
+all three members of the original Steering Committee were
+neutral in that sense.  Of the twelve new candidates,
+four are not associated with any major implementation:
+John Cowan, Anton van Straaten, Ray Dillinger, and
+Richard O'Keefe.
+
+John Cowan is an expert on Unicode, and his comments
+on drafts of the R6RS showed excellent judgment.
+
+Anton van Straaten was the only R6RS editor who was not
+associated with a particular implementation.  That gave
+him a broader perspective that was sometimes difficult
+for the other editors to appreciate.  He was the only
+one of the four R6RS editors who abstained from the
+vote on ratification.
+
+As Ray Dillinger noted in his statement, he took the
+initiative to renew IEEE Standard 1178, which is still
+the only standard for Scheme that is recognized as a
+national or international standard.  Dillinger did not
+vote on R6RS ratification.
+
+Richard O'Keefe is an accomplished Scheme programmer.
+Many implementations of Scheme rely on his efficient
+code for merge sorting of lists.  O'Keefe did not vote
+on R6RS ratification.
+
+Turning to the implementors, Will Clinger is the only
+candidate who has implemented the R6RS.  Larceny was,
+in fact, the first substantially complete implementation
+of the R6RS.  If you think that's a good reason *not*
+to vote for Clinger, then I have no argument with you.
+
+If you'd like to vote for an implementor who has shown
+less enthusiasm for the R6RS than Clinger, then you
+have seven to choose from.
+
+Marc Feeley polled implementors of the R3RS/R4RS/R5RS
+and IEEE/ANSI Scheme to gauge their enthusiasm for the
+draft R6RS that was put up for ratification; that was
+something the editors themselves should have done.
+Marc also served as the original chair of the R6RS
+editors' committee.
+
+Aubrey Jaffer, the implementor of SCM, has also been
+the driving force behind SLIB, which was arguably the
+first successful collection of portable libraries for
+Scheme.
+
+Chris Hanson, who has been maintaining MIT Scheme, is
+a charter author of the R*RS documents, and was an
+editor of the IEEE-1178 standard.  He also wrote much
+of that standard's Appendixes B and C, which were
+significant milestones during the standardization of
+Scheme (and Lisp generally).
+
+Jonathan Rees was one of the original implementors of
+T and Scheme 48.  He too is a charter author of the
+R*RS documents, and was editor of the much-beloved
+R3RS.
+
+Olin Shivers is responsible for scsh.  Among the
+twelve candidates, he is the only implementor who
+abstained from the R6RS ratification vote.
+
+Kent Dybvig is responsible for Chez Scheme, and did
+a good job of chairing the R6RS editors' committee
+after Feeley resigned.  In his statement, Kent Dybvig
+said he "will not use a position on the steering
+committee as a mechanism to push" his opinions.
+
+Mike Sperber, who has been maintaining Scheme 48,
+edited the R6RS documents.  He has also served as an
+editor for the SRFI process, which was arguably the
+second successful collection of portable libraries
+for Scheme.
+
+In October 2007, Dybvig and Sperber announced their
+intentions to implement the R6RS in Chez Scheme and
+Scheme 48 (respectively) within a year.  There is
+much to be said for their moderate approach to
+implementing the R6RS, just as there is much that
+could be said against the pioneering approach taken
+by Ikarus, Larceny, PLT Scheme, Ypsilon, IronScheme,
+and Mosh.
+
+I wrote this guide to the candidates in hope it will
+help some voters.
+
+Someone nominated me.  As the only candidate who is
+responsible for maintaining implementations of both
+the R5RS and R6RS, I certainly have a stake in the
+outcome of this process.  If elected, I will serve
+to the best of my ability.  Urging you to vote for
+me would have been the politically correct thing for
+me to do.  Instead, I urge you to vote for the best
+committee you can imagine.
+
+Will
+
+#+END_EXAMPLE
+
+
+

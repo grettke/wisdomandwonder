@@ -1,0 +1,266 @@
+#+POSTID: 7013
+#+DATE: [2013-02-03 Sun 16:11]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Artificial Intelligence, Knowledge Engineering, Rules Engine
+#+TITLE: IntelliFest Favorite Presentations: 2010-2012
+
+Part of my path to knowledge engineering mastering has been to read everything available out there today about the modern knowledge engineering landscape. [[http://intellifest.org/wordpress/][IntelliFest]] graciously posted all of their presentations from 2010-2012, and all of them are helpful. The following, though, were particularly helpful to me, and I wanted to share which ones and why, they follow:
+
+
+
+-  [[http://intellifest.org/wordpress/wp-content/uploads/2012/speaker_presentations/archive_Wednesday.zip][~ 10-24-12
+]]
+
+
+   -  Paul Snow and Paul van den Berg: Using Niyum to Select Software Licensing Agreements
+
+
+      -  Good example of a problem getting solved, license conformance for MS for a big organization.
+
+
+
+      
+
+   -  Lin Long-Ji: Building Efficient Predictive Models for Serving On-Line Advertisements
+
+
+      -  Good overview to ponder if you really want to do this kind of stuff.
+
+
+
+      
+
+   -  Chandra Mouleeswaran: Distributed Rules - Revisited
+
+
+      -  A good paper mostly for the overview of parallel and distributed RE tech.
+
+
+
+      
+
+   -  Gary Riley: Implementation Comparison of Three Expert Systems
+
+
+      -  Great bio looks like a real developer. Would have been great to have details. 
+
+
+
+      
+
+
+   
+
+-  [[http://intellifest.org/wordpress/wp-content/uploads/2012/speaker_presentations/archive_Thursday.zip][~ 10-25-12
+]]
+
+
+   -  Jacob Feldman: Modeling and Solving Decision Optimization Problems
+
+
+      -  Constraint and Linear Programming problems. Schedule and resource allocation, complex configurations. supply chain, staffing, and vehicle routing. Constraint satisfaction problems, what: define entire solution space and the constraints on the variables and then optimize in the found solutions. Nice examples and tech. JSR-331. Staffing example. 
+
+
+      
+
+   -  Owen James: Rulebase Benchmarks -- 25 Years On
+
+
+      -  Wild story about IBM buying Informix. Rules benchmarks: Miss Manners. Waltz. WaltzDB. Aeronautical Route Planner. VLSI Chip Designer Weaver. Great benchmarks over the years. 
+
+
+      
+
+
+   
+
+-  [[http://intellifest.org/wordpress/wp-content/uploads/2012/speaker_presentations/archive_Friday.zip][~ 10-26-12
+]]
+
+
+   -   
+
+
+      -  Geoffrey De Smet: Resource optimization with Drools Planner
+
+
+         -  Great constraint problem solving examples and tool drools planner. This a nice pres about planner.
+
+
+
+         
+
+
+      
+
+
+   
+
+-  [[http://intellifest.org/html/archive_2011/presentations/Plenary_AlanMoore__DeployingKnowledgeBasedTechnologiesInEmbeddedSystems.pdf][~ Alan Moore: Deploying Knowledge Based Technologies In Embedded Systems
+]]
+
+
+   -  A CAD system that embeds CLIPS to help it determine whether or not it should allow user actions. Intel SmartTV uses IE SCripting with CLIPS. Lots of examples kind of neat.
+
+
+   
+
+-  [[http://intellifest.org/html/archive_2011/presentations/Breakout_BrianJones__UsingRulesToBuildLanguages.pdf][~ Brian Jones: Using Rules to Build Languages
+]]
+
+
+   -  Great article about using a RE rather than lex/yacc or antlr.
+
+
+
+   
+
+-  [[http://intellifest.org/html/presentations/Chandra%20Mouleeswaran%20-%20Integrating%20Classic%20Rule%20Engines%20with%20Modern%20Scalable%20Architectures.pdf][~ Chandra Mouleeswaran: Integrating Classic Rule Engines with Modern Scalable Architectures
+]]
+
+
+   -  Seems like a guy really dialed into it all. Great points exactly all the things that I noticed from my work perspective.
+
+
+   
+
+-  [[http://intellifest.org/html/archive_2011/presentations/101_CharlesYoung__IntroductionToProductionSystems.pdf][~ Charles Young: Understanding Production Systems 101
+]]
+
+
+   -  Worthwhile overview of many things.
+
+
+
+   
+
+-  [[http://intellifest.org/html/archive_2011/presentations/101_EdsonTirelli__BRMSBestAndWorstPracticesAndRealWorldExamples.pdf][~ Edson Tirelli: BRMS: Best (and worst) Practices and Real World Examples
+]]
+
+
+   -  Nice article. Explains stuff, overviews. Many best practices, very nice. 
+
+
+
+   
+
+-  [[http://intellifest.org/html/archive_2011/presentations/Plenary_GeorgeWilliamson__AchievingScalabilityInRuleBasedSystems.pdf][~ George Williamson: Achieving Scalability In Rule Based Systems
+]]
+
+
+   -  Nice. Jess. Railway. Solution space vs. CPS?
+
+
+
+   
+
+-  [[http://intellifest.org/html/presentations/George%20Williamson%20-%20Rules-Based%20Applications-Design%20Decisions.pdf][~ George Williamson: Rules-Based Applications-Design Decisions
+]]
+
+
+   -  Think this guy  posted a lot about Jess.Union pacific railroad. Is a developer first, RE second. Nice sharing of his worldview and experience. Great real-world stuff on roles, responsibilities, user-facing stuff, and even how to test. He uses Fitnesse. He talks about using Fitnesse to do a ton of stuff. Great use case.
+
+
+   
+
+-  [[http://intellifest.org/html/archive_2011/presentations/101_JacobFeldman__ConstraintProgramming101.pdf][~ Jacob Feldman: Constraint Programming 101
+]]
+
+
+   -  Nice overview of constraint programming.
+
+
+
+   
+
+-  [[http://intellifest.org/html/presentations/John%20Laird%20-%20Soar%20Rules.pdf][~ John Laird: The Role of Production Rules in a General Cognitive Architecture
+]]
+
+
+   -  Wonderful background of the history of rules engines.
+
+
+
+   
+
+-  [[http://intellifest.org/html/presentations/Luke%20Voss%20-%20User-Mediated%20Rule%20Engine%20Execution.odp][~ Luke Voss: User-Mediated Rule Engine Execution
+]]
+
+
+   -  Intriguing idea is that REs sort of suck so let an expert tweak it at a deep level.
+
+
+
+   
+
+-  [[http://intellifest.org/html/archive_2011/presentations/Plenary_MichaelWalsh__DomainSpecificLanguageAndRulesEngineImplementedInPython.pdf][~ Michael Walsh: Domain Specific Language And Rules Engine Implemented In Python
+]]
+
+
+   -  A from scratch RE in Python with a DLS for the rules.
+
+
+
+   
+
+-  [[http://intellifest.org/html/archive_2011/presentations/Keynote_PaulHaley__RoadmapForRulesSemanticsAndBusiness.pdf][~  Paul Haley: Roadmap for Rules, Semantics, and Business
+]]
+
+
+   -  Fascinating background. Most of the envisioned approaches are realized today albeit differently. 
+
+
+
+   
+
+-  [[http://intellifest.org/html/archive_2011/presentations/Plenary_RonaldBowers__RuleBasedAutomaticManagementOfADistributedSimulationEnvironment.pdf][~ Paul Vincent: Event Driven Rules Experiences In CEP
+]]
+
+
+   -  More CEP. Clients: FedEx, PJM, AllState. Important because it gives a taste of where REs fit as CEPs.
+
+
+   
+
+-  [[http://intellifest.org/html/presentations/Peter%20Voss%20-%20Artificial%20General%20Intelligence%20and%20Modes%20of%20Learning.odp][~ Peter Voss: Artificial General Intelligence and Modes of Learning
+]]
+
+
+   -  Virtual agents. Key question: what kind of intelligence are we interested in? Narrow AI is chess playing, facial recognition, and medical diagnosis. Big AI is learning and acquiring new skills. 
+
+
+   
+
+-  [[http://intellifest.org/html/archive_2011/presentations/Breakout_RolandoHernandez__BecomingAKnowledgeEngineer.pdf][~ Rolando Hernandez: Becoming a Knowledge Engineer
+]]
+
+
+   -  Humongo vision of how things should be. Helpful. 
+
+
+
+   
+
+-  [[http://intellifest.org/html/presentations/Rolando%20Hernandez%20-%20Building%20Mobils%20Lube%20Knowledge%20Base%20and%20Knowledge%20Supply%20Chain.odp][~ Rolando Hernandez: Building Mobiles Lube Knowledge Base and Knowledge Supply Chain
+]]
+
+
+   -  Nice demo of process and vision, historical tech usages. Basically capture all of Mobile's working knowledge in an expert system. Hugely good examples and details.
+
+
+   
+
+-  [[http://intellifest.org/html/archive_2011/presentations/Plenary_WolfgangLaun__DomainSpecificLanguagesNotationForExperts.pdf][~ Wolfgang Laun: Domain Specific Languages Notation For Experts
+]]
+
+
+   -  Nice example of a Drools DSL.
+
+
+
+   
+
+
+
+

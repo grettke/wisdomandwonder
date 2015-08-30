@@ -1,0 +1,17 @@
+#+POSTID: 3765
+#+DATE: [2009-08-31 Mon 17:07]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, PLT, Programming Language, Scheme, Teaching
+#+TITLE: Coding for Humans: Annotated Code View in an IDE
+
+[[http://groups.google.com/group/plt-scheme/msg/4c909f933fd70d3f][Here]] is a post where Jordan explains what he wants to accomplish in the DrScheme IDE; basically he wants to be able to customize code in the IDE by annotating it, allow the annotations to be displayed only, while having the code run in mzscheme as expected.
+
+[[http://www.fellowhuman.com/scheme/anno-snip-demo.swf][Here]] is a screencast that he made which demonstrates his goal. 
+
+Very interesting!
+
+(via [[http://groups.google.com/group/plt-scheme/msg/4c909f933fd70d3f][plt]])
+
+
+

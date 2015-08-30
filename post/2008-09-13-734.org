@@ -1,0 +1,13 @@
+#+POSTID: 734
+#+DATE: [2008-09-13 Sat 03:31]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Study-HTDP
+#+TITLE: Are we doing this to learn Scheme? 
+
+Q. [[http://groups.google.com/group/study-htdp/browse_thread/thread/524bcb69aff47dbb][Are we doing this to learn Scheme?]]
+
+A. No. As a result of working through the book, we /will/ learn Scheme, but the goal is to learn how write programs, not learn Scheme the programming language. For that you should read [[http://www.scheme.com/tspl3/]].
+
+
+

@@ -1,0 +1,19 @@
+#+POSTID: 115
+#+DATE: [2008-04-21 Mon 23:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Learning, Programming Language, Scheme
+#+TITLE: How to Learn Scheme (was How to Learn Programming)
+
+1. [[http://www.scheme.com/tspl3/][The Scheme Programming Language]] Third Edition by R. Kent Dybvig
+2. +[[http://www.htdp.org/][How to Design Programs]] by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, and Shriram Krishnamurthi+
+3. +[[http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-1.html#titlepage][Structure and Interpretation of Computer Programs]] by Harold Abelson and Gerald Jay Sussman with Julie Sussman+
+
+
+
+*Addendum 6/26/8:*
+
+The difference between learning a programming language and learning how to program is now clear enough to me that I had to revise this post to clarify its intent and correct its content. As such, the title has been changed, and only one book has been recommended.
+
+
+

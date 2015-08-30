@@ -1,0 +1,17 @@
+#+POSTID: 906
+#+DATE: [2008-10-15 Wed 20:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Programming, Teaching
+#+TITLE: Computer Science Teachers Association
+
+#+BEGIN_QUOTE
+  The [[http://www.csta.acm.org/index.html][Computer Science Teachers Association]] is a membership organization that supports and promotes the teaching of computer science and other computing disciplines. CSTA provides opportunities for K-12 teachers and students to better understand the computing disciplines and to more successfully prepare themselves to teach and learn.
+#+END_QUOTE
+
+
+
+
+
+
+

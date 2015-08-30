@@ -1,0 +1,25 @@
+#+POSTID: 6014
+#+DATE: [2011-11-06 Sun 16:08]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming, Programming Language, Scheme
+#+TITLE: The rational for returning the identity for expressions such as (*) and (+)
+
+[[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/cb9a939dae529d9d/663865dfbb6d34cb?show_docid=663865dfbb6d34cb][This]] post in comp.lang.scheme brings up a question that inevitably everyone asks. 
+
+Suppose the answer is obvious but John summed it up well:
+
+
+
+#+BEGIN_QUOTE
+  Well, if you interpret (apply + some-list) and (apply * some-other-list) as left-folds, then a starting point is needed, something to begin accumulating from. The identity is the only value that works correctly, so it's what gets returned when the list being folded over has length 0. Nobody would write (+) or (*) explicitly, but having them return the identity is the Right Thing nevertheless. 
+
+The same argument applies when expanding macros: in a degenerate case, a macro may expand to (+) or (*), and it's usually not appropriate to raise an exception.
+#+END_QUOTE
+
+
+
+
+
+
+

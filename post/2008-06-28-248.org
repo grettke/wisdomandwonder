@@ -1,0 +1,25 @@
+#+POSTID: 248
+#+DATE: [2008-06-28 Sat 22:11]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: XO
+#+TITLE: XO Critical Configuration 1
+
+Until a recent trip, I hadn't used the XO very hard, or configured it at all. Before heading out, I read [[http://bc.tech.coop/blog/080128.html][Bill's article]] and found some real gems that, along with my own preferences, make using the XO a much more pleasurable experience. They follow:
+
+
+
+-  [[http://olpcnews.com/forum/index.php?topic=389.15][Disable the terrible hot-corner feature]]
+-  [[http://olpcnews.com/forum/index.php?topic=1787.0][Disable Alt-Tab to the Journal activity]]
+-  Install the latest OS
+-  Install a big SDHC card for content
+-  Install subversion, Firefox, Opera,
+-  Install [[http://xo.cutup.org/quake-terminal.txt][Quake term]], this makes using the shell a joy
+-  Install [[http://wiki.laptop.org/go/Xo-get][xo-get]]
+
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 93
+#+DATE: [2008-04-07 Mon 00:50]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Haskell, Programming Language
+#+TITLE: Haskell Consultants: Well-Typed
+
+Björn Bringert, Duncan Coutts, and Ian Lynagh have started a Haskell consultancy called [[http://www.well-typed.com/who_we_are][Well-Typed]].
+
+(via [[http://groups.google.com/group/cufp/][CUFP]])
+
+
+

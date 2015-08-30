@@ -1,0 +1,21 @@
+#+POSTID: 2999
+#+DATE: [2009-05-21 Thu 03:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: R6RS OpenGL Demos
+
+Ed [[http://groups.google.com/group/ikarus-users/browse_thread/thread/a0c490bae770fd4a/e7845aae02cb3aa9?lnk=gst&q=agave#e7845aae02cb3aa9][posted]] here about his R6RS OpenGL libraries and demo ports.
+
+They are very nice. Here are some screen shots:
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2009/05/empathy.png][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2009/05/empathy-150x150.png]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2009/05/flexiline.png][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2009/05/flexiline-150x150.png]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2009/05/jitterbug.png][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2009/05/jitterbug-150x150.png]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2009/05/trails.png][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2009/05/trails-150x150.png]]]]
+
+
+

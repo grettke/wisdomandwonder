@@ -1,0 +1,20 @@
+#+POSTID: 5053
+#+DATE: [2010-08-23 Mon 20:32]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Motorcycle, Repair
+#+TITLE: Pondering repairing this rust
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/07/zoom1.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/07/zoom1-150x150.jpg]]]][[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/07/zoom2.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/07/zoom2-150x150.jpg]]]][[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/07/zoom3.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/07/zoom3-150x150.jpg]]]]
+
+Options:
+
+
+1. Sand. Use light grit paper and paint.
+2. Seal. Use something like [[http://www.por15.com/whatispor15.asp][POR-15]] to seal it and paint over that.
+
+
+
+
+
+

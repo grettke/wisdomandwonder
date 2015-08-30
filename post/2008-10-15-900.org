@@ -1,0 +1,11 @@
+#+POSTID: 900
+#+DATE: [2008-10-15 Wed 20:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Fractal, mathematics
+#+TITLE: Original fractal wallpapers 
+
+Some beautiful fractals, available in /wide/ variety of sizes, can be found [[http://www.beautifulfractals.com/][here]], for free!
+
+
+

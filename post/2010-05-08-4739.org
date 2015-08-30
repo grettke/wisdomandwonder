@@ -1,0 +1,11 @@
+#+POSTID: 4739
+#+DATE: [2010-05-08 Sat 16:42]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: ML, OCaml, Programming Language
+#+TITLE: Functional reactive programming in OCaml with froc
+
+(via [[http://ambassadortothecomputers.blogspot.com/2010/05/how-froc-works.html][Jake]] via [[http://caml.inria.fr/pub/ml-archives/caml-list/2010/05/ddb326bfc5ea51c7258db18b2de4ccd6.en.html][ocaml-list]])
+
+
+

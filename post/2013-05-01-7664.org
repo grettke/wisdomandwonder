@@ -1,0 +1,60 @@
+#+POSTID: 7664
+#+DATE: [2013-05-01 Wed 03:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 02947, CB750, CB750F, Honda, Motorcycle, Repair
+#+TITLE: CB750F: Day 30: Even More Reassembly
+
+Got a few things done tonight all it won't look it.Here is my work list:
+
+
+
+-  Chain adjustment: Hooked up the rear brake mount point first. Got play to 20mm within acceptable range of 15-20mm. Tightened rear axel bolt to spec 65 ft/lb, twice, and checked again and the slack is fine. Adjusted rear wheel adjustment to be the same on each side by eye, and then verified with a ruler, 35mm each. Installed cotter pin. Adjusted view photo at end.
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130425_203827.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130425_203827-300x225.jpg]]]]
+-  Rear brake caliper reinstall and new brake pads: Uncapped the rear master cylinder, covered surrounding area in towels, and squeezed the caliper back with a channel lock; be careful easy to scratch the brake caliper body and also spill brake fluid. The new brake pads only fit one way; be careful to include the stabilizers on the pads and also on the caliper body itself up underneath. Verified things were seated right, torqued the bolts to 150 in/lb twice, and installed a cotter ping on the brake mount point. I stared at those pads a lot before torquing them down to be sure it was seated correctly.
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130430_180512.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130430_180512-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130430_183244.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130430_183244-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130430_183252.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130430_183252-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130430_183355.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130430_183355-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130430_183840.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130430_183840-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130430_183953.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130430_183953-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130430_183957.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130430_183957-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130430_184036.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130430_184036-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130430_184044.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130430_184044-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130430_184806.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130430_184806-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130430_185103.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130430_185103-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130430_192624.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130430_192624-300x225.jpg]]]]
+
+
+-  Drive sprocket install JT Sprockets JTF330 15T Steel Front Sprocket: Installed a new one, torqued to 37.5 ft/lb twice, blue loctite.
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130430_203302.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130430_203302-300x225.jpg]]]]
+-  Adjusted the rear brake lever: It was 4cm below spec. There is an adjusting bolt protected by a shroud.
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130430_200211.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130430_200211-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130430_200220.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/04/20130430_200220-300x225.jpg]]]]
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 8042
+#+DATE: [2013-09-29 Sun 12:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Distributed Computing, Lisp, PLT, Programming Language, Racket, Scheme
+#+TITLE: MPI Programming with Racket
+
+[[https://github.com/grettke/plt-mpi][Here]] is some working code to let [[http://racket-lang.org/][Racket]] use [[https://en.wikipedia.org/wiki/Message_Passing_Interface][MPI]], from an old homework.
+
+
+

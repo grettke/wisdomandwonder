@@ -1,0 +1,11 @@
+#+POSTID: 3501
+#+DATE: [2009-07-08 Wed 03:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Gambit, Programming Language, Scheme, iPhone
+#+TITLE: Debugging and Interacting with iPhone Scheme Apps via a REPL
+
+In [[http://jlongster.com/blog/2009/07/5/remotely-debugging-iphone-scheme/][this]] post James explains how to do so with Gambit. Awesome.
+
+
+

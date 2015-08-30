@@ -1,0 +1,13 @@
+#+POSTID: 8403
+#+DATE: [2014-03-31 Mon 15:47]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Emacs Lisp, Ide, Programming
+#+TITLE: Emacs elisp dev must read
+
+As usual Nic outdoes us all in terms of serving the community and the greater good. How to write real code in emacs lisp with Emacs.
+
+[[http://nic.ferrier.me.uk/blog/2012_07/tips-and-tricks-for-emacslisp][This]] must be read.
+
+
+

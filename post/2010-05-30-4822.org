@@ -1,0 +1,25 @@
+#+POSTID: 4822
+#+DATE: [2010-05-30 Sun 19:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Functional, Programming Language
+#+TITLE: 2009 ICFP & Co-Hosted Event Videos
+
+#+BEGIN_QUOTE
+  I am happy to announce that videos of all talks at ICFP and some of the associated workshops this year have made available online: 
+
+ [[http://www.vimeo.com/user2191865/albums%20][http://www.vimeo.com/user2191865/albums]]
+
+I'm sure you'll join me in thanking Malcolm Wallace for the time and effort he put into making this possible. Thank you Malcolm! 
+
+#+END_QUOTE
+
+
+--Wouter
+
+There are videos for the Erlang Workshop 2009, CUFP 2009, Haskell Symposium 2009, ICFP 2009, and Haskell Implementers Workshop 2009 events.
+
+(via [[http://groups.google.com/group/plt-scheme/browse_thread/thread/f789265cb32c3267/ba3df28637c5e880?lnk=gst&q=ICFP+videos+now+available#ba3df28637c5e880][PLT]])
+
+
+

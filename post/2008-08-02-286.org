@@ -1,0 +1,11 @@
+#+POSTID: 286
+#+DATE: [2008-08-02 Sat 14:32]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: PLT has got games
+
+If you ever feel like you want to take a break from programming and play some games, PLT Scheme [[http://download.plt-scheme.org/doc/4.0.1/html/games/index.html][comes with some games for you]]!
+
+
+

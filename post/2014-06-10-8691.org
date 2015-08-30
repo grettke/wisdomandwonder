@@ -1,0 +1,30 @@
+#+POSTID: 8691
+#+DATE: [2014-06-10 Tue 18:10]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode, org-modeLiterate Programming
+#+TITLE: Easily setting system header arguments in org mode
+
+A little helper function:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(defun gcr/set-org-system-header-arg (property value)
+  "Easily set system header arguments in org mode.
+
+PROPERTY is the system-wide value that you would like to modify.
+
+VALUE is the new value you wish to store.
+
+Attribution: URL http://orgmode.org/manual/System_002dwide-header-arguments.html#System_002dwide-header-arguments
+"
+  (setq org-babel-default-header-args
+        (cons (cons property value)
+              (assq-delete-all property org-babel-default-header-args))))
+
+#+END_EXAMPLE
+
+
+

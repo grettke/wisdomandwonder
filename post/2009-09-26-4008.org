@@ -1,0 +1,17 @@
+#+POSTID: 4008
+#+DATE: [2009-09-26 Sat 15:29]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Armpit: Scheme Interpreter for ARM Microcontrollers
+
+#+BEGIN_QUOTE
+  [[http://armpit.sourceforge.net/index.html][ARMPIT SCHEME]] is an interpreter for the Scheme language (lexically-scoped dialect of Lisp) that runs on RISC microcontrollers with ARM core.
+#+END_QUOTE
+
+
+
+(via [[http://www.reddit.com/r/programming/comments/9hbx8/armpit_scheme_interpreter_for_arm_microcontrollers/][reddit]])
+
+
+

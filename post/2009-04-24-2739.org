@@ -1,0 +1,32 @@
+#+POSTID: 2739
+#+DATE: [2009-04-24 Fri 01:49]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: philosophy
+#+TITLE: What you do
+
+#+BEGIN_QUOTE
+  We no longer care what you say.
+
+We care a great deal about what you do.
+
+If you charge for hand raking but use a leaf blower when the client isn't home
+If you sneak into an exercise class because you were on the wait list and it isn't fair cause you never get a bike
+If you snicker behind the boss's back
+If you don't pay attention in meetings
+If you argue with a customer instead of delighting them
+If you copy work and pass it off as your own
+If you shade the truth a little
+If you lobby to preserve the unsustainable status quo
+If you network to get, not to give
+If you do as little as you can get away with
+
+...then we already know who you are.
+#+END_QUOTE
+
+
+
+(via [[http://sethgodin.typepad.com/seths_blog/2009/04/what-you-say-what-you-do-and-who-you-are.html][Seth]])
+
+
+

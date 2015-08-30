@@ -1,0 +1,51 @@
+#+POSTID: 188
+#+DATE: [2008-05-19 Mon 21:08]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming, philosophy
+#+TITLE: Memes are Brainwashing
+
+From [[http://en.wikipedia.org/wiki/Meme][Wikipedia]]:
+
+
+
+#+BEGIN_QUOTE
+  A meme consists of any unit of cultural information, such as a practice or idea, that gets transmitted verbally or by repeated action from one mind to another.
+#+END_QUOTE
+
+
+
+Whether or not you agree in the validity of memes as a science (I don't); the term is often used in authoratively in pop culture. They typically represent some bit information, usually in the form of a frequently repeated phrase, that spreads around and around the community. In the programming community, there are plenty. For example, here are a few: "convention over configuration", "don't write code just to make the compiler happy", or "every developer must learn how to program concurrently: it is the future".
+
+The interesting things about memes are that they often have an element of truth behind them. For example:
+
+
+
+-  "Convention over configuration": Abstract away often repeated work
+-  "Don't write code just to make the compiler happy": Use the right language for the task at hand
+-  "Every developer must learn how to program concurrently: it is the future": Use the right problem solving approach for the task at hand
+-  "[My programming language] is /purely functional/": For the type of program I am writing, side-effects are not welcome
+
+
+
+The idea of memes is to pass around the interesting idea so that we can all benefit from it. The problem with them, though, is that they don't. Instead, they sort of pass around a half-truth whose only intention is to further, most probably, some individual's agenda. For example:
+
+
+
+-  Lisp is convention or configuration taken to the extreme, but you never hear anyone saying that (If you hear me saying it, slap me), and they shouldn't. Ruby on Rails is to Ruby as Struts was to Java; the only and therefore best of its time.
+-  "Don't write code just to make the compiler happy" is pretty silly. Use a statically typed language for a reason. Use dynamically typed language for a reason. There is a difference. You should understand the difference and its impact to your development process.
+-  The IEEE, ACM, and nearly every presenter at JavaOne 08 preached fear of the multicore future without expounding on /why/ every developer needs to master multi-core programming (solution looking for a problem?). That said: if /every/ programmer learned how to program really well in the first place, we might not need 64 cores.
+-  "Haskell is /purely functional/, so it is better than all other /impure/ languages": Please help me, the reader, understand why!
+
+
+
+Because memes are half-truths, people often don't get to the meaty goodness of the truths behind them. Perhaps at some gut-level they know there is a very good truth hiding back there. If, like most people, though, they don't explore it further, then they will instead assume the meaty truthful goodness to be the ugly, half-truth of the meme. Since the community largely supports the meme; it becomes common knowledge that the individual must accept it in order to keep his place in the community. 
+
+Therein lays the danger of memes, whenever the meme is reintroduced, the individual sort of experiences the behavior modification reaction much like a Skinner pigeon; they have to buy into nonsensical statements about which everyone agrees. Sprinkle any article or blog post or discussion with any number of such memes and you have instant gold for making your point unbeatable. It is a strange and disappointing phenomenon that draws into question much of what is written in the tech world today.
+
+*Addendum: 12/10/08*
+
+Today I fixed typos, revised the grammar, and altered the content to reflect what I actually meant. As such, I believe this to be a "good faith" modification that didn't merit change-tracking for the reader's sake.
+
+
+

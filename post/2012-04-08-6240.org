@@ -1,0 +1,21 @@
+#+POSTID: 6240
+#+DATE: [2012-04-08 Sun 02:43]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Python
+#+TITLE: Finding Python's package directories
+
+Finding Python's package directories:
+
+
+
+#+BEGIN_EXAMPLE
+    python -c 'import sys, pprint; pprint.pprint(sys.path)'
+#+END_EXAMPLE
+
+
+
+(via [[http://www.djangobook.com/en/2.0/chapter02/][djangobook]])
+
+
+

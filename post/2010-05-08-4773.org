@@ -1,0 +1,17 @@
+#+POSTID: 4773
+#+DATE: [2010-05-08 Sat 23:55]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: ML, OCaml, Programming Language
+#+TITLE: Make exploring large OCaml projects easy
+
+#+BEGIN_QUOTE
+  [[http://jun.furuse.info/hacks/ocamlspotter][OCamlSpotter]] is a tool which finds definition places of various names (identifiers, type names, modules, etc) in OCaml programs automatically for you. The original OCaml's -annot option provides the same sort of functionality but OCamlSpotter provides much more powerful browsing: it can find definitions hidden in the deep nested module aliases and functor applications.
+#+END_QUOTE
+
+
+
+(via [[http://caml.inria.fr/pub/ml-archives/caml-list/2010/03/46ba7cd8410f0a92b5ba20cf2b8abaf3.en.html][caml-list]])
+
+
+

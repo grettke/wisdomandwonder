@@ -1,0 +1,13 @@
+#+POSTID: 8719
+#+DATE: [2014-06-15 Sun 22:12]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: Emacs users on OSX should use the YAMAMOTO Mitsuharu release
+
+[[https://github.com/pitkali/pos-tip/issues/2#issuecomment-46119711][Today I tried to get pos-tip working]]. It turns out it will only work with the YAMAMOTO Mitsuharu release which I got out of [[https://github.com/railwaycat/homebrew-emacsmacport/tree/master/Formula][homebrew]].
+
+Even stuff which I had setup and then forgotten about now works, like [[http://elpa.gnu.org/packages/rainbow-mode.html][rainbow-mode]].
+
+
+

@@ -1,0 +1,21 @@
+#+POSTID: 1075
+#+DATE: [2008-10-29 Wed 19:21]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming, philosophy
+#+TITLE: Finding the real problem
+
+The poster of [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-October/028157.html][this thread]] on the PLT discussion list wondered why Scheme code is so much slower than Python. It was interesting to see how the question was answered because there were at least 3 levels to the problem:
+
+
+
+1. The source code to the solution itself
+2. How the source code worked "under the covers" (it called into C functions)
+3. An implementation in Scheme similar to how Python worked under the covers
+
+
+
+Finding an explanation didn't just involve comparing the code, it required understanding that the Python code actually called into C functions, and then converting the Scheme code into a similar "stateful" style of program. In programming, thinking /is/ required!
+
+
+

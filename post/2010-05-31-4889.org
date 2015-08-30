@@ -1,0 +1,24 @@
+#+POSTID: 4889
+#+DATE: [2010-05-31 Mon 16:49]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: How to evaluate expressions and produce no output in Scribble
+
+The OP asked:
+
+
+
+#+BEGIN_QUOTE
+  Is there a way to evaluate something in a given evaluator without having anything displayed in the output? 
+Ie. I want to feed a couple of basic function definitions into the evaluator instance that I obtain with (make-base-eval).
+#+END_QUOTE
+
+
+
+Matthew shared the solution: [[http://download.plt-scheme.org/doc/html/scribble/eval.html?q=interaction-eval&q=silent%20eval&q=make-base-eval#(form._((lib._scribble/eval..ss)._interaction-eval))][interaction-eval]].
+
+(via [[http://groups.google.com/group/plt-scheme/browse_thread/thread/6c3830066eef0e61/c2ebddd63a93f6e1?lnk=gst&q=silent+eval#c2ebddd63a93f6e1][plt]])
+
+
+

@@ -1,0 +1,21 @@
+#+POSTID: 212
+#+DATE: [2008-06-16 Mon 16:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Learning, Programming, philosophy
+#+TITLE: What a Programmer Should Study
+
+To paraphrase a quote attributed to Avinash Meetoo's unnamed professor in the comments section in this [[http://wiki.acm.org/cs2001/index.php?title=SIGPLAN_Proposal][wiki article]]:
+
+
+
+#+BEGIN_QUOTE
+  A programmer should be studying that which prepares him for his last job; not just his next, or current one.
+#+END_QUOTE
+
+
+
+-- Grant Rettke
+
+
+

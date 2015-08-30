@@ -1,0 +1,54 @@
+#+POSTID: 9024
+#+DATE: [2014-08-31 Sun 14:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: data.table for R
+
+
+=data.table= is a nice option for retaining the familiarity of a dataframe while
+opening the door for pass-by-reference semantics and a more SQL-like query
+language. The literature is really wonderful too providing all levels of detail
+ranging from the 10-minute introduction to the entirety of the API itself.
+
+
+
+
+
+
+
+The 10-minute introduction is really revealing of things that you would probably
+enjoy in your personal analytical workflow whether you obtain them with
+=data.table= or elsewhere. The short introduction is also revealing that whatever
+solution you choose requires sincere and focused mastery in order to truly
+utilize its power without making major, major mistakes.
+
+
+
+
+
+
+
+Resources:
+
+
+
+
+
+-  [[https://github.com/Rdatatable/data.table/][Github]]
+
+-  [[http://cran.r-project.org/web/packages/data.table/index.html][CRAN]]
+
+-  [[http://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.pdf][10-minute introduction]]
+
+-  [[http://crantastic.org/packages/data-table][Crantastic]]
+
+
+   -  Must-read feedback
+
+
+   
+
+
+
+

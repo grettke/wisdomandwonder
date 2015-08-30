@@ -1,0 +1,51 @@
+#+POSTID: 725
+#+DATE: [2008-09-13 Sat 03:27]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Study-HTDP
+#+TITLE: Opportunities while studying HTDP
+
+While studying HTDP, there are a few opportunities that occur during the process:
+
+*[[http://groups.google.com/group/study-htdp/browse_thread/thread/1fa9e72923ac7db1][Practice Blogging]]*:
+
+
+#+BEGIN_QUOTE
+  
+I am assuming two things:
+
+1. We are all going to learn things.
+2. It is going to be fun.
+
+That alone is worth blogging about.
+
+If you haven't got a blog, this is an excuse to start one.
+
+The tagging facilities that most blog engines provide today allow you to 'tag' your posts. I recommend you tag them with 'Study-HTDP', which is more specific than just 'HTDP' or 'Programming' alone.
+
+My goal is twofold:
+
+1. For you to capture your thoughts and ideas, and practice writing.
+2. Expose said thoughts and ideas to other folks who may be interested in them. 
+
+#+END_QUOTE
+
+
+
+*[[http://groups.google.com/group/study-htdp/browse_thread/thread/876d60a6a737e9f6][Study Revision Control]]*:
+
+
+#+BEGIN_QUOTE
+  
+If you aren't already using a revision control system, now is the perfect time to do so.
+
+You are going to be writing a lot of code that you most definitely will want to tag and probably eventually branch.
+
+Subversion is a easy, powerful place to start.
+
+Everyone should have a SVN repository available to them for storing their work. 
+
+#+END_QUOTE
+
+
+

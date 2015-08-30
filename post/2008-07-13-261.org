@@ -1,0 +1,27 @@
+#+POSTID: 261
+#+DATE: [2008-07-13 Sun 02:43]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: SRFI 98: An interface to access environment variables
+
+#+BEGIN_QUOTE
+  This announces the availability for discussion of
+
+Scheme Request for Implementation 98
+
+"An interface to access environment variables."
+
+by Taro Minowa(Higepon).
+
+Its draft and an archive of the ongoing discussion is available at
+
+[[http://srfi.schemers.org/srfi-98/]]
+#+END_QUOTE
+
+
+
+(via [[http://groups.google.com/group/comp.lang.scheme/msg/77f6935cf015c5d7][Usenet]])
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 6964
+#+DATE: [2013-01-20 Sun 04:05]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Artificial Intelligence, CLIPS, Jess, Rules Engine
+#+TITLE: Great CLIPS and JESS Posts
+
+[[http://commentsarelies.blogspot.com/search/label/Rule%20Engine][Here]] are many great posts by John Lindberg.
+
+
+

@@ -1,0 +1,39 @@
+#+POSTID: 6773
+#+DATE: [2012-12-07 Fri 21:22]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 02947, CB750, CB750F, Honda, Motorcycle, Repair
+#+TITLE: CB750F: Day 05
+
+Tonight I pulled the carburetor rack out. Visually it appears that they won't come out. Just starting at it you see that it has to be lifted up from the air box side, but when you try it, it barely moves. Left the two choke and one throttle cable hooked up, and tried to stand over the bike and it was still not enough. The start of it is just lifting it up to give it some space.
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/12/20121205_171444s.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/12/20121205_171444s-300x225.jpg]]]]
+
+Finally I just focused all of my pulling on the right side and then it popped right out of the manifold side. In the future, I would slide the metal retainer on the air-box side shrouds all the way back, I think that they were holding the carbs in, and made it difficult to get out. Also when I did pop them out, the retaining clips were sort of mangled out of shape, but not damaaged though, I just bent them back into shape.
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/12/20121205_171717s.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/12/20121205_171717s-300x225.jpg]]]]
+
+Then I pulled out the left side. 
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/12/20121205_171922s.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/12/20121205_171922s-300x225.jpg]]]]
+
+In the process, the rings on the air box side got kind of twisted out of shape so I squeezed the back right. That left the row of carbs just sitting in there. It didn't want to slid out because the throttle cable was blocking it from coming out, so I removed that. It didn't resist, I should check if that is a problem. I couldn't figure out how to disconnected the choke and my teacher, Pat, showed me there is a slot where the wire-and-ball sit inside of to secure to the assembly.
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/12/20121205_174841s.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/12/20121205_174841s-300x225.jpg]]]]
+
+Although I had vacuumed the area, after pulling out the carbs a ton of carbon looking junk appeared all over the bench, the engine block, and even sitting on the edge of the manifold gaskets. 
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/12/20121205_174925s.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/12/20121205_174925s-300x225.jpg]]]]
+
+Next time I would loosen the rings on the air box side almost all the way, I think that would have helped.
+
+This can not have been good for the running of the engine. I vaccumed all of that up and put the battery back in and took the compression measurements again.
+
+Just kept turning it over and over watching the pressure go up, and the teacher and entire room stopped and stared at me, I learned my lesson, just test it out 4 and 6 cranks. Basically just watch the PSI needle pop-up and that is one crank. The measurements were PSI at 4x: 100, 92, 75, 100 and 6x: 110, 110, 100, 125. Pat said ok, cylinder 3 is less. Why? I said bad rings, or valves are not sealed. Pat what else, and why? I forgot the head gasket seal, and that running lean will cause overheating that will seize the cylinder. The spark plug said it was lean, I think because it was not worn out and blackish like the other ones. Pat said to put a half cap of oil in the cylinder and test it again, this time 100 and 125, perfect! The rings are bad. We will leave it for now and once we get it running check how good the rings are operating.
+
+Took the top, the slides, and the float bowls off tonight and left it for tomorrow. Ther was years of crud stuck on the outside of the carbs so I scrubbed in off in the solvent station. Most of the screws holding the covers and float bowls on were stripped so Pat showed me what is an impact-driver and how to use it. Awesome. Laid everything out to make it easier to know when something disappears!
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/12/20121205_195655s.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/12/20121205_195655s-300x225.jpg]]]]
+
+
+

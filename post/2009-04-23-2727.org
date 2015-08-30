@@ -1,0 +1,13 @@
+#+POSTID: 2727
+#+DATE: [2009-04-23 Thu 14:01]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: C++, Objective-C, Programming Language
+#+TITLE: A Brief Code Review of Wolfenstein 3D for iPhone
+
+[[http://fabiensanglard.net/wolf3d/index.php][Here]].
+
+(via Reddit)
+
+
+

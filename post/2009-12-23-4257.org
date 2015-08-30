@@ -1,0 +1,24 @@
+#+POSTID: 4257
+#+DATE: [2009-12-23 Wed 01:49]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Learning, Teaching
+#+TITLE: Stack Overflow: What did USENET get wrong?
+
+Stack Overflow is:
+
+
+
+#+BEGIN_QUOTE
+  A language-independent collaboratively edited question and answer site for programmers.
+#+END_QUOTE
+
+
+-- [[http://stackoverflow.com/about][StackOverflow]]
+
+It is booming. USENET is not.
+
+What did they do right that USENET got wrong?
+
+
+

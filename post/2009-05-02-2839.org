@@ -1,0 +1,13 @@
+#+POSTID: 2839
+#+DATE: [2009-05-02 Sat 12:25]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Fun, Programming
+#+TITLE: Emulating the CRT for Video Games That Need It
+
+[[http://www.bogost.com/games/a_television_simulator.shtml][Here]] is a good article about an effort that was made to make Stella, an Atari 2600 emulator, render the screen according the behavior of a CRT rather than an LCD. The differences are clear, and perhaps more interesting to folks who grew up playing games on such consoles :).
+
+Whatever this case, this must have been an interesting programming problem.
+
+
+

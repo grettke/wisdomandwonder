@@ -1,0 +1,21 @@
+#+POSTID: 7050
+#+DATE: [2013-02-04 Mon 00:13]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 02947, CB750, CB750F, Honda, Motorcycle, Repair
+#+TITLE: CB750F: Day 11
+
+Tonight I hooked up the Harbor Freight [[http://www.harborfreight.com/25-liter-ultrasonic-cleaner-95563.html][ultrasonic cleaner]] (that is now property of the class) which everyone seems to own and use to clean carburetors. For a solution I used about 55/45 SimpleGreen to water because the carbs were just filthy. 
+
+For each I ran a cycle of 8 minutes, 4 times with the air intake valve side down. The basket was crammed full of the rest of the carb and parts. In retrospect, someone pointed out to me that will make the clean a little less effective and instead I should hang the carb itself by a clothing hanger directly above the ultrasonic emitter. Good point. The heater heats up quickly and although there is an over-heating cutoff built in, it will get hot enough to boil before that happens to pay attention here. This took most of the evening; I will get the other side that was sitting out of the water later.
+
+After their final bath, I rinsed all of the big parts in solvent because the gunk just didn't want to let go. The cleaning solution was completely filthy; light would not penetrate it. The next step is to clean everything with carb cleaner. The problem is that there is a layer of gunk that just does not want to let go of the surface, so I'll come back with brushes and q-tips and a guitar string next week. 
+
+The pictures show how much a carb fits into the cleaner, along with how many parts you can cram in there but probably should not. At the end of the night, I try to keep my work-space in decent order.
+
+
+
+[gallery ids="7085,7086,7087,7088,7089,7090,7091"]
+
+
+

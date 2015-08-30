@@ -1,0 +1,41 @@
+#+POSTID: 66
+#+DATE: [2008-02-27 Wed 20:48]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Scheme, Utility
+#+TITLE: Encript-ing Scheme
+
+[[http://www.gnu.org/software/enscript/][Enscript]] is such a versatile and helpful tool. 
+
+Here is how I use it to pretty print Scheme code:
+
+
+#+BEGIN_EXAMPLE
+    
+enscript --landscape --columns=2 --highlight=scheme --borders --line-numbers --output=.ps .ss
+
+#+END_EXAMPLE
+
+
+
+*Addendum: 03/06/09*
+
+[[http://gnuwin32.sourceforge.net/downlinks/enscript-bin.php][Here]] is the direct link for the GnuWin32 download of Enscript.
+
+*Addendum: 03/08/09*
+
+Here are my new favorite settings for rendering code with this excellent program:
+
+
+#+BEGIN_EXAMPLE
+    
+enscript --word-wrap --underlay=Underlay --ul-gray=0.9 --line-numbers --
+landscape --highlight=scheme --columns=2 --borders --output=test.ps C:\collects\wisdomandwonder\resume\latex-renderer.sls
+
+#+END_EXAMPLE
+
+
+
+
+
+

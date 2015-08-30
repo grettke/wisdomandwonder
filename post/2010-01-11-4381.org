@@ -1,0 +1,21 @@
+#+POSTID: 4381
+#+DATE: [2010-01-11 Mon 02:57]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide
+#+TITLE: Adding Unicode Fonts to Windows
+
+Today I set up [[http://www.emacswiki.org/emacs/pretty-mode.el][pretty-mode.el]] and found that the laptop had all of the Unicode fonts but the desktop did not. I ended up installing Arial Unicode MS as suggested by [[http://unicode.org/help/display_problems.html][unicode.org,]] and that installed all of the missing fonts.
+
+
+
+#+BEGIN_QUOTE
+  If you have Microsoft Office 2000 and newer versions, you can get the Arial Unicode MS font, which is the most complete. To get it, insert the Office CD, and do a custom install. Choose Add or Remove Features. Click the (+) next to Office Tools, then International Support, then the Universal Font icon, and choose the installation option you want.
+#+END_QUOTE
+
+
+
+
+
+
+

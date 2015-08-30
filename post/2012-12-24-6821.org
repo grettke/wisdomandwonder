@@ -1,0 +1,17 @@
+#+POSTID: 6821
+#+DATE: [2012-12-24 Mon 03:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 02947, CB750, CB750F, Honda, Motorcycle, Repair
+#+TITLE: CB750F: Day 08
+
+Tonight was mostly Q&A along with cleaning; I won't be able to rebuild the carbs before class ends tomorrow.
+
+May I leave the trickle charger on? Yes. Does the kickstand or center stand need new rubber? No and maybe. Ratio of water to simple green for the ultrasonic carb clean? 2/1. May I leave parts here over break? Yes. Do I need to replace the gas in the tank? No, it is already OK. Should I get a new air cleaner? Yes. Does carb cleaner damage the seals? Yes, that is why we took them out. How do I measure the petcock line? Inner diameter. Are digital torque wrenches any good? Maybe, but they are generally fragile. 
+
+Took the exhaust, muffler, and chain guard home. It took a while but I cleaned most of the 3cm of gunk accumulated in the chain guard off.
+
+[gallery]
+
+
+

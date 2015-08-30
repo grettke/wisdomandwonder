@@ -1,0 +1,13 @@
+#+POSTID: 4913
+#+DATE: [2010-06-10 Thu 20:39]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, Programming Language
+#+TITLE: Manga Guide to Lisp
+
+Check [[http://lambda.bugyo.tk/cdr/mwl/index.html][it]]out; can't read it myself.
+
+(via [[http://blog.practical-scheme.net/gauche/20100609-curious-circular-list][gauche]])
+
+
+

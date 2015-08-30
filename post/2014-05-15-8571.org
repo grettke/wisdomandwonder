@@ -1,0 +1,13 @@
+#+POSTID: 8571
+#+DATE: [2014-05-15 Thu 01:06]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Emacs Lisp, Ide, Programming
+#+TITLE: GNU Emacs Manuals Online
+
+Such a [[https://www.gnu.org/software/emacs/manual/][short]] page which encompasses direction to massive tomes of wisdom.
+
+Time and care should be taken reading them.
+
+
+

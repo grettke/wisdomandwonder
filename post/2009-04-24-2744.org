@@ -1,0 +1,29 @@
+#+POSTID: 2744
+#+DATE: [2009-04-24 Fri 02:27]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Chez, Ikarus, Programming Language, Scheme
+#+TITLE: Differences between the Chez and Ikarus module systems
+
+#+BEGIN_QUOTE
+  
+An R6RS library and a Chez top-level module have similarities: they both have bodies that contain variable and syntax definitions, some of which can be exported, and you can import one module into another. So, they're similar on the surface. But there are major differences. 
+
+1. Outer scope 
+
+Chez modules exist in some environment (typically, in the interaction-environment, but that can change) that contains bindings that include the module keyword itself. The outer scope in the environment in which the module is expanded is visible inside the module (unless you restrict it using the import-only keyword). R6RS/Ikarus libraries do not exist in an environment: they are stand-alone entities with their own syntax and so on. 
+
+2. Expansion and Evaluation 
+
+Ikarus libraries are automatically expanded/compiled when you import them (thus, there's a mapping from library names to some storage that contains libraries' code). Chez modules are not associated with any storage: if you import a module and it doesn't already exist in the environment, you get an error. This means that in Chez, it is your duty to ensure that modules are "loaded" before they are used. Now "loaded" is a loaded term as it implies all of "compiled", "visited", and "invoked" (or "revisited" in the Chez lingua). Moreover, the load, compile, visit, and revisit are operations that operate on files, not modules, (such files may contain any code, not just modules) and work by modifying the environment in which such files are loaded, compiled, visited, or revisted. Operations on libraries in Ikarus do not modify the environment since no environment is required for performing these operations. In short, you need to manage the phase dependencies (when files are loaded/compiled/visited/revisited) yourself so that compile-time and run-time information are available when needed. 
+
+Aziz,,,
+
+#+END_QUOTE
+
+
+
+(via [[http://groups.google.com/group/ikarus-users/browse_thread/thread/722ab65d614ce7ab#][Ikarus]])
+
+
+

@@ -1,0 +1,78 @@
+#+POSTID: 8012
+#+DATE: [2013-08-15 Thu 21:05]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: How to Choose Packages Between Two ELPA Repositories
+
+ELPA makes Emacs v24 even more delightful to use. You may have run into a situation though where you wanted to install different packages from both [[http://marmalade-repo.org/][Marmalade]] and [[http://melpa.milkbox.net/][MELPA]]. A common problem here is that because the newest version number always gets chosen for installation, MELPA packages always get chosen over Marmalade, and you may not want that. MELPA thankfully has a solution for that in the form of their own package. 
+
+The [[http://melpa.milkbox.net/#installing][directions]] to set up MELPA are straightforward, but, one of my super-powers is not make any sense of directions, so I had a heck of a time getting it working. [[http://www.aaronbedra.com/emacs.d/][Aaron's config]] gave me a clue, but I still didn't have it working (I liked his namespace prefixing though so). Once I did get it working though it was really clear what I had done wrong, basically the package load and require order was incorrect, so, here is the right way to do it:
+
+
+
+-  Install the melpa package manually as directed; this gives you package you need to use the filtering functionality.
+-  Require 'package to get the ELPA functionality and variables.
+-  Add the repo(s) to 'package-archives so that you can pull from them.
+-  Call package-initialize to find the recently installed melpa package.
+-  Require 'melpa to import it and be able to use it.
+-  Customize the enable and exclude melpa variables to specify what packages to include or exclude from which repositories.
+-  Call package-refresh-contents to update Emacs's database of which packages it should use as available for installation.
+-  Your filtered package list is now available for use, call list-packages to verify.
+
+
+
+Here is an example of my situation, I wanted to default to installing the newest package from either GNU or Marmalade for all but two cases where I only wanted the version that was available on MELPA: fill-column-indicator and melpa. Here is the configuration and correct order of calls to make:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(defvar gcr/packages
+  '(auto-complete
+    color-theme
+    color-theme-solarized
+    diminish
+    fill-column-indicator
+    fuzzy
+    geiser
+    graphviz-dot-mode
+    lexbind-mode
+    melpa
+    ob-sml 
+    paredit
+    pretty-mode-plus
+    rainbow-mode
+    real-auto-save
+    sml-mode)
+  "Packages required at runtime.")
+(require 'package)
+(add-to-list 'package-archives
+             '("marmalade" . "http://marmalade-repo.org/packages/") t)
+(add-to-list 'package-archives
+             '("melpa" . "http://melpa.milkbox.net/packages/") t)
+(package-initialize)
+(require 'melpa)
+(setq package-archive-enable-alist '(("gnu")
+                                     ("marmalade")
+                                     ("melpa"
+                                      fill-column-indicator
+                                      melpa)))
+(setq package-archive-exclude-alist '(("gnu"
+                                       fill-column-indicator
+                                       melpa)
+                                      ("marmalade"
+                                       fill-column-indicator
+                                       melpa)))
+(package-refresh-contents)
+(dolist (package gcr/packages) 
+  (when (not (package-installed-p package))
+    (condition-case err
+        (package-install package)
+      (error
+       (message "%s" (error-message-string err))))))
+
+#+END_EXAMPLE
+
+
+

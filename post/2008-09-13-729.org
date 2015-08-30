@@ -1,0 +1,13 @@
+#+POSTID: 729
+#+DATE: [2008-09-13 Sat 03:29]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Study-HTDP
+#+TITLE: HTDP is Free
+
+[[http://www.htdp.org/2003-09-26/Book/][HTDP]] is *FREE*. Basically the only thing you need to take advantage of it is a computer, interest, and discipline. 
+
+That is awesome!
+
+
+

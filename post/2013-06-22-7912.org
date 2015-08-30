@@ -1,0 +1,19 @@
+#+POSTID: 7912
+#+DATE: [2013-06-22 Sat 00:04]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, Programming Language, Scheme
+#+TITLE: Simple Scheme
+
+#+BEGIN_QUOTE
+  [[http://homepage1.nifty.com/~skz/Scheme/simple.html][Simple]] is a Scheme system for learning. 
+I have to work with a virtual machine that theoretical [[https://en.wikipedia.org/wiki/SECD_machine][SECD machine]]. 
+Mechanism looking into the internal structure has been incorporated.
+#+END_QUOTE
+
+
+
+
+
+
+

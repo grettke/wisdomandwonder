@@ -1,0 +1,21 @@
+#+POSTID: 151
+#+DATE: [2008-05-03 Sat 13:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, Programming Language, Scheme, Teaching
+#+TITLE: Chicago Intro to Lisp Workshop
+
+The first event held by the Chicago Lisp User Group will be an [[http://www.pchristensen.com/blog/articles/announcing-intro-to-lisp-workshop/][Intro to Lisp Workshop]]. It is
+
+
+
+#+BEGIN_QUOTE
+  is a half-day workshop to introduce Lisp and its goodness to other programmers. The primary audience is the Chicago Linux User Group but it open to everyone. This is the initial announcement and tentative schedule.
+#+END_QUOTE
+
+
+
+Looks fun, even more-so if you present at it!
+
+
+

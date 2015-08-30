@@ -1,0 +1,21 @@
+#+POSTID: 48
+#+DATE: [2008-02-09 Sat 22:10]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Low Exposure: TinyScheme
+
+Have you ever heard of [[http://tinyscheme.sourceforge.net/][TinyScheme]]?
+
+
+
+#+BEGIN_QUOTE
+  TinyScheme is a lightweight Scheme interpreter that implements as large a subset of R5RS as was possible without getting very large and complicated. It is meant to be used as an embedded scripting interpreter for other programs.
+#+END_QUOTE
+
+
+
+
+
+
+

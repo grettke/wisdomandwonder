@@ -1,0 +1,123 @@
+#+POSTID: 8321
+#+DATE: [2014-03-19 Wed 02:10]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide, Lisp, Programming Language, elisp, org-mode
+#+TITLE: org-mode Observations 2014-03-18
+
+
+[[http://orgmode.org/manual/Clean-view.html][org-indent-mode]] immediately struck me as perfect, but my personal preference
+is to limit text width something around 80 columns. Making
+=org-hide-leading-stars= true is the perfect balance.
+
+
+
+
+
+
+
+[[https://github.com/fniessen/orgmk][orgmk]] seems to simplify org-mode exporting.
+
+
+
+
+
+
+
+[[https://github.com/punchagan/org2blog][org2blog/wp]] looks very interesting, but manually posting is easy enough for now.
+
+
+
+
+
+
+
+Some users visualize source block delimeters differently. Those visualizations
+might be nice to add to [[https://github.com/akatov/pretty-mode][pretty-mode]].
+
+
+
+
+
+
+
+Andreas [[https://lists.gnu.org/archive/html/emacs-orgmode/2014-03/msg00325.html][posted]] two ways in babel to store a variable. The example is just nice
+to have when you are getting into babel.
+
+
+
+
+
+
+
+There are a few ways to continue code listings in beamer, but [[https://lists.gnu.org/archive/html/emacs-orgmode/2014-03/msg00331.html][this]] one seems
+most simple.
+
+
+
+
+
+
+
+May as well enable [[http://orgmode.org/worg/exporters/ox-overview.html][markdown export]] in addition to beamer.
+
+
+
+
+
+
+
+[[http://orgmode.org/manual/TODO-dependencies.html][org-enforce-todo-dependencies]] disallows tree completion flags when incomplete
+children exist.
+
+
+
+
+
+
+
+[[http://orgmode.org/worg/org-tutorials/org-plot.html][org-plot]] supports plotting.
+
+
+
+
+
+
+
+The current Clojure namespace is maintained between source blocks now in babel.
+
+
+
+
+
+
+
+[[https://www.gnu.org/software/emacs/manual/html_node/org/CDLaTeX-mode.html][CDLaTeX]] seems like a nice idea to use in org-mode.
+
+
+
+
+
+
+
+[[https://github.com/titaniumbones/org-writers-room][org-writers-room]] looks like a great idea; asked author to post a screenshot.
+
+
+
+
+
+
+
+[[http://orgmode.org/manual/Export-settings.html][org-export-exclude-tags]] allows you to block export of specified sub-trees.
+
+
+
+
+
+
+
+Rainer submitted a patch to prevent R from stomping on session variables.
+
+
+
+

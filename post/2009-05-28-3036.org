@@ -1,0 +1,11 @@
+#+POSTID: 3036
+#+DATE: [2009-05-28 Thu 20:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming
+#+TITLE: Chicago Code Camp 2009
+
+[[http://www.chicagocodecamp.com/][Here]] is the link for Chicago Code Camp 2009. It looks fun.
+
+
+

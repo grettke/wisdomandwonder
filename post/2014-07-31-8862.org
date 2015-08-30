@@ -1,0 +1,11 @@
+#+POSTID: 8862
+#+DATE: [2014-07-31 Thu 01:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Art, Programming, compiler, interpreter, virtual machine
+#+TITLE: Malbolge
+
+[[https://en.wikipedia.org/wiki/Malbolge][Malbolge]] looks like a fun programming language.
+
+
+

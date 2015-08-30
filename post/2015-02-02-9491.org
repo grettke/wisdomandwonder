@@ -1,0 +1,13 @@
+#+POSTID: 9491
+#+DATE: [2015-02-02 Mon 18:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: .NET, C Sharp, PluralSight, Programming, Programming Language
+#+TITLE: C# Tips and Traps
+
+[[http://www.pluralsight.com/courses/csharp-tips-traps][C# Tips and Traps]].
+
+Each session contains 5-10 pieces of information. The topics are varied and unrelated. That is OK. Basically, everything that you learn here, you ought to know. They are things that will, were you to not know these things, would easily identify you as not being a real .NET developer. Don't get me wrong, you won't learn anything here that will radically change your contribution. Rather, it is just little things, that, if you don't know them, you will look really stupid, not dumb, just stupid. You probably won't even remember them either, that is, until you run into that situation. At that point, you will recall "Hey I saw that video..." and that is where it pays off. Even just stuff like partial classes and functions, I haven't thought about that for a long time, and hey, thanks for the reminder. Another nice one is seeing how easy it is to implement debugger visualizations with annotations. Knew you could, but didn't realize it was that easy. So if you have 2-3 hours, then watch it, at 2X.
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 2979
+#+DATE: [2009-05-12 Tue 15:04]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming, philosophy
+#+TITLE: The Psychology of Computer Programming
+
+Edward mentioned what looks like an [[http://www.geraldmweinberg.com/Site/Programming_Psychology.html][interesting book]] about how to be happy in your career as a computer programmer [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-May/033060.html][here]].
+
+
+

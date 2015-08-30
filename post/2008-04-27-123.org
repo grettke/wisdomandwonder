@@ -1,0 +1,13 @@
+#+POSTID: 123
+#+DATE: [2008-04-27 Sun 15:12]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Scheme
+#+TITLE: R6RS is an experiment
+
+[[http://www.r6rs.org/][R6RS]] is an experiment to address programming language features that people need "in the large". The keyword in there is "experiment".
+
+It could fail miserably. It could succeed beyond anyone's wildest expectations. Whatever the case, one of the creative sparks that makes Scheme great is the spirit of innovation. R6RS is trying something very new and innovative in the Scheme community. If it is not the right fit, it will be corrected in R7RS; no harm, no foul.
+
+
+

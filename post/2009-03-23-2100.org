@@ -1,0 +1,17 @@
+#+POSTID: 2100
+#+DATE: [2009-03-23 Mon 01:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming, Programming Language, Scheme, philosophy
+#+TITLE: Literate Programming in Scheme
+
+The release notes [[https://www.blogger.com/comment.g?blogID=2080885971644496896&postID=109123988427683012][here]] for PLT Scheme 4.1.5 mention support for literate programming. Not being familiar with the term; I read more about it on Wikipedia [[http://en.wikipedia.org/wiki/Literate_programming][here]].
+
+I have wanted in-code documentation generation tools to serve this purpose; but I have never succeeded with them. It had always felt like I was battling the intent of the tool. Even Eiffel's notion of different views on code-as-documentation never quite fit for me. This approach is fascinating; it allows for you to tell a story about the code as you write the code. Having posted to the PLT list asking about it [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-March/031426.html][here]]; two folks replied with details on this style and Scheme.
+
+PLT Scheme recently added literate programming support; documented [[http://download.plt-scheme.org/doc/html/scribble/lp.html][here]]. One example of its application is in Chat Noir [[http://docs.plt-scheme.org/games/chat-noir.html][here]]; and the source code for it may be viewed [[http://svn.plt-scheme.org/plt/tags/v4.1.5/collects/games/chat-noir/chat-noir-literate.ss][here]] (Thanks Robby).
+
+A tool for literate programming in Scheme called is schemeweb located [[http://schemephil.googlepages.com/schemeweb.html][here]] (Thanks Phil).
+
+
+

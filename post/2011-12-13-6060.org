@@ -1,0 +1,21 @@
+#+POSTID: 6060
+#+DATE: [2011-12-13 Tue 03:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Science
+#+TITLE: The Pioneer plaque
+
+#+BEGIN_QUOTE
+  The Pioneer plaques are a pair of gold-anodized aluminium plaques which were placed on board the 1972 Pioneer 10 and 1973 Pioneer 11 spacecraft, featuring a pictorial message, in case either Pioneer 10 or 11 are intercepted by extraterrestrial life. The plaques show the nude figures of a human male and female along with several symbols that are designed to provide information about the origin of the spacecraft.[1]
+
+The Pioneer spacecraft were the first human-built objects to leave the Solar System.
+#+END_QUOTE
+
+
+
+You can buy replicas [[http://www.precision-engravers.com/][here]].
+
+(via [[http://en.wikipedia.org/wiki/Pioneer_plaque][wikipedia]])
+
+
+

@@ -1,0 +1,15 @@
+#+POSTID: 3322
+#+DATE: [2009-06-16 Tue 22:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme, iPhone
+#+TITLE: More Scheme on the iPhone
+
+[[http://prog.vub.ac.be/doku.php?id=ipop:scheme][Here]]. 
+
+If someone runs this then please let me know what you find.
+
+(via [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/edef1f893b042187][comp.lang.scheme]])
+
+
+

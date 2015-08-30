@@ -1,0 +1,17 @@
+#+POSTID: 6066
+#+DATE: [2011-12-18 Sun 03:13]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: OS X, Programming Language, R7RS, Scheme, iOS
+#+TITLE: Chibi Scheme Build for an OS X library and iOS REPL
+
+Meng Zhang set up project files for building Chibi for OS X and an iOS REPL [[http://code.google.com/r/wsxiaoyslh-chibi-ios/source/list][here]]. 
+
+With virtually no iOS knowledge I just checked it out, built it, and ran it on the simulator in a couple of minutes.
+
+Thank you Alex and Meng!
+
+(via [[http://groups.google.com/group/chibi-scheme/browse_thread/thread/a27750cf3818624/5d2cf61fc94f6730?lnk=gst&q=xcode#5d2cf61fc94f6730][chibi-scheme]])
+
+
+

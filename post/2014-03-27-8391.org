@@ -1,0 +1,20 @@
+#+POSTID: 8391
+#+DATE: [2014-03-27 Thu 02:59]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Build the configuration you need
+
+The Emacs configuration for normal operations on my system has loads of useful and powerful packages loaded. Sometimes they interfere with the normal operation of org-html-export-to-*, though. The simplest way to address those issues is to generate two confirmation files: one for full-blown Emacs use and another just for doing exports. With literate programming in org-mode it is totally simple to do. It looks like this:
+
+
+
+#+BEGIN_EXAMPLE
+    <<cask-block>>
+<<diagramming-decision>>
+<<modes-application-org-mode-decision>>
+
+#+END_EXAMPLE
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 692
+#+DATE: [2008-09-08 Mon 03:41]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Clojure, Programming Language
+#+TITLE: Clojure's Approach to Identity and State
+
+[[http://lambda-the-ultimate.org/node/2978][Here]] is an article about a "position paper of sorts that Rich Hickey has posted on Clojure's Approach to Identity and State". (via LtU)
+
+
+

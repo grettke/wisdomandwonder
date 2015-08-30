@@ -1,0 +1,11 @@
+#+POSTID: 390
+#+DATE: [2008-08-07 Thu 18:42]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: PLT Release Chronology
+
+PLT has been around for a long time. Check out their [[http://download.plt-scheme.org/chronology/][Release Chronology]].
+
+
+

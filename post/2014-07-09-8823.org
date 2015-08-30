@@ -1,0 +1,11 @@
+#+POSTID: 8823
+#+DATE: [2014-07-09 Wed 00:47]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: org mode is awesome
+
+John shows you why [[https://www.youtube.com/watch?v=fgizHHd7nOo&feature=youtu.be][here]]. Thanks irreal for the [[http://irreal.org/blog/?p=2800][link]].
+
+
+

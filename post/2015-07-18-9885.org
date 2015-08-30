@@ -1,0 +1,25 @@
+#+POSTID: 9885
+#+DATE: [2015-07-18 Sat 17:05]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Applied mathematics, Programming, Programming Language, SAS, WPS, applied statistics
+#+TITLE: SAS and WPS
+
+#+BEGIN_QUOTE
+  [[https://en.wikipedia.org/wiki/SAS_(software)][SAS]] (Statistical Analysis System; is a software suite developed by SAS Institute for advanced analytics, business intelligence, data management, and predictive analytics.
+#+END_QUOTE
+
+
+
+
+
+#+BEGIN_QUOTE
+  [[https://en.wikipedia.org/wiki/World_Programming_System][The World Programming System]], also known as WPS, is a software product developed by a company called World Programming. WPS allows users to create, edit and run programs written in the language of SAS.
+#+END_QUOTE
+
+
+
+
+
+
+

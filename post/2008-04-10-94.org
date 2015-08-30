@@ -1,0 +1,11 @@
+#+POSTID: 94
+#+DATE: [2008-04-10 Thu 02:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, elisp
+#+TITLE: Emacs Lisp as a scripting language
+
+[[http://www.leancrew.com/all-this/2008/04/emacs-lisp-as-a-scripting-language/][Here]] is a great article about using Elisp as a scripting language.
+
+
+

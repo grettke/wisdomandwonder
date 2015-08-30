@@ -1,0 +1,27 @@
+#+POSTID: 623
+#+DATE: [2008-08-22 Fri 03:12]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Programming, Programming Language, Scheme, Teaching
+#+TITLE: How to Design Worlds
+
+Via [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-August/026515.html][PLT]]:
+
+
+
+#+BEGIN_QUOTE
+  As some of you know, we have been working on a new way of writing interactive applications, such as games, using just pure functional programming. We call this the World style, and it is embodied in the world.ss Teachpack included in the DrScheme distribution.
+
+In response to demand, we are creating extended materials on this style of programming:
+
+ [[http://world.cs.brown.edu/]]
+#+END_QUOTE
+
+
+
+*Addendum: 26 October 2008*
+
+Some folks might find HTDW a little more interesting in that it is [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-August/026445.html][purely functional programming]].
+
+
+

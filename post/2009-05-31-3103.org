@@ -1,0 +1,27 @@
+#+POSTID: 3103
+#+DATE: [2009-05-31 Sun 23:38]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: HtDP on National Radio
+
+HtDP was [[http://techguylabs.com/radio/ShowNotes/Show566][mentioned on NPR]]!
+
+Thanks to David for transcribing:
+
+
+#+BEGIN_QUOTE
+  Thomas, Manhattan Beach, CA - Starting a tech company
+
+Thomas is 10 years old and he wants to start a software company with his friends! He programs in C++, Java, and Python?! Wow. Leo says he wants Thomas to learn these programs right, not just noodling with them and learning bad habits. So Leo says that Alice is a good place to start, but Leo suggests HTDP.ORG. It's a programming book written by software professors all over the country and teaches "SCHEME," which is a "flavor" of a programming language called LISP. Download DrScheme. This will teach you to plan, design, and organize your software ideas.
+
+#+END_QUOTE
+
+
+
+
+(via [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-May/033466.html][PLT]])
+
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 8944
+#+DATE: [2014-08-27 Wed 17:32]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: C-Language
+#+TITLE: A guide on setting up C/C++ development environment for Emacs
+
+[[https://tuhdo.github.io/c-ide.html][Help you to setup an efficient working C/C++ environment]] via [[https://lists.gnu.org/archive/html/help-gnu-emacs/2014-08/msg00355.html][help-gnu-emacs]].
+
+
+

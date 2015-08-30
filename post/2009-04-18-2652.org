@@ -1,0 +1,25 @@
+#+POSTID: 2652
+#+DATE: [2009-04-18 Sat 04:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: TSPL 4th edition
+
+#+BEGIN_QUOTE
+  The 4th edition of The Scheme Programming Language by R. Kent Dybvig is announced in the MIT Press catalog. 
+
+"The fourth edition has been substantially revised and expanded to bring the content up to date with the current Scheme standard, the Revised6 Report on Scheme. All parts of the book were updated and three new chapters were added, covering the language's new library, exception handling, and record-definition features." 
+
+The paper catalog gives a date of July 2009. The online catalog gives a date of September 2009. 
+
+[[http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11984]]
+#+END_QUOTE
+
+
+
+
+
+(via [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/75361cb1ba30858c#][comp.lang.scheme]])
+
+
+

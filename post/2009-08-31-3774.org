@@ -1,0 +1,11 @@
+#+POSTID: 3774
+#+DATE: [2009-08-31 Mon 20:17]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Programming Language, Scheme
+#+TITLE: r6rs-library-mode: Emacs support for R6RS Scheme
+
+Ed is working Emacs support as he explains [[http://ikarus-scheme.org/pipermail/ikarus-users/2009-August/000177.html][here]] and [[http://ikarus-scheme.org/pipermail/ikarus-users/2009-August/000178.html][here]].
+
+
+

@@ -1,0 +1,17 @@
+#+POSTID: 185
+#+DATE: [2008-05-19 Mon 19:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, dtrace
+#+TITLE:  Exposing the Depth JDK 7.0 Applications with DTrace
+
+"Exposing the Depth JDK 7.0 Applications with DTrace" was the only lab that I attended at JavaOne 08. As you can imagine, it was all about dtrace.
+
+[[http://www.sun.com/bigadmin/content/dtrace/][dtrace]] is a no-overhead, highly dynamic, powerful programming language used to report on running systems. It runs on Solaris, FreeBSD, Mac OS X, and sorely neither Linux nor AIX (the two latter camps will roll their own clones on this one). 
+
+The tool itself is really delightful; in the [[http://www.sun.com/bigadmin/content/dtrace/blogs/jarod/][right hands]] it can really work wonders.
+
+I wish we had this on Windows, Linux, OS/400, and AIX.
+
+
+

@@ -1,0 +1,44 @@
+#+POSTID: 6541
+#+DATE: [2012-11-04 Sun 04:14]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 22656, Concours, Kawasaki, Motorcycle
+#+TITLE: Major Concours Service Update
+
+*08/31/12 Doug*
+
+
+
+-  Installed a new [[http://www.murphskits.com/catalog/product_info.php?cPath=1_94&products_id=140][petcock]]
+-  Installed a fuel gauge resistor corrector
+-  Installed stainless [[http://www.murphskits.com/catalog/product_info.php?products_id=199][front brake line]]
+-  Installed new handlebar (“650-03602 B34: Black 7/8" Suzuki GS-E Style) and mount (“SB-025 Superbike Bar Mounts” ): [[http://www.sideroadcycles.com/ImportedMotorcycles/ImportHandlebars/ImportStreet/78more2Street.html][Flanders]] and [[http://www.storzperf.com/jpgs/page19.html][Storz]]
+-  Installed footpeg lowering kit: [[http://www.murphskits.com/catalog/product_info.php?cPath=1_91_87&products_id=143][Murphs]]
+-  New engine oil and filter: Shell Rotella T
+-  Front brake fluid change
+-  Clutch fluid change
+
+
+
+*10/31/12 The Shop*
+
+
+
+-  New front tire: Dunlop K701F
+-  Replaced fork seals and consequently replaced the fork oil
+-  Replaced clutch and brake master cylinder rusty screws
+-  New rear brake fluid
+-  Cleaned and oiled air filter
+-  Wired in Hyperlites
+-  Adjusted fork height (it was about 2" too high) and consequently installed new stainless front brake cable
+-  Valve adjustment
+-  General safety inspection of work done prior
+
+
+
+The bike rides very differently, smoother and more stable. The handlebar height and lowered pegs also feel much better to me. Here are some pics:
+
+[gallery]
+
+
+

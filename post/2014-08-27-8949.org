@@ -1,0 +1,24 @@
+#+POSTID: 8949
+#+DATE: [2014-08-27 Wed 19:43]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: What the difference between .Golbalenv and package:base in R?
+
+[[http://r.789695.n4.nabble.com/What-the-difference-between-Golbalenv-and-package-base-td4695956.html][What the difference between .Golbalenv and package:base?]]
+
+
+
+#+BEGIN_QUOTE
+  Put simply, 
+ .GlobalEnv stores objects you create 
+ package:base contains functions and objects provided by R itself
+#+END_QUOTE
+
+
+
+
+
+
+
+

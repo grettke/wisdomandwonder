@@ -1,0 +1,40 @@
+#+POSTID: 497
+#+DATE: [2008-08-16 Sat 21:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Learning, Programming, Programming Language, Scheme, Teaching, philosophy
+#+TITLE: LAMBDA: The Ultimate Imperative
+
+'LAMBDA: The Ultimate Imperative' (found [[http://library.readscheme.org/page1.html][here]]) is a paper that was written in 1976 by Guy Steele and Gerry Sussman. It is fun to read, informative, and accessible to a wide-variety of programmers and interest levels. Here are some interesting bits about the paper (I will leave the detail to the paper, no sense in trying to re-state what Sussman and Steele have already done so well):
+
+(All bits are either copy-and-paste, or summaries directly from the referenced text, along with my comments)
+
+
+
+
+Most programming language constructs can be modeled in terms of lambda, letrec, and if. This might seem pretty radical to folks used to so called "big languages" today. It also might offer some insight into the "minimalistic" nature of Scheme.
+
+
+"Applicative order" of evaluation implies "Call-by-value". In other words, arguments to functions are evaluated before passing control to the function receiving that value.
+
+
+The paper demonstrates how you can conceptually go from a purely functional world, to one of an imperative nature by leverage call-by-value and macros. This is very, very cool.
+
+
+'Tail-recursion' is perhaps the biggest misnomer of the century. It should be called 'tail-transfer'. After reading this paper, along with 'LAMBDA: The Ultimate GOTO', this becomes quite obvious.
+
+
+Lazy evaluation is introduced, and discussed.
+
+
+Be sure to read the conclusion. It contains numerous gems (both overt and covert) about the role of language, the programmer, and the programming language designer.
+
+
+
+
+Keep in mind that this paper was written over 32 years ago. When you take into account the functionality that they describe, and the reasons for its importance; you must put as much effort into thinking about the computing landscape in 1976 as you put into wondering why these kinds of features aren't in "fashionable languages" today (In my opinion, only Lisp is an acceptable Lisp, and additionally, what does that tell you about "fashionable languages"?).
+
+
+
+
+

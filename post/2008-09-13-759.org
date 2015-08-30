@@ -1,0 +1,28 @@
+#+POSTID: 759
+#+DATE: [2008-09-13 Sat 03:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Study-HTDP
+#+TITLE: Comment Boxes
+
+Originally posted [[http://groups.google.com/group/study-htdp/browse_thread/thread/7960b1251bd27410][here]]:
+
+
+#+BEGIN_QUOTE
+  
+In DrScheme you can comment out code either using semicolons or by using a "box".
+
+The way that it works is that you:
+1. Select the code you want to put in a comment box.
+2. Go to the Scheme menu and select Comment Out With a Box.
+
+You may find this particularly useful when you get to the structure template definitions in chapter 6. It makes them much nicer to write, read, and maintain. 
+
+#+END_QUOTE
+
+
+
+
+
+
+

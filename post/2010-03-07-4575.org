@@ -1,0 +1,13 @@
+#+POSTID: 4575
+#+DATE: [2010-03-07 Sun 00:35]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide
+#+TITLE: Display names of defined colors and show what they look like in Emacs
+
+The 'list-colors-display' function call displays a list of colors, how they look, and their RGB names in its own window.
+
+(via [[http://emacsworld.blogspot.com/2009/11/quick-way-of-looking-up-colours-in.html][Got Emacs?]])
+
+
+

@@ -1,0 +1,17 @@
+#+POSTID: 71
+#+DATE: [2008-03-22 Sat 23:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming
+#+TITLE: Disciplined Thought: A Programmer's Friend
+
+[[http://list.cs.brown.edu/pipermail/plt-scheme/2008-March/023421.html][This post]] on the PLT discussion list reminded me of me. There was a point where my interest in programming languages was more about /what/ you could do with a language, without much of an emphasis on the /why/ you would want to do such a thing. While you can do a lot of interesting things in different languages, there is often more value when there is reason, or vision, of why you would do those things. From my perspective, most languages have, at one time or another had some guiding vision or force behind them.
+
+Eiffel has Bertrand Meyer saying "Everything is an object, and be static about it" and C++ has Bjarne Stroustrup saying "Keep it fast, keep it generic", Scheme "Programming languages should be designed not by piling feature ...". Ruby has Yukihiro Matsumoto saying "It makes sense to me, if you don't like it, see you later!". Consequently there are a lot of really "neat" things you can do in Ruby, but it is not always obvious to me why you might want to do those things (I'm excluding the /obvious/ ones so give me a break on those). Mats knows, and if you don't "get it" oh well! The vision, or reason, extends all the way from the macrocosm of the entire language to the microcosm of its individual features.
+
+Programming language features are there for a reason. While I will always find individual features interesting in terms of what you can do, one of my goals as a programmer is to always study with enough discipline to understand why such features exist. 
+
+As a programmer it is your duty to understand those features before utilizing them. Matthias' [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-March/023489.html][reply]] to this post provides an excellent example of the conciseness and clarity that are the fruits of such discipline.
+
+
+

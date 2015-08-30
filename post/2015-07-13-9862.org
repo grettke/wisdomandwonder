@@ -1,0 +1,62 @@
+#+POSTID: 9862
+#+DATE: [2015-07-13 Mon 21:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide, Lisp, Programming Language, elisp, org-mode
+#+TITLE: Handling 4 Kinds of Return in Org Mode
+
+
+You might want more than a few ways to "return" when inside of Org; I did.
+
+
+
+
+
+
+
+
+-   org-return-indent  :: Make it really easy to work in existing list items,
+headings, and tables
+
+
+   -  This is listed first because I often go back to modify entries
+
+   -  <return> because it is used the most
+
+
+   
+
+-   org-meta-return  :: Make it really easy to add new list items, headings, and
+table contents
+
+
+   -  M-<return> because the binding comes with Org
+
+
+   
+
+-   electric-indent-just-newline  :: For when I want to break out of the default
+Org indentation to start working at the beginning of the line for example when
+I'm done working in a list or have just created a new heading
+
+
+   -  C-M-<return> because it is next step "lower" in the binding
+
+
+   
+
+-   [[https://github.com/grettke/home/blob/master/.emacs.el#L436][gcr/smart-open-line]]  :: When I want to insert a new line between the current
+and next line then position the cursor correctly indented at the start of it.
+
+
+   -  s-<return> because it is that is the last place in the modifier key chain
+
+
+   
+
+
+
+
+
+
+

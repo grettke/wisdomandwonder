@@ -1,0 +1,11 @@
+#+POSTID: 6128
+#+DATE: [2013-08-11 Sun 16:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Fun, mathematics
+#+TITLE: Quasicrystals
+
+Pretty animations of a quasicrystal [[http://mainisusuallyafunction.blogspot.com/2011/10/quasicrystals-as-sums-of-waves-in-plane.html][here]].
+
+
+

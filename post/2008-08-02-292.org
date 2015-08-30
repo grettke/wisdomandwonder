@@ -1,0 +1,21 @@
+#+POSTID: 292
+#+DATE: [2008-08-02 Sat 19:03]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: PLT PLoT: Graph Plotting
+
+PLT Scheme comes with a nice [[http://docs.plt-scheme.org/plot/index.html][graph plotting library]].
+
+Below are some examples:
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/08/cos-sin.png][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/08/cos-sin.thumbnail.png]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/08/shade.png][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/08/shade.thumbnail.png]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/08/vector-field.png][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/08/vector-field.thumbnail.png]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/08/3d.png][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/08/3d.thumbnail.png]]]]
+
+
+

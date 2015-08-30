@@ -1,0 +1,23 @@
+#+POSTID: 6095
+#+DATE: [2011-12-24 Sat 04:01]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: OS X, Utility
+#+TITLE: Mounting a Sparseimage with Automator in OS X
+
+I use [[http://www.bombich.com/][Carbon Copy Cloner]] to backup the Mini to an encrypted sparse image. OS X 10.6 used to mount the image automatically but quit doing so and I can't figure out why. In lieu of that I built an Automator script to mount the share so that CCC could mount the image. That worked until upgrading to 10.7. 
+
+My final solution was to add a final step to the script asking the user to mount the sparse image manually. 
+
+[[http://hintsforums.macworld.com/showthread.php?t=73808][This site]] showed how to do so like this:
+
+
+
+#+BEGIN_EXAMPLE
+    
+tell application "Finder" to display dialog "Empty Trash" with icon 2
+
+#+END_EXAMPLE
+
+
+

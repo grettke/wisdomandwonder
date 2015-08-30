@@ -1,0 +1,11 @@
+#+POSTID: 8508
+#+DATE: [2014-05-01 Thu 18:01]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: org-mode document transport ala a zip file
+
+In [[http://kitchingroup.cheme.cmu.edu/blog/2014/03/05/Creating-a-transportable-zip-archive-of-an-org-file/][this]] humble post the Kitchin Research Group demonstrates how to package up all external references for an org-mode document for transportation in a zip file solving the problem that many org-mode users face of how to simply and easily share the entirety of an org-mode document with others without exporting to PDF.
+
+
+

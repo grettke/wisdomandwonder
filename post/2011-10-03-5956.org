@@ -1,0 +1,19 @@
+#+POSTID: 5956
+#+DATE: [2011-10-03 Mon 00:22]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Database, Learning, Programming, Teaching
+#+TITLE: SchemaSpy: A Graphical Database Schema Metadata Browser
+
+#+BEGIN_QUOTE
+  [[http://schemaspy.sourceforge.net/][SchemaSpy]] is a Java-based tool that analyzes the metadata of a schema in a database and generates a visual representation of it in a browser-displayable format. It lets you click through the hierarchy of database tables via child and parent table relationships as represented by both HTML links and entity-relationship diagrams. It's also designed to help resolve the obtuse errors that a database sometimes gives related to failures due to constraints.
+#+END_QUOTE
+
+
+
+This is an excellent tool in its own right; and if nothing else for its beautiful use of [[http://www.graphviz.org/][Graphviz]]. 
+
+See the example(s) [[http://schemaspy.sourceforge.net/sample/relationships.html][here]].
+
+
+

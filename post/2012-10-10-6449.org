@@ -1,0 +1,67 @@
+#+POSTID: 6449
+#+DATE: [2012-10-10 Wed 20:35]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Artificial Intelligence, Eclipse, Ide, Java, Jess, Rules Engine
+#+TITLE: Installing Jess 71p2 in Eclipse 4.2
+
+1. Downloaded "Eclipse IDE for Java Developers".
+2. The file name is "eclipse-java-juno-SR1-win32.zip".
+3. This is release number 4.2 (Juno).
+4. Extracted the archive. Started Eclipse and stopped it.
+5. Extracted Jess plugins to the desired dir.
+6. Started Jess. Verified it's presence.
+7. Installed GEF by using the built in "Juno" repository and searching for "GEF". It showed up under "Modeling". The installation took 10 minutes.
+8. Restarted Eclipse.
+
+
+
+When you run [[http://www.jessrules.com/jesswiki/view?SimpleCountProgram][this]] sample program:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(reset) 
+
+; define the counter
+(deftemplate counter
+  (slot count (type integer) (default 0)))
+
+; define the rule
+(defrule switchme
+  ?p <- (counter {count < 10})
+  =>
+  (printout t ?p.count crlf)
+  (bind ?p.count (+ ?p.count 1)))
+
+; initialise counter
+(deffunction init ()
+  (assert (counter (count 1))))
+
+;initialise program
+(init)
+
+;run program
+(run)
+
+#+END_EXAMPLE
+
+
+
+Then you get a nice structure breakdown and syntax-highlighting:
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/10/jesshl.png][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/10/jesshl-150x150.png]]]]
+
+You can set breakpoints and get debug information:
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/10/jessca.png][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/10/jessca-150x142.png]]]][[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/10/jessdpm.png][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/10/jessdpm-150x150.png]]]]
+
+Here is the Rete network:
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/10/jessrn.png][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/10/jessrn-150x150.png]]]]
+
+Good to know it is available, not that I know the value of it yet! I'm just investigating the plugins. 
+
+Next step is to do the studying!
+
+
+

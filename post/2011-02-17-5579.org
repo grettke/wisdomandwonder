@@ -1,0 +1,13 @@
+#+POSTID: 5579
+#+DATE: [2011-02-17 Thu 00:22]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Guile, Programming Language, Scheme
+#+TITLE: Big Guile Release
+
+Guile adds among other things hygienic-macros and Unicode support. Awesome!
+
+(via [[http://www.gnu.org/software/guile/news.html][guile]])
+
+
+

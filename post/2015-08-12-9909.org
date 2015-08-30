@@ -1,0 +1,13 @@
+#+POSTID: 9909
+#+DATE: [2015-08-12 Wed 20:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode, philosophy
+#+TITLE: Uniquely Name Source-Blocks and Headline IDs in Org-Mode
+
+Always name all of your Source-Blocks and uniquely ID Headlines in Org-Mode. It is the only way to make Literate Programming pleasant and predictable. At the very least you will understand what is happening during tangling.
+
+
+
+
+

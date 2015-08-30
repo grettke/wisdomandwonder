@@ -1,0 +1,13 @@
+#+POSTID: 4211
+#+DATE: [2009-12-21 Mon 20:50]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Paralell, Programming
+#+TITLE: A Pattern Repository for Parallel Programming
+
+[[http://parlab.eecs.berkeley.edu/wiki/patterns/patterns][Here]] is a repository for parallel programming patterns.
+
+(via [[http://surana.wordpress.com/2009/12/18/parallel-programming-patterns/][pinku]])
+
+
+

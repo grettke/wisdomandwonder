@@ -1,0 +1,13 @@
+#+POSTID: 5418
+#+DATE: [2010-12-19 Sun 22:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Eiffel, Programming Language
+#+TITLE: Inheriting comments in Eiffel
+
+[[http://www.eiffelroom.org/blog/manus_eiffel/inheriting_comments][Here]]is a nice way to inherit comments in Eiffel.
+
+Javadoc's pointer syntax isn't too bad, either :).
+
+
+

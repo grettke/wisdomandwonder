@@ -1,0 +1,13 @@
+#+POSTID: 821
+#+DATE: [2008-10-04 Sat 01:37]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: JVM, Programming Language
+#+TITLE: JVM Language Summit
+
+[[http://www.tbray.org/ongoing/When/200x/2008/09/25/JVM-Summit][Here]] is a writeup on the [[http://openjdk.java.net/projects/mlvm/jvmlangsummit/][2008 JVM Language Summit]].
+
+(via [[http://lambda-the-ultimate.org/node/3021][LtU]])
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 8864
+#+DATE: [2014-07-31 Thu 18:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Artificial Intelligence, CLIPS, Rules Engine
+#+TITLE: Debugging performance issues in CLIPS
+
+In [[http://rileyonlife.blogspot.com/2014/07/join-activity.html][this]] post John explained how to so with the latest version of CLIPS.
+
+
+

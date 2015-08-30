@@ -1,0 +1,169 @@
+#+POSTID: 9019
+#+DATE: [2014-08-31 Sun 13:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: R-Project, Reproducible research
+#+TITLE: Package management in R
+
+
+Once you start using different versions of packages for different projects
+then you will probably want a package-management solution for R. Or perhaps
+you are coming from another language that had a package-management solution
+that you were already happy with. Curious about the offerings I searched
+and found two options, rbundler and Packrat. Having read the literature for both,
+they seem to be more than adequate providing everything that one would expect.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Package
+
+
+
+
+Github
+
+
+
+
+CRAN
+
+
+
+
+PDF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rbundler
+
+
+
+
+[[https://github.com/opower/rbundler][here]]
+
+
+
+
+[[http://cran.r-project.org/web/packages/rbundler/index.html][here]]
+
+
+
+
+[[http://cran.r-project.org/web/packages/rbundler/rbundler.pdf][here]]
+
+
+
+
+
+
+
+
+
+
+
+[[https://rstudio.github.io/packrat/][Packrat]]
+
+
+
+
+[[https://github.com/rstudio/packrat][here]]
+
+
+
+
+NA
+
+
+
+
+NA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My current approach is to install *all* packages into my user directory so as not
+to spoil the global package cache. Most likely that approach won't scale for
+larger projects, so when the need arises I will migrate to one of these
+solutions.
+
+
+
+
+
+
+
+If you've never used something like this before, then you will be well-served to
+first becomes comfortable and masterful managing it /yourself/ before automating
+it.
+
+
+
+
+
+
+
+Whatever your approach, it is a real treat to know that both solutions are
+available for when you embrace reproducible research.
+
+
+
+

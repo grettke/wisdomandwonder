@@ -1,0 +1,20 @@
+#+POSTID: 3318
+#+DATE: [2009-06-13 Sat 12:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Mac
+#+TITLE: Separators in the Dock in Leopard
+
+[[http://zzamboni.org/brt/2007/11/21/real-separators-for-the-leopard-dock/][Here]] is one way to separate items in the OS X Dock in Leopard.
+
+
+
+#+BEGIN_EXAMPLE
+    
+defaults write com.apple.dock persistent-apps -array-add '{ "tile-type" = "spacer-tile"; }'
+killall Dock
+
+#+END_EXAMPLE
+
+
+

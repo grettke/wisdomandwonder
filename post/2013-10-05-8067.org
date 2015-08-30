@@ -1,0 +1,13 @@
+#+POSTID: 8067
+#+DATE: [2013-10-05 Sat 23:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Git, Python, Revision control system
+#+TITLE: Watching for uncommitted and unpushed changes in Git
+
+With over 100 Git working copies, I wanted something to let me know what I had forgotten to commit or push. [[https://github.com/grettke/stathon][This]] is a basic approach.
+
+The APIs are so powerful, finding the simple approach took time.
+
+
+

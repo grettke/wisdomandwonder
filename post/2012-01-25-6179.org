@@ -1,0 +1,13 @@
+#+POSTID: 6179
+#+DATE: [2012-01-25 Wed 05:09]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Teaching
+#+TITLE: A Flowchart Cheatsheet
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/01/choosing_a_good_chart.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/01/choosing_a_good_chart-150x150.jpg]]]]
+
+(via [[http://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html][extreme presentation]] via [[http://lifehacker.com/5134033/flowchart-decides-which-chart-style-is-best-for-your-data][lifehacker]])
+
+
+

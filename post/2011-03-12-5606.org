@@ -1,0 +1,19 @@
+#+POSTID: 5606
+#+DATE: [2011-03-12 Sat 13:47]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Computational Science
+#+TITLE: Institute for Scientific Computation
+
+#+BEGIN_QUOTE
+  Computational science involves the use and analysis of mathematical models on high- performance computers to solve scientific and engineering problems in various disciplines. Such disciplines include nuclear engineering, reservoir modeling, environmental studies, seismology, aeronautics, biology, economics and medical imaging. Scientific computation constitutes a powerful “third arm” to theory and experimentation, and provides an innovative methodology to multidisciplinary problem solving.
+
+[[http://isc.tamu.edu/overview/what-we-do.html/][ISC]] serves as a platform for conducting and coordinating multidisciplinary research under the four disciplines of scientific computation: data management, mathematical modeling, numerical solutions and visualization.
+#+END_QUOTE
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+#+POSTID: 3109
+#+DATE: [2009-06-01 Mon 18:31]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Ide, PLT, Programming Language, Scheme
+#+TITLE: New version of PLT is out
+
+PLT 4.2 is [[http://plt-scheme.org/][out]].
+
+The interesting thing is that they cut over some 25,000 lines of C++ over to Scheme in the GUI framework.
+
+(via [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-June/033510.html][PLT]])
+
+
+

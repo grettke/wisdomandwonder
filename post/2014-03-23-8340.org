@@ -1,0 +1,11 @@
+#+POSTID: 8340
+#+DATE: [2014-03-23 Sun 02:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Books, Mathematical proof, mathematics
+#+TITLE:  BOOK OF PROOF
+
+Peter shared [[http://www.people.vcu.edu/~rhammack/BookOfProof/][this]] with me; looks like a great starting point.
+
+
+

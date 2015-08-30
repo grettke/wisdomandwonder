@@ -1,0 +1,11 @@
+#+POSTID: 207
+#+DATE: [2008-06-08 Sun 08:12]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: A presentation about Fluxus
+
+Dave posted his slides from a recent [[http://www.wisdomandwonder.com/link/128/live-coding-with-fluxus][Fluxus]] presentation [[http://www.reddit.com/goto?rss=true&id=t3_6lpj9][here]].
+
+
+

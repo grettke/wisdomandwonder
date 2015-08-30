@@ -1,0 +1,11 @@
+#+POSTID: 169
+#+DATE: [2008-05-03 Sat 22:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide
+#+TITLE: Emacs Faleshoods
+
+[[http://wrds.wordpress.com/2007/05/18/ten-mostly-false-ideas-about-emacs/][Here]] is an article that documents ten falsehoods about Emacs.
+
+
+

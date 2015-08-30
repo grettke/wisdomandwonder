@@ -1,0 +1,154 @@
+#+POSTID: 2064
+#+DATE: [2009-03-19 Thu 02:05]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: R6RS records and exports
+
+In [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/a5eee31f19d8c1d4?utoken=0GGa9zMAAACpE7-3g4-B-a024dGJMFwt3n1TPVEzymvaYFiuDl9VYk3DbibtZ0wQqokKN9k6hNfCiB-qH4T6dnB6rb975Pvb][this]] post I asked:
+
+
+
+#+BEGIN_QUOTE
+  Records conveniently generate a constructure and getters and setters for you. 
+
+Is there a way to conveniently export all these generated functions? 
+
+I am thinking of generating a helper function so I can copy and paste the exports; this is not ideal of course.
+#+END_QUOTE
+
+
+
+Aziz posted the following solution which works fine on PLT with Andrerui's fix. I added code to make it in a standard library location:
+
+redefine-record.sls 
+
+
+#+BEGIN_EXAMPLE
+    
+#!r6rs
+
+;;;; Via comp.lang.scheme "R6RS records and exports"
+;;;; By Aziz
+
+;;; redefine-record.sls 
+
+(library 
+ (redefine-record redefine-record) 
+ (export redefine-record-type) 
+ (import (rnrs)) 
+ 
+ (define-syntax redefine-record-type 
+   (syntax-rules () 
+     [(_ record-name) 
+      (begin 
+        (define-syntax m 
+          (lambda (x) 
+            (define (fmt s1 stx . s*) 
+              (datum->syntax stx 
+                             (string->symbol 
+                              (apply string-append 
+                                     s1 
+                                     (symbol->string (syntax->datum stx)) 
+                                     s*)))) 
+            (define (enumerate i j) 
+              (if (= i j) '() (cons i (enumerate (+ i 1) j)))) 
+            (syntax-case x () 
+              [(_ ctxt) 
+               (let* ([rtd (record-type-descriptor 
+                            record-name)] 
+                      [f* (record-type-field-names rtd)] 
+                      [rcd (record-constructor-descriptor 
+                            record-name)]) 
+                 (with-syntax ([make-T (fmt "make-" #'ctxt)] 
+                               [T? (fmt "" #'ctxt "?")] 
+                               [(n* (... ...)) 
+                                (enumerate 0 (vector-length f*))] 
+                               [#(T-ref* (... ...)) 
+                                (vector-map 
+                                 (lambda (x) 
+                                   (fmt "" #'ctxt "-" (symbol->string 
+                                                       x))) 
+                                 f*)]) 
+                   #'(begin 
+                       (define make-T 
+                         (record-constructor 
+                          (record-constructor-descriptor 
+                           record-name))) 
+                       (define T? 
+                         (record-predicate 
+                          (record-type-descriptor 
+                           record-name))) 
+                       (define T-ref* 
+                         (record-accessor 
+                          (record-type-descriptor record-name) 
+                          n*)) 
+                       (... ...))))]))) 
+        (m record-name))]))) 
+
+
+#+END_EXAMPLE
+
+
+
+t1.sls 
+
+
+#+BEGIN_EXAMPLE
+    
+#!r6rs
+
+;;;; Via comp.lang.scheme "R6RS records and exports"
+;;;; By Aziz
+
+;;; t1.sls 
+
+(library 
+ (redefine-record t1) 
+ (export M) 
+ (import (rnrs)) 
+ 
+ (define-record-type M 
+   (fields x y z)))
+
+
+#+END_EXAMPLE
+
+
+
+t2.ss 
+
+
+#+BEGIN_EXAMPLE
+    
+#!r6rs
+
+;;;; Via comp.lang.scheme "R6RS records and exports"
+;;;; By Aziz and Andreuri
+
+;;; t2.ss 
+
+(import (rnrs) (for (redefine-record t1) expand run) (redefine-record redefine-record))
+
+(redefine-record-type M) 
+
+(define x (make-M 12 13 14)) 
+(display (list x (M? x) (M-x x))) 
+(newline)
+
+#+END_EXAMPLE
+
+
+
+Run this to see it work:
+
+
+#+BEGIN_EXAMPLE
+    
+plt-r6rs t2.sls
+=> {#(struct:M 12 13 14) #t 12}
+
+#+END_EXAMPLE
+
+
+

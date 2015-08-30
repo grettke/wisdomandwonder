@@ -1,0 +1,27 @@
+#+POSTID: 5037
+#+DATE: [2010-08-21 Sat 05:28]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: ML, OCaml, Programming Language
+#+TITLE: Yaron's Effective ML Lessons
+
+#+BEGIN_QUOTE
+  
+ * Favor readers over writers
+ * Create uniform interfaces
+ * Make illegal states unrepresentable
+ * Code for exhaustiveness
+ * Open few modules
+ * Make common errors obvious
+ * Avoid boilerplate
+ * Avoid complex type-hackery
+ * Don't be puritanical about purity
+
+#+END_QUOTE
+
+
+
+(via [[http://ocaml.janestcapital.com/?q=node/75][janestreet]])
+
+
+

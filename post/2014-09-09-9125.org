@@ -1,0 +1,21 @@
+#+POSTID: 9125
+#+DATE: [2014-09-09 Tue 00:32]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: elpakit
+
+[[https://github.com/nicferrier/elpakit][elpakit]]
+
+
+
+#+BEGIN_QUOTE
+  Let's you build repositories and archives of repositories.
+#+END_QUOTE
+
+
+
+Via [[http://www.reddit.com/r/emacs/comments/2fbz3t/testing_emacs_packages_surprisingly_nonawful/][reddit]].
+
+
+

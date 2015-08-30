@@ -1,0 +1,13 @@
+#+POSTID: 708
+#+DATE: [2008-09-13 Sat 03:12]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Study-HTDP
+#+TITLE: What I post about Study-HTDP
+
+About three weeks ago I "made it official" and announced the [[http://groups.google.com/group/study-htdp][Study-HTDP]] for any folks who may be interested. I figured that I would post both to the group itself, and mirror the interesting things here. It didn't really work out that way.
+
+Focusing on the work and not much else, I've posted exclusively to the group. Since we're only two weeks into it, though, I'm going to make a change and post the most interesting content here. The reason is that I want to be sure to have a place to keep my notes and thoughts on things so that they don't get totally lost in the overall group.
+
+
+

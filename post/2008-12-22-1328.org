@@ -1,0 +1,23 @@
+#+POSTID: 1328
+#+DATE: [2008-12-22 Mon 00:03]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Blogging, Web, WordPress
+#+TITLE: WordPress 2.7 is out
+
+[[http://wordpress.org/][WordPress 2.7]] is out. While there are a lot of great new features, there are two that piqued my interest:
+
+
+-  [[http://trac.wordpress.org/ticket/7635][Comment Threading]]
+-  [[http://codex.wordpress.org/Version_2.7#WordPress_Upgrader][WordPress Upgrader]]
+
+
+
+Comment threading is just that, comment threading. This is a useful feature that has always been provided by a plugin.
+
+WordPress Upgrader "will give you the option of downloading, installing, and upgrading to the latest WordPress version from your Administration Panel." This is particulary helpful as the WordPress developers are very proactive about addressing security risks and adding new (extensively tested) features. It can become a hassle to keep up with ugprades.
+
+Most folks use a plugin to perform upgrades, but with my not-uncommon-set-up where the blog is [[http://codex.wordpress.org/Giving_WordPress_Its_Own_Directory][installed in a sub-directory]] but served on the root, that plugin only worked 1/10th of the time. Consequently, all of my upgrades were manual, until now at least. Thanks WordPress team!
+
+
+

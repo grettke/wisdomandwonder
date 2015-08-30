@@ -1,0 +1,11 @@
+#+POSTID: 232
+#+DATE: [2008-06-24 Tue 23:03]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Soft real-time Scheme implementations
+
+Check out this [[http://egachine.berlios.de/sgachine/][list]] of soft real-time Scheme implementations!
+
+
+

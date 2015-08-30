@@ -1,0 +1,11 @@
+#+POSTID: 1281
+#+DATE: [2008-12-08 Mon 01:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Update
+#+TITLE: Updated: Closest statically typed FP “cousin” to Scheme?
+
+See: [[http://www.wisdomandwonder.com/link/863/closest-statically-typed-fp-cousin-to-scheme][here]]
+
+
+

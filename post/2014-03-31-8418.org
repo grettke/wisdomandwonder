@@ -1,0 +1,11 @@
+#+POSTID: 8418
+#+DATE: [2014-03-31 Mon 19:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: org-mode examples
+
+[[http://home.fnal.gov/~neilsen/notebook/orgExamples/org-examples.html][This]] post is a wonderful cookbook from which to pull.
+
+
+

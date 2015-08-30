@@ -1,0 +1,19 @@
+#+POSTID: 9624
+#+DATE: [2015-02-28 Sat 02:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: .NET, C Sharp, Entity Framework, Javascript, PluralSight, Programming, Programming Language
+#+TITLE: Some Nice .NET RSS Feeds
+
+http://feeds.feedburner.com/ReflectivePerspective
+https://dotnetkicks.com/feeds/rss
+http://feeds.feedburner.com/AyendeRahien
+http://www.reddit.com/r/dotnet.rss
+http://www.reddit.com/r/csharp.rss
+http://www.reddit.com/r/powershell.rss
+http://www.reddit.com/r/sqlserver.rss
+http://www.reddit.com/r/azure.rss
+http://www.reddit.com/r/windowsazure.rss
+
+
+

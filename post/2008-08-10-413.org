@@ -1,0 +1,79 @@
+#+POSTID: 413
+#+DATE: [2008-08-10 Sun 23:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Scheme
+#+TITLE: How to do something to all elements of a list but the last
+
+In [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-August/026369.html][this post]] on the PLT discussion list I sleepily wondered how to do something to all elements of a list but the last.
+
+The reasons I asked is because I had used 'do' loops in lieu of something better, and from what I can gather, you basically never write 'do' loops in Scheme (maybe once every 30 years you do use 'do').
+
+I hastily posted a solution using the 'match' library as I had just read the documentation while cutting over from 'mzlib/match' to 'match'. Both Robby and Ethan replied with much, much faster solutions. Have a look:
+
+
+
+#+BEGIN_EXAMPLE
+    
+#lang scheme
+
+(require (prefix-in srfi/1: srfi/1))
+
+; Grant's
+(define (foo1 args fun last-fun)
+  (match args
+    [(list arg args ..1)
+     (fun arg)
+     (foo1 args fun last-fun)]
+    [(list arg)
+     (last-fun arg)]))
+
+(provide/contract
+ [foo2 (-> (cons/c any/c (listof any/c))
+           (-> any/c any)
+           (-> any/c void?)
+           void?)])
+
+; Robby's
+(define (foo2 args fun last-fun)
+  (let loop ([fst (car args)]
+             [rst (cdr args)])
+    (cond
+      [(empty? rst) (last-fun fst)]
+      [else (fun fst) (loop (car rst) (cdr rst))])))
+
+(define data (srfi/1:make-list 10000 "hi"))
+
+; Ethan's
+(define (foo3 lst fun funl)
+  (begin
+    (for-each fun (srfi/1:drop-right lst 1))
+    (funl (srfi/1:take-right lst 1))))
+
+(time 
+ (foo1 data
+       (λ (x) (void))
+       (λ (x) (void))))
+
+(time 
+ (foo2 data
+       (λ (x) (void))
+       (λ (x) (void))))
+
+(time 
+ (foo3 data
+       (λ (x) (void))
+       (λ (x) (void))))
+
+> cpu time: 2593 real time: 2625 gc time: 718
+> cpu time: 0 real time: 0 gc time: 0
+> cpu time: 0 real time: 0 gc time: 0
+
+#+END_EXAMPLE
+
+
+
+In the end, I only needed this functionality in two places, and I probably would not have required it if I had designed things better in the first place.
+
+
+

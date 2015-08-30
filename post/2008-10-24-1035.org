@@ -1,0 +1,22 @@
+#+POSTID: 1035
+#+DATE: [2008-10-24 Fri 18:28]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming
+#+TITLE: A programming interview checklist
+
+Leppie posted [[http://xacc.wordpress.com/2008/10/22/interview-checklist/][this]] great interview checklist. I'm mirroring it here so that I will always have a copy. 
+
+
+-  Ask to see a portfolio, if not available online
+-  Ask to see some of the code of the best/lead developer, this will be the best expectation
+-  Ask to see the version control log and unit test log, dont fall for ‘yes, we have/do that'
+-  Ask that the best/lead developer be present at the interview
+-  Make sure the best/lead developer is better than you, else you will be doing his job
+-  Ask to see some run of the mill code, any random snippet
+-  Ask them to be very precise on the responsibilities of the applied position, make them contractual
+-  Ask to look at their DB structures
+-  Ask to see architectural and design documentation
+
+
+

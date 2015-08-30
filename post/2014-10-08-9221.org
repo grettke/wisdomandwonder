@@ -1,0 +1,38 @@
+#+POSTID: 9221
+#+DATE: [2014-10-08 Wed 15:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: How to read a 1 GiB file into memory in R
+
+
+[[https://stat.ethz.ch/pipermail/r-help/2014-September/421800.html][Here]] is the start of a small and good discussion on how to read large data
+sets into many. They appears frequently on the list, but this one seemed to
+touch upon a lot of the recommended approaches:
+
+
+
+
+
+
+-  [[http://colbycol.r-forge.r-project.org/][ColByCol]]
+
+
+   -  Mentions /true/ cost of loading a 1 GiB file with =read.table=, which is much 
+/more/ than 1 GiB 
+
+
+   
+
+-  [[http://cran.r-project.org/web/packages/R.filesets/index.html][R.filesets]]
+
+-  /Large memory and out-of-memory data/ in [[http://cran.r-project.org/web/views/HighPerformanceComputing.html][High-Performance and Parallel Computing with R]]
+
+-  Use a real database with [[http://cran.r-project.org/web/packages/RSQLite/index.html][SQLite]] or [[https://code.google.com/p/sqldf/][sqldf]]
+
+
+
+
+
+
+

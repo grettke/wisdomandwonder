@@ -1,0 +1,13 @@
+#+POSTID: 106
+#+DATE: [2008-04-20 Sun 22:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Conference, Functional, Programming Language
+#+TITLE: Functional and Declarative Programming in Education (FDPE08) 
+
+[[http://www-ps.informatik.uni-kiel.de/fdpe08/][This conference]] covers a lot of very interesting topics about the role of functional programming (FP) languages in education (follow the link for ample details). It sounds like a great conference!
+
+(Its co-location with [[http://www.icfpconference.org/icfp2008/][ICFP 2008]] is yet another reason to attend, and as FP becomes more popular in the industry today, the question of how to teach FP to imperatively trained programmers becomes especially interesting.)
+
+
+

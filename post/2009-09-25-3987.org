@@ -1,0 +1,11 @@
+#+POSTID: 3987
+#+DATE: [2009-09-25 Fri 17:28]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming, Programming Language, Scheme, philosophy
+#+TITLE: When it Comes to R7RS; R6RS Users are Quiet
+
+R6RS users don't seem to have much to say about R7RS. Most R6RS users seem to happy with Scheme and busy using it rather than worrying about how it should be split into two parts (little and big).
+
+
+

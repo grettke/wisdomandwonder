@@ -1,0 +1,11 @@
+#+POSTID: 3172
+#+DATE: [2009-06-07 Sun 01:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Business
+#+TITLE: Up the Benefits
+
+While [[http://sethgodin.typepad.com/seths_blog/2009/05/two-halves-of-the-value-fraction.html][this]] post doesn't tell you how to find the perfect ratio of benefit to price, it does espouse the value of doing so, and that is worth any product owner's consideration!
+
+
+

@@ -1,0 +1,53 @@
+#+POSTID: 1882
+#+DATE: [2009-02-21 Sat 21:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Macros, PLT, Programming Language, Scheme
+#+TITLE: Unhygienic macros inside of unhygienic macros are difficult
+
+In [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-January/029779.html][this]] post; Ryan explains why unhygienic macros inside of unhygienic macros are often difficult.
+
+
+
+#+BEGIN_EXAMPLE
+    
+;; the working if-it & when-it
+
+(define-syntax (if-it stx)
+  (syntax-case stx ()
+    ((if-it test? then else)
+     (with-syntax ((it (datum->syntax #'if-it 'it)))
+       #'(let ((it test?))
+           (if it then else)))))) 
+
+(define-syntax (when-it stx)
+  (syntax-case stx ()
+    ((~ test? exp exp2 ...)
+     (with-syntax ((it (datum->syntax #'~ 'it)))
+       #'(let ((it test?)) (when it exp exp2 ...))))))
+
+;; the non-working cond-it 
+(define-syntax (cond-it stx)
+  (syntax-case stx (else)
+    ((cond-it (else exp exp2 ...))
+     #'(begin exp exp2 ...))
+    ((cond-it (test? exp exp2 ...))
+     #'(when-it test? exp exp2 ...))
+    ((cond-it (test? exp exp2 ...) cond1 cond2 ...)
+     #'(if-it test? (begin exp exp2 ...)
+              (cond-it cond1 cond2 ...)))))
+
+#+END_EXAMPLE
+
+
+
+
+
+#+BEGIN_QUOTE
+  When 'cond-it' expands and produces an 'if-it' expression, the 'if-it' is marked by the macro expander as coming from a macro. That means its lexical context is different from the 'it' variables in the branches. That means that the 'it' variable binding produced by 'if-it' does not capture the 'it' references in the branches.
+#+END_QUOTE
+
+-- Ryan
+
+
+

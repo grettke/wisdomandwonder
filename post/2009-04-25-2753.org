@@ -1,0 +1,28 @@
+#+POSTID: 2753
+#+DATE: [2009-04-25 Sat 13:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Why Scheme has tail call optimization
+
+#+BEGIN_QUOTE
+  
+Actors was Hewitt's attempt to model Smalltalk.
+Scheme was Steele and Sussman's attempt to understand Actors.
+TCO was inherited from Actors. It is an OOP concept.
+
+I confirmed this with Guy when I prepared for my ECOOP talk and I 
+have the relevant email somewhere.
+
+-- Matthias
+
+#+END_QUOTE
+
+
+
+(via [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-April/032480.html][PLT [1]]])
+
+[1]: "guido on tail recursion" Dimitris Vyzovitis vyzo at media.mit.edu Thu Apr 23 00:01:01 EDT 2009
+
+
+

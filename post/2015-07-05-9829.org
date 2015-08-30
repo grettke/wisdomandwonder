@@ -1,0 +1,31 @@
+#+POSTID: 9829
+#+DATE: [2015-07-05 Sun 17:32]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Media, ffmpeg
+#+TITLE: Concatenating Media Files
+
+[[https://trac.ffmpeg.org/wiki/Concatenate][Here]] is how to join media files with ffmpeg.
+
+
+
+#+BEGIN_QUOTE
+  Create a file mylist.txt with all the files you want to have concatenated in the following form (lines starting with a # are ignored):
+
+=# this is a comment
+file '/path/to/file1'
+file '/path/to/file2'
+file '/path/to/file3'=
+
+Note that these can be either relative or absolute paths. Then you can stream copy or re-encode your files:
+
+=ffmpeg -f concat -i mylist.txt -c copy output
+=
+#+END_QUOTE
+
+
+
+
+
+
+

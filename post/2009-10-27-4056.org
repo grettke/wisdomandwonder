@@ -1,0 +1,31 @@
+#+POSTID: 4056
+#+DATE: [2009-10-27 Tue 19:43]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Implicitly Concurrent Scheme
+
+[[http://people.csail.mit.edu/jaffer][Aubrey Jaffer]], author of [[http://people.csail.mit.edu/jaffer/SCM][SCM]] and [[http://people.csail.mit.edu/jaffer/SLIB][SLIB]], wrote that:
+
+
+
+#+BEGIN_QUOTE
+  There has been a lot of concern over how to harness the speed potential of multi-core processors without a disrupting reinvention of software engineering. Implicit concurrency is a solution.
+#+END_QUOTE
+
+
+
+His proposal for implementing this solution is a simple addition to the standard:
+
+
+
+#+BEGIN_QUOTE
+  Implicitly-Concurrent-Scheme is a minor modification to Scheme Report semantics which allows, but does not require, both interpreters and compilers to simply parallelize the execution of programs. No new primitives are introduced. In order to write ICS programs which produce the same output irrespective of concurrent evaluation order requires a regime very similar to the that required of RnRS programs to produce the same output irrespective of serial evaluation order.
+#+END_QUOTE
+
+
+
+It has a pretty good selling point: no new language constructs. Everything works the way you already expect (unspecified order of evaluation == concurrent evaluation of arguments). Read everything in-between those quotes [[http://voluntocracy.blogspot.com/2009/10/implicit-concurrency.html][here]]
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 652
+#+DATE: [2008-08-27 Wed 17:50]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme, philosophy
+#+TITLE: Why are there multiple let statements in Scheme?
+
+There are multiple members of the let family in Scheme to communicate your intention to the reader!
+
+[[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/42b3096f8f4dd070/eedbfdf7cbb9e3cf#eedbfdf7cbb9e3cf][Here]] is a good post on the matter.
+
+
+

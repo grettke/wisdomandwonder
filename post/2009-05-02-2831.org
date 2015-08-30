@@ -1,0 +1,13 @@
+#+POSTID: 2831
+#+DATE: [2009-05-02 Sat 11:35]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Books, Programming Language, philosophy
+#+TITLE: Masterminds of Programming
+
+Masterminds of Programming looks like it might be a fun book to read based on the few revies on LtU so far.
+
+(via [[http://lambda-the-ultimate.org/node/3296][LtU]])
+
+
+

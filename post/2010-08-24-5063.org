@@ -1,0 +1,13 @@
+#+POSTID: 5063
+#+DATE: [2010-08-24 Tue 03:36]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Computational Science, Computer Science, Learning, PhD, Statistics
+#+TITLE: Wrapping up the 2009-2010 School Year
+
+This past May, I completed the Simulation and Parallel and Distributed Systems class that I was attending. While taking two classes while working full time was challenging; the pure fun of it all more than made up for the challenge! I will have fond memories of that semester for a long time.
+
+I can't wait to get started with Applied Mathematical Analysis next week.
+
+
+

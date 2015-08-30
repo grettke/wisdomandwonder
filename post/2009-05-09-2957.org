@@ -1,0 +1,15 @@
+#+POSTID: 2957
+#+DATE: [2009-05-09 Sat 17:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: .NET, Programming Language
+#+TITLE: 2009 Lang.NET Videos Available
+
+They are available [[http://www.langnetsymposium.com/2009/speakers.aspx][here]].
+
+They look pretty interesting, too.
+
+(via [[http://lambda-the-ultimate.org/node/3280][LtU]])
+
+
+

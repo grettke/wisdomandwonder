@@ -1,0 +1,13 @@
+#+POSTID: 99
+#+DATE: [2008-04-19 Sat 21:55]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: .NET, C Sharp, Lisp, Programming Language
+#+TITLE: C Sharp and Lisp
+
+Maybe one reason why people love C# so much is that it was [[http://groups.google.com/group/comp.lang.lisp/msg/3c6daa3ba87af5c0][influenced by Lisp]]?
+
+Stranger things have happened.
+
+
+

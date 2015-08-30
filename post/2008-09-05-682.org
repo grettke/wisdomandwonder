@@ -1,0 +1,11 @@
+#+POSTID: 682
+#+DATE: [2008-09-05 Fri 19:13]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Essence: A LR parser generator for Scheme
+
+[[http://www.informatik.uni-freiburg.de/proglang/software/essence/][Essence]] is a generator for LR(k) and SLR(k) parsers in Scheme.
+
+
+

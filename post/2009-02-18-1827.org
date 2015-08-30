@@ -1,0 +1,15 @@
+#+POSTID: 1827
+#+DATE: [2009-02-18 Wed 02:08]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Functional, Object Oriented, Programming
+#+TITLE: Functional Objects
+
+[[http://www.ccs.neu.edu/home/matthias/Presentations/ecoop2004.pdf][Functional objects]] is a presentation by [[http://www.ccs.neu.edu/home/matthias/][Matthias Felleisen]] from [[http://www.ifi.uio.no/ecoop2004/invited.html][ECOOP 2004]]. It was mentioned more than a few times during the past month on the [[http://www.plt-scheme.org/maillist/][PLT discussion list]].
+
+Though it is 74 pages, it doesn't feel very long; and there is a lot of good content in there. "Java people" will even be happy to see Joshoua Bloch's quotes scattered liberally about. 
+
+Basically it tells a story and makes an argument about how one might go about moving forward with programming, and it does well enough in both regards.
+
+
+

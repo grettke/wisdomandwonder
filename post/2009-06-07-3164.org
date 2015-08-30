@@ -1,0 +1,17 @@
+#+POSTID: 3164
+#+DATE: [2009-06-07 Sun 01:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Mac
+#+TITLE: Evaluating the ADC Select Membership
+
+Apple offers [[http://developer.apple.com/products/mac/program/][3 levels]] of memberships: online, select, and premier (0USD, 500USD, and 3500USD respectively). They differ of course on features. For the time being, the select looks the most reasonably priced so I wanted to learn more about how it might make sense.
+
+From what I read, the biggest perks are the 2 support tickets and the hardware discount (10% on normal hardware and 20% on pro hardware). Access to outdated WWDC material is not very compelling. While the online "coding headstarts" might make sense, neither seem justified by the price.
+
+The hardware discount is interesting, as the discount essentially cuts 500USD off of any pro hardware, and then you end up purchasing the select membership with what you have "saved"; so this alone can make the membership worth it. One might wonder why you wouldn't simply purchase this membership when you want a discount and let it lapse when you don't; but [[http://rentzsch.com/notes/dotMacMath][apparently]] if you do so, you will no longer be offered the discount. In other words, once you purchase it you have to keep it up.
+
+For me it looks like the best approach would simply be to start with a Macbook and take some time to ramp up and get familiar with things. If it makes sense to take advantage of the support tickets and faster hardware (every year or so) then the Macbook could get passed down to someone else and I could find out how helpful the tickets really are to me.
+
+
+

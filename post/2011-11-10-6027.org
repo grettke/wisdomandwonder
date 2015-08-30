@@ -1,0 +1,17 @@
+#+POSTID: 6027
+#+DATE: [2011-11-10 Thu 04:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Javascript, Lisp, Programming Language, Scheme
+#+TITLE: Whalesong: a Racket to JavaScript compiler
+
+#+BEGIN_QUOTE
+  [[http://hashcollision.org/whalesong/][Whalesong]] is a compiler from Racket to JavaScript; it takes Racket programs and translates them so that they can run stand-alone on a user's web browser. It should allow Racket programs to run with (hopefully!) little modification, and provide access through the foreign-function interface to native JavaScript APIs. The included runtime library supports the numeric tower, an image library, and a framework to program the web in functional event-driven style.
+#+END_QUOTE
+
+
+
+
+
+
+

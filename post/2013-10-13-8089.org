@@ -1,0 +1,13 @@
+#+POSTID: 8089
+#+DATE: [2013-10-13 Sun 15:10]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Artificial Intelligence, CLIPS, Emacs, Ide, Jess, Lisp, Programming, Programming Language, Rules Engine, elisp
+#+TITLE: clips-mode 0.7 Release
+
+Just put a new release of [[https://github.com/grettke/clips-mode][clips-mode]] out on [[http://marmalade-repo.org/packages/clips-mode/0.7][Marmalade]].
+
+Changes are minor, just taking over Andrey's wonderful contribution to the community. Cut over to GPLV3, added a build script, and started adding TODOs in the task list.
+
+
+

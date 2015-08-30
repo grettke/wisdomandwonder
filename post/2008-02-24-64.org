@@ -1,0 +1,11 @@
+#+POSTID: 64
+#+DATE: [2008-02-24 Sun 16:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming
+#+TITLE: Some Programming Articles
+
+On his website, [[http://www.prairienet.org/~dsb/about.htm][Dan Bensen]] has got a [[http://www.prairienet.org/~dsb/artcls.htm][page set up]] with links to a whole bunch of excellent articles on programming. It wouldn't make sense for me to link to them individually. Thanks Dan!
+
+
+

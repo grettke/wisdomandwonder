@@ -1,0 +1,30 @@
+#+POSTID: 1541
+#+DATE: [2009-01-07 Wed 03:31]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: A C# Port of MIT-Scheme
+
+The following are posts that [[http://eval.apply.googlepages.com/home][jrm]]made on his [[http://jrm-code-project.googlecode.com/svn/trunk/MIT-Scheme/][C# port]] of[[http://www.gnu.org/software/mit-scheme/][MIT-Scheme]]:
+
+
+
+1.  [[http://funcall.blogspot.com/2008/03/woof.html][Dusting off old code]]
+2.  [[http://funcall.blogspot.com/2008/05/there-doesnt-seem-to-be-too-much-bitrot.html][Untitled 1]]
+3.  [[http://funcall.blogspot.com/2008/08/and-on-completely-different-subject.html][And on a completely different subject]]
+4.  [[http://funcall.blogspot.com/2008/08/real-life-nastiness.html][Real life nastiness]]
+5.  [[http://funcall.blogspot.com/2008/09/in-from-generalized-stack-inspection.html][Untitled 2]]
+6.  [[http://funcall.blogspot.com/2008/09/now-it-starts-getting-interesting.html][Untitled 3]]
+7.  [[http://funcall.blogspot.com/2008/09/s-code.html][S-Code]]
+8.  [[http://funcall.blogspot.com/2008/09/threaded-interpreter.html][Threaded interpreter]]
+9.  [[http://funcall.blogspot.com/2008/10/curious-bug.html][A curious bug]]
+10. [[http://funcall.blogspot.com/2008/10/look-up-in-environment.html][Look! Up in the environment!]]
+11. [[http://funcall.blogspot.com/2008/10/weird-bug.html][Weird bug]]
+12. [[http://funcall.blogspot.com/2008/10/now-that-we-have-static-environments-we.html][Untitled 4]]
+13. *Addendum* 01/07/09: [[http://funcall.blogspot.com/2009/01/updated-my-scheme-interpreter.html][Untitled 5]]
+
+
+
+
+
+

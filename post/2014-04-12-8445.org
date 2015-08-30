@@ -1,0 +1,13 @@
+#+POSTID: 8445
+#+DATE: [2014-04-12 Sat 17:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs Lisp, Lisp, Literate Programming, Programming Language, Reproducible research, org-mode
+#+TITLE: Polymode
+
+Recently learned about [[https://github.com/vitoshka/polymode][Polymode]]from the [[http://ess.r-project.org/Manual/ess.html][ESS user manual]].
+
+It looks like a nice option for working with code that didn't start out in org-mode; which is likely pretty common.
+
+
+

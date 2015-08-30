@@ -1,0 +1,19 @@
+#+POSTID: 9507
+#+DATE: [2015-02-05 Thu 03:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: Easily browsing the kill-ring
+
+#+BEGIN_QUOTE
+  [[https://github.com/browse-kill-ring/browse-kill-ring][Ever]] wish you could just look through everything you've killed recently to find out if you killed that piece of text that you think you killed, but you're not quite sure?
+#+END_QUOTE
+
+
+
+I haven't, but kind of wish I did, because this package looks interesting. 
+
+Wondering if my workflow obviates the need for it, or, I'm just "doing it wrong".
+
+
+

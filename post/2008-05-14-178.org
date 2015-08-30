@@ -1,0 +1,17 @@
+#+POSTID: 178
+#+DATE: [2008-05-14 Wed 00:42]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide
+#+TITLE: Predictive Abbreviation Expansion in Emacs
+
+#+BEGIN_QUOTE
+  pabbrev is a yet another package for abbreviation expansion in Emacs. Unlike dabbrev, this one analyzes the contents of the buffers during idle time, and shows potential expansions based on word frequency.
+#+END_QUOTE
+
+
+
+Check it out over at [[http://trey-jackson.blogspot.com/2008/05/emacs-tip-21-pabbrev-predictive.html][Trey's place]].
+
+
+

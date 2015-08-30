@@ -1,0 +1,35 @@
+#+POSTID: 6390
+#+DATE: [2012-09-24 Mon 14:49]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: Hide Or Ignore Comments ELPA Package
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/09/hide-comnt-40.tar][Here]] is an ELPA package for the [[http://www.emacswiki.org/emacs/HideOrIgnoreComments][HideOrIgnoreComments]] software. 
+
+The code is original from the author, I just packaged it up!
+
+Here is one way to install it:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(url-copy-file 
+ "http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/09/hide-comnt-40.tar"
+ "/tmp/hide-comnt-40.tar"
+ t)
+
+(require 'package)
+(package-install-file "/tmp/hide-comnt-40.tar")
+
+#+END_EXAMPLE
+
+
+
+*Update 09/29/12:*
+
+Lincoln de Souza reported a fix, remove the quote nil from the package def and Marmalade should accept it, and it did. [[http://marmalade-repo.org/packages/hide-comnt][Here]] it is.
+
+
+

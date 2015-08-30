@@ -1,0 +1,16 @@
+#+POSTID: 8471
+#+DATE: [2014-04-20 Sun 21:46]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Science
+#+TITLE: Spacetime
+
+#+BEGIN_QUOTE
+  In physics, spacetime (also space--time, space time or space--time continuum) is any mathematical model that combines space and time into a single interwoven continuum.
+#+END_QUOTE
+
+
+-- [[https://en.wikipedia.org/wiki/Spacetime][Wikipedia]]
+
+
+

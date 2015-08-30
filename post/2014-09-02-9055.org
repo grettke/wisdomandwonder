@@ -1,0 +1,17 @@
+#+POSTID: 9055
+#+DATE: [2014-09-02 Tue 00:25]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: XML: Tools for parsing and generating XML within R and S-Plus
+
+#+BEGIN_QUOTE
+  [[http://cran.r-project.org/web/packages/XML/index.html][This package]] provides many approaches for both reading and creating XML (and HTML) documents (including DTDs), both local and accessible via HTTP or FTP. It also offers access to an XPath "interpreter".
+#+END_QUOTE
+
+
+
+
+
+
+

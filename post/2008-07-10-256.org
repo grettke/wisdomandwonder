@@ -1,0 +1,13 @@
+#+POSTID: 256
+#+DATE: [2008-07-10 Thu 16:01]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide
+#+TITLE: Emacs Commands Work in OS X
+
+[[http://www.applematters.com/article/emacs-commands-work-in-os-x-how-awesome-is-that/][Emacs Commands Work in OS X]].
+
+Guess it is time to buy a Mac ;).
+
+
+

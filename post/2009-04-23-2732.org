@@ -1,0 +1,11 @@
+#+POSTID: 2732
+#+DATE: [2009-04-23 Thu 16:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Decentralized Scheme Code Tracker
+
+Aaron posted here [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/13553a6ee843449e#][here]] about Descot; a scheme to manage Scheme libraries. This is the alpha version. Based on his explanation, my impression is that the goal is to simplify the management and distribution of libraries without being a package manager itself like PLT and Chicken Scheme include. Those managers, though, might use Descot as a source of libraries.
+
+
+

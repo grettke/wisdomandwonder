@@ -1,0 +1,18 @@
+#+POSTID: 3168
+#+DATE: [2009-06-07 Sun 01:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Business
+#+TITLE: Essential Tools for Starting Up Your Side Business
+
+[[http://lifehacker.com/5226028/essential-tools-for-starting-up-your-side-business][Here]] is a decent article about "startup" business tools. I didn't find that much new material, but the following were interesting:
+
+
+
+-  [[http://lifehacker.com/5100949/mycorporation-founds-your-company-for-free-this-week-only][MyCorp]]: A non-profit that sets up LLCs
+-  [[http://lifehacker.com/365016/scan-paperwork-to-pdf-in-one-step][ScanSnap]]: An efficient paper-to-pdf scanner
+-  [[http://www.adobe.com/products/acrobat][Adobe Acrobat]]: Make it easy for non-Windows people and fax less
+-  [[http://www.basecamphq.com/][Basecamp]]: A simple project management tool. I've used it before, it is simple as it could be but no simpler and the UI is pleasant. It is surprisingly nice to use.
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 3135
+#+DATE: [2009-06-06 Sat 12:55]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language
+#+TITLE: A Visualization of the Speed and Size of Different Programming Languages
+
+[[http://gmarceau.qc.ca/blog/2009/05/speed-size-and-dependability-of.html][Here]] is a great article that compares different programming languages speed and size using visualizations. It is very easy to see the differences using his approach.
+
+(via [[http://www.reddit.com/r/programming/comments/8omev/the_speed_size_and_dependability_of_programming/][reddit]])
+
+
+

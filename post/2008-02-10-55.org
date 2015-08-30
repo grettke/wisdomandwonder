@@ -1,0 +1,21 @@
+#+POSTID: 55
+#+DATE: [2008-02-10 Sun 00:29]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming
+#+TITLE: GTK-server
+
+[[http://www.gtk-server.org/intro.html][GTK-server]] is another way to write portable GUIs with your favorite programming language.
+
+
+
+#+BEGIN_QUOTE
+  The GTK-server is a free, open-source project, which offers a stream-oriented interface to the GTK libraries, enabling access to graphical user interfaces for shellscripts and interpreted programming languages using either GTK 1.x or 2.x.
+#+END_QUOTE
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+#+POSTID: 159
+#+DATE: [2008-05-03 Sat 22:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide, VI
+#+TITLE: Why Emacs?
+
+Emacs is a text editor built on top of a Lisp (Elisp) interpreter. The full API of the both text editor and the Lisp interpreter itself is available to the user.
+
+For this reason, along with the fact that there are hundreds and hundreds of useful additions available to Emacs, I am learning it.
+
+There isn't anything more to it than that!
+
+
+

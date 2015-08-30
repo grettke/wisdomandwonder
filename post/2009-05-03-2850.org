@@ -1,0 +1,13 @@
+#+POSTID: 2850
+#+DATE: [2009-05-03 Sun 00:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Already Postive Change for R7RS
+
+The R7RS steering committee will be updating the charter to allow for another two members in the steering committee: Olin Shivers and Chris Hanson. Two more members is a /good thing/. Additionally, the post hints that the passionate discussion on the R6RS mailing list may have payed off with changes to the process that will better represent all of the community. I look forward to what comes of this.
+
+(via [[http://groups.google.com/group/plt-scheme/browse_thread/thread/d9725bc4d45efd25][PLT]])
+
+
+

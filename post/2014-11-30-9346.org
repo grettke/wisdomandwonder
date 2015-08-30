@@ -1,0 +1,56 @@
+#+POSTID: 9346
+#+DATE: [2014-11-30 Sun 21:46]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode, philosophy
+#+TITLE: Notes on ALEC
+
+
+Last week I [[http://www.wisdomandwonder.com/article/9325/alecs-a-language-for-expressing-creativity][blogged]] about pushing ALEC out to [[https://github.com/grettke/home][GitHub]]. My focus there was 100% philosophical, and I barely said a thing about the details. This post is to share some of the details.
+
+
+
+
+
+
+
+ALEC is my 5th attempt and configuring Emacs for *myself*. After spending nearly a year practicing Org-Mode, this version feels much better than the last. The biggest note is that the system compiles in 27 seconds instead of 600 seconds!
+
+
+
+
+
+
+
+The old approach was to generate both a lightweight and heavyweight configuration file, but that is gone now. With a 27s tangle time, you can easily comment out the source block noweb-references to build what you want quite easily.
+
+
+
+
+
+
+
+Package management was the major theme. Cask has worked perfectly, and I wanted to see how easy easily that I could deploy this system on Windows. When I set out to do so, Cask did not have Windows support. Now I think it does, but I'm not going to pursue it right now. Package seems to do quite well, despite some nagging behavior that still exists (noted in the system) of not installing packages sometimes. 
+
+
+
+
+
+
+
+The packages are packaged up and stored in GitHub. Heresy? Perhaps. It is a best attempt at capturing the entirety of a working system, so that I and even others have an example or proof that it does what it should be doing. 
+
+
+
+
+
+
+
+Literate programming here is done with Org-Mode. It is an insanely delightful and hyper productivity enhancing tool. It is so simple that the 99% will dismiss it as a "markup language", and the 1% will soon find that the painful-gap between exploration, implementation, and reflection can now be totally and completely removed *regardless* of the implementation artifact that you use to perform these three critical tasks.
+
+
+
+
+
+
+

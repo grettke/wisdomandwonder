@@ -1,0 +1,70 @@
+#+POSTID: 7665
+#+DATE: [2013-05-03 Fri 03:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 02947, CB750, CB750F, Honda, Motorcycle, Repair
+#+TITLE: CB750F: Day 31: Reassembly Continues
+
+Reassembly continues along with lessons learned.
+
+
+
+
+
+Shifter rubber install: As you can see it doesn't look like it would fit, that is, until you boil the rubber in hot water!
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130430_203525.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130430_203525-300x225.jpg]]]]
+
+
+
+
+Drive sprocket cover install: Without incident.
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130502_161655.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130502_161655-300x225.jpg]]]]
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130502_165406.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130502_165406-300x225.jpg]]]]
+
+
+
+
+
+New kickstand rubber: Pried the old one out. New one slipped right in with a little grease.
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130502_164551.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130502_164551-300x225.jpg]]]]
+
+
+
+
+
+Began front frame bolt install: The holes didn't line up so I disconnected the front right frame, put a jack under it and raised it, which made the bottom hole line up but made the front right frame hole not line up. This is a work in progress; also need to check the chain slack after I get these bolts back in.
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130502_170506.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130502_170506-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130502_173054.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130502_173054-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130502_194829.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130502_194829-300x225.jpg]]]]
+
+
+
+
+
+1. Began carburetor installation: This was interesting; the service manual is strangely not-detailed here. For me it wasn't a race and I made mistakes but was OK about it and took my time backing out mistakes until it made sense. What I did seemed to work well so far, but we will see because I didn't finish. 
+
+2. What I did was to first hookup the throttle and choke cables because there is no way to do it easily when the carbs are in the bike; I used a plastic sharpie to hold the throttle open so I could more easily reach the "pulling" throttle cable mount. Before hooking up the cables, I shoved the air intake shrowds inside the air box leaving their mount points to the carb intake exposed. You can see that they are designed for this once you try it; you will also notice there is probably no other way to get them installed has you left them off when you installed the carb bodies. 
+
+3. I only slid the carb bodies 1/2 way in so that I could hook up the cables and sat on a stool nearby so they could rest on my knee. The choke worked just fine but the throttle was way too tight, Pat explained that it can be loosened up at the throttle itself; I had no clue what that thing was before he told me! Vio helped me out and made the adjustment for me; it helps here to have a buddy around to help. To give you some perspective on having the carb rack 1/2 the way in, once you have it hooked up, you can move it around because the cables are at the right length; this helps for installation.
+4. 
+The next challenge is sliding the entire carb rack through the empty space because it is difficult to mount the carbs in the cylinder head side exhaust rubber and also the engine air intake tubes are in the way. For the rubber, I very lightly lubed it with some grease, on the air intake side also. For the air tubes, I disconnected the T-connector on the top so I could move the tubes around. I knew that they sit between the 1-2 and the 3-4 carburetors, so before and during sliding the carb rack in, I lined up those intake tubes so they would be in the right place at the right time. If you don't do this, you end up pulling them apart and or moving them into the wrong position, and even better their metal clips fly off leaving you wondering whether they fell into your cylinders or heavens knows where (I found it lol). With the carburetors in place, you can stand over the bike and guide/force them into the exhaust rubbers and using some force they just seat themselves. That wrapped up my evening, I will be back at it soon.
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130502_180317.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130502_180317-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130502_184358.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130502_184358-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130502_184550.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130502_184550-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130502_190602.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130502_190602-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130502_190749.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130502_190749-300x225.jpg]]]]
+
+
+
+
+
+
+
+

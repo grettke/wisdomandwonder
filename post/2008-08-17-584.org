@@ -1,0 +1,11 @@
+#+POSTID: 584
+#+DATE: [2008-08-17 Sun 15:25]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Revision control system, Subversion, Utility
+#+TITLE: Shelves in Subversion
+
+[[http://markphip.blogspot.com/2007/01/shelves-in-subversion.html][This blog post]] looks like it might be a good introduction to the idea of "Code Shelves" and how one might use them in Subversion.
+
+
+

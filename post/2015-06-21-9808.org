@@ -1,0 +1,11 @@
+#+POSTID: 9808
+#+DATE: [2015-06-21 Sun 20:39]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: How to backward delete a word in Emacs
+
+=M-DEL=
+
+
+

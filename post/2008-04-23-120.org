@@ -1,0 +1,11 @@
+#+POSTID: 120
+#+DATE: [2008-04-23 Wed 02:03]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp
+#+TITLE: John's Notes on ECLM MMVIII
+
+John has some good notes from [[http://www.weitz.de/eclm2008/][ECLM 08]] on how folks are [[http://blog.splittist.com/2008/04/22/eclm-mmviii/][using Common Lisp]].
+
+
+

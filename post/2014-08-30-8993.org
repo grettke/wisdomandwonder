@@ -1,0 +1,17 @@
+#+POSTID: 8993
+#+DATE: [2014-08-30 Sat 23:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: Clean and easy string manipulation with stringr for R
+
+#+BEGIN_QUOTE
+  Strings are not glamorous, high-profile components of R, but they do play a big role in many data cleaning and preparations tasks. R provides a solid set of string operations, but because they have grown organically over time, they can be inconsistent and a little hard to learn. Additionally, they lag behind the string operations in other programming languages, so that some things that are easy to do in languages like Ruby or Python are rather hard to do in R. The [[https://github.com/hadley/stringr][stringr]] package aims to remedy these problems by providing a clean, modern interface to common string operations.
+#+END_QUOTE
+
+
+
+See also [[http://cran.r-project.org/web/packages/stringr/index.html]].
+
+
+

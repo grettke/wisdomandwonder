@@ -1,0 +1,22 @@
+#+POSTID: 8217
+#+DATE: [2014-01-24 Fri 05:25]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: mathematics, philosophy, spirituality
+#+TITLE: What Are The Limits Of What This Reality May Teach Us?
+
+I thought that I could find God somewhere in this post [1][2], and other explorations, but in retrospect I was woefully wrong.
+
+I thought that since our universe was created by God, that we could spiritually benefit from understanding it in all of its aspects, but was wrong here, too.
+
+When I pick apart the fundamental natures of our current reality [3]: namely space, time, and causality, the Y Combinator is revealed instead to be, an artifact that *MUST OCCUR*, by definition of this reality, and not something that brings you closer to God per se.
+
+All of the mathematical constants [4] are similarly are as they must be, in this current configuration of reality, because that is in fact their only option, without any implications beyond that.
+
+[1] [[http://www.wisdomandwonder.com/article/6344/understanding-the-y-combinator-with-racket]]
+[2] [[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/09/y.html]]
+[3][[%20http://www.wisdomandwonder.com/article/8206/what-is-the-fundamental-nature-of-our-universe][http://www.wisdomandwonder.com/article/8206/what-is-the-fundamental-nature-of-our-universe]]
+[4] [[https://en.wikipedia.org/wiki/Mathematical_constant]]
+
+
+

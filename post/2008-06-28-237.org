@@ -1,0 +1,11 @@
+#+POSTID: 237
+#+DATE: [2008-06-28 Sat 12:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide
+#+TITLE: 10 Essential Emacs Tips
+
+One man's [[http://web.psung.name/emacstips/topten.html][vision]]...
+
+
+

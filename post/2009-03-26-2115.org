@@ -1,0 +1,11 @@
+#+POSTID: 2115
+#+DATE: [2009-03-26 Thu 15:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming, philosophy
+#+TITLE: Thinking twice about performance optimizations
+
+[[http://asserttrue.blogspot.com/2009/03/twice-as-fast-isnt-good-enough.html][This]] is a good article that might make you think twice about making performance optimizations in your code. My take is that the author is implying that you only have so much time to work on the code so you should focus on areas where the users will actually appreciate your efforts. That makes sense.
+
+
+

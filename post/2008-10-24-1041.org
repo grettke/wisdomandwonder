@@ -1,0 +1,11 @@
+#+POSTID: 1041
+#+DATE: [2008-10-24 Fri 18:50]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Some discussion on call/cc
+
+[[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/6cb3b58bf18bf6a4][This thread]] on comp.lang.scheme discusses the application of [[http://www.schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-9.html#%_idx_566][call/cc]], in particular [[http://en.wikipedia.org/wiki/Call/cc][this example]] which can be pretty difficult to understand.
+
+
+

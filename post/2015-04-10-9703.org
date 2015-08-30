@@ -1,0 +1,11 @@
+#+POSTID: 9703
+#+DATE: [2015-04-10 Fri 00:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Git, Learning, Revision control system
+#+TITLE: A Nice Git Branching Model
+
+[[http://nvie.com/posts/a-successful-git-branching-model/][This]] article communicates a very nice Git branching model.
+
+
+

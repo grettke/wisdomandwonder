@@ -1,0 +1,19 @@
+#+POSTID: 5120
+#+DATE: [2010-09-01 Wed 21:55]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: ML, OCaml, Programming Language
+#+TITLE: ocamlnet-3.0.0
+
+#+BEGIN_QUOTE
+  I'm very proud to announce Ocamlnet 3.0.0, a completely overhauled version of [[http://projects.camlcity.org/projects/dl/ocamlnet-3.0.0/doc/html-main/index.html][Ocamlnet]].
+#+END_QUOTE
+
+
+
+Wish I had some problems that needed solving with ocamlnet!
+
+(via caml-list)
+
+
+

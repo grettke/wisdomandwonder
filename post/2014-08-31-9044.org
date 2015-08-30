@@ -1,0 +1,27 @@
+#+POSTID: 9044
+#+DATE: [2014-08-31 Sun 23:48]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: Advanced R
+
+
+For experienced programmers, [[http://adv-r.had.co.nz/][Advanced R]] will serve you as an excellent resource
+to learn about *specific* aspects of =R= in a comprehensive manner, /in addition to/
+digging through the individual (and wonderful) documentation entries inside
+of =R=.
+
+
+
+
+
+
+
+Getting through the book requires experience with =R= to make sense of it, so it
+may not be the best place to start. However, an experienced programmer will have
+questions that /only this/ book addresses directly and easily. As such, using it 
+as-needed for reference is a fine approach.
+
+
+
+

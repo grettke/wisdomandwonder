@@ -1,0 +1,11 @@
+#+POSTID: 220
+#+DATE: [2008-06-24 Tue 16:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: PLT Scheme 4.0 is out
+
+Bill Clementson wrote a great post about it [[http://bc.tech.coop/blog/080612.html][here]].
+
+
+

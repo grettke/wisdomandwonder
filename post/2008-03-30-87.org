@@ -1,0 +1,13 @@
+#+POSTID: 87
+#+DATE: [2008-03-30 Sun 21:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: SigScheme 
+
+[[http://code.google.com/p/sigscheme/][SigScheme]] is a R5RS Scheme interpreter for embedded use.
+
+(via [[http://www.plnews.org/][PLNews]])
+
+
+

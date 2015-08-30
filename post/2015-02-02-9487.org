@@ -1,0 +1,13 @@
+#+POSTID: 9487
+#+DATE: [2015-02-02 Mon 18:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: DevOps, Internet Information Services, Learning, PluralSight, Programming
+#+TITLE: IIS for Developers
+
+[[http://www.pluralsight.com/courses/iis-for-developers][IIS for Developers]].
+
+Brief, terse, compact. Excellent details required to deploy a system to IIS. Not training, rather informational. Must have server/system-deploy experience, and therefore questions, before viewing.
+
+
+

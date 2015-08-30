@@ -1,0 +1,11 @@
+#+POSTID: 2965
+#+DATE: [2009-05-09 Sat 17:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Using Units in PLT Scheme
+
+[[http://www.arcadianvisions.com/blog/?p=71][Here]] is a good example of one way to use Units in PLT Scheme.
+
+
+

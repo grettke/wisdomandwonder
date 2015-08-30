@@ -1,0 +1,11 @@
+#+POSTID: 8769
+#+DATE: [2014-06-22 Sun 15:48]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: Nice post on using Emacs for Go
+
+[[http://yousefourabi.com/blog/2014/05/emacs-for-go/][Here]] it is.
+
+
+

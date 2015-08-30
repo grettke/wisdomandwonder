@@ -1,0 +1,58 @@
+#+POSTID: 9115
+#+DATE: [2014-09-06 Sat 14:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: tidyr: Easily tidy data with spread and gather functions for R
+
+#+BEGIN_QUOTE
+  
+
+
+  
+[[http://cran.r-project.org/web/packages/tidyr/index.html][tidyr]] is an evolution of reshape2. It's design specifically for data tidying (not general reshaping or aggregating) and works well with dplyr data pipelines.
+
+
+  
+
+#+END_QUOTE
+
+
+
+
+
+
+[[http://cran.r-project.org/web/packages/tidyr/README.html][Readme]]. [[http://cran.r-project.org/web/packages/tidyr/tidyr.pdf][Manual]]. [[https://github.com/hadley/tidyr][Github]].
+
+
+
+
+
+
+
+Not on CRAN yet so install via
+
+
+
+
+
+
+#+BEGIN_EXAMPLE
+    devtools::install_github("hadley/tidyr")
+
+#+END_EXAMPLE
+
+
+
+
+
+#+BEGIN_EXAMPLE
+    library(tidyr)
+
+#+END_EXAMPLE
+
+
+
+
+
+

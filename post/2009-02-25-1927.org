@@ -1,0 +1,15 @@
+#+POSTID: 1927
+#+DATE: [2009-02-25 Wed 15:04]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Scheme
+#+TITLE: A Scheme Timeline
+
+Sometimes understanding the history behind a technology and a community can make it easier to understand. A few months ago I wanted to better understand the history of the various reports on Scheme so I made some notes in the form of a timeline.
+
+It includes everything up to R6RS along with the IEEE standard, and publishing of [[http://mitpress.mit.edu/sicp/][SICP]] and [[http://www.htdp.org/][HtDP]]. Obviously a lot more things could be added here but I wasn't trying to take notes for an exhaustive history. All of the sources for the notes can be found in the dot-file below.
+
+The timeline is [[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2009/02/a-scheme-timeline.png][here]]; and source file is [[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2009/02/schemetimeline.dot%20][here]].
+
+
+

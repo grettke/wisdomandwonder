@@ -1,0 +1,11 @@
+#+POSTID: 5406
+#+DATE: [2010-12-19 Sun 22:12]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Eiffel, Programming Language
+#+TITLE: Eiffel on Haiku
+
+Check it out [[http://www.eiffelroom.org/blog/manus_eiffel/eiffel_on_haiku][here]]; Eiffel on [[http://www.haiku-os.org/][Haiku]]!
+
+
+

@@ -1,0 +1,17 @@
+#+POSTID: 9401
+#+DATE: [2014-12-30 Tue 04:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: The Emacs Widget Library
+
+Of course there is [[https://www.gnu.org/software/emacs/manual/html_mono/widget.html#User-Interface][one]]. Via [[https://lists.gnu.org/archive/html/emacs-orgmode/2014-12/msg00600.html][org]].
+
+It will face major adoption issues in the enterprise due to the fact that it is not based upon XML. 
+
+It will face major adoption issues on the web due to the fact that it is not based upon JSON.
+
+That is OK though because it will outlive both of them.
+
+
+

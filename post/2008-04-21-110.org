@@ -1,0 +1,15 @@
+#+POSTID: 110
+#+DATE: [2008-04-21 Mon 00:27]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, forth
+#+TITLE: Why you should learn Forth
+
+[[http://hcsw.org/reading/forth.txt][One mans vision]], alternately it could be called "A Teaser for Forth"!
+
+Forth and Lisp sound philosophically quite similar, though in Lisp you can't do things as wild as redefining the number one! 
+
+This is a yet another great read that will make you want to learn Forth.
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 6209
+#+DATE: [2012-03-14 Wed 04:07]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Firebug, Javascript, Programming Language, Selenium, XPath
+#+TITLE: Using Firebug to Evaluate XPath Queries in Firebug
+
+Start the Firebug console and use the '$x' function. It takes one argument, the xpath query in single quotes.
+
+(via [[http://blog.browsermob.com/2009/04/test-your-selenium-xpath-easily-with-firebug/][browsermob]])
+
+
+

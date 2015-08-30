@@ -1,0 +1,11 @@
+#+POSTID: 8890
+#+DATE: [2014-08-16 Sat 23:10]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: R programming for those coming from other languages
+
+[[http://www.johndcook.com/R_language_for_programmers.html][R programming for those coming from other languages]] is a nice overview for most mainstream programmers coming to R today. It would serve you well to have a R terminal open while you read it to play with things so that they make sense.
+
+
+

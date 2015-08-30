@@ -1,0 +1,13 @@
+#+POSTID: 247
+#+DATE: [2008-06-28 Sat 21:59]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: XO
+#+TITLE: An image viewer for the XO
+
+[[http://linuxbrit.co.uk/feh/wiki/FehFeatures][Feh]] is the only image viewer that is both easy to install and use on the XO. 
+
+I never thought I would use the XO as an image viewer until I found how convenient it was to pass around to folks in lieu of a much larger laptop.
+
+
+

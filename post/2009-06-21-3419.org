@@ -1,0 +1,23 @@
+#+POSTID: 3419
+#+DATE: [2009-06-21 Sun 23:50]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: .NET, PLT, Programming Language, Scheme
+#+TITLE: Bridging PLT Scheme with .NET
+
+In [[http://groups.google.com/group/plt-scheme/browse_thread/thread/d07dd43ec92facff/6bf636ec11e88f00?lnk=gst&q=Interaction+with+.NET+DLLs][this]] conversation on the PLT discussion list about PLT and COM, Pedro shared that:
+
+
+
+#+BEGIN_QUOTE
+  
+Some time ago I wrote a bridge from PLT to .NET [1]. Unfortunatly bit rot has set in, but if you think it might be usefull I can forward the code. The basic approach was to write a Managed C++ (now days C++/Cli) wrapper that exposed the .NET reflection interface to PLT. You might not need something quite as comprehensive in which case you can just wrap the .NET calls you need with PLT callable C functions.
+
+
+The paper on the library can be found here [[http://repository.readscheme.org/ftp/papers/sw2003/Dot-Scheme.pdf][here]]; and the [[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2009/06/dot-scheme-svn.rar][library]] is attached to this post.
+
+This looks interesting for Windows Schemers who have a combination of need, expertise, and interest.
+#+END_QUOTE
+
+
+

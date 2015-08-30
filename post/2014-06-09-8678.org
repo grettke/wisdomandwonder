@@ -1,0 +1,52 @@
+#+POSTID: 8678
+#+DATE: [2014-06-09 Mon 00:32]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode, org-modeLiterate Programming
+#+TITLE: Set your expectations for your org-mode system
+
+This weekend I set up a Makefile for tangling and weaving one of my org documents. Wanting to automate it for the obvious reasons, I also wanted to have a "fresh" environment for the run. Actually, I was hoping that it would be faster, not just fresher. 
+
+Playing with the command line arguments for Emacs, I was stunned to get the tangling down to 30s. Could. Not. Believe. It. Down from 8 minutes! Then, I see the warning:
+
+
+
+#+BEGIN_EXAMPLE
+    
+Insufficient requirements. Expected 8.2.6. Found 7.9.3
+
+#+END_EXAMPLE
+
+
+
+(From my memory, didn't copy and paste it)
+
+Uh oh. I screwed something up. Oops.
+
+Glad I added a check!
+
+All org users should have something like this in their code!
+
+
+
+#+BEGIN_EXAMPLE
+    
+(when (not (version= (org-version) "8.2.6"))
+  (display-warning
+   'org-mode
+   (concat
+    "Insufficient requirements. Expected 8.2.6. Found " (org-version))
+   :emergency))
+
+#+END_EXAMPLE
+
+
+
+There may be [[http://orgmode.org/worg/org-contrib/babel/examples/org-check.html][more]]...
+
+*AddendunM 14-06-09*
+
+Thank you SHK and Alexander Baier for pointing out that I should be using version= instead of string-equal.
+
+
+

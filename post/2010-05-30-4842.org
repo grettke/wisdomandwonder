@@ -1,0 +1,13 @@
+#+POSTID: 4842
+#+DATE: [2010-05-30 Sun 20:21]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: memcached for Racket (aka PLT Scheme)
+
+[[http://planet.plt-scheme.org/display.ss?package=memcached.plt&owner=jaymccarthy][Here]] is it; thanks to Jay.
+
+(via [[http://groups.google.com/group/plt-scheme/browse_thread/thread/7ba605323f2cf958/96604400d4318fd8?lnk=gst&q=memcached+for+Racket#96604400d4318fd8][plt]])
+
+
+

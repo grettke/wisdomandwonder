@@ -1,0 +1,19 @@
+#+POSTID: 9108
+#+DATE: [2014-09-06 Sat 13:27]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: magrittr: magrittr - a forward-pipe operator for R
+
+#+BEGIN_QUOTE
+  [[http://cran.r-project.org/web/packages/magrittr/index.html][Provides]] a mechanism for chaining commands with a new forward-pipe operator. Ceci n'est pas un pipe.
+#+END_QUOTE
+
+
+
+This is a post from /the most understated package definition/ of the year department. =magrittr= is, much like every Scheme library ever, deceptively simple in its power and ease of use that it provides. 
+
+The README, API documentation, and vignette are really, really great, too. Be sure to grok the order-of-evaluation when you've got normal functions on the right-hand-side.
+
+
+

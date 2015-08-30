@@ -1,0 +1,19 @@
+#+POSTID: 574
+#+DATE: [2008-08-17 Sun 14:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming
+#+TITLE: Netflix Prize
+
+#+BEGIN_QUOTE
+  The [[http://www.netflixprize.com/][Netflix Prize]] seeks to substantially improve the accuracy of predictions about how much someone is going to love a movie based on their movie preferences. Improve it enough and you win one (or more) prizes.
+#+END_QUOTE
+
+
+
+Anyone looking for programming fodder might have fun applying their current language of study to Netflix's [[http://www.netflixprize.com/faq][problem]] and massive data set!
+
+(via [[http://groups.google.com/group/plt-scheme/browse_thread/thread/c209f638f3f566a/f9cb9069a2b1581b][PLT]])
+
+
+

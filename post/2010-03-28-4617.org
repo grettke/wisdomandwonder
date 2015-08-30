@@ -1,0 +1,13 @@
+#+POSTID: 4617
+#+DATE: [2010-03-28 Sun 14:43]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Computer Science, High Performance Computing, MATLAB, Programming Language
+#+TITLE: GPU MATLAB Computing
+
+[[http://blog.accelereyes.com/blog/][Here]] is an interesting blog about "running" MATLAB on a GPU.
+
+Could be very interesting considering how prevalent MATLAB is in the scientific community.
+
+
+

@@ -1,0 +1,17 @@
+#+POSTID: 9243
+#+DATE: [2014-10-13 Mon 23:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Statistics
+#+TITLE: Cross Validated
+
+#+BEGIN_QUOTE
+  [[https://stats.stackexchange.com/][Cross Validated]] is a question and answer site for people interested in statistics, machine learning, data analysis, data mining, and data visualization. It's 100% free, no registration required.
+#+END_QUOTE
+
+
+
+
+
+
+

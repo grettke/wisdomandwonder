@@ -1,0 +1,23 @@
+#+POSTID: 3671
+#+DATE: [2009-08-11 Tue 20:49]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Fun, Programming
+#+TITLE: What Would You Have Said?
+
+On my last project we had a lot of meetings that included "fluff". This is not unique, especially in IT. What /was/ different, though, was that every lead developer was expected to perform three-letter-acronym loaded monologues, nearly on a daily basis. On one particular afternoon I felt like I had really gone overboard. While the subject matter gave me little leeway in the speech that I could craft; I still I could barely believe what I had said, and wondered if anyone else felt the same way. I decided to ask one of my friends in the same meeting what he thought, over IM. Here is the conversation that followed:
+
+
+#+BEGIN_QUOTE
+  
+Me: did you think that was absurd what I said?
+Him: sorry, but kind of :)
+Me: OK
+Me: what would you have said?
+Him: same thing :D
+Me: (rofl) I KNEW IT
+
+#+END_QUOTE
+
+
+

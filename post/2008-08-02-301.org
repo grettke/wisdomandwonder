@@ -1,0 +1,21 @@
+#+POSTID: 301
+#+DATE: [2008-08-02 Sat 20:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: eq? with more than two arguments
+
+Doug [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-April/024152.html][posted]] wondering:
+
+
+
+#+BEGIN_QUOTE
+  How come =, char=?, string=?, etc allow more than two arguments, but not eq?, eqv?, and equal??
+#+END_QUOTE
+
+
+
+Jos replied with a great solution [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-April/024155.html][here]].
+
+
+

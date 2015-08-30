@@ -1,0 +1,15 @@
+#+POSTID: 3456
+#+DATE: [2009-06-28 Sun 02:12]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Design, Programming Language, Scheme, philosophy
+#+TITLE: Implementing an Object-Oriented Programming System in Scheme
+
+[[http://www.reddit.com/r/programming/comments/8v069/oleg_it_is_actually_rather_easy_to_implement_an/][Here]] is some entertaining discussion about implementing an OOP system in Scheme.
+
+They are discussing [[http://okmij.org/ftp/Scheme/oop-in-fp.txt][this]] post. 
+
+Easy, of course, is a loaded term! :)
+
+
+

@@ -1,0 +1,20 @@
+#+POSTID: 5380
+#+DATE: [2010-11-22 Mon 02:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, Programming Language, Scheme
+#+TITLE: Do Scheme implementors take hygiene seriously?
+
+#+BEGIN_QUOTE
+  Even the vast majority of Scheme systems, the platform that has experimented the most with hygiene, provide unhygienic defmacro-style macros---presumably because not even Scheme implementors take hygiene very seriously.
+#+END_QUOTE
+
+
+-- Let Over Lambda, [[http://letoverlambda.com/index.cl/guest/chap6.html][Chapter 6]] 
+
+Hygiene is in the standard [[http://www.r6rs.org/final/html/r6rs-lib/r6rs-lib-Z-H-13.html#node_idx_1098][here]].
+
+(via [[http://groups.google.com/group/racket-users/browse_thread/thread/e5c3153e41acb9ea][Racket-users]])
+
+
+

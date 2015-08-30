@@ -1,0 +1,78 @@
+#+POSTID: 9325
+#+DATE: [2014-11-27 Thu 01:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming, Programming Language, Reproducible research, elisp, org-mode, philosophy
+#+TITLE: ALEC's a Language for Expressing Creativity
+
+
+ALEC is the new configuration of my Emacs/Organization-Mode system. Just wanted to share some thoughts on the experience. The [[https://github.com/grettke/home/blob/master/ALEC.org][code]] says a lot, and the [[https://github.com/grettke/home/blob/master/ALEC.txt][text]], too, but I'm more interested in the experience. 
+
+For context, this is the next step of [[https://github.com/grettke/home/blob/master/TC3F.org][TC3F]]. 
+
+If nothing else, just know that the tangle time went down from 10m to 27 seconds :).
+
+
+
+
+
+
+
+
+
+This system has changed who I am and how I think. Because it is easier to focus on the tools rather than the intent, on the means vs. the end, I focus on this system, this configuration of Emacs. My system is a provider, a realization, of a language for expressing creativity. ALEC. ALEC's a Language for Expressing Creativity. That is a truly and utterly beautiful thing to ponder.
+
+
+
+
+
+
+
+The expression of creativity is why we are born human. Five of our senses go out into the world searching, always searching. In our time-space, the expressions that may be consumed by the eye (paintings, graphic arts) and consumed by the ear (music) are so, so lovely, and easy for us to understand (How do you address someone whose /true/ name is Symphony?). We are here to let that voice sing, and we want all five senses to help do it, for the maximization of expressivity.
+
+
+
+
+
+
+
+The song, that sweet celestial song, is sometimes more difficult for people to hear. The honey-kissed embrace of one's love feels different than a song, and different than laughing at a joke, but they are all the creative act. Gardening, selling, collecting, tending... they are all part of the creative act that makes us again be born human. We always seem to focus on the configuration of those actions (time, space, causality, and identity), the build of those tools, necessary to perform the creative act. With time and patience, we will see the true nature of things. Part of the path is indeed attaining mastery. Mastery over ourselves, mostly, by some way that is gentle and kind. That action, that attempt, for me, has partially culminated in the aggregation of a lifetime of mastery of tools and programming languages and ideas and studies and training and collaboration and mystery and magic and laughing, in this birth, in the artifact called ALEC, and ALEC can only be expressed, for me, for now, with Emacs.
+
+
+
+
+
+
+
+This system is no longer "Emacs". It is not its disparate packages. They are tools, yes, and more importantly, they are expressions of creativity. Together in Emacs, in ALEC, they are composed, like parts of a symphony, together, to allow for the ultimate in the action creative expression. The tools themselves exhibit these traits, both in their implementation and their intent. That is traditional, in that, the properties and traits expressed by these "words", these compositional units, have the properties and traits of the things expressed by these "words". "Words" is the most expressive element that I can think of right now, for things that can be atoms, and yet be combined to form sentences, something larger and more expressive, in a particular language, which itself can quite magically express ideas, about itself, or about anything in existence.
+
+
+
+
+
+
+
+It is like watching a beautiful lotus blooming, spreading its pedals, having been nourished by the fertile soil, protected in its pond, knowing that it must strive to reach higher, nurtured by Mother Sun. The very act, the ultimate act of creative expression, that very action contains itself and is culminated by itself. It is that which it is trying to achieve, and to be that, is to do that, for itself and for all of creation. This ultimate act of creative expression, is present in the manifestation of Emacs and the packages and the users who come together to form a perfect symphony of creative expression in a form that may be captured and represented as a computer file, so humble and modest, just like a small seed of a proud and mighty Redwood tree that will eventually reach hundreds and hundreds of feet into the sky and towards Mother Sun, contains that which it will become in it's own existence, so too does contains its own beautiful destiny the seeds of beauty and creative expression that are produced with ALEC (in every form, not just the one described by this document of course!).
+
+
+
+
+
+
+
+The blossoming of the expression of the computational act, and the petals that opened in the form of the Turing's machine, Church's Lambda calculus, and Post's Production Systems, are beautiful, and still, are only petals, that carry the sweet fragrance, because a fragrance is part of a moment, which is finite, as is every configuration of this reality. The beauty is still as sweet. The key is seeing the inherent beauty, the source without start and without end, and then being able to see that in everyone and everything.
+
+
+
+
+
+
+
+That thing, which was present before the expression of creativity, and will exist after it, which is not subject to the laws of time, space, causality, and identity, is the point that everyone surely wishes to re-visit. That quest, /the/ great motivator of the most softly spoken and heartfelt desire, itself is surely yet another expression of /that which is gentle and kind/. The steps taken on that quest, despite being driven by that perfect intent, are /still/ subject the four boundaries of this reality. Those actions, defined by configurations, like the petals of the lotus, retaining its sweet fragrance, can, will, and must fade, but, we will shine on in the sweet embrace of Mother Sun, knowing that loving and warm embrace of sweet perfection, in our one, and true, home.
+
+
+
+
+
+
+

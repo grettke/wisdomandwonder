@@ -1,0 +1,11 @@
+#+POSTID: 6309
+#+DATE: [2012-08-27 Mon 02:06]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Java, MATLAB, Programming Language
+#+TITLE: MATLAB and Java
+
+A few months ago I did a little simulation in Java and configured it and analyzed the data via MATLAB. It was really fun! It "just worked" and did so really well. Not much more to share than that, but definitely worth sharing.
+
+
+

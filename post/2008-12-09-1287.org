@@ -1,0 +1,34 @@
+#+POSTID: 1287
+#+DATE: [2008-12-09 Tue 05:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language
+#+TITLE: SPITBOL and SNOBOL
+
+#+BEGIN_QUOTE
+  During the 1950s and 1960s there was a flourishing of interest in special-purpose computer languages. SNOBOL [String Oriented Symbolic Language] was one of a number of text-string-oriented languages...
+
+SNOBOL was widely used in the 1970s and 1980s as a text manipulation language in the humanities, but in recent years, its popularity has faded as newer languages such as Awk and Perl have made string manipulation by means of regular expressions popular. However, the pattern matching capabilities of SNOBOL are significantly more powerful than those of regular expressions.
+
+#+END_QUOTE
+
+(via [[http://en.wikipedia.org/wiki/SNOBOL][Wikipedia]])
+
+
+
+#+BEGIN_QUOTE
+  
+SPITBOL (Speedy Implementation of SNOBOL) is a compiled implementation of the SNOBOL4 language...
+
+One contribution of SPITBOL to computer science was to demonstrate the clear distinction between a language and its implementation. Rather than stating that a language itself is slow, it is more accurate to say that the ability to write a fast and elegant implementation is a rare gift.
+
+#+END_QUOTE
+
+(via [[http://en.wikipedia.org/wiki/SPITBOL][Wikipedia]])
+
+
+
+
+
+
+

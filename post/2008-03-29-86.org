@@ -1,0 +1,29 @@
+#+POSTID: 86
+#+DATE: [2008-03-29 Sat 17:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning
+#+TITLE: Why mathematics is not fun (when it should be!)
+
+[[http://www.maa.org/devlin/LockhartsLament.pdf][One man's lament]]. 
+
+([[http://jfm3-repl.blogspot.com/2008/03/crucial-reading-for-programming.html][thanks jfm]])
+
+*Addendum: 8/6/8*
+
+On vacation, I re-read this, and wanted to share some interesting bits:
+
+
+
+-  p5. Mathematics is the art of explanation.
+-  p6. Math is not about following directions, it is about making new ones.
+-  p7. It isn't doing anyone any good having vague memories of formulas and clear memories of hating them.
+-  p11. Teaching is not about information. It's about having an honest intellectual relationship with your students. Teaching means openness and honesty, an ability to share excitement, and a love of learning.
+-  p21. Mathematics is about removing obstacles to our intuition, and keeping things simple.
+
+
+
+
+
+
+

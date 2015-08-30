@@ -1,0 +1,18 @@
+#+POSTID: 135
+#+DATE: [2008-04-28 Mon 01:41]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, Programming Language
+#+TITLE: EuLisp
+
+[[http://people.bath.ac.uk/masjap/EuLisp/][EuLisp]]
+
+
+#+BEGIN_QUOTE
+  
+is a dialect of Lisp and as such owes much to the great body of work that has been done on language design in the name of Lisp over the last thirty years. The distinguishing features of EuLisp are (i) the integration of the classical Lisp type system and the object system into a single class hierarchy (ii) the complementary abstraction facilities provided by the class and the module mechanism (iii) support for concurrent execution.
+
+#+END_QUOTE
+
+
+

@@ -1,0 +1,22 @@
+#+POSTID: 23
+#+DATE: [2008-01-01 Tue 16:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: XO
+#+TITLE: OLPC XO Answers about hardware
+
+The OLPC XO [[http://wiki.laptop.org/go/Home][Wiki]] has a questions and answers page. Today I took look at the [[http://wiki.laptop.org/go/Ask_OLPC_a_Question_about_Hardware][hardware]] page and found a few important bits:
+
+
+
+-  JFFS2 compresses your data, performs wear leveling, and manages bad blocks so you don't need to worry about the fact you are writing to flash.
+-  USB “thumbdrives” should be formatted to FAT32.
+-  Although the [[http://wiki.laptop.org/go/Power_Management][CPU]] supports sleep mode, and the hardware detects the the [[http://dev.laptop.org/ticket/845][lid]] closing, the XO will not automatically enter [[http://wiki.laptop.org/go/Support_FAQ#How_do_I_put_an_XO_laptop_to_sleep.3F][sleep]] mode on lid closing until some time next year.
+-  The XO can remain plugged in constantly; the battery will not get overcharged.
+
+
+
+
+
+
+

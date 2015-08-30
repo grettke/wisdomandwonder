@@ -1,0 +1,79 @@
+#+POSTID: 4893
+#+DATE: [2010-05-31 Mon 16:59]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Setting the background color in Slideshow
+
+The OP asked how to set the background color in Slideshow as it is not obvious.
+
+Matthew replied:
+
+
+
+#+BEGIN_QUOTE
+  Locally, I'd superimpose a picture onto a color rectangle:
+#+END_QUOTE
+
+
+
+
+#+BEGIN_EXAMPLE
+    
+#lang slideshow 
+
+ (define (add-bg p color) 
+   (refocus (cc-superimpose 
+             (colorize 
+              (filled-rectangle (pict-width p) 
+                                (pict-height p)) 
+              color) 
+             p) 
+            p)) 
+
+ (add-bg (bt "Hello") "green")
+
+#+END_EXAMPLE
+
+
+
+
+
+#+BEGIN_QUOTE
+  To globally set the background, I'd use that in an assembler:
+#+END_QUOTE
+
+
+
+
+#+BEGIN_EXAMPLE
+    
+#lang slideshow 
+
+ (define (add-bg p color) 
+   (refocus (cc-superimpose 
+             (colorize 
+              (filled-rectangle (pict-width p) 
+                                (pict-height p)) 
+              color) 
+             p) 
+            p)) 
+
+ (current-slide-assembler 
+  (let ([orig (current-slide-assembler)]) 
+    (lambda (title sep body) 
+      (ct-superimpose 
+       (inset (add-bg (inset full-page margin) "green") 
+              (- margin)) 
+       (orig title sep body))))) 
+
+ (slide #:title "Example" (bt "Hello"))
+
+#+END_EXAMPLE
+
+
+
+(via [[http://groups.google.com/group/plt-scheme/browse_thread/thread/aada345084c4e46e/f0926b61f72b9b3f?lnk=gst&q=colorizing+the+background#f0926b61f72b9b3f][plt]])
+
+
+

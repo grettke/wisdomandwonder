@@ -1,0 +1,11 @@
+#+POSTID: 8515
+#+DATE: [2014-05-01 Thu 19:08]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Emacs Lisp, Ide, Programming
+#+TITLE: A modern lisp API for Emacs Lisp with dash.el
+
+[[https://github.com/magnars/dash.el][dash.el]] gives you everything you would expect, and more.
+
+
+

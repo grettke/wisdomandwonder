@@ -1,0 +1,46 @@
+#+POSTID: 9155
+#+DATE: [2014-09-21 Sun 00:49]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: Other R Engines
+
+
+One of the things that I enjoy about ℝ is that all of the efforts are focused on
+one implementation... or so I thought!
+
+
+
+
+
+
+
+See also:
+
+
+
+
+
+-  [[http://www.renjin.org/][Renjin]]
+
+-  [[http://www.pqr-project.org/][pgR]]
+
+-  [[https://github.com/allr/fastr][FastR]]
+
+-  [[http://spotfire.tibco.com/discover-spotfire/what-does-spotfire-do/predictive-analytics/tibco-enterprise-runtime-for-r-terr][TIBCO R]]
+
+
+
+
+
+
+
+Thanks goodness for [[https://www.fsf.org/about/what-is-free-software][free software]].
+
+
+
+
+Via [[http://www.magesblog.com/2014/09/notes-from-kolner-r-meeting-12.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+blogspot%2FrKuKM+%28mages%27+blog%29][mage]].
+
+
+

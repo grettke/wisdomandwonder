@@ -1,0 +1,11 @@
+#+POSTID: 6533
+#+DATE: [2012-11-04 Sun 03:27]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Fun, Functional, Learning, Lisp, Programming, Programming Language, Racket, Scheme
+#+TITLE: Introduction to Racket
+
+[[http://www.google.com/url?q=http%3A%2F%2Fwww.infoq.com%2Fpresentations%2FRacket&sa=D&sntz=1&usg=AFQjCNH5mvrc1SPER-sPHfE4IqcG8DyWCQ][Here]] is a nice introduction to the inspiring parts of Racket and it's culture (of Racketeers).
+
+
+

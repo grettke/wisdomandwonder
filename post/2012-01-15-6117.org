@@ -1,0 +1,26 @@
+#+POSTID: 6117
+#+DATE: [2012-01-15 Sun 15:22]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Teaching
+#+TITLE: How to Take a Calculus Test
+
+#+BEGIN_QUOTE
+  Show what you know.
+Don't invent new math.
+Don't contradict yourself.
+Do the easy questions first.
+If you don't know how to do a problem, start by writing down relevant things that you know are true in general.
+Break difficult problems into manageable pieces.
+Know what a function is, and know what things are functions.
+If you aren't taking a derivative, it's probably wrong. (see the explanation below)
+If you're doing obscene amounts of computation, it's probably wrong.
+Don't care about the final answer.
+#+END_QUOTE
+
+
+
+(via [[http://jeremykun.wordpress.com/2011/10/20/how-to-take-a-calculus-test/][Jeremy]])
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 1817
+#+DATE: [2009-02-17 Tue 18:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Scheme
+#+TITLE: We need an SRFI for Design by Contract
+
+Two R6RS versions are mentioned [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/5b97a1b6f194a270/ed11a2cd9d9dd979][here]], as is one for PLT, and additionally I am pretty sure that one of the posters here has an implementation that he uses only for his code. 
+
+It doesn't make sense for people to waste time reimplementing the wheel. It would be great if everyone could converge on a single, portable, performant implementation.
+
+
+

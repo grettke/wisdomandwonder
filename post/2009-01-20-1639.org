@@ -1,0 +1,13 @@
+#+POSTID: 1639
+#+DATE: [2009-01-20 Tue 03:39]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Haskell, Programming Language, mathematics
+#+TITLE: Learning Haskell through Category Theory
+
+Benjamin Russell posts on learning Haskell through Category Theory [[http://dekudekuplex.wordpress.com/2009/01/16/learning-haskell-through-category-theory-and-adventuring-in-category-land-like-flatterland-only-about-categories/][here]].
+
+There are a lot of books listed. each with a detailed comment by Ben about the material. It looks interesting for folks who want to learn category theory.
+
+
+

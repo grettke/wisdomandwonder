@@ -1,0 +1,95 @@
+#+POSTID: 3733
+#+DATE: [2009-08-27 Thu 18:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Scheme
+#+TITLE: R7RS planning has begun
+
+[[http://www.scheme-reports.org/2009/announcement.html][Here]] is the announcement and [[http://www.scheme-reports.org/][here]] are the details. Depending on how you read the materials, you will either think that this is a perfect solution that will keep everyone happy without forking the language, or you will think that the language is getting forked, followed by varying levels of hope about how said forking will turn out. Here are some highlights:
+
+
+
+*** From "Position statement on Scheme language evolution"
+
+
+
+
+
+#+BEGIN_QUOTE
+  Real-world success matters: it is the means by which vibrant user communities grow; it is the social context that generates the resources that keep languages alive and thriving: money, people, "how to" books, implementations, software libraries, and so on and so on.
+#+END_QUOTE
+
+
+
+
+
+#+BEGIN_QUOTE
+  An irony is that research by the Scheme community has led to the development of two key technologies that should enable great portability: hygienic macros and module systems that include macro definitions in their managed namespaces. We aim to realize that promise.
+#+END_QUOTE
+
+
+
+
+
+*** From "Draft charter for working group 1"
+
+
+
+
+
+#+BEGIN_QUOTE
+  In a nutshell [the "small"] language should remain true to the language design precepts found in the RnRS introduction ("Programming languages should be designed not by piling feature on top of feature, ...").
+#+END_QUOTE
+
+
+
+
+
+#+BEGIN_QUOTE
+  If the Steering Committee concludes that specifications of the small language are not supported by at least 90% of a representative electorate, then those specifications will not be approved.
+#+END_QUOTE
+
+
+
+
+
+#+BEGIN_QUOTE
+  [The working group will produce] a draft suitable for final approval after 18 months
+#+END_QUOTE
+
+
+
+
+
+*** From "Draft charter for working group 2: the "large" language working group"
+
+
+
+
+
+#+BEGIN_QUOTE
+  This large language should address the practical needs of mainstream software development.
+#+END_QUOTE
+
+
+
+
+
+#+BEGIN_QUOTE
+  If the Steering Committee concludes that specifications of the large language are not supported by at least 75% of a representative electorate, then those specifications will not be approved.
+#+END_QUOTE
+
+
+
+
+
+#+BEGIN_QUOTE
+  [The working group will produce] a draft suitable for final approval after 24 months
+#+END_QUOTE
+
+
+
+Although their justification for this approach, that small Scheme is for educators and big Scheme is for real-world work, is flawed, their approach will probably make everyone happy in the end. We'll know in two years.
+
+
+

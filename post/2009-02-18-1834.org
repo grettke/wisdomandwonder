@@ -1,0 +1,25 @@
+#+POSTID: 1834
+#+DATE: [2009-02-18 Wed 02:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Scheme
+#+TITLE: How letrec differs from letrec* in practice
+
+I was asking about the difference /in practice/ between [[http://www.r6rs.org/final/html/r6rs/r6rs-Z-H-14.html#node_idx_402][letrec]] and [[http://www.r6rs.org/final/html/r6rs/r6rs-Z-H-14.html#node_idx_406][letrec*]] [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-February/030403.html][here]] and got a bunch of great replies.
+
+I didn't understand why you would bother to use letrec at all when you could only expect it to work predictably when binding mutually recursive lambda expressions since the order of evaluation was not guaranteed (it occurs in some unspecified order). Thanks to everyone's feedback I realized that the answer lay in my confusion: the value of letrec is specifically to indicate the fact that order of evaluation is not of concern. That is the whole point of providing both letrec and letrec*: the former tells the reader that it is purely functional, the latter that it is not. Perhaps this is a big "doh!" on my part; but I am glad that I asked.
+
+On review of the R6RS rationale [[http://www.r6rs.org/final/html/r6rs-rationale/r6rs-rationale-Z-H-11.html#node_sec_9.1][here]]; one finds that this was indeed the intent:
+
+
+
+#+BEGIN_QUOTE
+  
+9.1 Unspecified evaluation order
+
+The order in which the subexpressions of an application are evaluated is unspecified, as is the order in which certain subexpressions of some other forms such as letrec are evaluated. While this causes occasional confusion, it encourages programmers to write programs that do not depend on a specific evaluation order, and thus may be easier to read. Moreover, it allows the programmer to express that the evaluation order really does not matter for the result. A secondary consideration is that some compilers are able to generate better code if they can choose evaluation order.
+
+#+END_QUOTE
+
+
+

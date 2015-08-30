@@ -1,0 +1,13 @@
+#+POSTID: 8947
+#+DATE: [2014-08-27 Wed 19:36]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: 21 R navigation tools
+
+[[http://www.burns-stat.com/r-navigation-tools/http://][Here]] [[http://www.r-bloggers.com/21-r-navigation-tools/][via r-bloggers]].
+
+Nice overview worth a read.
+
+
+

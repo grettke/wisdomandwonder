@@ -1,0 +1,148 @@
+#+POSTID: 9034
+#+DATE: [2014-08-31 Sun 17:43]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: devtools for R
+
+#+BEGIN_QUOTE
+  
+
+
+  
+[[http://cran.r-project.org/web/packages/devtools/index.html][devtools]]: Tools to make developing R code easier
+
+
+  
+
+#+END_QUOTE
+
+
+
+
+
+
+They do and it is better for you to read about them *before* you need them.
+
+
+
+
+*ADDENDUM: 2014-09-06T09:08:01*
+
+
+
+
+=devtools=: Tools to make developing R code easier
+
+
+
+
+
+
+#+BEGIN_QUOTE
+  
+
+
+  
+[[http://cran.r-project.org/web/packages/devtools/index.html][Collection of package development tools]]
+
+
+  
+
+#+END_QUOTE
+
+
+
+
+
+
+That is a bit too terse. Intro to the README follows
+
+
+
+
+
+
+#+BEGIN_QUOTE
+  
+
+
+  
+The aim of devtools is to make your life as a package developer easier by providing R functions that simplify many common tasks. R packages are actually really simple, and with the right tools it should be easier to use the package structure than not. Package development in R can feel intimidating, but devtools does every thing it can to make it as welcoming as possible. devtools comes with a small guarantee: if because of a bug in devtools a member of R-core gets angry with you, I will send you a handwritten apology note. Just forward me the email and your address, and I'll get a card in the mail.
+
+
+  
+
+#+END_QUOTE
+
+
+
+
+
+
+Excellent.
+
+
+
+
+
+
+
+[[http://cran.r-project.org/web/packages/devtools/README.html][Readme]]. [[http://cran.r-project.org/web/packages/devtools/devtools.pdf][Manual]]. [[https://github.com/hadley/devtools][Github]].
+
+
+
+
+
+
+
+At the very least, just /know of/ this package, as you will be installing it if
+you want to us =tidyr=.
+
+
+
+
+
+
+#+BEGIN_HTML
+  <div class="org-src-container">
+#+END_HTML
+
+
+
+
+#+BEGIN_EXAMPLE
+    install.packages("devtools")
+devtools::install_github("devtools")
+
+#+END_EXAMPLE
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+
+#+BEGIN_HTML
+  <div class="org-src-container">
+#+END_HTML
+
+
+
+
+#+BEGIN_EXAMPLE
+    library(devtools)
+
+#+END_EXAMPLE
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+

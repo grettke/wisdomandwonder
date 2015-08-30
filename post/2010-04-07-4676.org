@@ -1,0 +1,13 @@
+#+POSTID: 4676
+#+DATE: [2010-04-07 Wed 20:09]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: API, Distributed Computing, MPI, OpenMP, Programming Language
+#+TITLE: OpenMP vs MPI: Who needs more help using it?
+
+OK [[http://hpclab.blogspot.com/2010/03/openmp-vs-mpi-who-is-winner.html][this]] is definitely a tougne-in-cheek post, subtly suggesting that OpenMP is a better API then MPI simply by looking at the number of helpdesk tickets, but it is worth a laugh if you don't take it too seriously :). 
+
+(Especially since they are apples vs oranges)
+
+
+

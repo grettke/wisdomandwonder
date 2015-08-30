@@ -1,0 +1,11 @@
+#+POSTID: 3042
+#+DATE: [2009-05-30 Sat 01:10]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Programming Language
+#+TITLE: One Man's Toy Projects
+
+[[http://blog.fogus.me/2009/05/29/pet-projects/][Here]] are one man's toy projects. They look good and he has some good advice.
+
+
+

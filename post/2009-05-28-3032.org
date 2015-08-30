@@ -1,0 +1,13 @@
+#+POSTID: 3032
+#+DATE: [2009-05-28 Thu 03:50]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Ide, Programming Language, Python, VI
+#+TITLE: VIM as Python IDE
+
+[[http://blog.dispatched.ch/2009/05/24/vim-as-python-ide/][Here]] is a nice article about using VIM as a Python IDE.
+
+(via [[http://www.reddit.com/r/Python/comments/8msrz/vim_as_python_ide/][reddit]])
+
+
+

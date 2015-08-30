@@ -1,0 +1,23 @@
+#+POSTID: 374
+#+DATE: [2008-08-07 Thu 03:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Learning, Programming, philosophy
+#+TITLE: Study Flaws, Steady Flaws
+
+Over the past year or two, I've put a sincere effort in to, to put it simply, "learning new things" about programming. It has been a lot of fun, and it has taken some sincere effort. In the process, something interesting happened; I was forced to deal with flaws in how I study and learn. 
+
+Is that a common phenomenon? Do you, for example, reflect upon how you study and learn, and refine it to make the best use of your time? I hadn't done much of that before. Previously, I had been able to just gloss over the tough parts and sort of soldier on when things got rocky. Not an ideal approach, but it was certainly adequate. What I've been studying lately, though, just doesn't accept that sort of approach. Every conceptual step you take down the path of learning you are following becomes the foundation for the next step; if you skimp, you will fall. There are two things that both helped me notice and address this.
+
+The first was studying Scheme, Functional Programming, giving presentations on programming, hanging around with guys in town to talk about programming, and biggest of all, joining the [[http://www.plt-scheme.org/maillist/][PLT Discussion List]]. Often times, programmers quip that they "want to work with a group of people who are all smarter than them". The likelihood of that happening is slim. While I'm not sure why, I just see that it doesn't happen all that often. One might wonder where that could happen, and, one place is in a discussion list. 
+
+The PLT diiscussion list has top-notch, world-class people who are not only experts, but also educators, and kind ones at that. Everyone on the list is just pleasant, it is honestly the best list I've ever seen and participated in. This is a group full of people who are not only smart, but willing to guide and direct you down the rocky road that you are following as you learn new concepts and ideas. It is very, very cool.
+
+The second thing was to take a hard look at myself. What do I want? How hard do I want to work to get it? Do I want to waste my time? Or the time of others? It meant breaking a lot of habits. For example, any time I just want to bail on something, I instead take a break, and give myself as many hours, days, or weeks as it takes to get through it and really understand it. It also means accepting what I know, and what I don't know. I feel good, right now, about not biting off more than I can chew (along with having the ability to identify it as such!). Finally, I am lot more sensitive to "red flags". For example, if I ever evaluate some topic or idea with a remark like "this is pointless", I stop and take good look at it because in the literature that I've been reading, "it" usually isn't "in there" unless it is really important (I also get feedback from folks on the list). 
+
+Those two (or so) things have made a huge change in how I study and learn. The reward has been learning new things, meeting new people, having a lot of fun, understanding both what I know and don't know, and best of all, setting up a better approach to studying and learning about things moving forward.
+
+The only way you can ever understand your strengths is by admitting your weaknesses, determining which of them need to be addressed now, which can wait, and then moving forward to improve things. That is the key to learning not only about computing, but also life itself.
+
+
+

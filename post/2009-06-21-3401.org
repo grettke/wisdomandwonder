@@ -1,0 +1,13 @@
+#+POSTID: 3401
+#+DATE: [2009-06-21 Sun 23:13]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Functional, Programming
+#+TITLE: The 12th ICFP Programming Contest
+
+The [[http://icfpcontest.org/][12th ICFP Programming Contest]] is starting up again next week.
+
+(via [[http://www.reddit.com/r/programming/comments/8txm4/12th_annual_icfp_programming_contest_begins_next/][reddit]])
+
+
+

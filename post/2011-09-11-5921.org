@@ -1,0 +1,11 @@
+#+POSTID: 5921
+#+DATE: [2011-09-11 Sun 16:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Computational Science, Learning, PhD, mathematics
+#+TITLE: Spring 2011 Wrapup
+
+During my Fall 2011 semester I took one class, Applied Linear Algebra. It was a total blast. You just can't believe some of the wild stuff that you can do with matrices. It was a lot of fun and the hardest that I've ever worked, and my grade reflected that.
+
+
+

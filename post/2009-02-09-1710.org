@@ -1,0 +1,36 @@
+#+POSTID: 1710
+#+DATE: [2009-02-09 Mon 19:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Hardware, Robotics
+#+TITLE: Player/Stage Robotics Software
+
+#+BEGIN_QUOTE
+  The [[http://playerstage.sourceforge.net/][Player Project]] creates Free Software that enables research in robot and sensor systems. The Player robot server is probably the most widely used robot control interface in the world. Its simulation backends, Stage and Gazebo, are also very widely used.
+#+END_QUOTE
+
+
+
+
+
+#+BEGIN_QUOTE
+  [[http://playerstage.sourceforge.net/index.php?src=stage][Stage]] simulates a population of mobile robots, sensors and objects in a two-dimensional bitmapped environment. Stage is designed to support research into multi-agent autonomous systems, so it provides fairly simple, computationally cheap models of lots of devices rather than attempting to emulate any device with great fidelity. We have found this to be a useful approach.
+#+END_QUOTE
+
+
+
+
+
+#+BEGIN_QUOTE
+  [[http://playerstage.sourceforge.net/index.php?src=gazebo][Gazebo]] is a multi-robot simulator for outdoor environments. Like Stage, it is capable of simulating a population of robots, sensors and objects, but does so in a three-dimensional world. It generates both realistic sensor feedback and physically plausible interactions between objects (it includes an accurate simulation of rigid-body physics).
+
+#+END_QUOTE
+
+
+
+This looks like a great way to get started with robotics without worrying too much about purchasing hardware.
+
+(via [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-February/030311.html][PLT]])
+
+
+

@@ -1,0 +1,15 @@
+#+POSTID: 8085
+#+DATE: [2013-10-12 Sat 15:41]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: Pretty Mode Plus 1.2 Release
+
+[[http://marmalade-repo.org/packages/pretty-mode-plus][Pretty Mode Plus 1.2]] is out with a couple changes.
+
+Dmiti has kindly [[https://github.com/akatov/pretty-mode-plus][taken it over]]. He has great new ideas about flexibility, modularity, and test-ability. There are many great changes and more coming. 
+
+For CLIPS users, there are a couple of niceties that you will enjoy.
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 5918
+#+DATE: [2011-09-11 Sun 16:42]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Utility
+#+TITLE: Easily Working with Files Over SSH
+
+[[http://www.expandrive.com/][ExpanDrive]] is a favorite application of mine for things that [[http://www.gnu.org/s/tramp/][TRAMP]] doesn't quite address. It is totally worth the very small fee they charge.
+
+
+

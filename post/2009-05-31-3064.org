@@ -1,0 +1,11 @@
+#+POSTID: 3064
+#+DATE: [2009-05-31 Sun 02:21]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Loading Libraries from Beyond the Filesystem
+
+In [[http://groups.google.com/group/ikarus-users/browse_thread/thread/ef44ebc01392dac2/14aaeaf8cb35a8f7?lnk=gst&q=+library-repositories#14aaeaf8cb35a8f7][this]] post Eduardo describes a library to load R6RS Scheme libraries from beyond the file system; in this case, a web server. [[http://proteus.freeshell.org/_psyntax.library-manager-library-repositories.ss][Here]] is the library. Very cool.
+
+
+

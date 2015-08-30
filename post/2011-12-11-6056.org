@@ -1,0 +1,13 @@
+#+POSTID: 6056
+#+DATE: [2011-12-11 Sun 05:11]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Distributed Computing, Gambit, Programming Language, Scheme
+#+TITLE: Distributed Computing with Gambit
+
+[[http://www.google.com/url?sa=D&q=http://www.iro.umontreal.ca/~gambit/Distributed-computing-with-Gambit.pdf&usg=AFQjCNGQsCNxAKbvvXedeQfGDTo_1fH9qg][Here]] is the link; the source has a lot more.
+
+(via [[https://groups.google.com/group/comp.lang.scheme/browse_thread/thread/57c85761a62f7403/f07a1669b712c35f?show_docid=f07a1669b712c35f][comp.lang.scheme]])
+
+
+

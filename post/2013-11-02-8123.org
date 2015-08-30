@@ -1,0 +1,19 @@
+#+POSTID: 8123
+#+DATE: [2013-11-02 Sat 23:36]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Career
+#+TITLE: Current Career Bio
+
+General: Computational engineer. Research scientist. Human being.
+
+Specific: Master software engineer. Interpersonal manager.
+
+Locations:
+
+Milwaukee, WI, USA.
+
+Kuala Lumpur, Selangor, Malaysia.
+
+
+

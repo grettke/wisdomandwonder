@@ -1,0 +1,19 @@
+#+POSTID: 756
+#+DATE: [2008-09-13 Sat 03:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Study-HTDP
+#+TITLE: The Beginning Student Language
+
+[[http://groups.google.com/group/study-htdp/browse_thread/thread/79486d61cbca6767][This post]] illustrates a interesting point about the language:
+
+
+
+1. Functions must take at least one argument
+
+
+
+In the data-driven world, namely *MATH*, there is no notion of a definition defining anything other than a translation of something into something else. Interesting.
+
+
+

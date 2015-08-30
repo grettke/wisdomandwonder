@@ -1,0 +1,24 @@
+#+POSTID: 251
+#+DATE: [2008-08-07 Thu 02:38]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Teaching, XO
+#+TITLE: Programming in Education: OLPC Case Studies
+
+Ben blogged [[http://benjisimon.blogspot.com/2008/07/us-based-olpc-case-studies.html][here]] about some stories about OLPC case studies. They are all worth checking out.
+
+Listen to the following NPR articles (both found [[http://www.npr.org/templates/story/story.php?storyId=91891812][here]]):
+
+
+
+-  [[javascript:NPR.Player.openPlayer(91891812,%2091891786,%20null,%20NPR.Player.Action.PLAY_NOW,%20NPR.Player.Type.STORY,%20'0')][Laptops for Kids in Small Towns May Not Be Panacea]]
+-  [[javascript:NPR.Player.openPlayer(91853797,%2091853773,%20null,%20NPR.Player.Action.PLAY_NOW,%20NPR.Player.Type.STORY,%20'0')][Laptops Help Keep Migrant Workers' Kids in School]]
+
+
+
+And read this article [[http://www.olpcnews.com/countries/usa/olpc_in_nyc_a_succes_1.html][One Laptop Per New York City Student a Success]] and [[http://www.teachingmatters.org/evaluations/olpc_kappa.pdf][report]].
+
+The company WavePlace, mentioned in the story, can be found [[http://waveplace.com/][here]]. Be sure to have a look around the site!
+
+
+

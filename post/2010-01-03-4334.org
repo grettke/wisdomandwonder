@@ -1,0 +1,15 @@
+#+POSTID: 4334
+#+DATE: [2010-01-03 Sun 22:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Computational Science, Learning, PhD, Statistics
+#+TITLE: Final Probability Update
+
+This past December, on the fifteenth, I completed the [[http://www.mscs.mu.edu/~dbrowe/mscs6010.html][Probability]] class that I was attending.
+
+We covered Probability from the theoretical (Calculus) and analytical (MATLAB) side of things. In my first foray into theory behind Statistics, I found the relationships between the distributions to be really neat to see, and along with the Calculus, a /lot/ to chew on all at once ;).
+
+Overall it was a lot of fun; I can't wait to get started with Simulation on the eighteenth.
+
+
+

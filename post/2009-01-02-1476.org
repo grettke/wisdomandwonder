@@ -1,0 +1,17 @@
+#+POSTID: 1476
+#+DATE: [2009-01-02 Fri 19:42]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming, Programming Language, Scheme
+#+TITLE: All Scheme Search
+
+[[http://www.google.com/coop/cse?cx=008072110934663485714%3Af1www7xnb5w&hl=en][All Scheme Search]] is a Google based search engine for "Everything about the Scheme Programming Language".
+
+If seven pages of search results for "keyword arguments" is any measure, this looks pretty interesting :).
+
+*Addendum: 01/05/08*
+
+Here are two more: [[http://www.google.com/coop/cse?cx=005960998586463099502%3Acmwy4krte0q][Scheme from the Florida Keys]] (actively updated) and [[http://www.google.com/coop/cse?cx=012106255774943375678%3Afmsl95oxgkw][Search PLT Scheme]] (not actively updated).
+
+
+

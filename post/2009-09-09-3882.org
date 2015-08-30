@@ -1,0 +1,19 @@
+#+POSTID: 3882
+#+DATE: [2009-09-09 Wed 02:37]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Mac, OS X
+#+TITLE: Reinstalling Snow Leopard
+
+To satisfy my own curiosity, I reinstalled OS X Snow Leopard today.
+
+It took about 48m to install the OS. I excluded all printer drivers, foreign language fonts, and translations.
+
+You can't trust the estimated time to completion. It started by reporting only 17m. After 17m, it changed to 18m, at which point I quit watching. Returning later, it reported 5m remaining, and after 1m reported completion. 
+
+One reason for a faster installation, too, is that the installation media is /not/ verified as it was in Leopard.
+
+This was on a 2.0GHz Core2Duo Mini.
+
+
+

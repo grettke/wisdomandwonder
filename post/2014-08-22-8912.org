@@ -1,0 +1,21 @@
+#+POSTID: 8912
+#+DATE: [2014-08-22 Fri 13:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs
+#+TITLE: prog-proc-mode
+
+#+BEGIN_QUOTE
+  FWIW, I have started a `prog-proc-mode', which is supposed to be a minor mode used in a programming mode and that makesthe link to an underlying comint mode.
+#+END_QUOTE
+
+
+
+-- Stefan Monnier
+
+It will make the link easier; every mode has to do it all themselves.
+
+Via [[http://article.gmane.org/gmane.emacs.devel/173791][emacs.devel]] via [[https://stat.ethz.ch/pipermail/ess-help/2014-August/010028.html][ESS-help.]]
+
+
+

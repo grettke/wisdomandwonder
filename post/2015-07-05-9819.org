@@ -1,0 +1,138 @@
+#+POSTID: 9819
+#+DATE: [2015-07-05 Sun 16:17]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Hardware, LaunchPad, Scheme, Software, TI-99/4A, forth, philosophy
+#+TITLE: Mastery, Questions, Hardware, Software, LISP, Forth, TI-99/4A
+
+
+Over the last two years a few questions and ideas have visited me and the following is my attempt to piece them together...
+
+
+
+
+
+
+
+
+
+[[http://www.wisdomandwonder.com/link/9357/people-who-are-really-serious-about-software][This]] claim by [[https://en.wikipedia.org/wiki/Alan_Kay][Alan Kay]] has haunted me for the past seven months. So have these [[http://www.colorforth.com/HOPL.html][two]] [[http://www.forth.org/POL.pdf][works]] by [[https://en.wikipedia.org/wiki/Charles_H._Moore][Charles Moore]]. They make me wonder:
+
+
+
+
+
+
+-  Can you be a master software craftsman without having completely mastered your
+tools?
+
+
+   -  Is this a natural part of the evolution of a programmer?
+
+
+   
+
+-  What are the surprisingly intuitive and non-obvious intersections between
+the [[https://en.wikipedia.org/wiki/Theory_of_computation][Theory of Computation]], [[https://en.wikipedia.org/wiki/Number_theory][Number Theory]], and a [[https://en.wikipedia.org/wiki/Central_processing_unit][CPU]] that help on that path to mastery of software development?
+
+
+   -  Does every mathematician require an intuitive sense of the value of the
+transistor?
+
+
+   
+
+
+
+
+
+
+
+It is time to start studying closer the [[https://en.wikipedia.org/wiki/Bare_machine][bare metal]]. What is the best place to start? What are my requirements? There are only two requirements. First, I want to go through the process of learning and exploration interactively and quickly. Those are the traits of a LISP system. Second, I want it to be super inexpensive. Everyone with a television set and a keyboard should be able to follow the same approach. They shouldn't even require the Internet. If they have Internet at work or school then they can use the [[https://en.wikipedia.org/wiki/Sneakernet][Sneakernet]]. It should be trivial to sell this system for next to nothing. The computer will have video and sound too. It even has a beautiful HD screen. That is it. With that in mind I started looking.
+
+
+
+
+
+
+
+The relationship between the programming language and hardware is tightly woven. Most of us don't consider this today because we own machines that spend 99% of their time idle. Looking at languages and inexpensive hardware is a real treat because you start caring real quick! Quickly, too, I ended up on [[http://armpit.sourceforge.net/][Armpit Scheme]].
+
+
+
+
+
+
+
+Every LISP programmer implements their own LISP! Or so the say, I never did. I still want to. This seems like the perfect project: C language, bare metal, and LISP, on some serious hardware. Doing some light reading about LISP on small devices, my imagination took over and quickly concluded that the next logical step was to rebuild a [[https://en.wikipedia.org/wiki/Lisp_machine][Lisp Machine]] from scratch! No, that is a little too far out of scope. Armpit seems like a fine place to start so I read about the development boards where it runs. Then the two things slowly effected this vector.
+
+
+
+
+
+
+
+One of my best friends Bruce had loved to share with me his delight in programming FORTH. Scheme was my enlightenment tool, and his was FORTH. We would spend hours talking about both of them. Our conversations went something like this: "Me: In Scheme I explored X, and it was fun!" and then "Bruce: I explored that very idea in FORTH and this is how I did it and it was fun!". FORTH was built to run on small CPUs. That got me learning more about FORTH.
+
+
+
+
+
+
+
+There are a lot of distributions. There are great books about it. The community is passionate. One of the rights of passage is to write your own FORTH. It runs on a lot of CPUs. That was enough to convince me. Around the same time, something else was on my mind: Vintage Computers.
+
+
+
+
+
+
+
+As a kid we had an Apple 2e. It was a delightful machine. Perhaps that is the right place to start? Watching craigslist and estate sales, there weren't very many. The market is demanding them again, and on ebay they are making some money. Still, it has all the right traits now: simple, keyboard, video and sound and disk, and constrained. It ought to be inexpensive, but isn't right now. That is OK. Months go by and I keep poking around at things. Two things jump out as possible options.
+
+
+
+
+
+
+
+The [[https://www.ti.com/ww/en/launchpad/launchpads.html][TI Launchpad]] is a $9.99USD computer. It is 16-bit, has memory, and it is fast. It runs at least [[http://www.camelforth.com/news.php][CamelForth]], [[http://www.somersetweb.com/4E4th/EN.html][4E4th]], [[http://www.calcentral.com/~forth/forth/][eForth]], and [[http://www.offete.com/430eForth_v43.html][430eForth]]. Pay attention to the names involved. The community is small and tight knit. Implementing FORTH seems like a great way to learn/master Assembly, C, hardware, /and/ FORTH. The source code and hardware are out there. I will go with 430eForth and the LaunchPad machine. Around the same time while learning more about FORTH I ended up back on a vintage machine option for FORTH.
+
+
+
+
+
+
+
+The old personal computers all either included or had available, FORTH. Most of them are available free in source form today. It could be fun to use and learn on a vintage box because that is all bare metal. Low and behold, I end up watching [[https://www.youtube.com/watch?v=BlGqKTZfNxw][this]] video to learn about [[http://turboforth.net/][TurboForth]].
+
+
+
+
+
+
+
+TurboForth is a 2015 FORTH implementation for the [[https://en.wikipedia.org/wiki/Texas_Instruments_TI-99/4A][TI-99/4A]]. Perfect. Perfect! Using a real PC, you get the fun of exploring a machine with video memory and making sounds. That is just included because it is a personal computer. TurboForth lets you explore the hardware, the machine, and even the implementation itself. That is just wonderful. There is another cool part: the TI-99/4A has a very active community.
+
+
+
+
+
+
+
+They've got an active user group right down in [[http://www.chicagotiug.com/tiki-index.php][Chicago]]. They've got a conference this October! There is hardware and software to connect your box to USB storage or a hard drive. There are loads of [[https://www.youtube.com/watch?v=p6VjsVwRXYk][youtube]] videos about it. It helps that the machine is still available at a very reasonable price. To top it off, there are first class emulators out there. People are still writing games for this machine [[http://tigameshelf.net/asm.htm][today]], in FORTH nonetheless. There are lot of good games for it, too.
+
+
+
+
+
+
+
+The TI-99/4A and the TI Launchpad seem like fine places to start. They meet all of the requirements. Without having dug into the details, the above are assumptions, and that is a fine place to start.
+
+
+
+
+
+
+

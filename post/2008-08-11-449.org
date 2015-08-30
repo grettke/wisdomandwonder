@@ -1,0 +1,13 @@
+#+POSTID: 449
+#+DATE: [2008-08-11 Mon 16:50]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming
+#+TITLE: Codeswarm
+
+[[http://code.google.com/p/codeswarm/][Codeswarm]] provides "Organic software visualization of project repositories.". In other words, you point it at your Subversion repository and it makes really cool movies showing who did what over time. [[http://www.vimeo.com/1508560][Here]] is an example of the [[http://plt-scheme.org/][PLT]] source tree.
+
+(via [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-August/026362.html][PLT]])
+
+
+

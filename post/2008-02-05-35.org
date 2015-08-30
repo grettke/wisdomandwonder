@@ -1,0 +1,11 @@
+#+POSTID: 35
+#+DATE: [2008-02-05 Tue 03:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Edwin: The Movie
+
+[[http://swiss.csail.mit.edu/projects/scheme/][MIT Scheme]] is a fine Scheme distribution. Their editor, [[http://www-swiss.ai.mit.edu/projects/scheme/documentation/user_8.html][Edwin]], however, has always been sort of a mystery to me. I can't find anyone that uses it, documentation that “speaks to me”, or even a user guide on how to get the most out of it. [[http://www.sacrideo.us/Sacrificum_Deo/Welcome.html][Aaron Hsu]], psychically detecting another Schemer in need, recorded an [[http://www.sacrideo.us/Sacrificum_Deo/Stuff_files/MIT-Scheme-Session_Encoded.mov][introduction to Edwin]] that provides a nice peek into some of its features.
+
+
+

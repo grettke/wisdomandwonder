@@ -1,0 +1,33 @@
+#+POSTID: 8206
+#+DATE: [2014-01-23 Thu 03:55]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: philosophy, spirituality
+#+TITLE: What is the fundamental nature of our universe?
+
+While working on the easy questions in life I put aside some time to work on defining the fundamental natures of our experience of this universe. The best that I could come up with is:
+
+* Identity: We experience a sense of self that is separate from "others".
+
+* State: We experience things with a certain configuration.
+
+* Time: We experience a past, present, and future.
+
+* Quantity: We experience configurations in varying amounts. Nearly every idea may be expressed as a number.
+
+* Causality: We experience or observe state changes due to interactions. A combination of identity and state result in things like the phenomenon of sequencing.
+
+* Mortality: We are subject to death and decay.
+
+Observations:
+
+* Is it really this simple? What am I missing? What should be removed?
+
+* Programmers may be intrigued to view their medium at a higher-level if they have not before done so. For functional programmers bewitched by "purity", one might consider that there is a lot more to remove from a particular programming language to really make it "pure" as long as it remains befuddled by my long list. As I read the list, my romance with logic and its foundations in computer science is deeply reinvigorated. 
+
+* Would your life be the same if we didn't have time? Or causality? What if we lived in only one dimension? What if past and present were intertwined? 
+
+* If we never died, how would we live differently or evolved differently?
+
+
+

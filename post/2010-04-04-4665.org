@@ -1,0 +1,36 @@
+#+POSTID: 4665
+#+DATE: [2010-04-04 Sun 12:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: ML, OCaml, Programming Language
+#+TITLE: What is the defacto OCaml build tool?
+
+I had wondered:
+
+
+
+#+BEGIN_QUOTE
+  What is the defacto OCaml build tool?
+#+END_QUOTE
+
+
+
+to which Sylvain [[http://tech.groups.yahoo.com/group/ocaml_beginners/message/11892][replied]]:
+
+
+
+#+BEGIN_QUOTE
+  - ocamlbuild (in OCaml distribution)
+- OCamlMakefile
+
+Some other use OMake.
+#+END_QUOTE
+
+
+
+
+
+
+
+
+

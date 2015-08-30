@@ -1,0 +1,13 @@
+#+POSTID: 6865
+#+DATE: [2013-01-04 Fri 16:27]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Utility, X11
+#+TITLE: XMing X Server for Windows
+
+Check out this beautiful X Server for Windows: [[http://sourceforge.net/projects/xming/][XMing]].
+
+It "just works" so well; up and running in about 30s with Putty.
+
+
+

@@ -1,0 +1,21 @@
+#+POSTID: 2656
+#+DATE: [2009-04-18 Sat 12:42]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Career
+#+TITLE: Be relentlessly resourceful
+
+#+BEGIN_QUOTE
+  I was writing a talk for investors, and I had to explain what to look for in founders. What would someone who was the opposite of hapless be like? They'd be relentlessly resourceful. Not merely relentless. That's not enough to make things go your way except in a few mostly uninteresting domains. In any interesting domain, the difficulties will be novel. Which means you can't simply plow through them, because you don't know initially how hard they are; you don't know whether you're about to plow through a block of foam or granite. So you have to be resourceful. You have to have keep trying new things.
+
+Be relentlessly resourceful.
+#+END_QUOTE
+
+--Paul Graham
+
+(via [[http://benjisimon.blogspot.com/2009/04/100-ways-to-avoid-starting-business.html][Ben]])
+
+
+
+
+

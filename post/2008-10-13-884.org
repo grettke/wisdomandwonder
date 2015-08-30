@@ -1,0 +1,23 @@
+#+POSTID: 884
+#+DATE: [2008-10-13 Mon 20:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Dylan, Programming Language
+#+TITLE: The Dylan programming language
+
+When reading about Scheme or Smalltalk, the [[http://en.wikipedia.org/wiki/Dylan_programming_language][Dylan]] programming language is often mentioned.
+
+[[http://www.cs.indiana.edu/~jsobel/][Here]] is one person who likes it that has provided some notes on how to [[http://www.cs.indiana.edu/~jsobel/forschemers.html][translate Scheme to Dylan]]. Here is his take on it:
+
+
+
+#+BEGIN_QUOTE
+  Dylan is a completely object-oriented language, with multiple inheritance, generic functions, a powerful module system, a very expressive exception-handling system, hygienic macros, pleasant semantics, and a clean way to turn the knob between expensive dynamic behavior and efficient static constraints.
+#+END_QUOTE
+
+
+
+It sounds /very/ interesting.
+
+
+

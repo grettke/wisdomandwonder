@@ -1,0 +1,29 @@
+#+POSTID: 6408
+#+DATE: [2012-09-27 Thu 00:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Guile, Ide, Lisp, Programming, Programming Language, Racket, Scheme, elisp
+#+TITLE: Geiser 0.2.1 ELPA Package
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/09/geiser-0.2.1.tar][Here]] is an ELPA package for the [[http://www.nongnu.org/geiser/][Geiser]] library.
+
+The code is original from the author, I just packaged it up!
+
+Here is one way to install it:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(require 'package)
+(when (not (package-installed-p 'geiser))
+  (url-copy-file 
+ "http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/09/geiser-0.2.1.tar"
+ "/tmp/geiser-0.2.1.tar"
+ t)
+  (package-install-file "/tmp/geiser-0.2.1.tar"))
+
+#+END_EXAMPLE
+
+
+

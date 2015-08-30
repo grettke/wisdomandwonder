@@ -1,0 +1,18 @@
+#+POSTID: 8941
+#+DATE: [2014-08-24 Sun 22:41]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: Shiny for R
+
+#+BEGIN_QUOTE
+  A web application framework for R
+Turn your analyses into interactive web applications
+No HTML, CSS, or JavaScript knowledge required
+#+END_QUOTE
+
+
+-- Via the [[http://shiny.rstudio.com/][homepage]]
+
+
+

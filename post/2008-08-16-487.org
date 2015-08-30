@@ -1,0 +1,15 @@
+#+POSTID: 487
+#+DATE: [2008-08-16 Sat 20:49]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Learning, Programming, Programming Language, Scheme, Teaching, philosophy
+#+TITLE: The Lambda Papers
+
+[[http://en.wikipedia.org/wiki/Lambda_Papers][The Lambda Papers]] are a series of seminal works on programming language design and implementation written by [[http://en.wikipedia.org/wiki/Guy_Steele_Jr.][Guy Steele]] and [[http://en.wikipedia.org/wiki/Gerald_Jay_Sussman][Gerry Sussman]].
+
+You may have heard about them because of the very popular [[http://lambda-the-ultimate.org/][Lambda the Ultimate]] website, or maybe you just heard about them because you are studying Scheme, or are a student of programming history. Whatever the case, they are very much worth reading (you'll have to trust me on that).
+
+You should start with 'AIM-353 Lambda:The Ultimate Imperative' and follow it with 'AIM-443 Lambda: The Ultimate GOTO'. Both may be found [[http://library.readscheme.org/page1.html][here]].
+
+
+

@@ -1,0 +1,23 @@
+#+POSTID: 3983
+#+DATE: [2009-09-25 Fri 17:25]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Ikarus, Programming Language, Scheme
+#+TITLE: Change the REPL Prompt in Ikarus
+
+Aziz added the ability to change the REPL prompt in the latest revision of Ikarus:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(waiter-prompt-string "")
+
+#+END_EXAMPLE
+
+
+
+(via [[http://groups.google.com/group/ikarus-users/browse_thread/thread/ff75d8ff13ce98a0][ikarus-users]])
+
+
+

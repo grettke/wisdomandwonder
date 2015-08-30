@@ -1,0 +1,20 @@
+#+POSTID: 979
+#+DATE: [2008-10-18 Sat 21:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming, philosophy
+#+TITLE: Computers are a metamedium
+
+#+BEGIN_QUOTE
+  The computer is a medium that can dynamically simulate the details of any other medium, including media that cannot exist physically. It is not a tool, although it can act like many tools. The computer is the first metamedium, and as such it has degrees of freedom for representation and expression never before encountered and as yet barely investigated. The [[http://dictionary.reference.com/search?q=protean][protean]] nature of the computer is such that it can act like a machine or like a language to be shaped and exploited.
+#+END_QUOTE
+
+
+-- Alan Kay
+
+I've never before heard it put quite so well.
+
+(via [[http://www.cs.indiana.edu/~rpjames/][R.P. James]])
+
+
+

@@ -1,0 +1,25 @@
+#+POSTID: 34
+#+DATE: [2008-01-31 Thu 01:13]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Fortress, Functional, ML, OCaml, Programming Language
+#+TITLE: Operating without change
+
+How powerful is a programming language in which you do not utilize mutation? 
+
+Apparently very powerful. So much, in fact, that [[http://en.wikipedia.org/wiki/OCaml][it]] was used to [[http://groups.google.com/group/plt-scheme/browse_thread/thread/ea3bde4976b3682d/fbbd0645a499962a?hl=en&lnk=gst&q=Fortress#fbbd0645a499962a][build the first prototype]] of the [[http://en.wikipedia.org/wiki/Fortress_programming_language][Fortress]] programming language.
+
+Prediction for 2008, a new functional programming motto will emerge: 
+
+
+
+#+BEGIN_QUOTE
+  “Purely functional data structures: Strong enough to build a fortress!”
+#+END_QUOTE
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 1251
+#+DATE: [2008-11-27 Thu 18:47]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: A FFI with Tcl Example
+
+Ben provides a [[http://benjisimon.blogspot.com/2008/11/small-experiment-with-mzschemes-foriegn.html][FFI with Tcl example]] using PLT Scheme.
+
+
+

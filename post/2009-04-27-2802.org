@@ -1,0 +1,23 @@
+#+POSTID: 2802
+#+DATE: [2009-04-27 Mon 21:57]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Invasion of the Killer Rodents
+
+Via [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-April/032592.html][PLT]]:
+
+
+
+#+BEGIN_QUOTE
+  
+Gerbil is a distributed dialect of scheme implemented as a plt macro language. As such it inherits all the traits of plt-scheme and provides abstractions and libraries for actor-oriented distributed programming.
+#+END_QUOTE
+
+
+
+Documentation [[http://web.media.mit.edu/~vyzo/gerbil/guide.org.txt][here]].
+
+
+
+

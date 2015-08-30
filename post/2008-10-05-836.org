@@ -1,0 +1,24 @@
+#+POSTID: 836
+#+DATE: [2008-10-05 Sun 20:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Scheme Links
+
+Here are some links to Scheme information sites. I haven't heard of many of the distributions listed. For example, Scheme on the Palm Pilot!
+
+
+
+-  [[http://tunes.org/wiki/scheme.html][CTO]]
+-  [[http://people.csail.mit.edu/jaffer/Scheme][RNRS]]
+-  [[http://www.faqs.org/faqs/scheme-faq/part2/section-1.html][Free Schemes]]
+-  [[http://community.schemewiki.org/?scheme-faq-standards#implementations][SchemeWiki]]
+-  [[http://www.dmoz.org/Computers/Programming/Languages/Lisp/Scheme/Implementations/][DMOZ]]
+-  [[http://www.faqs.org/faqs/scheme-faq/part2/section-2.html][Commercial Implementations]] (interesting for historical reasons)
+
+
+
+
+
+
+

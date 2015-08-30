@@ -1,0 +1,13 @@
+#+POSTID: 9094
+#+DATE: [2014-09-05 Fri 00:11]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Algorithmic Trading, Big Data, Business Intelligence, Data Analysis and Modeling, Data Mining, Data Visualization, Data science, Financial Engineering, MDS, Machine Learning, Mathematical Modelling, Predictive Analytics, Quantitative Analysis, Quantitative Finance, R-Project, Risk Management, Statistical Computing
+#+TITLE: Twenty rules for good graphics
+
+[[http://robjhyndman.com/hyndsight/graphics/][It]] is a great and short read.
+
+[[http://robjhyndman.com/hyndsight/worst-figure/][Via]] the same site.
+
+
+

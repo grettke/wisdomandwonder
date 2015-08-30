@@ -1,0 +1,17 @@
+#+POSTID: 4580
+#+DATE: [2010-03-07 Sun 06:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Operating System, Windows
+#+TITLE: Windows XP RunAs feature is horribly broken
+
+Switching /back/ to Windows XP from the Mac has been educational. Along with learning a lot more about Cygin than I had ever known before, I'm discovering new features-to-be-avoided in Windows XP. Here is a biggie: "Run As".
+
+Windows allows you to execute programs with another user's credentials. You are probability thinking "Simple right?". Well, it isn't. Using this feature seems to consistently corrupt the RunAs-ed user's profile. Corrupted profiles seem to be a mysterious thing with little to no way to fix them; creating a new profile is basically the only solution. In my case I restored from a nightly backup (because I know stuff like this is bound to happen on Windows). My takeaway:
+
+Disable RunAs on Windows!
+
+[[http://support.microsoft.com/kb/830568][Here]] is how.
+
+
+

@@ -1,0 +1,19 @@
+#+POSTID: 4900
+#+DATE: [2010-06-01 Tue 01:11]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: ML, OCaml, Programming Language
+#+TITLE: Caml Trading talk at CMU
+
+[[http://ocaml.janestreet.com/?q=node/61][Here]] is an old but good presentation about Janestreet, with a discussion of why OCaml fits in the company.
+
+When asked how they deal with the inevitable difficulty in hiring OCaml programmers, Yaron replied something to the effect that:
+
+
+
+#+BEGIN_QUOTE
+  If you don't hire bad programmers, many things become easier.
+#+END_QUOTE
+
+
+

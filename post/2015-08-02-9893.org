@@ -1,0 +1,15 @@
+#+POSTID: 9893
+#+DATE: [2015-08-02 Sun 22:08]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode, philosophy
+#+TITLE: Easily Go To and Return From Headlines in Org-Mode
+
+Quit using =goto-line= and =isearch= to navigate in your Org-Mode document. I didn't want to use Helm or Imenu to do it and Org-Mode has a built in solution with =org-goto=. Be sure to bind the "pop" key very close-by to make it symmetrical and fast.
+
+=(define-key org-mode-map (kbd "s-u") #'org-goto)
+(define-key org-mode-map (kbd "s-U") #'org-mark-ring-goto)
+=
+
+
+

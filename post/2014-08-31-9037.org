@@ -1,0 +1,20 @@
+#+POSTID: 9037
+#+DATE: [2014-08-31 Sun 21:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, R-Project, Statistics, Teaching
+#+TITLE: How Students Learn Statistics
+
+#+BEGIN_QUOTE
+  [[http://noblestatman.com/AP_Stats_Workshops/Articles_files/Joan.Garfield.How.Stud.Learn.Stats.pdf][Research]] in the areas of psychology, statistical education, and mathematics education is reviewed
+and the results applied to the teaching of college-level statistics courses. The argument is made that
+statistics educators need to determine what it is they really want students to learn, to modify their
+teaching according to suggestions from the research literature, and to use assessment to determine if 
+their teaching is effective and if students are developing statistical understanding and competence.
+#+END_QUOTE
+
+
+
+
+
+

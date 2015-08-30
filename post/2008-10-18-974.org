@@ -1,0 +1,19 @@
+#+POSTID: 974
+#+DATE: [2008-10-18 Sat 16:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: UNIX, Utility
+#+TITLE: Easy FTP mirroring with wget
+
+There are a lot of tools out there for mirroring data, but sometimes you just want to do something very simple: download the latest contents of a FTP directory while leaving what you have already downloaded alone. wget supports a mirror command that provides this exact functionality. Just enter the directory where you would like to store the mirror and execute this command:
+
+
+
+#+BEGIN_EXAMPLE
+    
+wget --mirror [prot]://[username]:[password]@[hostname]/[directory to mirror]
+
+#+END_EXAMPLE
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 3047
+#+DATE: [2009-05-30 Sat 01:45]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Fun
+#+TITLE: Hand wiring an 8 bit computer
+
+[[http://www.stevechamberlin.com/cpu/category/bmow1/][This]] looks like a real blast; designing, assembling, and running an 8 bit computer.
+
+(via [[http://www.reddit.com/r/programming/comments/8o2qi/big_mess_o_wires_homemade_cpu/][reddit]])
+
+
+

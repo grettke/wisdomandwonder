@@ -1,0 +1,24 @@
+#+POSTID: 2073
+#+DATE: [2009-03-19 Thu 19:29]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Programming, Teaching, philosophy
+#+TITLE: Concepts, Techniques, and Models of Computer Programming
+
+[[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/42a80bf2fab7c52b/58f16942337a2346#58f16942337a2346][Here]] I asked "What is a good multi-paradigm book on programming?".
+
+Michael answered:
+
+
+#+BEGIN_QUOTE
+  "Concepts, Techniques, and Models of Computer Programming" by Peter Van Roy and Seif Haridi 
+
+[[http://www.info.ucl.ac.be/~pvr/book.html]]
+#+END_QUOTE
+
+
+
+
+
+
+

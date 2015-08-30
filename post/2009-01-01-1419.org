@@ -1,0 +1,11 @@
+#+POSTID: 1419
+#+DATE: [2009-01-01 Thu 23:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming
+#+TITLE: Envy Code R: A Programming Font
+
+[[http://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released][Envy Code R]] is a new monospaced font that I'm trying out. I find it a hard on my eyes, but perhaps you will like it. Lucida Console it remains.
+
+
+

@@ -1,0 +1,24 @@
+#+POSTID: 2157
+#+DATE: [2009-03-29 Sun 22:55]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Books
+#+TITLE: IEEE Spectrum's 10 great tech books
+
+-  The Pencil: A History of Design and Circumstance
+-  Mirror Worlds: or, The Day Software Puts the Universe in a Shoebox... How It Will Happen and What It Will Mean
+-  A New Kind of Science
+-  Gödel, Escher, Bach: An Eternal Golden Braid
+-  Hackers & Painters: Big Ideas from the Computer Age
+-  The Design of Everyday Things
+-  The Soul of a New Machine
+-  The Codebreakers: The Story of Secret Writing
+-  Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time
+-  The Making of the Atomic Bomb
+
+
+
+(via IEEE Spectrum Volume 45, Number 3, 2008)
+
+
+

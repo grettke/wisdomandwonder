@@ -1,0 +1,19 @@
+#+POSTID: 4629
+#+DATE: [2010-03-31 Wed 03:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Computer Science, Learning, Teaching
+#+TITLE: Matthias Felleisen and the PLT Team win the ACM Karl Karlstrom Award
+
+#+BEGIN_QUOTE
+  Presented annually to an outstanding educator who is: appointed to a recognized educational baccalaureate institution; recognized for advancing new teaching methodologies, or effecting new curriculum development or expansion in Computer Science and Engineering; or making a significant contribution to the educational mission of the ACM. Those who have been teaching for ten years or less will be given special consideration. A prize of $5,000 is supplied by the Prentice-Hall Publishing Company.
+#+END_QUOTE
+
+
+
+
+
+Via [[http://groups.google.com/group/plt-scheme/browse_thread/thread/ac3bc593fe83b569?hl=en][Matthias]] via [[http://awards.acm.org/karlstrom/][ACM]] via [[http://groups.google.com/group/plt-scheme/browse_thread/thread/a8760dba27862ab5?hl=en][Shriram]].
+
+
+

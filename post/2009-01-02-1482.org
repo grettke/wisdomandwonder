@@ -1,0 +1,17 @@
+#+POSTID: 1482
+#+DATE: [2009-01-02 Fri 19:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Oleg Kiselyov and tons of Scheme code
+
+A friend of mine once mentioned "Oleg's prolific Scheme code" but didn't go any deeper than that.
+
+Today I think I found that code [[http://okmij.org/ftp/Scheme/][here]].
+
+It is not limited to Scheme, but for Scheme content alone there seems to be a ton of (per my friend) high quality code there. 
+
+I can't wait to start digging.
+
+
+

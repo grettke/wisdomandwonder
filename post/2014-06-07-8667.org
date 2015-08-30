@@ -1,0 +1,15 @@
+#+POSTID: 8667
+#+DATE: [2014-06-07 Sat 01:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming, Programming Language, Reproducible research, elisp, org-mode, philosophy
+#+TITLE: Emacs peer and consultant teaching
+
+For the past week I've been day dreaming about a nice way where Emacs and org-mode users could collaborate in real time, share their configurations, learn from, and teach each other about their workflow. Sure the Internet is a great resource to pull from, it is also nice to interact with people, too!
+
+Imaginations included weekly "Team Emacs" meetings where folks may present on interesting topics, live online. Code reviews may also be performed, even sharing how to implement a desired feature would be great. The real effort would be to organize "Team Emacs", and do all of the logistical work. There is of course plenty of work to do for the presenters. What about the attendees? Surely, the work load may be distributed. That said, there is something in the collective consciousness right now. Sacha just [[http://sachachua.com/blog/2014/06/emacs-coaching/][posted]] on one step forward; [[http://emacs-doctor.com/][Bastien]]!
+
+Bastien is a delightful person online and an excellent leader. Starting an Emacs consultancy is a wonderful idea. The value of your time is priceless, so reflect that in your offering :).
+
+
+

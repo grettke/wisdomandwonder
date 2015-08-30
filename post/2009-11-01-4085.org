@@ -1,0 +1,13 @@
+#+POSTID: 4085
+#+DATE: [2009-11-01 Sun 02:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Happy Halloween with PLT
+
+Happy Halloween with [[http://www.plt-scheme.org/][PLT]]! :)
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2009/10/HalloweenWithPLT.png][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2009/10/HalloweenWithPLT-150x150.png]]]]
+
+
+

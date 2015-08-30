@@ -1,0 +1,32 @@
+#+POSTID: 9313
+#+DATE: [2014-11-11 Tue 20:28]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Algorithmic Trading, Big Data, Business Intelligence, Data Analysis and Modeling, Data Mining, Data Visualization, Data science, Financial Engineering, MDS, Machine Learning, Mathematical Modelling, Predictive Analytics, Quantitative Analysis, Quantitative Finance, R-Project, Risk Management, Statistical Computing
+#+TITLE: To Revisit
+
+
+To Revisit
+
+
+
+
+
+
+-  [[http://www-bcf.usc.edu/~gareth/ISL/][An Introduction to Statistical Learning]]
+
+-  [[http://statweb.stanford.edu/~tibs/ElemStatLearn/][The Elements of Statistical Learning]]
+
+-  [[http://www.amazon.com/Preparation-Mining-Kaufmann-Management-Systems/dp/1558605290][Data Preparation for Data Mining]]
+
+-  [[http://www.amazon.com/The-Grammar-Graphics-Statistics-Computing/dp/0387245448][The Grammar of Graphics]]
+
+-  [[http://adv-r.had.co.nz/][Advanced R]]
+
+-  [[http://tagteam.harvard.edu/hub_feeds/1981/feed_items/1844177][In-depth introduction to machine learning in 15 hours of expert videos]]
+
+-  [[https://www.datacamp.com/tracks/a-hands-on-introduction-to-statistics-with-r][A hands-on introduction to statistics with R]]
+
+
+
+

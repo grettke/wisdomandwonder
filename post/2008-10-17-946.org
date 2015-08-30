@@ -1,0 +1,26 @@
+#+POSTID: 946
+#+DATE: [2008-10-17 Fri 15:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming
+#+TITLE: Dynamic languages in desktop software development
+
+Ted Leung [[http://www.sauria.com/blog/2008/10/09/lua-in-lightroom/][talks about]] how [[http://www.lua.org/][Lua]] was used in [[http://www.adobe.com/products/photoshoplightroom/][Lightroom]], as explained in [[http://www.troygaul.com/LrExposedC4.html][this presentation]].
+
+Some links from the source:
+
+
+
+[[http://www.lua.org/wshop05/Hamburg.pdf][Slides from Mark Hamburg's talk at the 2005 Lua workshop]]
+
+
+[[http://since1968.com/article/190/mark-hamburg-interview-adobe-photoshop-lightroom-part-2-of-2][An interview with Mark, where he discusses why and how he chose Lua.]]
+
+
+
+
+
+(via [[http://lambda-the-ultimate.org/node/3052][LtU]])
+
+
+

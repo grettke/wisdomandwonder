@@ -1,0 +1,11 @@
+#+POSTID: 6639
+#+DATE: [2012-11-29 Thu 05:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Utility
+#+TITLE: A Radiator Booster
+
+Check it out [[http://www.gizmag.com/radiator-booster-redirects-heat/20522/][here]]. Looks like a great way to be more efficent, and warm.
+
+
+

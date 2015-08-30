@@ -1,0 +1,47 @@
+#+POSTID: 2000
+#+DATE: [2009-03-02 Mon 20:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: LaTeX, TeX, Utility
+#+TITLE: How to render a ^ (carrot) in normal LaTeX text
+
+Here are two ways to render a \^ (+carrot+caret) in plain text within LaTeX:
+
+
+
+#+BEGIN_EXAMPLE
+    
+\documentclass{article} 
+\usepackage[T1]{fontenc} 
+\begin{document} 
+A caret: \verb|^| 
+\end{document}
+
+#+END_EXAMPLE
+
+
+
+
+
+#+BEGIN_EXAMPLE
+    
+\textasciicircum
+
+#+END_EXAMPLE
+
+
+
+I tested them and both work as prescribed. They produce different +carrots+carets.
+
+(via +comp.lang.tex+[[http://groups.google.com/group/comp.text.tex/browse_thread/thread/300d6a9e7d735c2a#][comp.text.tex)]]
+
+*Addendum: 03/02/09*
+
+Corrected spelling of caret.
+
+*Addendum: 03/03/09*
+
+Wrote the wrong newsgroup name.
+
+
+

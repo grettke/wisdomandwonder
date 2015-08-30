@@ -1,0 +1,69 @@
+#+POSTID: 2785
+#+DATE: [2009-04-26 Sun 22:07]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Implementing vector-for-each in PLT
+
+François [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-April/032545.html][asked]] how one might implement vector-for-each. Here are two solutions that were provided:
+
+[[http://list.cs.brown.edu/pipermail/plt-scheme/2009-April/032552.html][Matthias]]
+
+
+#+BEGIN_EXAMPLE
+    
+#lang scheme
+(define-syntax for-each-vector
+  (syntax-rules ()
+    ((for-each-vector proc vec ...)
+     (let ((len (min (vector-length vec) ...)))       
+       (do ((index 0 (+ index 1)))
+         ((= index len))
+         (proc (vector-ref vec index) ...))))))
+
+
+(for-each-vector 
+ (lambda (a b) (display (+ a b)))
+ #( 1 2 3)  #( 1 2 3))
+
+(newline)
+
+;; functional, preferred
+
+;; for-each-vector2  
+;; (All (A C ...) ((C ... -> A) (Vectorof C) ... -> A))
+(define (for-each-vector2 p . vec)
+  (for ((i (in-range (apply min (map vector-length vec)))))
+    (apply p (map (lambda (v) (vector-ref v i)) vec))))
+
+(for-each-vector2 
+ (lambda (a b) (display (+ a b)))
+ #( 1 2 3)  #( 1 2 3))
+
+(newline)
+
+#+END_EXAMPLE
+
+
+
+[[http://list.cs.brown.edu/pipermail/plt-scheme/2009-April/032553.html][Sam TH]]
+
+
+#+BEGIN_EXAMPLE
+    
+#lang scheme
+(require srfi/43)
+
+(for ([a #(1 2 3)] [b #(1 2 3)])
+  (display (+ a b)))
+
+(newline)
+
+(vector-for-each 
+ (lambda (i a b) (display (+ a b))) 
+ #(1 2 3) #(1 2 3))
+
+#+END_EXAMPLE
+
+
+

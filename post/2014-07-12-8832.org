@@ -1,0 +1,11 @@
+#+POSTID: 8832
+#+DATE: [2014-07-12 Sat 19:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: .NET, Artificial Intelligence, C++, CLIPS, Emacs, Ide, Jess, Lisp, Programming, Programming Language, Rules Engine, Visual Studio, elisp
+#+TITLE: CLIPS Language Support for Visual Studio
+
+Very [[https://github.com/ricksladkey/ClipsLanguage][sweet]].
+
+
+

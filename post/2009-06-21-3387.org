@@ -1,0 +1,11 @@
+#+POSTID: 3387
+#+DATE: [2009-06-21 Sun 22:47]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Gambit, Programming Language, Scheme, iPhone
+#+TITLE: How to Set Up Gambit-C for the iPhone
+
+[[http://jlongster.com/blog/2009/06/17/write-apps-iphone-scheme/][Here]] is a detailed article about setting up [[http://dynamo.iro.umontreal.ca/~gambit/wiki/index.php/Main_Page][Gambit-C]] to run on the iPhone.
+
+
+

@@ -1,0 +1,19 @@
+#+POSTID: 7784
+#+DATE: [2013-05-05 Sun 21:07]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Communication, Internet Relay Chart (IRC), Utility
+#+TITLE: Making irssi refresh work with tmux
+
+The first time you try using irssi with tmux you might notice that on screens larger than 40 rows the refresh functionality does not work. This is a known not-really-an-issue tmux requires a particular term and is quite clear about it in the docs (if you read them I did not). Found the solution [[http://blog.schrierc.org/2011/07/invalid-tmux-term-causes-irssi-issues.html][here]], when you start tmux set the term for it correctly:
+
+
+
+#+BEGIN_EXAMPLE
+    
+alias irssi='TERM=screen-256color irssi'
+
+#+END_EXAMPLE
+
+
+

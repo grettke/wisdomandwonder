@@ -1,0 +1,17 @@
+#+POSTID: 9040
+#+DATE: [2014-08-31 Sun 21:42]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, R-Project, Statistics, Teaching
+#+TITLE: Teaching Statistics: A Bag of Tricks
+
+#+BEGIN_QUOTE
+  [[http://www.amazon.com/Teaching-Statistics-A-Bag-Tricks/dp/0198572247][This volume]]takes a positive spin on the field of statistics. Statistics is seen by students as difficult and boring, however, the authors of this book have eliminated that theory. Teaching Statistics: A Bag Of Tricks, brings together a complete set of examples, demonstrations and projects that not only will increase class participation but will help to eliminate any negative feelings toward the area of statistics.
+#+END_QUOTE
+
+
+
+
+
+
+

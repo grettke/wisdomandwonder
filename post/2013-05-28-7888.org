@@ -1,0 +1,11 @@
+#+POSTID: 7888
+#+DATE: [2013-05-28 Tue 13:49]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Guile, Ide, Lisp, Programming Language, Scheme, elisp
+#+TITLE: Guile-Emacs Continues Forward with GSoC
+
+Guile-Emacs continues forward with [[https://www.google-melange.com/gsoc/proposal/review/google/gsoc2013/bpt/35002][GSoC]].
+
+
+

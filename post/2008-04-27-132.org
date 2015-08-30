@@ -1,0 +1,20 @@
+#+POSTID: 132
+#+DATE: [2008-04-27 Sun 20:07]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Haskell, Lisp, Programming Language
+#+TITLE: Liskell 
+
+[[http://clemens.endorphin.org/liskell][Liskell]]
+
+
+#+BEGIN_QUOTE
+  is a new syntax frontend for Haskell. Next to its syntax in the form of symbolic expressions --- which is also known as Lisp --- Liskell also features an extended meta-programming facility. Its aim is to get the best of both worlds: being pure and functional with type inference in the tradition of Haskell, while providing the simplicity and uniformity in its syntax that is necessary for meta-programming.
+#+END_QUOTE
+
+
+
+
+
+
+

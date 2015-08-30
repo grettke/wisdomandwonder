@@ -1,0 +1,29 @@
+#+POSTID: 128
+#+DATE: [2008-04-27 Sun 15:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Live Coding with Fluxus
+
+[[http://www.pawfal.org/fluxus/][Fluxus]] is a [[http://en.wikipedia.org/wiki/Live_coding][live coding]] system built on [[http://www.plt-scheme.org/][PLT Scheme]].
+
+
+
+#+BEGIN_QUOTE
+  
+Fluxus reads live audio or OSC network messages which can be used as a source of animation data for realtime performances or installations. Keyboard or mouse input can also be read for games development, and a physics engine is included for realtime simulations of rigid body dynamics.
+
+#+END_QUOTE
+
+
+
+Fluxus is a very cool system and the maintainer Dave is a very nice guy. Be sure to check it out!
+
+*Addendum: 8/14/8*
+
+Dave posted some links to videos of [[http://blip.tv/file/921513][fluxus]] and the [[http://www.vimeo.com/694298][no copy paste]] jam.
+
+(via [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-August/026489.html][PLT]])
+
+
+

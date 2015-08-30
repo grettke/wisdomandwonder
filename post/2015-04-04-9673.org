@@ -1,0 +1,21 @@
+#+POSTID: 9673
+#+DATE: [2015-04-04 Sat 16:08]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: key-combo and the Spread of Great Ideas
+
+I love watching great ideas percolate through the file editor ecosystem. My cup of tea is Emacs, so I notice it most there, but it happens all over the place. For example [[https://github.com/Lokaltog/vim-easymotion][EasyMotion]] appeared in VIM and jumped to Emacs [[http://www.emacswiki.org/emacs/AceJump][AceJump]] and then to [[https://plugins.jetbrains.com/plugin/7086?pr=phpStorm][IntelliJ]] (and all its children). If you are an Emacs user then you also see it happen a lot between modes. 
+
+For example [[http://ess.r-project.org/][ESS]] has this nice feature of evaluating the current line or region and stepping forward. It probably sounds so simple to you that you would question its value. Oh yea, you know LISP, so you get it that simple is powerful. Obviously that idea will spread to every mode for every language, and here is how, [[https://github.com/kaz-yos/eval-in-repl][eval-in-repl]]. 
+
+Today's story-unfolding for me has to do with setting up your key bindings in order from least to most disruptive to your hands and arm position. [[http://xahlee.org/][Xah Lee]] gave me the idea. [[https://github.com/grettke/home/blob/master/ALEC.txt#L5632][Here]] is how I do it. [[http://www.emacswiki.org/emacs/key-chord.el][key-chord]] is what made it possible for me. It was so uplifting to start using it. My personal workflow was so improved and I didn't think any more about how to make it better or how key-chord might serve other purposes. Then I read about [[https://github.com/uk-ar/key-combo][key-combo]]. 
+
+It does what key-chord does. OK, that is great. It does a little more though. It cycles through through symbols, too. Why do I care? In ESS the function `ess-smart-S-assign' helps you deal with assignments in R. At some point, [[http://www.johndcook.com/blog/r_language_for_programmers/][both R and S used the underscore for assignment]]. The naming standards in R are OK with using underscores in names as separators, too. So what should happen when you hit underscore in ESS mode? When you hit underscore, it starts cycling through '<-' and '\_'. It makes total sense and it is totally expected. That is nice. key-combo lets you easily do the same thing wherever you want.
+
+I want to cycle through umlaut-accented vowels. I want to cycle through escaped and non-escaped symbols in LaTeX mode ([[https://lists.gnu.org/archive/html/emacs-orgmode/2014-10/msg00942.html][here]] is one way in org). I want to cycle through through the different equality functions in our [[http://stackoverflow.com/questions/16299246/what-is-the-difference-between-eq-eqv-equal-and-in-scheme][favorite languages]] (=, eq?, eqv?, and equal?) using only the = key. So, I will.
+
+This thing called [[https://www.gnu.org/software/emacs/][EMACS]] is really a vehicle for fun. This thing called [[https://github.com/grettke/home/blob/master/ALEC.txt#L876][ALEC]] is really a vehicle for the expression of creativity. What a treat to be here to do so collaboratively with all of you fine human beings!
+
+
+

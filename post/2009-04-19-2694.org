@@ -1,0 +1,13 @@
+#+POSTID: 2694
+#+DATE: [2009-04-19 Sun 03:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: XO
+#+TITLE: A Generation 1.5 XO is in the works
+
+[[http://www.olpcnews.com/laptops/xo15/xo_laptop_gen_15_with_via_c7-m.html][This]] post explains that a Generation 1.5 XO is in the works. The primary changes are beefier hardware: 1GHz CPU, 1GB ram, 4GB storage, and HD Video and Audio.
+
+(via [[http://www.engadget.com/2009/04/18/xo-generation-1-5-promises-some-beefed-up-internals-while-we-wai/][engadget]])
+
+
+

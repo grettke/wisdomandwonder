@@ -1,0 +1,236 @@
+#+POSTID: 9608
+#+DATE: [2015-02-19 Thu 20:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: .NET, C Sharp, Entity Framework, Javascript, PluralSight, Programming, Programming Language
+#+TITLE: Entity Framework Code First Migrations
+
+Quickly learn about how EF handles schema migration in [[http://www.pluralsight.com/courses/efmigrations][Entity Framework Code First Migrations]].
+
+Personal notes follow.
+
+
+
+
+
+
+
+#+BEGIN_HTML
+  <div id="outline-container-sec-1" class="outline-2">
+#+END_HTML
+
+
+
+** 1 Introduction and Automated Migrations
+
+
+
+
+#+BEGIN_HTML
+  <div id="text-1" class="outline-text-2">
+#+END_HTML
+
+
+
+
+-  To modify the database without destroying its contents
+
+
+   -  Modification keeps schema in-line with the model and its changes
+
+
+   
+
+-  Steps stated in code, and those steps are the "migration"
+
+-  Many migrations will exist over time
+
+-  Migrations are first-class things in EF
+
+-  Initializer: MigrateDatabaseToLatestVersion
+
+-  Automated or manual "code-based" migrations
+
+-  EF includes CommandLets
+
+
+   -  Open Package Manager Console
+
+   -  Set correct project
+
+   -  Run =enable-migrations=
+
+   -  Creates first manual migration
+
+
+   
+
+-  Automatic migrations might be just fine
+
+
+   -  AutomaticMigrationDataLossAllowed = true
+
+
+   
+
+-  context.DataBase.Initialize unnecessary when you actually do anything else
+
+-  Migrations will create an initial migration for you if it is enabled when EF
+creates the database for you that first time
+
+-  When you have an existing database
+
+
+   -  Missing auto-gen'd initial migrations and history table
+
+   -  Must tell EF to do it
+
+   -  PowerShell, =add-migration= name
+
+   -  Creates your first using only model data
+
+   -  Decision must be made as to what your startup does
+
+   -  Can =-IgnoreChanges=
+
+   -  =update-database= adds migration history table to the db
+
+   -  Now you can switch to automatic migrations
+
+   -  This reflects a workflow that lets you build a database iteratively and when
+are ready switch to migrations however you want
+
+
+   
+
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+
+#+BEGIN_HTML
+  <div id="outline-container-sec-2" class="outline-2">
+#+END_HTML
+
+
+
+** 2 Code-Based Migrations
+
+
+
+
+#+BEGIN_HTML
+  <div id="text-2" class="outline-text-2">
+#+END_HTML
+
+
+
+
+-  Automatic migrations is forward-only; you may want to be able to go back
+
+-  Add-Migration and Update-Database are cool, and hand-coded are cooler
+
+-  Update-Database can run downwards, too
+
+-  Accidentally said "Scaffolding" lol
+
+-  Set AutomaticMigrationsEnabled=false to use code-based migrations
+
+-  You can tell Update-Database what project to run under
+
+
+   -  get-help update-database -detailed
+
+
+   
+
+-  You can do all this stuff right in powershell
+
+-  DbMigration has lots of goodness
+
+-  "Data Motion", setting a default value for existing rows
+
+-  Migrations allow raw SQL execution
+
+-  Each Migration can seed the database
+
+-  Update-Database -script is how you define a work-flow to go between local dev
+with auto migrations AND pushing out to production
+
+
+   -  -sourcemigration:"foo" to see changes since that migration spec
+
+
+   
+
+-  Disable migrations on your production box using a config setting
+
+
+   -  =Database.SetInitializer<FooContext>(Null);=
+
+   -  App.config
+
+
+      -  EntityFramwork:contexts:context
+
+
+         -  =disableDatabaseInitialization="true"=
+
+
+         
+
+
+      
+
+   -  This is another flow, the prod App.config disables it, and in dev/prod,
+enable it
+
+
+   
+
+-  DbMigrator lets you programattically execute migrations
+
+
+   -  Can only target a particular migration
+
+   -  Looks at the startup project to get the connection string in the config
+because the API is so limited here
+
+   -  MigratorScriptingDecorator
+
+   -  Why even use this?
+
+
+   
+
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+

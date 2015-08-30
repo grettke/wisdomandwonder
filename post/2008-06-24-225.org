@@ -1,0 +1,11 @@
+#+POSTID: 225
+#+DATE: [2008-06-24 Tue 22:25]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Update
+#+TITLE: Updated: How to print a PLT Slideshow to a file
+
+See [[http://www.wisdomandwonder.com/article/158/how-to-print-a-plt-slideshow-to-a-file][here]]
+
+
+

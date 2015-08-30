@@ -1,0 +1,75 @@
+#+POSTID: 8057
+#+DATE: [2013-10-02 Wed 03:25]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Motorcycle
+#+TITLE: Used Motorcycle Checklist Email Template
+
+Here is a template that I have found successful in minimizing the hassle for a motorcycle seller and maximizing the information summary for a motorcycle buyer. Credit is due to those who helped me with this; foul is due to me for any mistakes. It follows:
+
+Hello,
+
+Regarding your motorcycle for sale, I put together the following questions to make it pleasant both for you as a seller and me as a buyer:
+
+In case I want to set up an appointment to test-ride and purchase the bike, at what phone number(s) are you reachable throughout the day?
+
+My cell phone number is ###-###-####.
+
+Why are you selling it?
+
+Do you have the title?
+Is the title in your name?
+Is there a lien against the title?
+Does the VIN on the bike match the VIN on the title?
+Has this bike been rebuilt?
+
+Did you follow the standard maintenance schedule for the motorcycle?
+Are service records available? 
+If so for how long?
+When is the last time that the the brake pads, hoses, or any of the fluids were changed (and which ones)?
+When is the next service due?
+
+What year is it?
+How many miles does it have?
+
+Has it ever been tipped over?
+
+
+Does it come with any after-market items:
+
+* Body (seat, fender extension, foot pegs, levers, tip over bars, handlebar risers, passenger backrest, heated grips, throttle lock, tank bra)?
+
+* Braking(lines, pads, rebuilds, rotors)?
+
+* Electrical(battery, horn, power outlet for heated gear)?
+
+* Engine/Transmission(air filter, seals, cooling, spark plugs, exhaust)?
+
+* Fuel System(fuel tank quick release, carbs, jet kit, filter)?
+
+* General(vendor owners manual, Clymer manual, cover, wheel lock (any method))?
+
+* Hardware(stainless screws)?
+
+* Lighting(mounts, light kits, dual-headlight, tail lights)?
+
+* Luggage(top case mount, top case (Givi etcetera), tankbag?
+
+* Suspension(shocks, fork brace, )?
+
+* Windshield(Givi, Rifle, lip add-on)?
+
+Do you allow a test-ride before purchasing the bike?
+
+Do you accept a cashiers check?
+
+How much are you asking?
+Is that negotiable?
+
+Best wishes,
+
+firstname lastname
+
+
+
+

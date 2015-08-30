@@ -1,0 +1,22 @@
+#+POSTID: 7292
+#+DATE: [2013-03-12 Tue 21:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 02947, CB750, CB750F, Honda, Motorcycle, Repair
+#+TITLE: CB750F: Day 20
+
+-  Realized that I ought to post as of the date of when the work occurred and will do so moving forward.
+-  Got the front sprocket count, 15 +16+. The crank case was filthy, 4mm think of chain oil and gunk. Cleaned it up.
+-  Tried to take a photo to show the shifter lever height.
+-  Cleaned up the engine hangers.
+-  Couldn't find fine brass wheel brushes anywhere; will research online.
+-  Verified that fuel line fits carbs.
+-  Tidied up; the number of parts and supplies has again multiplied.
+-  Confirmed that WordPress reverses the image order regardless of how I select the files. This is undesirable since the images are out of order in relation to the post itself; need to find a fix.
+
+
+
+[gallery ids="7296,7297,7298,7299,7300,7301,7302,7303,7304,7294,7295,"]
+
+
+

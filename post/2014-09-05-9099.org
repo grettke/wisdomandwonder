@@ -1,0 +1,17 @@
+#+POSTID: 9099
+#+DATE: [2014-09-05 Fri 00:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, R-Project
+#+TITLE: Force unified coding style from all your contributors
+
+#+BEGIN_QUOTE
+  [[http://editorconfig.org/][EditorConfig]] helps developers define and maintain consistent coding styles between different editors and IDEs. The EditorConfig project consists of a file format for defining coding styles and a collection of text editor plugins that enable editors to read the file format and adhere to defined styles. EditorConfig files are easily readable and they work nicely with version control systems.
+#+END_QUOTE
+
+
+
+Via [[http://blog.rapporter.net/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rapporter-r+%28R+stories+by+Rapporter%29][rapporter]].
+
+
+

@@ -1,0 +1,48 @@
+#+POSTID: 1397
+#+DATE: [2008-12-31 Wed 03:29]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide
+#+TITLE: Unicode in Emacs
+
+From what I can see, Emacs supports Unicode just fine. I had asked about it on the [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-December/029133.html][PLT discussion list,]] where it was explained that set-language-environment function will configure Emacs to use Unicode wherever possible. Here is the documentation:
+
+
+
+#+BEGIN_QUOTE
+  (set-language-environment LANGUAGE-NAME)
+
+Set up multi-lingual environment for using LANGUAGE-NAME. This sets the coding system priority and the default input method and sometimes other things. LANGUAGE-NAME should be a string which is the name of a language environment. For example, "Latin-1" specifies the character set for the major languages of Western Europe.
+#+END_QUOTE
+
+
+
+Here is how to get a list of valid LANGUAGE-NAMEs:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(sort (mapcar (lambda (linfo) (car linfo)) language-info-alist) 'string<)
+
+#+END_EXAMPLE
+
+
+
+(Execute the command C:u before evaluating it with xe to import the result into the buffer)
+
+Here is how to set it to Unicode:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(set-language-environment "UTF-8")
+
+#+END_EXAMPLE
+
+
+
+
+
+

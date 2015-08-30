@@ -1,0 +1,17 @@
+#+POSTID: 3484
+#+DATE: [2009-07-05 Sun 22:04]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: iPhone
+#+TITLE: Pi Cubed
+
+#+BEGIN_QUOTE
+  [[http://www.sunsetlakesoftware.com/picubed][Pi Cubed]] is a visual math application for the iPhone / iPod touch that lets you perform calculations as you would on a piece of paper.
+#+END_QUOTE
+
+
+
+This app looks very interesting both in the problem that it solves and how it allows you to do so.
+
+
+

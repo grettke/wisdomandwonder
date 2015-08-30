@@ -1,0 +1,11 @@
+#+POSTID: 100
+#+DATE: [2008-04-19 Sat 22:12]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Assembly, Lisp, Programming, Teaching
+#+TITLE: Assembly and Lisp
+
+What is the connection? Find out [[http://sharjeel.2scomplement.com/2008/04/19/what-lisp-assembly-instill/#comment-62][here]].
+
+
+

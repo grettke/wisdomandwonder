@@ -1,0 +1,13 @@
+#+POSTID: 1674
+#+DATE: [2009-02-01 Sun 02:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: XO
+#+TITLE: The future of OLPC
+
+The OLPC project is redefining its [[http://www.xconomy.com/boston/2009/01/07/olpc-lays-off-half-its-staff-refocusing-mission-and-talking-about-the-0-laptop/][workforce]] and [[http://www.xconomy.com/boston/2009/01/29/olpc-20-after-layoffs-one-laptop-foundation-reboots-with-new-focus-and-big-plans/][goals]].
+
+Maybe this is not surprising. It will be interesting to see what impact the project will have made in the long run.
+
+
+

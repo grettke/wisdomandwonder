@@ -1,0 +1,13 @@
+#+POSTID: 8029
+#+DATE: [2013-09-02 Mon 02:07]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language
+#+TITLE: Software Project Management for Emacs: Cask
+
+Johan shared a link for [[https://github.com/cask/cask][Cask]] with me. Look like an excellent and well needed tool for serious Emacs development. Serious being open to definition of course.
+
+Dependency and software project management tools seem to slowly drift across language and system stacks, always being re-invented. The study of such systems, and the development of a singular and unified approach in the form of a library looks like a lot of fun and serious hard work, probably only worth pursuing if the result were a PhD.
+
+
+

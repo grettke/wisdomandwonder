@@ -1,0 +1,11 @@
+#+POSTID: 8394
+#+DATE: [2014-03-28 Fri 04:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Utility
+#+TITLE: Keeping computer stuff easy, convenient, and safe
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2014/03/C3F4A.pdf][This]] is a light-weight, informal presentation on some data-maintenance topics for typical personal-computer use.
+
+
+

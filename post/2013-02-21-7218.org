@@ -1,0 +1,17 @@
+#+POSTID: 7218
+#+DATE: [2013-02-21 Thu 17:13]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, PLT, Programming Language, Racket, Scheme
+#+TITLE: Essentials of Garbage Collection
+
+[[http://blog.brownplt.org/2013/02/19/teaching-gc.html][Another great PLT effort for the backlog]]:
+
+
+
+#+BEGIN_QUOTE
+  How do we teach students the essential ideas behind garbage collection?
+#+END_QUOTE
+
+
+

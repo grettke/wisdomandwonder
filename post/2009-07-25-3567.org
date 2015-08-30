@@ -1,0 +1,18 @@
+#+POSTID: 3567
+#+DATE: [2009-07-25 Sat 15:28]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Business
+#+TITLE: Orbitz detects known customers and increases their prices
+
+#+BEGIN_QUOTE
+  Someone told me a few months ago that Orbitz will detect and raise prices for some customers. It didn't occur to me to check this until last night. I found a good deal on Orbitz for a hotel+car package, but looked around the web for better deals. After a few minutes, I reran the search on Orbitz and the same deal came up $200 more expensive. I fired up IE's InPrivate browser and tried again. Now the original, cheaper price showed up. I reran the search in a previous browser and still got the $200 extra charge. Because I lack an MBA, I don't understand how screwing your frequent customers is a good business tactic. I'll be searching Orbitz and other travel sites using InPrivate or InFilter mode from now on because I don't trust their prices anymore. If more people find out about this, people will lose trust in Orbitz and use it less frequently. I suggest people use a different browser or computer to verify that you aren't getting screwed on prices, particularly package deals.
+#+END_QUOTE
+
+
+-- Pinku
+
+(via [[http://surana.wordpress.com/2009/07/22/orbitz-is-screwing-their-customers/][pinku]])
+
+
+

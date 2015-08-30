@@ -1,0 +1,17 @@
+#+POSTID: 5707
+#+DATE: [2011-06-01 Wed 11:12]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: ML, OCaml, Programming Language
+#+TITLE: Programming PIC microcontrollers with Objective Caml
+
+#+BEGIN_QUOTE
+  [[http://www.algo-prog.info/ocaml_for_pic/web/index.php][This]] project brings Objective Caml into the set of tools which allow to program PIC microcontrollers.
+#+END_QUOTE
+
+
+
+(via [[http://anil.recoil.org/2011/04/15/ocaml-users-group.html][Anil]])
+
+
+

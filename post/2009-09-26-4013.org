@@ -1,0 +1,13 @@
+#+POSTID: 4013
+#+DATE: [2009-09-26 Sat 15:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: N900, Programming
+#+TITLE: A Few N900 Coding Tutorials
+
+There are currently 4 tutorials on writing different kinds of apps [[http://blogs.gnome.org/tthurman/2009/09/06/n900-tutorial-contents/][here]].
+
+(via [[http://www.reddit.com/r/programming/comments/9h461/how_to_write_a_reddit_client_for_the_nokia_n900/][reddit]]).
+
+
+

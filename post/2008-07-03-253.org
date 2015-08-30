@@ -1,0 +1,17 @@
+#+POSTID: 253
+#+DATE: [2008-07-03 Thu 20:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, Programming Language
+#+TITLE: Common Lisp HyperSpec
+
+#+BEGIN_QUOTE
+  The [[http://www.lispworks.com/documentation/HyperSpec/Front/][Common Lisp HyperSpec]] is a hypertext version of the ANSI Common Lisp standard comprising approximately 15MB of data in 2300 files which contain approximately 105,000 hyperlinks.
+#+END_QUOTE
+
+
+
+(via [[http://en.wikipedia.org/wiki/Common_Lisp_HyperSpec][Wikipedia]])
+
+
+

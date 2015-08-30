@@ -1,0 +1,17 @@
+#+POSTID: 7576
+#+DATE: [2013-04-17 Wed 18:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, Programming Language, Scheme
+#+TITLE: The Concurrent Schemer
+
+#+BEGIN_QUOTE
+  "[[http://the-concurrent-schemer.github.io/scm-doc/][The Concurrent Schemer]]" (CSCM) is an implementation of the Scheme programming language built on top of the Erlang Virtual Machine.
+#+END_QUOTE
+
+
+
+-- via [[https://plus.google.com/u/0/103054545120744060994/posts/Q2knbF9M3vJ?cfem=1][G+]].
+
+
+

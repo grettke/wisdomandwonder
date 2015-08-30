@@ -1,0 +1,46 @@
+#+POSTID: 189
+#+DATE: [2008-05-21 Wed 19:13]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide
+#+TITLE: Lucida Console Font on Emacs
+
+Folks running Emacs on Windows (like me) might like to set their font to Lucida Console. 
+
+Until I find a tool or documentation on how to write X style font lines, I've copied some font-lines from other folks websites.
+
+
+#+BEGIN_EXAMPLE
+    
+; (set-default-font "-outline-Lucida Console-normal-r-normal-normal-11-82-96-96-c-*-iso8859-1")
+; (set-default-font "-*-Lucida Console-normal-r-*-*-11-82-*-*-c-*-*-ansi-")
+; (set-default-font "-*-Lucida Console-normal-r-*-*-11-82-*-*-c-*-*-#204-")
+; (set-default-font "-outline-Lucida Console-normal-r-normal-normal-12-90-96-96-c-*-iso8859-1")
+; (set-default-font "-*-Lucida Console-normal-r-*-*-12-90-*-*-c-*-*-ansi-  ")
+; (set-default-font "-outline-Lucida Console-normal-r-normal-normal-13-78-120-120-c-*-iso10646-1")
+; (set-default-font "-*-Lucida Console-normal-r-*-*-13-97-*-*-c-*-*-ansi-")
+; (set-default-font "-*-Lucida Console-normal-r-*-*-14-*-96-96-c-*-iso8859-1")
+; (set-default-font "*-Lucida Console-normal-r-*-*-15-*-96-96-c-*-iso8859-1")
+; (set-default-font "-*-Lucida Console-normal-r-*-*-16-120-96-96-c-*-iso8859-1")
+
+#+END_EXAMPLE
+
+
+
+On Windows XP Pro, the difference in the font-line settings between font-sizes doesn't /seem/ to make any difference.
+
+References:
+
+[[http://www.crsr.net/Notes/Emacs.html]]
+[[http://angg.twu.net/.emacs.local.w32.html]]
+[[http://www.emacswiki.org/cgi-bin/wiki/JonathanArnoldDotEmacs]]
+[[http://www.opensubscriber.com/message/emacs-devel@gnu.org/8995847.html]]
+[[http://www.charlescurley.com/emacs.html]]
+[[http://www.dotemacs.de/dotfiles/AndreyAKulaga.emacs.html]]
+
+/Addendum 05/30/08:/
+
+[[http://www.wisdomandwonder.com/link/200/choosing-a-font-in-emacs-on-windows][Here]] is the answer.
+
+
+

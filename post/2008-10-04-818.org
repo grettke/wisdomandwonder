@@ -1,0 +1,17 @@
+#+POSTID: 818
+#+DATE: [2008-10-04 Sat 01:03]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Functional, Programming Language
+#+TITLE: Commercial Uses of Functional Programming
+
+#+BEGIN_QUOTE
+  [[http://journals.cambridge.org/action/displaySpecialPage?pageId=856][Commercial Use articles]] focus on functional programming "as a means, not an end". As such, we solicit papers about experiences using functional languages in commercial and open source settings. The purpose of a Commercial Use article is to document and assess cases where functional programming was used in a real world setting. We are interested not only in successes, but also in failures. Articles should distill experiences using functional languages so that others can learn from those experiences, whether the lessons learned be technical, organizational, or about the narratives used to make the case to management.
+#+END_QUOTE
+
+
+
+(via [[http://groups.google.com/group/cufp/browse_thread/thread/3e7798f57dbdf785?hl=en][CUFP]])
+
+
+

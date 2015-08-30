@@ -1,0 +1,25 @@
+#+POSTID: 8074
+#+DATE: [2013-10-10 Thu 02:46]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: Cask for the truly impatient
+
+Thanks to some kind Emacsers I'm now in the modern age using [[https://github.com/cask/cask][Cask]], and what ease it brings to using Emacs. It is truly a joy; anyone not using Emacs for fear of difficulty pulling in packages can let go of their hesitation. It is as easy as writing one config file, installing the packages, and adding a couple lines to your Emacs init script. Here are the basic steps:
+
+
+
+-  Clone the cask repo.
+-  Add the bin dir to your path.
+-  Create a file named Cask, add it to your VCS, and create a link to it from your .emacs.d directory
+-  Add a repo and packages to the file.
+-  From your .emacs.d directory, run 'cask'
+-  Add the cask load and init to your init file.
+-  Start Emacs.
+
+
+
+Excellent work by that team.
+
+
+

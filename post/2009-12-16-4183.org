@@ -1,0 +1,27 @@
+#+POSTID: 4183
+#+DATE: [2009-12-16 Wed 00:21]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: 
+#+TITLE: A Favorite Passage on Programming
+
+Like [[http://calculist.blogspot.com/2009/12/computer-science-education-week.html][Geoff]], I find the following passage from [[http://www.htdp.org/][HTDP]] to be one of the most inspirational pieces I have ever read about programming. 
+
+
+
+#+BEGIN_QUOTE
+  Yet programming is more than just a vocational skill. Indeed, good programming is a fun activity, a creative outlet, and a way to express abstract ideas in a tangible form. And designing programs teaches a variety of skills that are important in all kinds of professions: critical reading, analytical thinking, creative synthesis, and attention to detail.
+
+We therefore believe that the study of program design deserves the same central role in general education as mathematics and English. Or, put more succinctly, 
+
+/everyone should learn how to design programs/. 
+
+On one hand, program design teaches the same analytical skills as mathematics. But, unlike mathematics, working with programs is an active approach to learning. Interacting with software provides immediate feedback and thus leads to exploration, experimentation, and self-evaluation. Furthermore, designing programs produces useful and fun things, which vastly increases the sense of accomplishment when compared to drill exercises in mathematics. On the other hand, program design teaches the same analytical reading and writing skills as English. Even the smallest programming tasks are formulated as word problems. Without critical reading skills, a student cannot design programs that match the specification. Conversely, good program design methods force a student to articulate thoughts about programs in proper English.
+#+END_QUOTE
+
+
+
+
+
+
+

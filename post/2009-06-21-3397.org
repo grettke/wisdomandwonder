@@ -1,0 +1,30 @@
+#+POSTID: 3397
+#+DATE: [2009-06-21 Sun 23:05]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: One Man's Scheming
+
+[[http://kernelbob.wordpress.com/2009/05/21/scheming-part-7-the-reader/][Here]] is the guide for one man's path of implementing a Scheme interpreter in C. Why did he do it?
+
+
+
+#+BEGIN_QUOTE
+  
+Why?
+I don't know Scheme. I took a couple of classes that used Lisp way back when, but don't really know Lisp or Scheme. There's no better way to learn a language than to implement it. (-:
+I want to write something in C. My C is very rusty, since I've been using Python exclusively for the last year, and C++ for the last fifteen years.
+I want to write a garbage collector. They've always fascinated me, but I've never written one.
+I have some research ideas about garbage collection that I want to explore.
+
+#+END_QUOTE
+
+
+--[[http://kernelbob.wordpress.com/2008/09/11/not-another-scheme-interpreter/][Kernel Bob]]
+
+That looks like an excellent reason to me!
+
+(via [[http://kernelbob.wordpress.com/2009/05/21/scheming-part-7-the-reader/][jrm]])
+
+
+

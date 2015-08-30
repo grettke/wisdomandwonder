@@ -1,0 +1,13 @@
+#+POSTID: 9650
+#+DATE: [2015-03-29 Sun 14:59]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Utility, Windows
+#+TITLE: MD5 & SHA Checksum Utility for Windows
+
+[[https://raylin.wordpress.com/downloads/md5-sha-1-checksum-utility/][MD5 & SHA Checksum Utility]] worked just fine for me.
+
+Great way to verify MSDN ISO downloads.
+
+
+

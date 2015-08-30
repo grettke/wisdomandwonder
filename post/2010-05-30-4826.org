@@ -1,0 +1,21 @@
+#+POSTID: 4826
+#+DATE: [2010-05-30 Sun 19:28]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: OpenCL bindings for PLT Scheme
+
+#+BEGIN_QUOTE
+  The first release of my OpenCL binding is available. 
+
+[[http://planet.plt-scheme.org/display.ss?owner=jaymccarthy&package=opencl.plt]]
+
+#+END_QUOTE
+
+
+-- Jay
+
+(via [[http://groups.google.com/group/plt-scheme/browse_thread/thread/82d1586b93366f7b/fb27cc0ae8cfc890?lnk=gst&q=OpenCL+Binding#fb27cc0ae8cfc890][PLT]])
+
+
+

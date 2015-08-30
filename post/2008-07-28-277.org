@@ -1,0 +1,11 @@
+#+POSTID: 277
+#+DATE: [2008-07-28 Mon 21:13]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming, Programming Language, mathematics
+#+TITLE: LtU is eight
+
+[[http://lambda-the-ultimate.org/node/2915][Lambda the Ultimate is 8!]]
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 6719
+#+DATE: [2012-11-29 Thu 20:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Git, Version Control
+#+TITLE: A Simple Guide to Git
+
+[[http://rogerdudler.github.com/git-guide/][Here]] is a nice and simple guide to Git.
+
+
+

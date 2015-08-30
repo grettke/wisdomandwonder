@@ -1,0 +1,17 @@
+#+POSTID: 9142
+#+DATE: [2014-09-16 Tue 14:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: philosophy
+#+TITLE: Meditation experiment personal observations 208680d2-3ed5-2a34-6dab-6a8f91899255
+
+Insufficient sleep results in [[https://en.wikipedia.org/wiki/Fatigue_(medical)#Mental_fatigue][cognitive fatigue]].
+
+Insufficient hydration and sustenance results in [[https://en.wikipedia.org/wiki/Fatigue_(medical)#Physical_fatigue][physcial fatigue]].
+
+Insufficient physical strength and cardiovascular investment/exercise results in both.
+
+Cognitive and physical fatigue seem to hamper the practice of meditation and generally contribute to having a "bad day".
+
+
+

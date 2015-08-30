@@ -1,0 +1,11 @@
+#+POSTID: 8128
+#+DATE: [2013-11-03 Sun 02:27]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Endometriosis, Research
+#+TITLE: The right question to ask
+
+Reflecting upon the [[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/07/GrantCRettkeMastersEssay.zip][little model]] tonight, it occurs to be that although I took significant efforts to simplify the model down the the smallest thing possible, it was still too big. Not the model itself, but the question. It is a probably good question, "How do endometrial cells survive and reproduce outside of the uterus?", but where does it lead? What does it reveal? I don't know. Perhaps a better question is how to predict endometriosis without surgery.
+
+
+

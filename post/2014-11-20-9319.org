@@ -1,0 +1,34 @@
+#+POSTID: 9319
+#+DATE: [2014-11-20 Thu 16:28]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Don't run mode hooks during org exports
+
+binchen has a nice post about how to disable org mode hook execution during exports. It can be a surprise when you run in batch mode and your export breaks because of dependency failures. Oh yea, the major mode hooks run during export even though you personally are not opening a buffer, Emacs is doing so!
+
+[[http://blog.binchen.org/posts/export-org-file-embedded-with-code-snippets.html][Here]] is his solution:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(defun is-buffer-file-temp ()
+  (interactive)
+  "If (buffer-file-name) is nil or a temp file or HTML file converted from org file"
+  (let ((f (buffer-file-name))
+        (rlt t))
+    (if f
+        (if (and (not (string-match temporary-file-directory f))
+                 (not (file-exists-p (replace-regexp-in-string "\.html$" ".org" f))))
+          (setq rlt nil)))
+    rlt))
+
+#+END_EXAMPLE
+
+
+
+Interesting.
+
+
+

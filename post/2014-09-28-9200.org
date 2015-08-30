@@ -1,0 +1,39 @@
+#+POSTID: 9200
+#+DATE: [2014-09-28 Sun 00:07]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: Perl regex builder in emacs
+
+-  Perl regex builder in emacs
+
+
+   -  Read the [[http://www.emacswiki.org/ReBuilder][wiki]] and there are 2 options
+
+   -  Best is [[https://github.com/wenbinye/emacs-pde/tree/master/lisp][this]]
+
+   -  Roughly confirmed that is the best and newest
+
+   -  Set up an el-get for it tonight
+
+   -  Played around for while can't get el-get to load it
+
+   -  I can't even load it myself
+
+
+      -  Probably my fault
+
+
+      
+
+   -  Posted ticket on github page [[https://github.com/wenbinye/emacs-pde/issues/1][here]]
+
+
+   
+
+
+
+
+
+
+

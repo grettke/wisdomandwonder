@@ -1,0 +1,11 @@
+#+POSTID: 3908
+#+DATE: [2009-09-17 Thu 15:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Java, Programming Language
+#+TITLE: Java Control Flow: Do you really grok it?
+
+Manu put out a challenge to it [[http://www.eiffelroom.org/blog/manus_eiffel/and_people_are_still_using_java][here]].
+
+
+

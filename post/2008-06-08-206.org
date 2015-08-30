@@ -1,0 +1,11 @@
+#+POSTID: 206
+#+DATE: [2008-06-08 Sun 07:57]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming, philosophy
+#+TITLE: C and a desert island
+
+If you were [[http://www.findinglisp.com/blog/2008/06/timeless-desert-island-language.html][trapped on a desert island]], clearly you would choose C as your only programming language!
+
+
+

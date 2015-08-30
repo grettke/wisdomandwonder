@@ -1,0 +1,15 @@
+#+POSTID: 9832
+#+DATE: [2015-07-05 Sun 20:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Android, Galaxy, Problem, S3, Samsung
+#+TITLE: Samsung Galaxy S3 Will Not Obtain IP Address
+
+My Samsung Galaxy S3 refuses to retain it's DHCP assigned IP address. The [[http://androidforums.com/threads/obtaining-ip-address-problem.610480/][first post]] talked about [[https://superuser.com/questions/258151/how-do-i-check-what-dns-server-im-using-on-mac-os-x][this solution]]. Set up your phone manually, statically, on your network. 
+
+The key was to keep letting the router assign that IP address using DHCP; even when filtering by MAC address is turned off and the phone is set up statically! 
+
+[[https://www.youtube.com/watch?v=Nq4TcAH9eZQ][Here]] is how to check the MAC address of your phone: Settings -> WiFi -> Settings -> Advanced.
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 4433
+#+DATE: [2010-01-18 Mon 03:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Scheme
+#+TITLE: Scheme Distribution Email Lists
+
+[[http://www.wisdomandwonder.com/scheme][Here]] is a collection of email lists for some popular Scheme distributions.
+
+There are plenty of indexes of Scheme distributions out there; but all that I wanted was a convenient index to all of the active email lists.
+
+
+

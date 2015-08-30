@@ -1,0 +1,13 @@
+#+POSTID: 4249
+#+DATE: [2009-12-23 Wed 01:43]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Software
+#+TITLE: Opera Doesn't Like to Run for Days
+
+Opera is a great web browser. It is designed to facilitate a pleasant web-browsing experience. It doesn't seem to like to run for days at a time, though.
+
+On OS X, it has to be forcibly quit every few days or so.
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 65
+#+DATE: [2008-02-24 Sun 21:38]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp
+#+TITLE: Dick Gabriel on Lisp
+
+A while back I listened to an [[http://www.se-radio.net/podcast/2008-01/episode-84-dick-gabriel-lisp][interview]] that [[http://www.se-radio.net/][Software Engineering Radio]] did with [[http://www.dreamsongs.com/][Richard P. Gabriel]].
+
+Gabriel is well spoken, has a valuable historical perspective, and the interview has a lot of interesting bits that folks new to Lisp may never before have heard.
+
+
+

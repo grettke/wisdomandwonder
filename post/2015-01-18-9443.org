@@ -1,0 +1,15 @@
+#+POSTID: 9443
+#+DATE: [2015-01-18 Sun 14:57]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: Emacs lets you add buttons to your document
+
+Of course it [[https://www.gnu.org/software/emacs/manual/html_mono/elisp.html#Buttons][does]].
+
+Nice lightweight example of the difference between a document's definition on the storage media (file-system) and its presentation to the user. Not to lean too hard on this, but if you grok what is happening here then you will enjoy Emacs a lot more.
+
+Via [[https://emacs.stackexchange.com/questions/7494/is-here-a-package-to-simplify-clickable-text][here]].
+
+
+

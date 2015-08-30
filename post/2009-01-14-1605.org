@@ -1,0 +1,11 @@
+#+POSTID: 1605
+#+DATE: [2009-01-14 Wed 20:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Why the top level is hopeless
+
+Dave explains why the top level in Scheme is hopeless [[http://calculist.blogspot.com/2009/01/fexprs-in-scheme.html][here]].
+
+
+

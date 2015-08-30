@@ -1,0 +1,13 @@
+#+POSTID: 6442
+#+DATE: [2012-10-10 Wed 15:49]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Java, Jess, Rules Engine
+#+TITLE: Making jess-mode v1.2 work on Emacs 24
+
+If you try running [[http://jess-mode.sourceforge.net/][jess-mode]] with Emacs 24 you get an error about "shared-lisp-mode-map" and jess-mode doesn't work. Someone already described the fix [[http://planetjava.org/java-jess/2004-05/msg00006.html][here]], and it works! 
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/10/jess-mode-1.2-emacs-24.patch_.gz][Here]] is a patch.
+
+
+

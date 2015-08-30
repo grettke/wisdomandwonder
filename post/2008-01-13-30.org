@@ -1,0 +1,63 @@
+#+POSTID: 30
+#+DATE: [2008-01-13 Sun 23:31]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Teaching, XO
+#+TITLE: Grants OLPC XO Mind-Share Experiment
+
+The [[http://laptop.org/][OLPC]] project's [[http://laptop.org/vision/index.shtml][vision]] is to “provide children around the world with new opportunities to explore, experiment and express themselves.” To help further their goal, the OLPC folks [[http://www.laptopgiving.org/en/index.php][gave us the opportunity]] to purchase one laptop for ourselves while at the same time purchasing one for a child. Over the past month I've read, talked, and blogged about the [[http://laptop.org/laptop/][XO]], played and tinkered on the XO, programmed, hacked, and surfed the web on the XO. It has been a lot of fun, but more importantly, it has changed how I think.
+
+OLPC is pitched as a learning project, but it is so much more than that. When you learn, you change; you make opinions and get ideas and live your life differently. It is a personal growth project. You will collaborate, exchange ideas, and make decisions. You will develop your own philosophy, hear others, and be a better person for it. Whatever path you take on this journey will lead you to the same destination: knowledge. 
+
+If you weren't able to, didn't want to, or maybe even didn't know about the XO before today, it is not too late to spend some time getting to know more about both the OLPC project and the [[http://laptop.org/laptop/][wonderful little machine]] that is part of it. If you are interested, please read on.
+
+
+
+Hi folks, I'm excited to tell you about a project that I decided to start: Grants OLPC XO Mind-Share Experiment. My idea is pretty simple: the OLPC XO changed how I think, now I want you to have that same chance. 
+
+
+
+**** The Plan
+
+
+
+
+1. Find the next interested party, “YOU”.
+2. Send Grant an email to let him know of the next recipient along with their email address and blog url.
+3. You get the XO.
+4. You experiment with it for 1-4 weeks.
+5. You leave something which others can learn from in the XO's “library” (the 16GB SDHC card I've installed).
+6. You blog about what you have learned and if/how it changed what you think.
+7. You go to step #1.
+8. When no one else is interested, or I think it is time for the experiment to end, the machine will come back home to me and we can have a review of the contents of the library!
+
+
+
+
+
+**** The Rules
+
+
+
+
+-  You must have fun.
+-  You must blog.
+-  You must follow “the plan”.
+-  You must use your good judgment in sharing; the plan in place is to create a /chain of trust/ in this experiment, starting with the first person who receives the XO.
+
+
+
+
+
+**** The Philosophy
+
+
+
+
+-  This is an experiment.
+-  This is a chance to think a little differently about things.
+-  The worst thing that could happen is that the machine is destroyed.
+-  The best thing that could happen is that at least one person could have the chance to think a little differently about things.
+
+
+

@@ -1,0 +1,17 @@
+#+POSTID: 33
+#+DATE: [2008-01-22 Tue 04:07]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Java, Programming Language
+#+TITLE: The benevolent dictator behind Java
+
+There is a widespread belief among most Java programmers that while syntactic extension is indeed valuable, its introduction to Java would result in, among other things, human sacrifice, dogs and cats living together - in other words: [[http://www.artima.com/weblogs/viewpost.jsp?thread=5246][mass hysteria]]. What I meant by "most programmers" is really just one Java programmer, [[http://bracha.org/][Gilad Bracha]].
+
+Ostensibly Gilad is right on about this one. Macros will result in horribly unreadable code; but we all know that is not true. We have all seen unreadable code, in any number of languages that haven't got macros, and even in Java (sorry Gilad). Macros in Java would ultimately expand into Java, which every Java programmer could read; so the idea that Java programmers couldn't read the code is pretty far-fetched (not to say that folks wouldn't use macros to generate unreadable code, which is entirely possible). Gilad knows this, though; he is a programmer, so I don't really buy his marketing mumbo-jumbo on this one. So I wonder, what exactly his point is. It probably isn't even fair to try and grok his point from the little excerpt provided in the link, but here goes anyway.
+
+His point is that Java follows the approach of providing a lot of specialized constructs rather than a few general constructs on which to build new features; so macros would not a good fit (for comparison and contrast see [[http://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-3.html#%_chap_Temp_3]["Programming languages should be designed not by piling feature on top of feature..."]]).
+
+Simple. Succinct. Consistent. All the signs of someone who knows how to make a decision. Thanks Gilad!
+
+
+

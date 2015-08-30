@@ -1,0 +1,15 @@
+#+POSTID: 183
+#+DATE: [2008-05-19 Mon 18:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Java, Programming Language
+#+TITLE: Closure Cookbook
+
+At Java One 08 [[http://gafter.blogspot.com/][Neal Gafter]] gave the "Closure Cookbook" on Closures in Java; in particular the [[http://javac.info/][BGGA]] implementation that he is proposing as a [[http://www.javac.info/consensus-closures-jsr.html][JSR]].
+
+To sum up the presentation, it was about [[http://en.wikipedia.org/wiki/Closure_%28computer_science%29][closures]], in Java. In particular, it went into explaining what are closures and how you might use them. The tough, and more interesting part, is how you would use them in a statically typed language like Java. 
+
+It will be interesting to find out what percentage of the Java community will actually grok how to utilize closures. The impression that I got from the presenter is that closures will be limited to the library and API writers in all but trivial cases.
+
+
+

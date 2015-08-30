@@ -1,0 +1,15 @@
+#+POSTID: 5884
+#+DATE: [2011-08-14 Sun 00:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Naughty Dogs use Scheme in Video Games Again
+
+They are presenting on it at CUFP this year; details [[http://cufp.org/conference/sessions/2011/functional-mzscheme-dsls-game-development][here]].
+
+[[http://www.gameenginebook.com/gdc09-statescripting-uncharted2.pdf][Here]] is a presentation from GDC '09 about how they did it.
+
+(via [[http://groups.google.com/group/racket-users/browse_thread/thread/f3a2cab31cfa5dc2/6b6d7a028d44a6e0?lnk=gst&q=CUFP#6b6d7a028d44a6e0][Racket]])
+
+
+

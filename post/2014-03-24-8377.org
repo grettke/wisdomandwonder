@@ -1,0 +1,11 @@
+#+POSTID: 8377
+#+DATE: [2014-03-24 Mon 23:22]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Artificial Intelligence, CLIPS, Emacs, Ide, Programming, Programming Language, Reproducible research, Rules Engine, elisp, org-mode
+#+TITLE: OcCLIPS
+
+It would be nice to have a lovingly supported CLIPS mode along with org-mode literate programming (babel) and a clear legal pedigree.
+
+
+

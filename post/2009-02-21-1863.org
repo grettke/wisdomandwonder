@@ -1,0 +1,13 @@
+#+POSTID: 1863
+#+DATE: [2009-02-21 Sat 02:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Programming Language, Scheme, Teaching, philosophy
+#+TITLE: Nils M Holm's Programming Textbooks Free
+
+Nils has release all of his works for free, asking that if you wish to provide some sort of compensation that you commit to any number of practices listed on his site. Everything is explained [[http://t3x.org/books/][here]].
+
+(via [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/8df6f08cfebb622c#][comp.lang.scheme]])
+
+
+

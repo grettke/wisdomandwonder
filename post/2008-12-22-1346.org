@@ -1,0 +1,15 @@
+#+POSTID: 1346
+#+DATE: [2008-12-22 Mon 02:49]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: XO
+#+TITLE: OLPC XO Give One Get One Program is Back
+
+[[http://laptop.org/en/participate/give-one-get-one.shtml][G1G1]] is back via Amazon.com. Check it out [[http://laptop.org/xo/amazon][here]].
+
+(via [[http://www.olpcnews.com/forum/][OLPC News]])
+
+
+
+
+

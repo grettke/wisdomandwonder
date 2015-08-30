@@ -1,0 +1,11 @@
+#+POSTID: 9204
+#+DATE: [2014-09-28 Sun 01:32]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: Reading Codebook Files in R
+
+[[http://jason.bryer.org/posts/2013-01-10/Function_for_Reading_Codebooks_in_R.html][Here]] is a great discussion about how to automatically utilize codebooks in R via [[http://www.r-bloggers.com/reading-codebook-files-in-r/][r-bloggers]].
+
+
+

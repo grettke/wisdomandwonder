@@ -1,0 +1,20 @@
+#+POSTID: 5145
+#+DATE: [2010-09-06 Mon 16:04]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 22656, Concours, Kawasaki, Motorcycle, Repair
+#+TITLE: Fender extender installed
+
+Saturday night I finished up a project I had started on Friday night, installing a fender-extender on the Connie. 
+
+While I hadn't had any problems with crud getting thrown up from the front wheel, I just didn't like the idea of that happening. There are a few vendors, but I went with [[http://www.murphskits.com/catalog/product_info.php?cPath=77&products_id=276][Murph's Fender Extender]]. They run a great shop, and cater to Connie owners.
+
+Installation was pretty straightforward. After talking to the guys on the C.O.G. list about it, I realized that it really wasn't necessary to take off the front wheel or the fender itself; rather I could install it while both were mounted and it would probably be OK. The hardest part was finding the glue. 
+
+Reading the directions on Murph's page I find that they are a little more detailed than what came with the kit! Well, after clamping the thing for 10 hours and on top of that using two steel bolts bonded with red loctite; I think it should stay on there just fine.
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/09/2010_Fender_Extender-a.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/09/2010_Fender_Extender-a-150x150.jpg]]]][[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/09/2010_Fender_Extender-b.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/09/2010_Fender_Extender-b-150x150.jpg]]]][[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/09/2010_Fender_Extender-c.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/09/2010_Fender_Extender-c-150x150.jpg]]]][[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/09/2010_Fender_Extender-d.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/09/2010_Fender_Extender-d-150x150.jpg]]]][[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/09/2010_Fender_Extender-e.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/09/2010_Fender_Extender-e-150x150.jpg]]]][[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/09/2010_Fender_Extender-f.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/09/2010_Fender_Extender-f-150x150.jpg]]]][[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/09/2010_Fender_Extender-g.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2010/09/2010_Fender_Extender-g-150x150.jpg]]]]
+*Addendum:09/11/10*
+
+
+
+

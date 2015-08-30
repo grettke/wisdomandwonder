@@ -1,0 +1,13 @@
+#+POSTID: 9634
+#+DATE: [2015-03-06 Fri 18:10]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Windows, philosophy
+#+TITLE: Settling Into Windows
+
+If you haven't used Windows for a few years then plan on taking 6 weeks before settling back into it.
+
+Most things you felt were "issues" will simply disappear.
+
+
+

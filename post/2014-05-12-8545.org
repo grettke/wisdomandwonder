@@ -1,0 +1,30 @@
+#+POSTID: 8545
+#+DATE: [2014-05-12 Mon 01:46]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Firewall, OSX, Utility
+#+TITLE: How the OSX firewall and Little Snitch work together
+
+Coming from UNI*, you might be wondering, like me, exactly how the OSX firewall and [[http://www.obdev.at/products/littlesnitch/index.html][Little Snitch]] play together. It is really simple, and explained [[http://forums.obdev.at/viewtopic.php?f=1&t=6936][here]] by the author:
+
+
+
+-  LittleSnitch is an application level firewall. It does not operate anywhere near the network stack or kernel.
+-  LittleSnitch is not stateful.
+-  LittleSnitch has its rules applied after the OSX firewall. The OSX firewall comes first in the filter chain.
+-  The OSX firewall should remain turned on. LittleSnitch supplements, but does not replace, the OSX firewall.
+
+
+
+*Addendum: 2014-05-12*
+
+My initial configuration of LittleSnitch was the default with preconfigured acceptances and blockades. Its alerts have been very helpful in helping to educate me on what exactly is running, and what it is doing, without having to assumedly sit at the terminal with a sniffer or netstat. 
+
+One thing that I've found helpful is to get into the "application firewall" mentality of thinking about how generally you would like a program to behave. The granularity is as you would expect, as broad or granular as you wish. One of the time savers using an app like this is that you may simply configure it as you go via its pop up messages. Every time that you receive one you may think as much or as little about what it is telling you, with ease, since you can go back to edit your rules (delete, persist, or create new) with only two clicks. The UI is quite pleasant given the number of variables that one may want to tweak for a non-trivial setup; for my initial trivial use it is quite nice to use, which is important, too.
+
+*Addendum: 2014-05-12*
+
+The key point that I failed to mention is that is LittleSnitch is primarily for firewalling outgoing network connections and only recently added support for firewalling incoming network connections.
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 1415
+#+DATE: [2008-12-31 Wed 04:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Sandbox improvements in PLT Scheme
+
+PLT Scheme provides an interesting "[[http://www.cs.brown.edu/courses/csci1730/2008/Manual/reference/Sandboxed_Evaluation.html][sandbox]]" feature for performing controlled evaluation of code. This is particularly useful for addressing the security risks faced by using direct eval-uation of the code. The improvements can be found [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-December/029244.html][here]].
+
+
+

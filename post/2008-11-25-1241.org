@@ -1,0 +1,17 @@
+#+POSTID: 1241
+#+DATE: [2008-11-25 Tue 03:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: gnuplot.plt
+
+#+BEGIN_QUOTE
+  [[http://planet.plt-scheme.org/display.ss?package=gnuplot.plt&owner=vyzo][This library]] provides a wrapper interface to gnuplot. Using the library, mzscheme programs can spawn inferior gnuplot processes and plot data to windows or hardcopy with a programmatic interface.
+#+END_QUOTE
+
+
+
+(via [[http://blog.plt-scheme.org/2008/11/simple-gnuplotting.html][PLT Scheme Blog]])
+
+
+

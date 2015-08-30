@@ -1,0 +1,32 @@
+#+POSTID: 3926
+#+DATE: [2009-09-21 Mon 19:11]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Learning, Programming, Teaching
+#+TITLE: Tail Recursion is a Brain Hack Not a Compiler Hack
+
+A few months ago [[http://neopythonic.blogspot.com/2009/04/tail-recursion-elimination.html][this]] last-in-a-thread-of-posts generated a lot of buzz. In it, the creator of the Python programming language shared his views about how [[http://en.wikipedia.org/wiki/Tail_recursion][tail-recursion]] does not belong in Python. The only problem with the post(s) was that he, admittedly, did not understand tail-recursion. This course of events, the blog posts, comments, and aftermath, were interesting in what they revealed:
+
+
+
+1. How one person can affect how so many /think/
+2. How tail-recursion is so misunderstood within the developer community
+
+
+
+The first, of course, is the prerogative of any [[http://en.wikipedia.org/wiki/Benevolent_Dictator_For_Life][BDFL]]. It is sort of fascinating how the edict that he set forth is enough to convince thousands and thousands of Pythonistas that tail-recursion is flawed and unnecessary (/that/ is power!). /That/ is [[http://flyingfrogblog.blogspot.com/2009/04/when-celebrity-programmers-attack-guido.html][sad]], but, it is a privilege of the role. The interesting part is the impact of never understanding tail-recursion (#2): it removes an entire style of abstraction from the developers toolbox.
+
+Here are 3 works that explain that style:
+
+
+
+1. [[http://www.wisdomandwonder.com/article/497/lambda-the-ultimate-imperative][LAMBDA: The Ultimate Imperative]]
+2. [[http://www.wisdomandwonder.com/article/509/lambda-the-ultimate-goto][LAMBDA: The Ultimate GOTO]]
+3. [[http://www.wisdomandwonder.com/article/1426/automata-via-macros][Automata via Macros]]
+
+
+
+I haven't found any other resources than those and Jon's post [[http://flyingfrogblog.blogspot.com/2009/04/when-celebrity-programmers-attack-guido.html][here]] (see the last section) that touch upon the style. Do you know of any others?
+
+
+

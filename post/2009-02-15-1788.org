@@ -1,0 +1,25 @@
+#+POSTID: 1788
+#+DATE: [2009-02-15 Sun 21:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Java, Programming Language
+#+TITLE: Putting Java’s Null in its Place
+
+[[http://www.ccs.neu.edu/home/cobbe/][Richard Cobbe's]] thesis looks interesting:
+
+
+
+#+BEGIN_QUOTE
+  Mainstream object-oriented languages include a null value that inhabits every object type and that pervades programs. It exists both because the language semantics requires it in certain places and because it is the most convenient representation for common patterns, such as for sentinel values indicating failure. Safety requires implementations of these languages to insert run-time checks throughout programs to determine whether object references are null at each field lookup and method call.
+
+The ubiquity of null in object-oriented programs leads to severe engineering problems for programmers. First, the error messages issued by the run-time checks are typically not sufficiently informative to help the programmer find the source of the error. Second, the type systems in OO languages generally do not distinguish null from other values of (object) type, preventing the programmer from stating important invariants about the flow of null in the type system. Third, programmers' standard use of null as a sentinel does not unambiguously represent failures. To resolve or avoid these ambiguities, component authors must incorporate additional complexity into their interfaces, and this complexity can lead to subtle bugs.
+
+In [[http://www.ccs.neu.edu/scheme/pubs/dissertation-cobbe.pdf][this dissertation]], we propose two changes to Java that allow us to completely remove the null value. Doing so addresses the problems above and provides significant engineering benefits to the programmer. Further, we demonstrate the practical feasibility of our proposal with a migration path that allows programmers to shift large codebases from Java to our new language, one class at a time.
+#+END_QUOTE
+
+
+
+(via [[http://lambda-the-ultimate.org/node/3186][LtU]])
+
+
+

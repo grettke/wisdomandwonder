@@ -1,0 +1,13 @@
+#+POSTID: 3626
+#+DATE: [2009-07-29 Wed 18:43]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Ikarus, PLT, Programming Language, Scheme
+#+TITLE: Ikarus now supports PLT Scribble syntax
+
+Ikarus now supports PLT [[http://docs.plt-scheme.org/scribble/index.html][Scribble]] syntax.
+
+(via [[http://groups.google.com/group/ikarus-users/browse_thread/thread/ab28d2b823ce812][Ikarus]])
+
+
+

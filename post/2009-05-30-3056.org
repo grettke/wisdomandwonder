@@ -1,0 +1,19 @@
+#+POSTID: 3056
+#+DATE: [2009-05-30 Sat 02:42]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, philosophy
+#+TITLE: The Agenda of SICP
+
+#+BEGIN_QUOTE
+  SICP (as it is often referred to) has its own agenda: convincing the reader that the most important thing computers can do is interpreting computer programs.
+#+END_QUOTE
+
+
+
+-- [[http://neopythonic.blogspot.com/2009/05/so-you-want-to-learn-python.html][Guido van Rossum]]
+
+(via [[http://www.reddit.com/r/programming/comments/8np9t/sicp_has_its_own_agenda_convincing_the_reader/][reddit]])
+
+
+

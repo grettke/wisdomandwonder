@@ -1,0 +1,11 @@
+#+POSTID: 224
+#+DATE: [2008-06-24 Tue 22:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Update
+#+TITLE: Updated: What every Subversion user must know about Git
+
+See [[http://www.wisdomandwonder.com/link/164/what-every-subversion-user-must-know-about-git][here]]
+
+
+

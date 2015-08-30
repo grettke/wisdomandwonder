@@ -1,0 +1,19 @@
+#+POSTID: 7187
+#+DATE: [2013-02-20 Wed 03:48]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: 02947, CB750, CB750F, Honda, Motorcycle, Repair
+#+TITLE: CB750F: Day 16
+
+Tonight I installed the gaskets on the carb connecting hardware with incident. Picked up the float valves and installed them. Measured and adjusted the float height from carb body to 15.5mm exactly and realized that I had done it on the near end to the swing arm, not the far, and then re-did it. Patience is the key. Installed the float bowls; stretching the seal a little bit to make it sit right and install all of the bodies. Following the MacGregor guide, I did test the accelerator pump with some gasoline, too. 
+
+Ignore the photo with the accelerator pump shaft dust cover installed, that is wrong, you have to install it into the carb body itself, you can see where it fits. Couldn't get it in there and Pat showed you just need a little spit lube to seat it in there. Of course, I didn't thread it through correctly, so I'll re-do it next week. Otherwise got all of the carb bodies assembled. It may not look it, but there was a lot of progress today. 
+
+Noticed I'm missing a screw for the throttle cable mount, or more accurately did not specify enough following the build guide; will contact them to find out more. 
+
+After prioritizing my fix list, had Pat look at it and do some estimates: there is at least 10 hours remaining, along with two nights to fix the engine mounts, along with getting the carbs wrapped up, need to organize that work.
+
+[gallery ids="7192,7193,7194,7195,7196,7197,7198,7199,7200,7201"]
+
+
+

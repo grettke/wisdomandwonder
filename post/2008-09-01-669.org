@@ -1,0 +1,11 @@
+#+POSTID: 669
+#+DATE: [2008-09-01 Mon 19:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Fractal, mathematics
+#+TITLE: Fractal Art: Complex and Beautiful Color Inspiration 
+
+A brief article, with a lot of good pictures, about fractals on an art forum can be found [[http://www.colourlovers.com/blog/2008/08/29/fractal-art-complex-and-beautiful-color-inspiration/][here]].
+
+
+

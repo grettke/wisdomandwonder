@@ -1,0 +1,15 @@
+#+POSTID: 102
+#+DATE: [2008-04-20 Sun 22:01]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Programming Language, Scheme
+#+TITLE: Enhanced Emacs Support for Editing and Running Scheme Code
+
+[[http://www.neilvandyke.org/][Neil Van Dyke]] is a hacker, researcher, Emacs wiz, [[http://www.neilvandyke.org/weblog/][blogger]], and producer of numerous of Scheme libraries. One of his packages, [[http://www.neilvandyke.org/quack/][Quack]] is of particular interest to Emacs using Schemers.
+
+*Addendum: 8/1/8*
+
+New feature: compile mode can navigate from PLT setup-plt errors.
+
+
+

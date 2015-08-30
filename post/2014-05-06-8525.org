@@ -1,0 +1,13 @@
+#+POSTID: 8525
+#+DATE: [2014-05-06 Tue 20:50]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Styles for reading exported org-mode documents in HTML
+
+Exporting org-mode documents to HTML offers 3 styles for navigating the exported document. Those styles are listed [[http://orgmode.org/manual/JavaScript-support.html][here]].
+
+You may be pleasantly surprised by the "info" style view.
+
+
+

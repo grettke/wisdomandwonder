@@ -1,0 +1,13 @@
+#+POSTID: 9454
+#+DATE: [2015-01-25 Sun 21:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: A reference card for code execution in org 8
+
+[[https://github.com/fniessen/refcard-org-babel][refcard-org-babel]] "contains the reference documentation that describes how to perform code execution within Org mode documents using Org Babel 8".
+
+Look forward to referencing this when I read about other's personal org workflows, and, document down my own.
+
+
+

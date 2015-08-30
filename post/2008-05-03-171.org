@@ -1,0 +1,11 @@
+#+POSTID: 171
+#+DATE: [2008-05-03 Sat 23:12]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Programming
+#+TITLE: Toy programming tasks are sweet
+
+[[http://jfkbits.blogspot.com/2008/05/little-lisps-programming-candy-or.html][Here]] is a good article about the role and value of "toy" programming tasks.
+
+
+

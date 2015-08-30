@@ -1,0 +1,23 @@
+#+POSTID: 45
+#+DATE: [2008-02-09 Sat 14:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Learning, Music, Programming
+#+TITLE: Sometimes the first 80 percent is "good enough"
+
+There is a joke among programmers: when the project manager asks how complete is the project, and you've finally reached the "%80 complete" mark, you tell him the good news because now you all know how long it will take to finish the /2nd %80/ of the project! Sometimes this is just how efforts evolve; and it its not just limited to work efforts.
+
+For the past month of so I've been practicing a beautiful song called [[http://youtube.com/watch?v=_swFHp-0_sY]["Over the Hills and Far away"]] (aka OTHAFA) by [[http://www.ledzeppelin.com/][Led Zeppelin]].
+
+It has been a challenge for me. The practice-duration/song-duration ratio of OTHAFA's has been a high. Learning it has almost been like work project: you get an idea of what needs to happen, start digging in, and eventually figure out what *really* needs to happen! 
+
+Ultimately, it took me about a month or so to learn all of the parts of the song (aka the first %80), and based on what I can see it will take another month to be able play it well enough to perform it (aka the second %80). Don't get me the wrong, the first %80 means I play the parts correctly and it sounds nice. There are just all of the details that really take it from sounding "good" to "great". It has been frustrating, though; as I started studying the 2nd %80 my progress slowed and it was a little bit disheartening. I soldiered on, but man...
+
+Talking to my guitar teacher about it really helped me put things in perspective. He explained that the goal of learning the song was to learn all of the guitar playing techniques in OTHAFA that I would end up using in %80 of all of the other songs that I would end up learning. In other words, he had a clearly defined pedagogical approach to my course of study, mastering the 2nd %80 was more like a bonus, or an optional goal that I could pursue if I so desired. Wow, I had no idea; I felt a lot better after hearing that.
+
+My take away from all of this is what when it comes to learning, it is really up to you to decide whether or not *now* is the right time to pursue that 2nd %80 of whatever you are learning. Perhaps even more important is using enough discretion to determine whether or not you are actually moving into that 2nd %80, or you are simply moving outside your comfort zone because *that* can feel even more difficult that the latter! 
+
+Whatever the case, keep on learning, whatever you can, and have fun doing it!
+
+
+

@@ -1,0 +1,17 @@
+#+POSTID: 1205
+#+DATE: [2008-11-16 Sun 14:47]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: LaTeX, TeX, Utility
+#+TITLE:  tufte-latex 
+
+#+BEGIN_QUOTE
+  The [[http://tug.ctan.org/tex-archive/macros/latex/contrib/tufte-latex/][tufte-handout]] document class defines a style similar to the style [[http://www.edwardtufte.com/tufte/][Edward Tufte]] uses in his books and handouts. Tufte's style is known for its extensive use of sidenotes, tight integration of graphics with text, and well-set typography
+#+END_QUOTE
+
+
+
+(via [[http://groups.google.com/group/comp.text.tex/browse_thread/thread/e2db15e34280d8b1#][comp.text.tex]])
+
+
+

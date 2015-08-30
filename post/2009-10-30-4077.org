@@ -1,0 +1,24 @@
+#+POSTID: 4077
+#+DATE: [2009-10-30 Fri 15:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Computational Science, Learning, PhD, Statistics
+#+TITLE: Mid Term Probability Update
+
+In the first half of the semester in the Probability course I am taking we learned (among other things) how to, given the [[http://en.wikipedia.org/wiki/Probability_distribution][probability distribution function]] for any distribution, derive, if possible, the:
+
+
+-  [[http://en.wikipedia.org/wiki/Cumulative_distribution_function][Commulative Distribution Function]]
+-  [[http://en.wikipedia.org/wiki/Population_mean][Population Mean]]
+-  [[http://en.wikipedia.org/wiki/Population_variance][Population Variance]]
+-  [[http://en.wikipedia.org/wiki/Population_standard_deviation][Population Standard Deviation]]
+-  [[http://en.wikipedia.org/wiki/Median][Population Median]]
+-  [[http://en.wikipedia.org/wiki/Mode_(statistics)][Population Mode]]
+-  [[http://en.wikipedia.org/wiki/Moment-generating_function][Moment Generating Function]]
+
+
+
+Everyone seems to be excited about the second half of the semester when we will start building on this foundation.
+
+
+

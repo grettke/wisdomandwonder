@@ -1,0 +1,41 @@
+#+POSTID: 6031
+#+DATE: [2011-11-14 Mon 02:49]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Learning, ML, Programming Language, SML, Teaching
+#+TITLE: A Slow Study Group for ML
+
+Hi,
+
+I'm going to work through
+
+[[http://www.ccs.neu.edu/home/matthias/BTML/]]
+
+and
+
+[[http://www.cl.cam.ac.uk/~lp15/MLbook/]]
+
+using
+
+[[http://www.smlnj.org/]]
+
+SLOWLY over MANY MONTHS.
+
+The reason is that I've never learned a statically typed functional programming language, I feel weak on recursive data type definitions, and I am curious about compiler and interpreter construction. So, I'm looking for a way to learn about all 3 at once.
+
+Why ML?
+
+
+
+1. Proven, excellent pedagogical language with great resources.
+2. Smaller than OCaml, F#, and Haskell; so I won't get distracted with tons of “stuff”
+3. Puts me in a good position if I wanted to use it “for real” that OCaml, F#, Haskell, or even Scala and some other ML in Java languages would be a good follow up path in terms of leveraging the investment.
+
+
+
+Basically when I sit down to learn the basics of anything from #2 I feel like they assume you know the basics of ML, and well, I don't!
+
+Let me know if you want to review problems together.
+
+
+

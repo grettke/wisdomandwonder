@@ -1,0 +1,13 @@
+#+POSTID: 8554
+#+DATE: [2014-05-13 Tue 14:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Polymode is on MELPA
+
+[[https://github.com/vitoshka/polymode][Polymode]] is out on MELPA now.
+
+(via [[https://stat.ethz.ch/pipermail/ess-help/2014-May/009926.html][Vitalie]])
+
+
+

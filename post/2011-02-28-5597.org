@@ -1,0 +1,13 @@
+#+POSTID: 5597
+#+DATE: [2011-02-28 Mon 03:55]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Concours, Kawasaki, Motorcycle
+#+TITLE: Harry’s Concours (C10) Motorcycle Maintenance Excel spreadsheet
+
+Thanks to Harry Martin for putting together [[http://roadrash.harrymartincartoons.com/links/][this]]calculator spreadsheet for Concours motorcycle maintenance.
+
+Local copy mirrored here: [[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2011/02/Harry’s-Concours-C10-Motorcycle-Maintenance-Excel-spreadsheet.xls][Harry's Concours (C10) Motorcycle Maintenance Excel spreadsheet]]
+
+
+

@@ -1,0 +1,17 @@
+#+POSTID: 9153
+#+DATE: [2014-09-18 Thu 01:06]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Literate Programming, Programming Language, R-Project, Reproducible research
+#+TITLE: R Markdown
+
+#+BEGIN_QUOTE
+  [[http://rmarkdown.rstudio.com/][R Markdown]] is an authoring format that enables easy creation of dynamic documents, presentations, and reports from R. It combines the core syntax of markdown (an easy-to-write plain text format) with embedded R code chunks that are run so their output can be included in the final document. R Markdown documents are fully reproducible (they can be automatically regenerated whenever underlying R code or data changes).
+#+END_QUOTE
+
+
+
+
+
+
+

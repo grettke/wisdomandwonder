@@ -1,0 +1,22 @@
+#+POSTID: 5222
+#+DATE: [2010-09-12 Sun 13:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Software, Windows
+#+TITLE: Microsoft AntiVirus is Free for Windows XP
+
+[[http://www.microsoft.com/security_essentials/support.aspx?mkt=en-us][Microsoft AntiVirus]] is free and it [[http://social.answers.microsoft.com/Forums/en-US/msestart/thread/6e72ccc5-51b5-4ca4-85da-da8700d0f767][works for Windows XP]]:
+
+
+
+#+BEGIN_QUOTE
+  Yes. You can install Microsoft Security Essentials on XP and Win 7.
+#+END_QUOTE
+
+
+---RickImAPC
+
+Awesome.
+
+
+

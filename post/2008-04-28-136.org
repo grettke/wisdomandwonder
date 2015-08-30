@@ -1,0 +1,17 @@
+#+POSTID: 136
+#+DATE: [2008-04-28 Mon 01:50]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Lisp, Programming, philosophy
+#+TITLE: Lisp Changes How You Think
+
+It is true what people say about Lisp, it changes how you think. In particular, it changes how you think about yourself! 
+
+If you pursue the "Road to Lisp", it will serve as an elucidative experience as to whether or not you are "good" at programming. You see, I used to confuse "doing" with "learning". All the "greats" tell you to learn a new language each year, but they don't really tell you why, just that something good will happen. Now I can tell you from experience that I have had great fun and learned a lot jumping from language to language, but that strategy for learning is poor use of time and you'll probably just end up being an average programmer in more languages after it is all said and done. There are better, much better ways to study the fundamentals of programming. 
+
+Lisp is one of those ways.
+
+
+
+
+

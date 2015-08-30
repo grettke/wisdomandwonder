@@ -1,0 +1,21 @@
+#+POSTID: 14
+#+DATE: [2007-12-17 Mon 03:48]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Fun, Programming
+#+TITLE:  UML Surrealism
+
+Remember the classic UML "sailboat" book Applying UML and Patterns?
+
+It has kind of a neat image on the cover of a picture of a sailboat, a uml diagram of a sailboat, along with the words "This is not a sailboat".
+
+(Click on the image to zoom in):
+
+[[http://www.amazon.com/exec/obidos/ASIN/0130925691/qid=996430312/sr=1-1/ref=sc_b_1/104-0598919-4220720][Amazon link]]
+
+Never noticed before, but I bet it is a tip of the hat to this:
+
+[[http://en.wikipedia.org/wiki/The_Treachery_of_Images%20][Wikipedia link]]
+
+
+

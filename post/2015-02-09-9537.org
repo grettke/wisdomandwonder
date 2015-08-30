@@ -1,0 +1,16 @@
+#+POSTID: 9537
+#+DATE: [2015-02-09 Mon 21:09]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: .NET, C Sharp, Entity Framework, Javascript, PluralSight, Programming, Programming Language
+#+TITLE: Getting Started with Entity Framework 5
+
+
+Julie Lerman's PluralSight [[http://www.pluralsight.com/courses/entity-framework5-getting-started][training]] is as almost as good as her books. Perhaps it is not a fair comparison? She has a great writing style, and her books are a joy to read. You might expect the same experience with her training videos, and that is probably unfair. You are all about fairness, right? Entity Framework is quite mature at this point. For those of us returning to .NET, this video is quite perfect. It covers just enough. If you've built systems before, you will get so, so much out of her series.
+
+
+
+
+
+
+

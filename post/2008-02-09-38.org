@@ -1,0 +1,11 @@
+#+POSTID: 38
+#+DATE: [2008-02-09 Sat 01:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, Programming
+#+TITLE: 52 Lessons in PAIP
+
+While ostensibly [[http://www.norvig.com/Lisp-retro.html][this article]] is about Lisp, the author's review of [[http://www.norvig.com/paip.html][PAIP]] and its lessons make it well worth the read.
+
+
+

@@ -1,0 +1,29 @@
+#+POSTID: 5836
+#+DATE: [2011-06-27 Mon 20:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: DSL, Lisp, Programming Language, Racket, Scheme
+#+TITLE: DSLs are still fun
+
+Now the popularity of DSLs may have waned, but the fun surrounding them surely has not.
+
+A while back James and I looked into implementing a DSL for modeling insurance products in Java that worked really nicely: 
+
+
+-  built on top of Java we've full access to all its goodies like the libraries and object system and containers
+-  integrates with Eclipse to get code-completion and error-reporting and intelligent-debugging
+-  open-source so we can tweak and bug-fix as needed
+
+
+
+If that is your cup of tea, you might have a look at this super awesome tutorial on implementing a brainf*ck interpreter on top of the Racket programming language:
+
+[[http://hashcollision.org/brainfudge/]]
+
+Basically you get all the power of what Racket has to offer as a language, its libraries, it's IDE, and the great users. 
+
+The article is sort of funny in that the first version of the DLS was deemed “too slow” at 37 second vs 16 second for the version running on the PyPy interpreter; so the author went about optimizing it with all sorts of tweaks that are might be inappropriate for an entry-level article, but for bragging rights... dropping its benchmark speed down to 1 second.
+
+
+
+

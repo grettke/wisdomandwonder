@@ -1,0 +1,11 @@
+#+POSTID: 3257
+#+DATE: [2009-06-07 Sun 01:35]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Eiffel, Programming Language, iPhone
+#+TITLE: Eiffel and the iPhone
+
+[[http://www.eiffelroom.com/blog/manus_eiffel/eiffel_and_iphone_ipod_touch][This]] post describes what might be the beginnings of developing in Eiffel on the iPhone (Manu is a prolific Eiffeler, and works for Bertrand Meyer's company).
+
+
+

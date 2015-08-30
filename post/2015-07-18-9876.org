@@ -1,0 +1,11 @@
+#+POSTID: 9876
+#+DATE: [2015-07-18 Sat 16:31]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Applied mathematics, Programming, Programming Language, R-Project, S-PLUS, applied statistics
+#+TITLE: Milwaukee R Meetup
+
+Milwaukee has a great [[http://www.meetup.com/Milwaukee-R-Meetup/][R-Users meetup]]. Zeke and the community are very nice.
+
+
+

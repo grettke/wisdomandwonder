@@ -1,0 +1,62 @@
+#+POSTID: 9026
+#+DATE: [2014-08-31 Sun 14:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: plyr and dplyr for R
+
+#+BEGIN_QUOTE
+  
+
+
+  
+[[https://github.com/hadley/plyr][plyr]] is a set of tools for a common set of problems: you need to *split* up a big data structure into homogeneous pieces, *apply* a function to each piece and then *combine* all the results back together.
+
+
+  
+
+#+END_QUOTE
+
+
+
+
+
+#+BEGIN_QUOTE
+  
+
+
+  
+[[https://github.com/hadley/dplyr][dplyr]] is the next iteration of plyr, focussed on tools for working with data frames (hence the d in the name). It has three main goals:
+
+
+  
+
+
+  -  Identify the most important data manipulation tools needed for data analysis
+and make them easy to use from R.
+
+  -  Provide blazing fast performance for in-memory data by writing key pieces in
+C++.
+
+  -  Use the same interface to work with data no matter where it's stored, whether
+in a data frame, a data table or database.
+
+
+  
+
+#+END_QUOTE
+
+
+
+
+
+
+These two are a couple of the other mainstream manipulation tools outside of
+base R.
+
+
+
+
+
+
+

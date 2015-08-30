@@ -1,0 +1,136 @@
+#+POSTID: 8847
+#+DATE: [2014-07-22 Tue 01:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Macintosh, OSX, Utility
+#+TITLE: Moshi's PalmGuard for the Macbook Pro is perfect
+
+
+Having grown quite accustomed to ThinkPads, it has been a very long time since
+I have worried about the palm rest of a laptop. All of that changed when the
+Macbook came into my life. My biggest concern was the resale value of the
+device, and I found thta the simplest possible solution what was to just take off my
+watch and use my phone to keep time instead. In retrospect, that was kind of
+stupid, so I bought one of Mochi's palm rest protectors ^{[[#fn.1][1]]},
+and it has far exceeded every expectation that I had of it.
+
+
+
+
+
+
+
+My expectations:
+
+
+
+
+
+-  Color matched, doesn't make the device look like a two-tone paint job
+
+-  Protects the device, doesn't allow scratches
+
+-  Make it easy and comfortable to wear a watch, thin and tidy
+
+-  Easy to apply, no hair pulling to line things up
+
+-  Touch pad works perfectly
+
+
+
+
+
+
+
+All of those expectations were exceeded.
+
+
+
+
+
+
+
+The color looks just fine to me. Sure it is a tad off, but what matters is that
+the device is protected for resale. The pad protects the device flat out. My
+watch sits just fine on it, it is thick enough to pad the watch and thin enough
+barely to be noticeable. It was shockingly delightful to apply given the often
+frustrating nature of such endeavors. The touch pad works *perfectly* with the
+pad on top. The mouse, expose, window switching, and *everything* /just works/.
+This was a shock given how many ways they could have screwed up here. Instead,
+it /just works/. Very cool.
+
+
+
+
+
+
+
+After installation I used a credit card to work out a few bubbles and and life
+went on. For anyone worried that this might not work well for their machine,
+I installed it on a 15" Macbook Pro, and the product is for sale on Apple's
+website which is enough of an explicit endorsement for me.
+
+
+
+
+
+
+
+All in all this has been an amazingly positive user experience and the product
+has worked really, really well.
+
+
+
+
+
+#+BEGIN_HTML
+  <div id="footnotes">
+#+END_HTML
+
+
+
+** Footnotes:
+
+
+
+
+#+BEGIN_HTML
+  <div id="text-footnotes">
+#+END_HTML
+
+
+
+
+
+#+BEGIN_HTML
+  <div class="footdef">
+#+END_HTML
+
+^{[[#fnr.1][1]]}
+[[http://www.moshi.com/palmrest-protector-palmguard-macbook-pro-retina#15]]
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+
+

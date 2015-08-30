@@ -1,0 +1,13 @@
+#+POSTID: 5368
+#+DATE: [2010-11-21 Sun 22:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Programming Language, Scheme
+#+TITLE: Scheme 9 from Empty Space 2nd Edition
+
+The [[http://www.t3x.org/s9/][2nd]]edition is now available. It looks pretty good; I'll be ordering it.
+
+(via [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/d967c9ba91f4b3bc][comp.lang.scheme]])
+
+
+

@@ -1,0 +1,14 @@
+#+POSTID: 5662
+#+DATE: [2011-05-17 Tue 20:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Maintenance, Motorcycle
+#+TITLE: Tentative Motorcycle Brake Fluid Changing Plan
+
+This is my tentative plan never having done it before :)
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2011/05/brake-fluid-change.pdf][brake-fluid-change]]
+
+
+
+

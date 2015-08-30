@@ -1,0 +1,13 @@
+#+POSTID: 1510
+#+DATE: [2009-01-04 Sun 03:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Rebol, Scheme
+#+TITLE: Sherman: a Rebol to Scheme compiler
+
+[[http://code.google.com/p/jrm-code-project/wiki/BitsAndPieces][Sherman]] is a Rebol to Scheme compiler.
+
+(via [[http://funcall.blogspot.com/2007/04/added-some-more-code-to-bits-and-pieces.html][jrm]])
+
+
+

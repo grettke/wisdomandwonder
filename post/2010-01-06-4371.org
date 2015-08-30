@@ -1,0 +1,13 @@
+#+POSTID: 4371
+#+DATE: [2010-01-06 Wed 18:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Rebol
+#+TITLE: REBOL GUI for OS X Available
+
+It is available [[http://www.rebol.com/download-view.html][here]].
+
+(via [[http://www.rebol.com/article/0450.html][Carl]])
+
+
+

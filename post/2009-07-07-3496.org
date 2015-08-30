@@ -1,0 +1,17 @@
+#+POSTID: 3496
+#+DATE: [2009-07-07 Tue 15:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: XO, iPhone
+#+TITLE: The iPodTouch Is What The OLPC XO Should Have Been
+
+The iPodTouch is a mass-marketed device, so its cost has been driven down. An 8Gb device costs only $230. 
+
+Its development environment nearly demands performance. Its development language is Objective-C or C and only one app can be run at a time. Contrast that with Sugar on X11 on Python on C and an environment that exhausts available memory with very little effort. 
+
+Its touch screen encourages interaction. The XOs flakey keyboard and touchpad discourage it.
+
+I still love the XO and OLPC's mission. The only thing that they seem to have accomplished, though, is the proliferation of Netbooks across the commercial landscape.
+
+
+

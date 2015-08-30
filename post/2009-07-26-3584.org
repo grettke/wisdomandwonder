@@ -1,0 +1,18 @@
+#+POSTID: 3584
+#+DATE: [2009-07-26 Sun 16:45]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Learning, Objective-C, Programming Language
+#+TITLE: A Brief Review of PragProg's Coding in Objective-C 2.0 Screencasts
+
+I just finished watching the first 3 episodes of [[http://www.pragprog.com/screencasts/v-bdobjc/coding-in-objective-c-2-0][this]] screencast series. The videos have sort of an odd tone in that the content seems to be tailored to beginning programmers, but at times details are added that would only make sense to an experienced programmer. For example, "the debugger is cool" versus "sending the autorelease message causes the runtime to register the receiver with the most recent pool on the stack" (caveat, he did follow that by commenting that you don't need to know what is the stack, the most recent pool on the stack, or how the runtime finds it, but nonetheless). The result is that for beginners it is distracting, and for experienced programmers it is disappointing because you never get the depth that you want.
+
+Additionally, the author has the habit of making statements explaining the current operation that he is demonstrating, and then ending the explanation with "or whatever". For example, "the program counter steps over the instructions of the generated assembly code... or whatever". The result of such an approach leaves the viewer wondering whether or not he should believe what the author just explained to him. 
+
+I feel like the author did something of a "rush job" to get these screencasts out. The downside is that the time you spent watching them could have been better spent doing something else, like reading Programming in Objective-C 2.0 for example.
+
+My gut feeling is that the author is very knowledgable on the topic, and that the screencasts don't represent his expertise. I am interested to see how the screencasts compare to his soon to be released [[http://www.pragprog.com/titles/amiphd/iphone-sdk-development][book]].
+
+
+
+

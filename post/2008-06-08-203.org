@@ -1,0 +1,11 @@
+#+POSTID: 203
+#+DATE: [2008-06-08 Sun 07:38]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: A video tour of PLT Scheme 4.0
+
+Via the [[http://blog.plt-scheme.org/2008/06/tour-in-video.html][PLT Scheme]] blog, there is a video tour of DrScheme now available [[http://www.youtube.com/watch?v=vgQO_kHl39g][here]] with a higher resolution video available [[http://www.youtube.com/watch?v=vgQO_kHl39g&fmt=18][here]].
+
+
+

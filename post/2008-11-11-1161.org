@@ -1,0 +1,13 @@
+#+POSTID: 1161
+#+DATE: [2008-11-11 Tue 00:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming
+#+TITLE: Bazaar Marketing Practice
+
+I recently cut over from [[http://subversion.tigris.org/][Subversion]] to [[http://bazaar-vcs.org/][Bazaar]]. Happy to see that a new, improved version, [[https://edge.launchpad.net/bzr/1.9/1.9][1.9]], was released; I headed over to the [[https://launchpad.net/bzr/+download][download area]] only to find a RC1 version available. There were only two 1.9 releases available: source code or a Mac installer. Apparently the Windows installer will be available [[https://answers.launchpad.net/bzr/+question/50770][in a few days]]. How disappointing.
+
+Why drum up everyone's excitement on the 7th of November only to tell them that they need to wait around for another five days before they can use it? It is a bizarre marketing practice!
+
+
+

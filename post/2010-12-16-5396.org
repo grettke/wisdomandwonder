@@ -1,0 +1,25 @@
+#+POSTID: 5396
+#+DATE: [2010-12-16 Thu 14:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Javascript, Lisp, Programming Language
+#+TITLE: Javathcript
+
+kybernetikos shared with me a link to his [[http://kybernetikos.github.com/Javathcript/][Lispy language implementation on Javascript]]:
+
+
+
+#+BEGIN_QUOTE
+  Javathcript allows you to script your web pages in a simple lisp variant. Once you include Javathcript.js, any script tags in your document with type="text/lisp" will be evaluated. It will also download lisp files (only from the original server), if you have a script tag that has a src attribute. Finally, you can also evaluate lisp code from javascript using Javathcript.eval(lispString).
+
+While it is not an exact implementation of any pre-existing variant of lisp, if you know lisp most of it should be familiar. If you don't you might find it useful to follow a tutorial, e.g. this one. There will be differences between this implementation and others, but there is also much that is common.
+#+END_QUOTE
+
+
+
+It has more features than are shared in the blurb.
+
+Looks pretty neat; check it out!
+
+
+

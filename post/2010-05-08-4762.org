@@ -1,0 +1,24 @@
+#+POSTID: 4762
+#+DATE: [2010-05-08 Sat 17:09]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: ML, OCaml, Programming Language
+#+TITLE: Unix System programming in OCaml
+
+#+BEGIN_QUOTE
+  It is my pleasure to announce that Xavier Leroy and Didier Rémy's course on Unix system programming in Objective Caml is now available in english at this address :
+
+[[http://ocamlunix.forge.ocamlcore.org/]]
+
+If you had a look at the individual publications of the chapters announced on the project feed you may want to have a look again: some parts of the text were improved and a few translation errors were corrected in the final version.
+#+END_QUOTE
+
+
+
+This course looks like a /lot/ of fun!
+
+(via [[http://caml.inria.fr/pub/ml-archives/caml-list/2010/04/95afb5c54a206252ab53db7866b933c0.en.html][caml-list]])
+
+
+
+

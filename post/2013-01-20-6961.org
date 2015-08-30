@@ -1,0 +1,11 @@
+#+POSTID: 6961
+#+DATE: [2013-01-20 Sun 02:13]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Programming Language, Racket, Scheme
+#+TITLE: Geiser 0.3 is Released
+
+Excellent for use with Racket. Get it [[http://marmalade-repo.org/packages/geiser][here]].
+
+
+

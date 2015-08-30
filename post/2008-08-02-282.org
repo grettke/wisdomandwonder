@@ -1,0 +1,17 @@
+#+POSTID: 282
+#+DATE: [2008-08-02 Sat 13:38]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: CPSCM 
+
+#+BEGIN_QUOTE
+  [[http://code.google.com/p/cpscm/][CPSCM]] is a Scheme compiler based on CPS conversion. It will output code for several back-ends: Common Lisp, Java, Javascript, and Scheme.
+#+END_QUOTE
+
+
+
+(via [[http://groups.google.com/group/comp.lang.scheme/msg/453f8ef463b659d5][C.L.S.]])
+
+
+

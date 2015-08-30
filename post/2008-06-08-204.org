@@ -1,0 +1,17 @@
+#+POSTID: 204
+#+DATE: [2008-06-08 Sun 07:43]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide
+#+TITLE: A Guided Tour of Emacs
+
+#+BEGIN_QUOTE
+  [[[http://trey-jackson.blogspot.com/2008/06/guided-tour-of-emacs.html][Trey]]] recently came across the GNU page: [[http://www.gnu.org/software/emacs/tour/][A guided tour of Emacs]]. It is a gem of an introduction to Emacs. Unlike the help distributed with Emacs (tutorial, FAQ, *info* pages), this tour does a good job illustrating the wide variety of Emacs capabilities
+#+END_QUOTE
+
+
+
+
+
+
+

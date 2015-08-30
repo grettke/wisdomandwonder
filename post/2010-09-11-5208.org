@@ -1,0 +1,13 @@
+#+POSTID: 5208
+#+DATE: [2010-09-11 Sat 20:13]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: ML, OCaml, Programming Language, iPhone
+#+TITLE: Unison on the iPhone
+
+[[http://web.yl.is.s.u-tokyo.ac.jp/~tosh/ocaml-on-iphone/unison-on-iphone/][Here]]is how to get [[http://www.cis.upenn.edu/~bcpierce/unison/][Unison]]running on the iPhone. Nice.
+
+Via Sylvain via LinkedIn-Ocaml Developers.
+
+
+

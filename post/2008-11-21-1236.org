@@ -1,0 +1,13 @@
+#+POSTID: 1236
+#+DATE: [2008-11-21 Fri 13:55]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: HTML, Programming Language
+#+TITLE: 12 Principles For Keeping Your HTML Code Clean
+
+[[http://www.smashingmagazine.com/2008/11/12/12-principles-for-keeping-your-code-clean/][Here]] is an article discussing 12 principles for keeping your HTML code clean. 
+
+It was recommended by one of my web-development-expert co-workers, and that is more than good enough for me.
+
+
+

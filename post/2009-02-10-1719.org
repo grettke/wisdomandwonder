@@ -1,0 +1,21 @@
+#+POSTID: 1719
+#+DATE: [2009-02-10 Tue 16:37]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Programming, Programming Language, Scheme, Teaching
+#+TITLE: Normal order and applicative order in Programming Languages
+
+James had mentioned applicative and normal order in a post, on which Matthias commented and then elaborated [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-February/030312.html][here]].
+
+
+
+#+BEGIN_QUOTE
+  Normal order and applicative order are failed attempts to explain the nature of call-by-name programming languages and call-by-value programming languages as models of the lambda calculus. Each describes a so-called \_reduction strategy\_, which is an algorithm that picks the position of next redex BETA that should be reduced. By 1972, it was clear that instead you want different kind of calculi for different calling conventions and evaluation strategies (to the first outermost lambda, not inside). That is, you always reduce at the leftmost-outermost point in a program but you use either BETA-NAME or BETA-VALUE. Non-PL people were confused (and still are) because BETA-NAME looks like BETA but nearly 40 years later, everyone should figure this out. SICP was written when the majority of people were still confused. -- Matthias
+#+END_QUOTE
+
+
+
+
+
+
+

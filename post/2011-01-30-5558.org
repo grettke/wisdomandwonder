@@ -1,0 +1,17 @@
+#+POSTID: 5558
+#+DATE: [2011-01-30 Sun 18:36]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Computational Science, R-Project, Statistics, applied statistics
+#+TITLE: CPR for Statistics
+
+#+BEGIN_QUOTE
+  All statisticians should be proficient in C (for speed), perl (for data manipulation), and R (for interactive analyses and graphics). Think "CPR".
+#+END_QUOTE
+
+
+-- [[http://www.biostat.wisc.edu/~kbroman/Rintro/.][Karl W Broman]]
+
+
+
+

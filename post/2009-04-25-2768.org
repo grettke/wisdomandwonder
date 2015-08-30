@@ -1,0 +1,13 @@
+#+POSTID: 2768
+#+DATE: [2009-04-25 Sat 14:27]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Build, Maven, Programming
+#+TITLE: A Maven token replacement plugin
+
+[[http://code.google.com/p/maven-replacer-plugin/][Here]] is a Maven plugin to replace tokens within a file.
+
+(via [[http://mail-archives.apache.org/mod_mbox/maven-users/200904.mbox/%3c23219538.post@talk.nabble.com%3e][Maven]])
+
+
+

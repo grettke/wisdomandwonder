@@ -1,0 +1,15 @@
+#+POSTID: 6072
+#+DATE: [2011-12-18 Sun 03:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: OS X
+#+TITLE: Easily change the backgrounds of iCal and Address Book in OS X 10.7
+
+10.7 introduced "leather bound" iCal and Address Book. 
+
+[[http://ifredrik.com/applications/][This]] student's app changes them back. 
+
+Might even donate a little something to him for saving you the trouble.
+
+
+

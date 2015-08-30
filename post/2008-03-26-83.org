@@ -1,0 +1,14 @@
+#+POSTID: 83
+#+DATE: [2008-03-26 Wed 00:25]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Programming Language, Scheme
+#+TITLE: University of Waterloo Switches to Scheme
+
+The University of Waterloo has [[http://compsci.ca/blog/computer-science-at-waterloo-the-new-scheme-of-things/][switched first year students to Scheme]].
+
+There is a big difference between learning how to program and in learning a particular language. Scheme makes the former so much easier!
+
+
+
+

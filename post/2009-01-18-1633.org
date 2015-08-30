@@ -1,0 +1,41 @@
+#+POSTID: 1633
+#+DATE: [2009-01-18 Sun 22:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Mondo Bizarro
+
+In [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-January/029782.html][this thread]] about a closure puzzler Jens posted Eugene Kohlbecker's mind-bender called Mondo Bizarro.
+
+
+
+#+BEGIN_EXAMPLE
+    
+;;; Mondo Bizarro
+
+; What does the following program print?
+; Why?
+
+(define program (lambda ()
+    (let ((y (call-with-current-continuation (lambda (c) c))))
+         (display 1)
+         (call-with-current-continuation (lambda (c) (y c)))
+         (display 2)
+         (call-with-current-continuation (lambda (c) (y c)))
+         (display 3))))
+
+
+(program)
+
+#+END_EXAMPLE
+
+
+
+Mondo Bizarro seems to have been originally published in ACM SIGPLAN Lisp Pointers, Volume 1, Issue 2 (June-July 1987), located [[http://portal.acm.org/citation.cfm?doid=1317193.1317197][here]]; but I could not confirm that.
+
+[[http://arcfn.com/2008/03/continuations-made-difficult.html][Here]] is an implementation of it in Java.
+
+(via [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-January/029806.html][the PLT Discussion List)]]
+
+
+

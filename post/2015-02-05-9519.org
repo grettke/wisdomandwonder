@@ -1,0 +1,53 @@
+#+POSTID: 9519
+#+DATE: [2015-02-05 Thu 19:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: Hydra, a new Emacs package to fall in love with
+
+
+A few weeks ago a really nice [[http://oremacs.com/2015/01/14/repeatable-commands/][post]] appeared. It explained how to use =set-transient-map=. Is is nice for all the same reasons that all keymaps are nice, and additionally, their transience. The example of managing text size is perfect. Everyone has that in their Emacs config. When we define a goal like "we want to adjust the text size", we are virtually "in the zone" of performing that task. We just want to hit a couple of keys to make the font bigger or smaller and this approach makes that really easy. That idea, and post, quickly blossomed into a [[https://github.com/abo-abo/hydra][package]] and [[http://oremacs.com/2015/01/20/introducing-hydra/][many]] [[http://oremacs.com/2015/02/03/one-hydra-two-hydra/][new]] [[http://oremacs.com/2015/02/04/pre-hydra-post/][cool]] [[http://oremacs.com/2015/02/05/amaranth-hydra/][features]].
+
+
+
+
+
+
+
+That "zone thinking" is how most modes and features work, whether the authors and the users are conscious of this or not. Hydra makes you very conscious of this. Watch how quickly examples evolved into re-recreating most of what someone needed of ViM. Cool!
+
+
+
+
+
+
+
+The user-interface feature of displaying available commands (while in that "Hydra") in the mode-line really piques my interest about using Hydras to provide a very "user friendly" suite of features for new users. Granted, after you use the same features a lot your quit using visual helpers, but for new users, this could be really interesting.
+
+
+
+
+
+
+
+This package has all of the earmarks of a game-changer. That is my gut feeling; it will be a major facilitator for expressing all sorts of creative approaches for creative expression in Emacs (or ALEC in my case).
+
+
+
+
+
+
+
+For the last few months I've had a thought visit me more than a few times: "What would it take to implement ViM, in Emacs, without taking one peek at evil-mode". That question was just in the collective conscious I believe. Very, very delightful to see it get answered in this delightful new package, Hydra. 
+
+
+
+
+
+
+
+Thank you Oleh!
+
+
+
+

@@ -1,0 +1,19 @@
+#+POSTID: 1104
+#+DATE: [2008-11-02 Sun 18:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Java, Scheme, Utility
+#+TITLE: Carneades
+
+#+BEGIN_QUOTE
+  [[http://carneades.berlios.de/][Carneades]] is an [[http://en.wikipedia.org/wiki/Argument_map][argument mapping]] application, with a graphical user interface, and a software library for building applications supporting various argumentation tasks.
+#+END_QUOTE
+
+
+
+The interesting thing about this is that it is written in both [[http://www.javafx.com/][JavaFX]] and [[http://www.r6rs.org/][R6RS Scheme]]!
+
+(via [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/97c015e649977e16/02daf6fee81f0bf1?hl=en&lnk=gst&q=carneades#02daf6fee81f0bf1][comp.lang.scheme]])
+
+
+

@@ -1,0 +1,17 @@
+#+POSTID: 8006
+#+DATE: [2013-08-12 Mon 20:48]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: ML, OCaml, Programming Language
+#+TITLE: OPAM for OCaml
+
+#+BEGIN_QUOTE
+  [[http://opam.ocamlpro.com/][OPAM]] is a source-based package manager for OCaml. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.
+#+END_QUOTE
+
+
+
+Why [[http://opam.ocamlpro.com/doc/About.html][here]].
+
+
+

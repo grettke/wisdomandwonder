@@ -1,0 +1,41 @@
+#+POSTID: 9370
+#+DATE: [2014-12-19 Fri 03:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: Using Units in Calc with Emacs
+
+#+BEGIN_QUOTE
+  
+
+
+  
+[[https://www.gnu.org/software/emacs/manual/html_mono/calc.html][Calc]] is an advanced desk calculator and mathematical tool written by Dave Gillespie that runs as part of the GNU Emacs environment.
+
+
+  
+
+#+END_QUOTE
+
+
+
+
+
+#+BEGIN_QUOTE
+  
+
+
+  
+One special interpretation of algebraic formulas is as numbers with [[https://www.gnu.org/software/emacs/manual/html_mono/calc.html#Units][units]]. For example, the formula =5 m / s^2= can be read “five meters per second squared.”
+
+
+  
+
+#+END_QUOTE
+
+
+
+Of course it can!
+
+
+

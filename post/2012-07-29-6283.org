@@ -1,0 +1,17 @@
+#+POSTID: 6283
+#+DATE: [2012-07-29 Sun 22:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Teaching, philosophy
+#+TITLE: The Goal of a Teacher
+
+#+BEGIN_QUOTE
+  To create an environment where learning happens.
+#+END_QUOTE
+
+
+
+-- [[http://www.eng.mu.edu/corlissg/][Dr. George F. Corliss]]
+
+
+

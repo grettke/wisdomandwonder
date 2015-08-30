@@ -1,0 +1,15 @@
+#+POSTID: 240
+#+DATE: [2008-06-28 Sat 13:13]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: XO
+#+TITLE: The XO was made for its creators
+
+After using the OLPC XO heavily for the past three weeks for web browsing, pdf reading, and educational game playing (by my 5 year old nephew), I can't help me get the feeling that the XO was made for its creators, and not for children.
+
+Now don't get me wrong, [[http://www.wisdomandwonder.com/article/208/olpc-xo-the-programmers-ebook-reader][I love the thing]]; but how do you explain to a 5 year old (albeit a very smart one) that he can't start more than 2 or 3 programs at once because the machine will run out of memory and the CPU will get bogged down?! (An aside, how you explain it is by doing just that, excluding the part about memory and cpu).
+
+The vision of a computer where everything is written in Python and everything is modifiable and maintainable by the user is a fun idea, but only for hackers, aka, the creators. Kids could care less. What they want are programs they can use that work well. Are they getting that right now? Well, they are getting something that works "well enough", but it seems like the XO creators are painting themselves into a corner here in terms of performance; since the [[http://wiki.laptop.org/go/Hardware_specification][hardware]] will never get upgraded, the only place they've got left to speed things up is in the code, and that seemingly has not been a priority thus far.
+
+
+

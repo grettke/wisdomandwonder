@@ -1,0 +1,20 @@
+#+POSTID: 9756
+#+DATE: [2015-05-25 Mon 21:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Programming
+#+TITLE: New Favorite Programmer Interview Question
+
+#+BEGIN_QUOTE
+  
+What is your key binding for performing a commit?
+-- Grant Rettke
+
+#+END_QUOTE
+
+
+
+
+
+
+

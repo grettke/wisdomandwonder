@@ -1,0 +1,15 @@
+#+POSTID: 7362
+#+DATE: [2013-03-18 Mon 00:03]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Artificial Intelligence, Knowledge Engineering, Rules Engine
+#+TITLE: Ontological Management with Protege OWL and Jess
+
+Part of my quest to learn more about rules-engines involved the desire to find a really good approach for knowledge management. The short story is that when you work with a subject matter expert (SME), you need to find some good way to capture the domain data and behavior, the rules, actions, and everything else necessary to make sense of things. This need isn't unique to knowledge engineering and AI, of course, all engineers face it, especially software engineers. Object-oriented analysis and design is one good approach, and there seems to be a lot of overlap. One interesting outcrop of the need is the Insurance Application Architecture, an OO model (and more) to help insurance companies manage their intellectual assets. 
+
+The client developed a custom tool to manage the concepts (although customizable tools like MagicDraw certainly are an option, too), and I had always wondered if there was some standard way of approaching that kind of problem. While researching rules-engines I was delighted to learn about knowledge engineering, the semantic web, and consequently ontological engineering and management. 
+
+Specifically, digging into the tool Protege-OWL, I found something quite similar to what I'd seen developed as custom. Although it is too soon to say they are equivelant, it is pretty interesting to find out. The fact that there is a [[http://herzberg.ca.sandia.gov/][Jess]] plugin ([[http://protege.cim3.net/cgi-bin/wiki.pl?SWRLJessTab][JessTab]]) to let you play, even better!
+
+
+

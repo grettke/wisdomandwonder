@@ -1,0 +1,31 @@
+#+POSTID: 9513
+#+DATE: [2015-02-05 Thu 19:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Easily set column width in org tables
+
+Org tables are great. Most of the time I rely on the column width auto-resizing feature. Perhaps you want to do force a smaller width though for example. Just specify the width, in its own empty row inside of angled parentheses. Default justification is right. Prefix the number with a l or c to do left or center.
+
+[[http://orgmode.org/manual/Column-width-and-alignment.html#Column-width-and-alignment][Here]] is the page. Thanks Tory!
+
+
+
+#+BEGIN_EXAMPLE
+    
+     |---+------------------------------|               |---+--------|
+     |   |                              |               |   | <6>    |
+     | 1 | one                          |               | 1 | one    |
+     | 2 | two                          |     ----\     | 2 | two    |
+     | 3 | This is a long chunk of text |     ----/     | 3 | This=> |
+     | 4 | four                         |               | 4 | four   |
+     |---+------------------------------|               |---+--------|
+
+#+END_EXAMPLE
+
+
+
+org-table-edit-field (C-c `) lets you easily edit the entire field and the org super key (C-c C-c) saves it.
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 8714
+#+DATE: [2014-06-15 Sun 01:39]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: Emacs Online Documentation
+
+[[https://bruce-connor.github.io/emacs-online-documentation/][Here]] is a link for the HTML-ification of the Emacs [[https://bruce-connor.github.io/emacs-online-documentation/variables.html#variables][variables]], [[https://bruce-connor.github.io/emacs-online-documentation/functions.html#functions][functions]], and [[https://bruce-connor.github.io/emacs-online-documentation/faces.html#faces][faces]] documentation.
+
+My examination of it didn't go beyond skimming the lists.
+
+
+

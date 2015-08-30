@@ -1,0 +1,11 @@
+#+POSTID: 9705
+#+DATE: [2015-04-14 Tue 01:07]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Emacs, Calendars, Google, and Org Mode
+
+[[http://sheephead.homelinux.org/2015/04/12/7282/][This]] post has a few nice links. [[https://github.com/kiwanami/emacs-calfw][emacs-calfw]] is calendar framework for Emacs. [[https://julien.danjou.info/projects/emacs-packages#google-maps][google-maps]] displays Google Maps directly inside Emacs. [[https://github.com/myuhe/org-gcal.el][org-gcal.el]] synchronizes org-mode with Google Calendar.
+
+
+

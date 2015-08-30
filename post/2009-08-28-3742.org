@@ -1,0 +1,17 @@
+#+POSTID: 3742
+#+DATE: [2009-08-28 Fri 15:41]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Computational Science
+#+TITLE: What Is Computational Science
+
+#+BEGIN_QUOTE
+  Computational science (or scientific computing) is the field of study concerned with constructing mathematical models and numerical solution techniques and using computers to analyse and solve scientific, social scientific and engineering problems. In practical use, it is typically the application of computer simulation and other forms of computation to problems in various scientific disciplines.
+
+#+END_QUOTE
+
+
+-- [[http://en.wikipedia.org/wiki/Computational_science][Wikipedia]]
+
+
+

@@ -1,0 +1,27 @@
+#+POSTID: 2991
+#+DATE: [2009-05-16 Sat 12:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Going beyond filesystem based library loading
+
+In [[http://groups.google.com/group/ikarus-users/browse_thread/thread/ef44ebc01392dac2][this]] post, Edward explains how he extended the library loading facilities in Ikarus to allow loading from not only the file system, but also URLs, and some day maybe even SQLite databases. Very nice!
+
+Background:
+
+
+
+#+BEGIN_QUOTE
+  The report does not specify how source code is represented and stored. The only requirement the report imposes is that the source code of a top-level program (see report section on “Top-level program syntax”) or a script (see section [[http://www.r6rs.org/final/html/r6rs-app/r6rs-app-Z-H-6.html#node_sec_D.2][D.2]]) be delimited. The source code of a library is self-delimiting in the sense that, if the beginning of a library form can be identified, so can the end.
+
+Implementations may take radically different approaches to storing source code for libraries, among them: files in the file system where each file contains an arbitrary number of library forms, files in the file system where each file contains exactly one library form, records in a database, and data structures in memory.
+
+Similarly, programs and scripts may be stored in a variety of formats. Platform constraints may restrict the choices available to an implementation, which is why the report neither mandates nor recommends a specific method for storage.
+#+END_QUOTE
+
+
+
+-- [[http://www.r6rs.org/final/html/r6rs-app/r6rs-app-Z-H-7.html#node_chap_E][Revised 6 Report on the Algorithmic Language - Non-Normative Appendices - Appendix E - Source code representation]]
+
+
+

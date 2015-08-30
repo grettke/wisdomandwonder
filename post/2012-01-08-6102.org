@@ -1,0 +1,13 @@
+#+POSTID: 6102
+#+DATE: [2012-01-08 Sun 21:04]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Utility
+#+TITLE: 4400MB
+
+This is the size of a file that can surely fit on a DVD-R formatted with a UDF v1.02 filesystem.
+
+(I just tried it)
+
+
+

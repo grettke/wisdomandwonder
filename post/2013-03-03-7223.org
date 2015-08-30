@@ -1,0 +1,11 @@
+#+POSTID: 7223
+#+DATE: [2013-03-03 Sun 18:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Business, Communication, Interpersonal
+#+TITLE: Rapid and Concise Communication with SBAR
+
+[[https://en.wikipedia.org/wiki/SBAR][Here]] is an excellent, excellent algorithm for communicating. Thanks Doug.
+
+
+

@@ -1,0 +1,17 @@
+#+POSTID: 5422
+#+DATE: [2010-12-19 Sun 23:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Health, Medicine, Research, Science
+#+TITLE: Ifakara Health Institute
+
+#+BEGIN_QUOTE
+  IHI [[[http://www.ihi.or.tz/][Ifakara Health Institute]]] is an autonomous, non-for-profit organization registered in Tanzania dealing with health research. The mission of IHI is “to develop and sustain a district-based health research and resource centre capable of generating new knowledge and relevant information for public health policy and actions”.
+#+END_QUOTE
+
+
+
+
+
+
+

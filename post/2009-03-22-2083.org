@@ -1,0 +1,13 @@
+#+POSTID: 2083
+#+DATE: [2009-03-22 Sun 12:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning
+#+TITLE: Managing your PDF library
+
+If you have already got a lot of PDFs then you probably have a personal approach to managing all of the content. For example, I keep everything sorted by topic in a directory structure. Here are two ways that seem to provide a better approach (both are interesting): [[http://mekentosj.com/papers/][Papers]] and [[http://www.adobe.com/products/digitaleditions/][Digital Editions]].
+
+(via [[http://pascalg.wordpress.com/2009/03/15/managing-pdf-ebooks-adobe-digital-editions/][Pascal]])
+
+
+

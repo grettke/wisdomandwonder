@@ -1,0 +1,11 @@
+#+POSTID: 4831
+#+DATE: [2010-05-30 Sun 19:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Scheme lectures
+
+There is a good list of Scheme related lectures [[http://groups.google.com/group/plt-scheme/browse_thread/thread/eea3b96bd0fd397a/4a6e0078485b073d?lnk=gst&q=Lectures+on+iTunes#4a6e0078485b073d][here]].
+
+
+

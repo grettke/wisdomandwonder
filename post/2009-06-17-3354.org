@@ -1,0 +1,31 @@
+#+POSTID: 3354
+#+DATE: [2009-06-17 Wed 01:57]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming, philosophy
+#+TITLE: We Need More Architectural Engineers in IT
+
+Even though I don't think that software development is engineering; these two passages spoke to me in terms of project roles that should be distinguised on larger projects: architect and architectural engineer (they apply to structural engineering, but I am going to stretch them here) :
+
+
+
+#+BEGIN_QUOTE
+  Architecture is a communicative art that situates human activity within a horizon of possibilities, the art and science of designing buildings. A wider definition would include within its scope the design of the total built environment, from the macrolevel of town planning, urban design, and landscape architecture to the microlevel of furniture and product design. Architecture, equally importantly, also refers to the product of such a design.
+#+END_QUOTE
+
+
+-- [[http://www.bambooweb.com/articles/A/r/Architecture.html][Bambooweb]]
+
+
+
+#+BEGIN_QUOTE
+  Architects are responsible for the form and appearance of a building with a focus on the way that people use and experience the spaces of the building. The Architectural Engineer is responsible for ensuring that "the building works" - that it stands up, that the HVAC system operates, that light and power are delivered as needed. Architectural Engineers use primarily the tools of engineering to achieve optimum system selection and sizing within the overall constraints usually set by the Architect.
+#+END_QUOTE
+
+
+-- [[http://www.wikinfo.org/index.php/Architectural_engineering][WikInfo]]
+
+These days you are lucky to find people who can fulfill the former alone, let alone both roles.
+
+
+

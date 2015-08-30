@@ -1,0 +1,19 @@
+#+POSTID: 6256
+#+DATE: [2012-06-04 Mon 19:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Java, OS, Utility, Windows
+#+TITLE: Capturing all output in MS-DOS
+
+Seems like there is not a single example out there showing how to run Tomcat in MS-DOS and capture all of its output. I sure didn't know how, and don't remember the post that told me.
+
+
+
+#+BEGIN_EXAMPLE
+    
+catalina run > ..\logs\console.log 2<&1
+
+#+END_EXAMPLE
+
+
+

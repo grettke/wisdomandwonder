@@ -1,0 +1,17 @@
+#+POSTID: 9323
+#+DATE: [2014-11-20 Thu 16:42]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: travel
+#+TITLE: Hakone Tozan Line
+
+#+BEGIN_QUOTE
+  [[https://en.wikipedia.org/wiki/Hakone_Tozan_Line][The Hakone Tozan Line]] (箱根登山鉄道線 Hakone Tozan Tetsudō-sen?, lit. Hakone Mountain-Climbing Railroad Line) is a mountain railway in Japan operated by the Hakone Tozan Railway. This company belongs to the Odakyu Group, and also owns the Hakone Tozan Cable Car.
+#+END_QUOTE
+
+
+
+
+
+
+

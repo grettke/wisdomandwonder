@@ -1,0 +1,17 @@
+#+POSTID: 8696
+#+DATE: [2014-06-10 Tue 22:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, HTML, Ide, Javascript, Lisp, Programming, Programming Language, elisp
+#+TITLE: Realtime web development with skewer and Emacs
+
+#+BEGIN_QUOTE
+  [[[https://github.com/skeeto/skewer-mode][skewer-mode]]] provides live interaction with JavaScript, CSS, and HTML in a web browser. Expressions are sent on-the-fly from an editing buffer to be evaluated in the browser, just like Emacs does with an inferior Lisp process in Lisp modes.
+#+END_QUOTE
+
+
+
+Looks like a pretty nice option if you are used to Emacs already and so much more pleasant then running code in the Chrome/Firefox/IE REPL.
+
+
+

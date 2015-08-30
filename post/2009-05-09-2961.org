@@ -1,0 +1,11 @@
+#+POSTID: 2961
+#+DATE: [2009-05-09 Sat 17:25]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming, philosophy
+#+TITLE: One Man's View on Programmer Competency
+
+[[http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm][Here]] is one man's view on how to measure a programmer's worth.
+
+
+

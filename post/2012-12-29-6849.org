@@ -1,0 +1,34 @@
+#+POSTID: 6849
+#+DATE: [2012-12-29 Sat 03:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Motorcycle, Repair
+#+TITLE: Engine Assembly Lube
+
+#+BEGIN_QUOTE
+  When reassembling any of the internal parts of an engine I'd use
+something like this
+
+[[http://www.permatex.com/products/product-categories/lubricants/specialty-lubricants/permatex--ultra-slick--engine-assembly-lube-detail][http://www.permatex.com/products/product-categories/lubricants/specialty-lubricants/permatex--ultra-slick--engine-assembly-lube-detail
+]]
+rather than motor oil.
+
+I've used motor oils in the past and never had any issues that I could
+attribute to it. But consider what might happen while you're
+reassembling. You've got everything put back together and then your
+kid gets sick, things get busy at your job, Aunt Judy dies, the dog
+has puppies, and the neighborhood gets over run by Zulus.
+
+By the time you've got things sorted out a month has gone by. And all
+that oil you carefully applied to your parts has had time to slowly
+drip it's way down into the crank case.
+
+Assembly lube stays put.
+
+#+END_QUOTE
+
+
+-- Bob Burns via MilVinMoto
+
+
+

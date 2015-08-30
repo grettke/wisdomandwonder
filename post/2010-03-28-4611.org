@@ -1,0 +1,23 @@
+#+POSTID: 4611
+#+DATE: [2010-03-28 Sun 14:25]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: ML, OCaml, Programming Language
+#+TITLE: "The Whitespace Thing" for OCaml
+
+The '[[http://people.csail.mit.edu/mikelin/ocaml+twt/]["The Whitespace Thing" for OCaml]]' is
+
+
+
+#+BEGIN_QUOTE
+  is an alternative syntax for OCaml that uses indentation to group multi-line expressions
+#+END_QUOTE
+
+
+
+Although I am not to the point where I could like or dislike something like this yet, I wonder how long time OCaml users feel about it?
+
+
+
+
+

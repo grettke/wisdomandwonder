@@ -1,0 +1,11 @@
+#+POSTID: 833
+#+DATE: [2008-10-05 Sun 20:17]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: The Scheme Programming Language Standardization Experience
+
+[[http://www.acm.org/tsc/sstd.html][An article]] by Chris Haynes discussing his experience with the IEEE Scheme standardization process.
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 143
+#+DATE: [2008-05-01 Thu 01:35]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Consider MrED
+
+Ben recommends that when you need to write a GUI app, [[http://benjisimon.blogspot.com/2008/04/tackling-desktop-gui-project-consider.html][you should consider MrED]].
+
+
+

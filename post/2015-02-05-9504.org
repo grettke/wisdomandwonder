@@ -1,0 +1,15 @@
+#+POSTID: 9504
+#+DATE: [2015-02-05 Thu 02:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: Elmacro Shows Keyboard Macros or Latest Interactive Commands As Emacs Lisp
+
+[[https://github.com/Silex/elmacro][elmacro]] shows keyboard macros or latest interactive commands as emacs lisp.
+
+This package might pique your curiosity. Surely everyone has wondered how to do something like this, especially if you use the macro recorder a lot.
+
+While I don't have an immediate need for it, I look forward to being able to address it with this package.
+
+
+

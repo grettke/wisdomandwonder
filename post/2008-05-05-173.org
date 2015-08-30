@@ -1,0 +1,29 @@
+#+POSTID: 173
+#+DATE: [2008-05-05 Mon 00:27]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp
+#+TITLE: A Lisp Joke that gets it right
+
+Here is the classic programming "how do you shoot yourself in the foot" joke, brought to Lisp by someone who "gets it"!
+
+
+
+#+BEGIN_QUOTE
+  TASK: Shoot yourself in the foot.
+#+END_QUOTE
+
+
+
+
+
+#+BEGIN_QUOTE
+  LISP: You shoot yourself in the appendage which holds the gun with which you shoot yourself in the appendage which holds the gun with which you shoot yourself in the appendage which holds the gun with which you shoot yourself in the appendage which holds the gun with which you shoot yourself in the appendage which holds the gun with which you shoot yourself in the appendage which holds...
+#+END_QUOTE
+
+
+
+(via [[http://www.daniweb.com/forums/thread78425.html][DaniWeb]])
+
+
+

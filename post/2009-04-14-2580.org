@@ -1,0 +1,36 @@
+#+POSTID: 2580
+#+DATE: [2009-04-14 Tue 17:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Tendrils in Scheme
+
+#+BEGIN_QUOTE
+  Here is an art piece by Tom De Smedt written in NodeBox (Python) : 
+
+ [[http://www.nodebox.net/code/index.php/Tendrils%20][http://www.nodebox.net/code/index.php/Tendrils]]
+
+It is in turn based on work done in Processing by a group ART+CODE. 
+
+Ported to Abstracting: 
+
+ [[http://github.com/dharmatech/abstracting/blob/master/examples/tendril]]... 
+
+Although Abstracting is OpenGL based, I made a NodeBox compatibility 
+library which allowed for a straightforward port. 
+
+Here is a rendering performed by Abstracting/Ypsilon : 
+
+ [[http://proteus.freeshell.org/tendrils-ypsilon-2009-04-07.png%20][http://proteus.freeshell.org/tendrils-ypsilon-2009-04-07.png]]
+
+Ed
+#+END_QUOTE
+
+
+
+I wonder if that is something that Script-Fu would do well?
+
+(via [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/0b60159fd188d2ff][comp.lang.scheme]])
+
+
+

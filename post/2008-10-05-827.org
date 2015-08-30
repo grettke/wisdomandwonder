@@ -1,0 +1,13 @@
+#+POSTID: 827
+#+DATE: [2008-10-05 Sun 02:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Fun, Utility
+#+TITLE: Slide40 - Presentations with 8-bit style
+
+#+BEGIN_QUOTE
+  [[http://alum.wpi.edu/~tfraser/Software/Slide40/index.html][Slide40]] is a program for displaying slide presentations in a style inspired by the personal computers of the late 1970's. The display mimics a TV screen showing only 40 columns of text in an all-caps font built from big blocky fuzzy pixels. I created it partly as a joke, and partly as a minimalist artistic reaction to the highly-decorative but meaningless presentations made by abusers of modern presentation software.
+#+END_QUOTE
+
+
+

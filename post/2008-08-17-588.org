@@ -1,0 +1,17 @@
+#+POSTID: 588
+#+DATE: [2008-08-17 Sun 15:28]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: MPSCM: A Distributed Extension to MzScheme
+
+#+BEGIN_QUOTE
+  [[http://citeseerx.ist.psu.edu/viewdoc/summary;jsessionid=9358F23E06B535DDD5BA2AAC80190D3E?doi=10.1.1.102.2907][MPSCM]] is an extension to the MzScheme dialect of Scheme that provides facil-ities for distributed programming with a message passing base and higher-level distributing constructs designed in a more functional style. This paper provides a description of the MPSCM environment and an analysis of the results in terms of performance, expressivity, and usability.
+#+END_QUOTE
+
+
+
+
+
+
+

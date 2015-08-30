@@ -1,0 +1,78 @@
+#+POSTID: 3273
+#+DATE: [2009-06-07 Sun 01:57]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: PHP, Programming Language
+#+TITLE: A Simple PHP Class to Back Up MySQL
+
+My web host is cutting over from allowing shell scripts to requiring scripting languages instead. I had wanted to write a script in PHP, so I figured this is a good opportunity.
+
+Here is a simple PHP class to back up a MySQL database and blanket-delete old backups from a directory. 
+
+
+
+#+BEGIN_EXAMPLE
+    
+class MysqlBackup {
+    private $host = 'host';
+    private $db = 'db';
+    private $user = 'user';
+    private $passwd = 'passwd';
+    private $dest_dir = 'dest_dir';
+    private $dest_file_prefix = 'dest_file_prefix';
+    private $days_to_keep = '0';
+
+public function __construct($host, $db, $user, $passwd, $dest_dir, $dest_file_prefix, $days_to_keep) {
+        $this->host = $host;
+        $this->db  = $db;
+        $this->user  = $user;
+        $this->passwd  = $passwd;
+        $this->dest_dir = $dest_dir;
+        $this->dest_file_prefix = $dest_file_prefix;
+        $this->days_to_keep = $days_to_keep;
+    }
+
+public function dump() {
+        print "MysqlBackup::dump()\n";
+        print "Dumping database: $this->db\n";
+        $date = date('m-d-Y_H-i-s');
+        print "Dump file date: $date\n";
+        $dest_file = $this->dest_file_prefix . '.' . $date . '.sql.bz2';
+        $dest_file_path = "$this->dest_dir/$dest_file\n";
+        print "Dump file destination: $dest_file_path";
+        $cmd = "mysqldump --add-drop-table --host=$this->host --user=$this->user --password=$this->passwd $this->db | bzip2 -c > $dest_file_path";
+        // call 'system' with '$cmd' as an argument here
+        // for some reason, WordPress wants to blow up when I include the call
+    }
+public function clean() {
+        print "MysqlBackup::clean()\n";
+        $handle = opendir($this->dest_dir) or die ('Could not open directory: '. $this->dest_dir);
+        print 'Opened directory: ' . $this->dest_dir . "\n";
+        print "Examining files\n";
+        $keep_threshold_time = strtotime("-$this->days_to_keep days");
+        while (false !== ($file = readdir($handle))) {
+            $dest_file_path = "$this->dest_dir/$file";
+            print "'$dest_file_path': ";
+            if(!is_dir($dest_file_path)) {
+                $file_time = filemtime($dest_file_path);
+                print "$file_time < $keep_threshold_time? ";
+                if($file_time < $keep_threshold_time) {
+                    print "Yes. Deleting.\n";
+                    unlink($dest_file_path);
+                }
+                else {
+                    print "No. Skipping.\n";
+                }
+            }
+            else {
+                print "A Directory, excluding\n";
+            }
+        }
+    }
+}
+
+
+#+END_EXAMPLE
+
+
+

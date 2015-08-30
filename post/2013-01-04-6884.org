@@ -1,0 +1,54 @@
+#+POSTID: 6884
+#+DATE: [2013-01-04 Fri 20:11]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Artificial Intelligence, Java, Jess, Rules Engine
+#+TITLE: First Impressions Of Why You May Like To Look At Jess
+
+Reasons to learn Jess:
+
+01. Opportunity to learn declarative style of programming: [[https://en.wikipedia.org/wiki/Declarative_programming]]
+
+02. Opportunity to learn about production systems: [[https://en.wikipedia.org/wiki/Production_system]]
+
+03. Opportunity to learn about inference engines: [[https://en.wikipedia.org/wiki/Inference_engine]]
+
+04. Opportunity to learn about business rules engines: [[https://en.wikipedia.org/wiki/Rules_engine]]
+
+05. It provides seamless data integration between Java so you don't have to do tedious data loading.
+
+06. It provides seamless functional integration between Java your entire range of powerful and existing Java technologies and codebase can use Java, and vice-versa.
+
+07. It provides a constrained subset of reality to reason about, similar to mathematical models.
+
+08. It provides the opportunity to sit directly with the business to learn and revise rules and via tools like Fitnesse you can provide immediate feedback to review, revise, and repeat until you reach the desired behavior with the business owners.
+
+09. It goes to the absolute essence of the problem in a way that doesn't hide behind the complexity of most languages and frameworks that provide the illusion of productivity because of the huge amount of boilerplate and pageantry necessary to accomplish even the simplest tasks.
+
+10. It provides rules engine functionality to small project where a business rule management system (BRMS) would be inappropriate.
+
+11. It provides an elegant integration point for business logic in virtually any part of a Java system without getting sucked into the pattern/framework/architecture madness/sickness that adds virtually no business value yet consumes most of the resources of the project.
+
+12. The Rete algorithm executes non-trivial conditional code faster and more efficiently than most humans could write the code themselves: [[https://en.wikipedia.org/wiki/Rete_algorithm]]
+
+13. It provides a simple and elegant means for business logic that changes over time.
+
+14. It provides a simple and elegant means for accomodating data models that change over time because it's data model is not intimately tied to it's implementation for example Hibernate vs JavaPersistence vs Hashmaps vs POJOs.
+
+15. It is a full fledged programming language in and of itself, a first class member of the JVM, and capable of generating code that it may then execute at full-speed.
+
+16. It removes you from the obsession with data structures flow-control, forcing you to truly understand the business problem at hand, which is probably data transformation at it's core, and then allows you to express a solution to that problem which provides exactly what the user's originally wanted in a way that is shockingly different than you ever expected could be done.
+
+17. It allows you to persist the rule and fact base and restore it at will, easily allowing for long-running and durable programs.
+
+18. It allows you to reason about variables levels of "success" in completing tasks in a program, and react accordingly, and try again later in easy ways to accomplish that would be a nightmare to try to figure out where to add it in hand-coded systems.
+
+19. It provides backward chaining allowing for the system to attempt to "do the right thing to learn more" based on criteria defined elsewhere potentially differing based on time, location, and any kind of context about which you care: [[https://en.wikipedia.org/wiki/Backward_chaining]]
+
+20. It will forever change the way that you think about programming.
+
+21. Expert systems are a form AI that recognize the limitations of what we know about intelligence and what it means to be human; and instead try to model a subset of knowledge and merely mimic actions of a subject matter expert. This is realistic and achievable, drawing from a long history, and the practicality of modeling. It is much more interesting and achievable than the "what does it mean to be human?" pursuits of AI.
+
+
+
+

@@ -1,0 +1,25 @@
+#+POSTID: 1758
+#+DATE: [2009-02-15 Sun 02:27]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Programming gerbils: Distributed programming with PLT-Scheme
+
+#+BEGIN_QUOTE
+  Next Boston Lisp Meeting: Monday February 23th 2009 at 1800 at MIT 34-401B
+
+Dimitris Vyzovitis will give a talk about Programming gerbils: Distributed programming with PLT-Scheme. 
+
+vyzo will talk about gerbil, a little language for distributed programming using PLT-Scheme. Gerbil is a macro language that provides facilities for actor-based distributed programs and transparent network simulation. 
+
+vyzo is a PhD student at the MIT Media Lab who suffers from a severe scheme addiction. 
+
+His website is at [[http://web.media.mit.edu/~vyzo/]]
+#+END_QUOTE
+
+
+
+(via [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-February/030357.html][PLT]])
+
+
+

@@ -1,0 +1,15 @@
+#+POSTID: 274
+#+DATE: [2008-07-24 Thu 02:42]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: XO
+#+TITLE: Wifi-radar hoses my wifi router
+
+If you don't run Sugar on your XO, you need to configure your wireless connection /somehow/, and a lot of folks use wifi-radar, myself included.
+
+While experimenting with it tonight, I noticed that the wireless connection on my other computer quit working periodically. Eventually I did put two and two together and found that everything worked fine when I /wasn't/ running wifi-radar!
+
+Resolving this is of low-priority.
+
+
+

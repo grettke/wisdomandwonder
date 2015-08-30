@@ -1,0 +1,80 @@
+#+POSTID: 164
+#+DATE: [2008-05-03 Sat 22:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Git, Revision control system, Subversion, Utility
+#+TITLE: What every Subversion user must know about Git
+
+Subversion is perfect (simple concept, lots of books, good tool integration, and easy to use) but for the fact that it doesn't support:
+
+
+-  Merge tracking
+-  [[http://en.wikipedia.org/wiki/Distributed_revision_control][Distributed]] operation
+
+
+
+While the former should be addressed in version 1.5, the latter is anyone's guess.
+
+The problem is that Subversion is just so good that eventually you /will/ will want a distributed mode with Subversion.
+
+Fortunately, Git supports [[http://tsunanet.blogspot.com/2007/07/learning-git-svn-in-5min.html][distributed operation against Subversion repositories]]!
+
+If this gets you "on the Git bus", check out this:
+
+[[http://utsl.gen.nz/talks/git-svn/intro.html][An introduction to git-svn for Subversion/SVK users and deserters]].
+
+(Thanks Geoff for the links)
+
+Addendum 05/03/08:
+
+Tonight I tested out setting up cygwin /from scratch/ to use Git, and in doing so confirmed what I knew and discovered what I didn't!
+
+You must use the following packages:
+
+
+1. Git 1.5.5.1-1
+2. Subversion 1.4.5-2
+3. Subversion-perl 1.4.5-2
+
+
+
+Failure to install the subversion-perl bindings results in the error:
+=
+Can't locate SVN/Core.pm in @INC 
+
+
+Thank you ycdtosa for the pointer!
+
+Addendum 05/03/08:
+
+If, like many of us, you haven't fully cut over to cygwin, you may receive the following error message when you attempt a commit:
+
+You have some suspicious patch lines=
+
+[[http://www.dont-panic.cc/capi/2007/07/13/git-on-windows-you-have-some-suspicious-patch-lines/][Here]] is both an explanation of and a work-around for the error. 
+
+
+
+#+BEGIN_QUOTE
+  To solve the problem, you need to edit .git/hooks/pre-commit and comment out the following lines:
+
+ =if (/\s$/) {
+    bad_line("trailing whitespace", $_);
+    }=
+#+END_QUOTE
+
+
+
+Before tonight, I figured that I would never have the need to use dos2unix ever again! Based on one of the commentors replies, though, I expect that further research on the operation of Git is required on my part in order work between CR and CRLF environments:
+
+
+#+BEGIN_QUOTE
+  Git from some time has core.autocrlf and crlf attribute, which should help in mixed UNIX (LF) and Windows (CR LF) environment
+#+END_QUOTE
+
+
+
+
+
+
+

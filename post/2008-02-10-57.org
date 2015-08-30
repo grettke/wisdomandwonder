@@ -1,0 +1,13 @@
+#+POSTID: 57
+#+DATE: [2008-02-10 Sun 19:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme, philosophy
+#+TITLE: Give credit where it is due
+
+You should /always/ give credit where it it due, especially when it is due to you! 
+
+[[http://www.scsh.net/docu/html/man.html][Here]] is a good example of the practice.
+
+
+

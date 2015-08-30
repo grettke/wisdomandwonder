@@ -1,0 +1,17 @@
+#+POSTID: 824
+#+DATE: [2008-10-04 Sat 01:42]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: HOP Web Framework
+
+#+BEGIN_QUOTE
+  [[http://hop.inria.fr/][HOP]] is a new Software Development Kit for the Web 2.0. It relies a new higher-order language for programming interactive web applications such as multimedia applications (web galleries, music players, ...), office applications (web agendas, mail clients, ...), ubiquitous domotics, etc. HOP can be viewed as a replacement for traditional graphical toolkits. HOP is implemented as a Web broker, i.e., a Web server that may act indifferently as a regular Web server or Web proxy.
+#+END_QUOTE
+
+
+
+(via [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/bccf9f628bac6868#][comp.lang.scheme]])
+
+
+

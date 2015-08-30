@@ -1,0 +1,11 @@
+#+POSTID: 8978
+#+DATE: [2014-08-30 Sat 00:22]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: sqldf for R
+
+[[http://cran.r-project.org/web/packages/sqldf/index.html][sqldf]] brokers your dataframe from R into a SQLite database, executes your SQL query, and brokers the data back as a new dataframe. Very nice. The documentation and literature reveals that it works with H2, MySQL, and PostgreSQL, and additionally does a whole lot more than the one-liner claims!
+
+
+

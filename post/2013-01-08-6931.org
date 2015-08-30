@@ -1,0 +1,169 @@
+#+POSTID: 6931
+#+DATE: [2013-01-08 Tue 19:55]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Artificial Intelligence, Java, Jess, Rules Engine, jess-sample-java-setup
+#+TITLE: More Basic Setup
+
+*** Custom JESS REPL
+
+
+
+
+
+If you want to use a custom JESS REPL with Emacs then set up a shell script
+jsjs-repl like this:
+
+
+
+
+
+#+BEGIN_EXAMPLE
+    #!/bin/bash
+mvn --file /home/gcr/git/jess-sample-java-setup/jsjs/pom.xml compile -Pjess-repl
+
+#+END_EXAMPLE
+
+
+
+
+
+And then make this call in EMACS before calling =run-jess=:
+
+
+
+
+
+#+BEGIN_EXAMPLE
+    (setq inferior-jess-program "/home/gcr/git/jess-sample-java-setup/jsjs/jsjs-repl")
+
+#+END_EXAMPLE
+
+
+
+
+
+*** 
+[[#more-background][]]More Background
+
+
+
+
+
+My background is custom software development in a consulting and stuff sup role. My work has been primarily in insurance, manufacturing, and the financial industries with clients ranging from large to small. Tech/training wise I studied mscs, computing, and computational sciences at MU; and have practiced software engineering at my day job for the past eleven years, and I mean practice, it is something I am constantly trying to get better at. Tech wise I am a pretty typical GNU/Linux & Windows person more or less, doing Java, .NET, Lisp, and recently Python.
+
+
+
+
+
+A commonality among nearly every project I've worked on is the eventual occurrence of if statements 5-levels deep repeated across multiple call-sites (40+ typically) through no want/action/desire of my own. When I look at stuff like this, I feel like in addition to refactoring (regardless of the system type) there might be a better way. From what I've learned so far, rules engines seem like they might be a good fit.
+
+
+
+
+
+Part of my goal here was to find a tool that not only provided a rules engine, but also helps the user to understand and debug what is happening, when, how, and why, with the intent that the developer implementing the rules can do it in a non-arcane manner and also share the behavior of the engine with business-related users to help them down the path of thinking in that manner.
+
+
+
+
+
+*** jess-mode Cheat Sheet
+
+
+
+
+
+Before tackling the CLIPS literature I felt like I ought to ramp up on the key-bindings for jess-mode in EMACS. Here are some good ones, you will find that they are basically what you would expect in the grouping that I view them in order to help the development process:
+
+
+
+
+
+/Comprehension/:
+
+
+
+
+
+-  
+=\C-c,f= 'inf-jess-get-facts: Retrieve the fact list from the inferior Jess process.
+-  
+=\C-c,r= 'inf-jess-get-rules: Retrieve the rule list from the inferior Jess process.
+-  
+=\C-c,a= 'inf-jess-get-agenda: Retrieve the agenda from the inferior Jess process.
+-  
+=\C-c,v= 'inf-jess-get-view: The view command displays a live snapshot of the Rete network in a graphical window. I added this one myself.
+
+/Management/:
+
+
+
+
+
+-  
+=\C-c,g= 'inf-jess-run-engine: Run the inference engine in the inferior Jess process.
+-  
+=\C-c,i= 'inf-jess-reset-engine: Reset the inference engine running in the inferior Jess process.
+
+/Evaluation/:
+
+
+
+
+
+-  
+=\C-x\C-e= 'inf-jess-eval-last-sexp: Send the previous sexp to the inferior Jess process. Prefix argument means switch to the Jess buffer afterwards.
+-  
+=\C-c,e= 'inf-jess-eval-region: Send the current region to the inferior Jess process. Prefix argument forces switch to Jess buffer afterwards.
+-  
+=\C-c,b= 'inf-jess-eval-buffer: Send the entire buffer to the Inferior Jess process. Prefix argument means switch to the Jess buffer afterwards.
+-  
+=\C-c,t= 'inf-jess-eval-deftemplate: Send the current deftemplate to the inferior Jess process. Prefix argument means switch to the Jess buffer afterwards.
+-  
+=\M-\C-x= 'inf-jess-eval-deffunction: Send the current deffunction to the inferior Jess process. Prefix argument means switch to the Jess buffer afterwards.
+
+I bound 'inf-jess-val-buffer to , that is what I do for all lisp modes, but that is a personal preference thing.
+
+
+
+
+
+To set the JESS interpreter command (make sure it is a shell scrip):
+
+
+
+
+
+#+BEGIN_EXAMPLE
+    (setq inferior-jess-program "foo")
+#+END_EXAMPLE
+
+
+
+
+
+To start JESS in EMACS run:
+
+
+
+
+
+#+BEGIN_EXAMPLE
+    run-jess
+#+END_EXAMPLE
+
+
+
+
+
+*** CLIPS Notes
+
+
+
+
+
+For fun I worked through the CLIPS 6.30 beta literature specifically the user's guide and basic programming guide. These are so, so helpful; they are aimed and programmers who have never worked in an expert system before. It goes in a lot more depth what you may do in CLIPS, and consequently JESS, than JESS does.
+
+
+

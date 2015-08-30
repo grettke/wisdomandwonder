@@ -1,0 +1,13 @@
+#+POSTID: 6713
+#+DATE: [2012-11-29 Thu 20:11]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Development, Learning, Methodology, Software
+#+TITLE: Understanding Technical Debt
+
+[[http://swreflections.blogspot.com/2012/02/technical-debt-how-much-is-it-really.html][Here]] is a great article on technical debt, it succinctly captures all of the problems that you always run into.
+
+Local copy [[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2012/11/Building-Real-Software_-Technical-Debt-How-much-is-it-Really-Costing-you_.pdf][here]].
+
+
+

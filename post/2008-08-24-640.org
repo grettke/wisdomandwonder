@@ -1,0 +1,37 @@
+#+POSTID: 640
+#+DATE: [2008-08-24 Sun 01:29]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Study-HTDP
+#+TITLE: Why post to Study-HTDP rather than PLT?
+
+Originally published [[http://groups.google.com/group/study-htdp/browse_thread/thread/f7881c8c3c47ac9f?hl=en][here]]:
+
+
+
+#+BEGIN_QUOTE
+  
+You may or may not know that the authors of HTDP are all directly available on the PLT Discussion list located here:
+
+[[http://list.cs.brown.edu/mailman/listinfo/plt-scheme/]]
+
+You might rightly be wondering why you would post messages here rather than directly to the PLT list? Well, there are two good reasons:
+
+1. This group has a very focused goal. We can leverage our similar interests, and answer a lot of questions that anyone on our track would need answered once, and build a focused knowledge base. The PLT list discussed a much broader range of topics, mostly focusing on Scheme.
+
+2. All of those guys on the PLT list are super nice folks, and world-class programmers, who are *happy* to answer our questions (even stupid ones, seriously). Buy why bother them with questions that we can answer ourselves? We can make life easier for the PLT folks by answering said questions here, first, and leaving tough questions for them. 
+
+#+END_QUOTE
+
+
+
+One thing to note here is that there is a read-only mirror of this group located here:
+
+[[http://groups.google.com/group/plt-scheme]]
+
+This provides a nicer interface and more importantly the ability to search messages which is particularly helpful if you know for what you are looking.
+
+It might be a good resource if you are looking for HTDP focused content.
+
+
+

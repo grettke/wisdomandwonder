@@ -1,0 +1,18 @@
+#+POSTID: 1868
+#+DATE: [2009-02-21 Sat 19:32]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Logic, Programming, Teaching
+#+TITLE: Tarski’s World 
+
+#+BEGIN_QUOTE
+  [[http://ggww2.stanford.edu/GUS/tarskisworld/index.jsp;jsessionid=4EA26780CCE1851AB602BA7FF884EA63][The package]] is intended as a supplement to any standard logic text or for use by anyone who wants to learn the language of first order logic. The main body of the book contains a collection of exericses which use the Tarski's World software to teach the language and semantics of first order logic. The Tarski's World application allows the evaluation of first-order sentences within blocks world which users may construct using a simple editor. The worlds consist of collections of blocks of varying sizes and shapes, and placed on a checkerboard. We use an interpreted first-order language which allows users to write sentences about these worlds and evaluate their truth. A Henkin-Hintikka game may be used to elucidate the evaluation procedure.
+#+END_QUOTE
+
+
+
+Via [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-February/030794.html][PLT]], where a few folks shared that this package is quite good.
+
+
+
+

@@ -1,0 +1,41 @@
+#+POSTID: 2648
+#+DATE: [2009-04-18 Sat 03:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: What file is a name defined in?
+
+ 
+
+
+#+BEGIN_EXAMPLE
+    
+#lang scheme
+
+; What file is a name defined in?
+
+;; definition-source : identifier -> (U symbol path)
+;; Returns a symbol or path for the module that contains
+;; the definition for a given name.
+(define (definition-source id)
+  (let ([binding (identifier-binding id)])
+    (and (list? binding)
+         (resolved-module-path-name
+          (module-path-index-resolve (car binding))))))
+
+(definition-source #'map)
+ ; => #
+
+(definition-source #'+)
+; => #%kernel
+; "The + procedure is defined in the built-in kernel module 
+; (it has no Scheme source file)."
+
+#+END_EXAMPLE
+
+
+
+(via [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-April/032220.html][PLT]])
+
+
+

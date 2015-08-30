@@ -1,0 +1,36 @@
+#+POSTID: 3861
+#+DATE: [2009-09-05 Sat 21:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Windows
+#+TITLE: How To Create a User-Defined Service
+
+Because I always forget how, here is how to create a user-defined service in Windows:
+
+
+
+1. Get a copy of the Windows 2003 Resource Toolkit
+2. Install the service:
+
+   #+BEGIN_EXAMPLE
+       path\INSTSRV.EXE My Service path\SRVANY.EXE
+   #+END_EXAMPLE
+
+3. Open the service you just created in regedit here:
+
+   #+BEGIN_EXAMPLE
+       HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\[My Service]
+   #+END_EXAMPLE
+
+4. Right click the service itself and create a key named 'Parameters'. This creates a new sub-folder.
+5. Select the 'Parameters' key and then right-click on the space to the right and choose the 'New Key' option. Name it 'Application'.
+6. Its type will default to 'REG\_SZ'. Leave that alone.
+7. For its value enter in the executable path.
+8. You are done.
+
+
+
+(via [[http://support.microsoft.com/kb/137890][Microsoft Support]])
+
+
+

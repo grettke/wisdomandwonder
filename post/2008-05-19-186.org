@@ -1,0 +1,19 @@
+#+POSTID: 186
+#+DATE: [2008-05-19 Mon 19:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Scala
+#+TITLE: Programming with Functional Objects in Scala
+
+At the JavaOne 08 presentation "Programming with Functional Objects in Scala", [[http://www.scala-lang.org/][Scala]]'s creator [[http://lampwww.epfl.ch/~odersky/][Martin Odersky]] summed up Scala's mission statement for the audience:
+
+
+
+#+BEGIN_QUOTE
+  Scala is the perfect mixture of Object Oriented (OO) and Functional Programming (FP). You get the flexibility of FP along with the familiarity of OO; along with the awesome power of the Actor model. Combine that will full speed execution on the JVM (in contrast to JRuby for example) along with seamless integration with existing Java libraries and you've got a platform that is tough to beat".
+
+Well said Martin.
+#+END_QUOTE
+
+
+

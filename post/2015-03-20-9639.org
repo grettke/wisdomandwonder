@@ -1,0 +1,17 @@
+#+POSTID: 9639
+#+DATE: [2015-03-20 Fri 20:11]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: DevOps, OSX, Packer, Vagrant
+#+TITLE: Where VMWare Fusion Stores Boxes on OSX
+
+When you create VMWare Fusion virtual machines through the GUI they are stored in =~/Virtual Machines=.
+
+When Vagrant creates VMWare Fusion virtual machines they are stored in =Vagrant-file-directory/.vagrant/machines/default/vmware_fusion=.
+
+Confirmed it myself.
+
+Thank you [[https://blog.safaribooksonline.com/2014/01/16/building-vagrant-vms-with-the-vmware-fusion-provider/][JT Gray]].
+
+
+

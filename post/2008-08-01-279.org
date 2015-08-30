@@ -1,0 +1,11 @@
+#+POSTID: 279
+#+DATE: [2008-08-01 Fri 12:32]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Update
+#+TITLE: Updated: Enhanced Emacs Support for Editing and Running Scheme Code
+
+See [[http://www.wisdomandwonder.com/link/102/enhanced-emacs-support-for-editing-and-running-scheme-code][here]].
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 2010
+#+DATE: [2009-03-03 Tue 16:49]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: LispIDE and Scheme
+
+[[http://www.daansystems.com/lispide/][LispIDE]] is a Scheme-friendly editor for Windows. Testing it out briefly with mzscheme seemed to work fine. This might be nice for folks who do not want to use DrScheme or Emacs but want to be able to easily send snippets to the REPL.
+
+(via [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/f0f44cfb71bcfc88][comp.lang.scheme]])
+
+
+

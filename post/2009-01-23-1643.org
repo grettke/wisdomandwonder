@@ -1,0 +1,15 @@
+#+POSTID: 1643
+#+DATE: [2009-01-23 Fri 22:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Macro, Programming Language, Scheme
+#+TITLE: Different approaches to shaping code
+
+It is fun to see how different people solve the same problem in code because you often learn new things in the process. In this [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/acd57a0475426a47][thread]] in comp.lang.scheme, the original poster asked about how to define a particular shape of code, but without using non-hygienic macros. My approach is posted within the thread. 
+
+The solution itself is no where near as interesting as how it was reached. Basically I followed the lessons that I have been learning by studying [[http://www.htdp.org/][HtDP]], and the result was basically that the solution "wrote itself". Granted, I have not reached a "Design Recipe" for writing macros (I suspect that there is not such a recipe in the book); but the disciplined approach may be followed all the same. 
+
+Everyone who wants to become a better programmer should read [[http://www.htdp.org/][HtDP]]!
+
+
+

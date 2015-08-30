@@ -1,0 +1,11 @@
+#+POSTID: 6977
+#+DATE: [2013-01-23 Wed 16:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Apple, Emulator, Fun
+#+TITLE: LinApple Apple 2E Emulator for Linux
+
+[[http://linapple.sourceforge.net/index.html][LinApple]] is a port of AppleWin for Linux and it works great. It is a lot of fun to play around with that machine again; fond memories.
+
+
+

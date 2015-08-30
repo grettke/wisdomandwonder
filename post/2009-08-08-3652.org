@@ -1,0 +1,13 @@
+#+POSTID: 3652
+#+DATE: [2009-08-08 Sat 14:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: philosophy
+#+TITLE: Redefining Want
+
+The word 'want' is a verb that, when used with an object, indicates their desire or interest in said object. For example "I want dinner", or "I want to be happy". In order to achieve that object, one must take some ordered steps. For example if 'I want dinner' some logical steps might be to go to the market, buy some vegatables and rice, cook them, and finally eat them. When the steps are anything but trivial, most of us get lazy. The result of the laziness is that when we start to follow the steps we simply say something to the effect of "I don't want to". For example "I want to be healthy, but I don't want to exercise". It is easy to get try to follow the 'tough love' approach on yourself or your friends in cases like this; but that virtually never works. What if, instead, we redefined 'want' to indicate not only the objects that we wish to attain, but also the means by which we will attain them? 
+
+Perhaps in doing so, it would explain to our brains that pleasure can be had not only in the fruits of our effort, but also in our effort alone?
+
+
+

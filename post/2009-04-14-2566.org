@@ -1,0 +1,11 @@
+#+POSTID: 2566
+#+DATE: [2009-04-14 Tue 02:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language
+#+TITLE: Some Great Programming Language Blogs
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2009/04/grant-rettke-google-reader-subscriptions.xml][Here]] are some great programming language blogs. It is an [[http://en.wikipedia.org/wiki/OPML][OPML]] file; and in the browser it will just say "Grant Rettke subscriptions in Google Reader". You need to import it into your RSS reader if you would like to check it out.
+
+
+

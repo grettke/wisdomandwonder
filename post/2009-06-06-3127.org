@@ -1,0 +1,22 @@
+#+POSTID: 3127
+#+DATE: [2009-06-06 Sat 12:41]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Computer Science, Fractal, mathematics
+#+TITLE: Fractal Imaging
+
+#+BEGIN_QUOTE
+  What is fractal imaging? Well, it's more than just the algorithmic generation of ferns (like the generated image above) from non-linear equation systems. It's a way of looking at ordinary (bitmap) images of all kinds. The hypothesis is that any given image (of any kind) is the end-result of iterating on some particular (unknown) system of non-linear equations, and that if one only knew what those equations are, one could regenerate the image algorithmically (from a set of equations) on demand. The implications are far-reaching. This means:
+
+1. Instead of storing a bitmap of the image, you can just store the equations from which it can be generated. (This is often a 100-to-1 storage reduction.)
+2. The image is now scale-free. That is, you can generate it at any scale -- enlarge it as much as you wish -- without losing fidelity. (Imagine being able to blow up an image onscreen without it becoming all blocky and pixelated.)
+#+END_QUOTE
+
+
+
+-- [[http://asserttrue.blogspot.com/2009/05/fractal-imaging.html][Kas Thomas]]
+
+[[http://books.google.com/books?id=peG8TSNMlW0C][Here]] is the book, Fractal Imaging, referenced by the article.
+
+
+

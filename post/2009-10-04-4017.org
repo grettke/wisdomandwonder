@@ -1,0 +1,13 @@
+#+POSTID: 4017
+#+DATE: [2009-10-04 Sun 04:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Ide, Programming
+#+TITLE: Elastic tabstops
+
+The argument: Code an in editor should be dynamically formatted using something like intelligent table-based layouts. 
+
+Seems like an OK idea. Read about it [[http://nickgravgaard.com/elastictabstops/][here]].
+
+
+

@@ -1,0 +1,24 @@
+#+POSTID: 4700
+#+DATE: [2010-04-13 Tue 03:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: philosophy
+#+TITLE: How do you define being "burnt out"?
+
+How do you define being "burnt out"?
+
+I found [[http://tech.mit.edu/V130/N18/dubai.html][this]] fellow's definition intriguing:
+
+
+
+#+BEGIN_QUOTE
+  burning out isn't just about work load, it's about work load being greater than the motivation to do work
+#+END_QUOTE
+
+
+-- Keith Yost
+
+This sounds so very insidious.
+
+
+

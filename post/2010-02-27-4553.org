@@ -1,0 +1,99 @@
+#+POSTID: 4553
+#+DATE: [2010-02-27 Sat 19:14]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Architecture, Conference
+#+TITLE: DEBS 2010
+
+Looks pretty fun!
+
+Via the [[http://debs10.doc.ic.ac.uk/][homepage]]:
+
+
+
+#+BEGIN_QUOTE
+  
+The 4th ACM International Conference on Distributed Event-Based Systems (DEBS) builds on the success of first three editions from 2007. DEBS Conference success is rooted in five editions of the DEBS workshops held from 2002 to 2006 in companion with major conferences such as ICDCS, ICSE, and SIGMOD/PODS. The conference has received full ACM sponsorship since 2009. 
+
+The objectives of the DEBS Conference are to provide a forum dedicated to the dissemination of original research, the discussion of practical insights, and the reporting on relevant experience relating to event-based computing that was previously scattered across several scientific and professional communities. The conference also aims at providing a forum for academia and industry to exchange ideas, for example, through industry papers and demo papers.
+
+#+END_QUOTE
+
+
+
+Via [[http://caml.inria.fr/pub/ml-archives/caml-list/2010/02/94e3a5d51904da224ec0b2a35df1be50.en.html][caml-list]]:
+
+
+
+#+BEGIN_EXAMPLE
+    
+--------------------------------------------------------------------------
+
+Event-based systems are rapidly gaining importance in many application
+domains ranging from real time monitoring systems in production, logistics
+and networking to complex event processing in finance and security. The
+event based paradigm has gathered momentum as witnessed by current efforts
+in areas including event-driven architectures, complex event processing,
+business process management and modelling, Grid computing, Web services
+notifications, information dissemination, event stream processing, and
+message-oriented middleware. The various communities dealing with event
+based systems have made progress in different aspects of the problem. The
+DEBS conference attempts to bring together researchers and practitioners
+active in the various subcommunities to share their views and reach a
+common understanding.
+
+The scope of the conference covers all topics relevant to event-based
+computing ranging from those discussed in related disciplines (e.g.,
+coordination, software engineering, peer-to-peer systems, Grid computing,
+and streaming databases), over domain-specific topics of event-based
+computing (e.g., workflow management systems, mobile computing, pervasive
+and ubiquitous computing, sensor networks, user interfaces, component
+integration, Web services, and embedded systems), to enterprise related
+topics (e.g., complex event detection, enterprise application integration,
+real time enterprises, and Web services notifications).
+
+The topics addressed by the conference include (but are not limited to):
+
+Models, Architectures and Paradigms
+- Event-driven architectures
+- Basic interaction models
+- Event algebras, event schemas and type systems
+- Languages for event correlation and patterns, streaming and continuous
+  queries, data fusion
+- Models for static and dynamic environments
+- Complex event processing
+- Design and programming methodologies
+- Event-based business process management and modeling
+- Experimental methodologies
+- Performance modeling and prediction based on analytic approaches
+
+Middleware Infrastructures for Event-Based Computing
+- Federated event-based systems
+- Middleware for actuator and sensor networks
+- Algorithms and protocols
+- Event dissemination based on p2p systems
+- Context and location awareness
+- Fault-tolerance, reliability, availability, and recovery
+- Security issues
+- (Self-)Management
+- Mobility and resource constrained device support
+- Streaming queries, transformations, or correlation engines
+
+Applications, Experiences, and Requirements
+- Use cases and applications of event-based systems
+- Real-world application deployments using event-based middleware
+- Domain-specific deployments of event-based systems
+- Real-world data characterising event-based applications
+- Benchmarks, performance evaluations, and testbeds
+- Application requirements for next-generation event-based solutions
+- Relation to other architectures
+- Enterprise application integration
+- Event-driven business process management
+- Information logistics
+- Seamless integration of event-based mechanisms into middleware
+  platforms
+
+#+END_EXAMPLE
+
+
+

@@ -1,0 +1,15 @@
+#+POSTID: 2796
+#+DATE: [2009-04-27 Mon 20:49]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: philosophy
+#+TITLE: If you want to change the world
+
+#+BEGIN_QUOTE
+  If you want to change the world, you will need to learn how to sell. That's just the way things are...
+#+END_QUOTE
+
+--[[http://blog.guykawasaki.com/2009/04/selling-by-ben-stein.html][Guy Kawasaki]]
+
+
+

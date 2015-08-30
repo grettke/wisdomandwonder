@@ -1,0 +1,20 @@
+#+POSTID: 6325
+#+DATE: [2012-09-17 Mon 02:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Privacy, Software
+#+TITLE: 3 Essential Privacy Plugins
+
+3 essential privacy plugins:
+
+
+-  [[http://noscript.net/][NoScript]]
+-  [[https://www.eff.org/https-everywhere][HTTPSEverywhere]]
+-  [[http://www.abine.com/dntdetail.php][Do Not Track Plus]]
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+#+POSTID: 1688
+#+DATE: [2009-02-02 Mon 00:38]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Functional, Programming Language
+#+TITLE: Jane Street Summer Project 2009
+
+Jane Street is sponsoring a [[http://ocaml.janestreet.com/?q=node/57][summer project]] for students in 2009 with the goal of "encourag[ing] growth in the functional programming community".
+
+I haven't got any strong feelings about the best means by which to encourage that adoption; so I will be interested to see what comes of it.
+
+(via [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-January/030101.html][PLT]])
+
+
+

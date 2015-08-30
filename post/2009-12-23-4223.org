@@ -1,0 +1,11 @@
+#+POSTID: 4223
+#+DATE: [2009-12-23 Wed 01:12]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Selectively Disabling Tail Recursion
+
+[[http://calculist.blogspot.com/2009/08/selectively-disabling-tail-recursion.html][Here]]is a great article (and piece of code) that addresses one of the few complaints about tail-recursion, the inability to easily collect debugging information. It is just wonderful.
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 1753
+#+DATE: [2009-02-13 Fri 06:10]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Blogging, Web, WordPress
+#+TITLE: WordPress Upgrader works flawlessly
+
+I tried [[http://codex.wordpress.org/Version_2.7#WordPress_Upgrader][it]] for the first time and it works flawlessly.
+
+
+

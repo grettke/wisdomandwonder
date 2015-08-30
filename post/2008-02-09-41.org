@@ -1,0 +1,21 @@
+#+POSTID: 41
+#+DATE: [2008-02-09 Sat 01:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp
+#+TITLE: Lisp: How hard can it be?
+
+To apply the general question that makes every programmer shudder, to Lisp...
+
+
+
+#+BEGIN_QUOTE
+  How hard can it be?
+#+END_QUOTE
+
+
+
+[[http://www-formal.stanford.edu/jmc/recursive/recursive.html][Here]] is /the definitive answer/, from [[http://www-formal.stanford.edu/jmc/][the source]].
+
+
+

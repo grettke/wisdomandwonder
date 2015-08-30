@@ -1,0 +1,21 @@
+#+POSTID: 8638
+#+DATE: [2014-06-04 Wed 00:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming, Programming Language, Reproducible research, elisp, org-mode, philosophy
+#+TITLE: A lightweight philosophy for an Emacs keymap
+
+Any approach for your desired keymap in Emacs is possible. My current philosophy under development is to keep things as close to "stock" as possible. The idea is that I won't run into many collisions, and bindings will be generally documented quite well, and that is less work for me. What is my plan?
+
+First, it is really simple. The F keys are nice to use, but far away, and the first handful are bound anyway. Looking at 1...0 though, are those really critical? Well that depends. Unless you pass numeric to functions to functions a lot, then feel free to rebind them. That brings 10 keys to be bound that are quite comfortable to use being so easy to reach, that is a very easy fix. 
+
+Second, I overload bindings whenever possible. org-mode C-c C-c binding is really delightful. There are a bunch of situations where given the context, hitting C-c C-c, 80% of the time will do "the right thing" for that situation. It is really pleasant to use. My version is pretty basic actually. The thing is that I like the VC bindings in Emacs even if they only operate on one file at a time, I love the workflow. 
+
+As such, I'm calling vc-next-action and log-edit done a /lot/ of times every day. In the spirit of "saving keystrokes" and "micro-optimizations" it kind of jumped out at me that I'm wasting some time constantly hitting C-x s to save the buffer (despite having real-auto-save running quite aggressively), C-x vv to initiate the commit, fill the log message, and C-c C-c to finalize the commit. Well, that doesn't sound like much, but trust me it is! 
+
+My override was to first find the easiest number key for me to reach with my right hand, that is 9, and bind C-9 to vc-next action. Adding some advice to vc-next-action, save-buffer is called so that doesn't require a keystroke. After filling out the buffer, log-edit is bound to to C-9 but only in log edit mode. In that case, defadvice and C-9 make it a little simpler and so much faster. My tentative goal is to make C-9 "just do the right thing" in most situations, we'll see where that goes.
+
+Those are my two beliefs right now... any more lightweight and it wouldn't even exist.
+
+
+

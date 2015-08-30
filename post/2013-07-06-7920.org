@@ -1,0 +1,34 @@
+#+POSTID: 7920
+#+DATE: [2013-07-06 Sat 22:47]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Learning, ML, Programming Language, SML
+#+TITLE: One Path to SML
+
+Never knowing what is the right time for a path to present itself, I think I am back on the path to SML [[http://www.wisdomandwonder.com/article/6031/a-slow-study-group-for-ml][again]]. This time I got some more [[https://groups.google.com/d/msg/racket-users/IkOoZH2RCZU/FR2sTJmlJx0J][feedback]] and wanted to capture it here.
+
+Various feedback:
+
+
+
+-  [[http://www.amazon.com/books/dp/052156543X][ML for the Working Programmer]]. Skip it. A wonderful book. Excellent for advanced programmers.
+-  [[https://www.cs.cmu.edu/~rwh/introsml/][Programming in Standard ML]]. Definitive, once you are through, you are done. A wonderful book.
+-  [[http://www.amazon.com/The-Little-MLer-Matthias-Felleisen/dp/026256114X][The Little MLer]]. An introduction to the idea of typed programming not an introduction to SML
+-  [[http://www.amazon.com/Elements-Programming-ML97-Edition-2nd/dp/0137903871][Elements of ML Programming, ML97 Edition (2nd Edition)]].
+-  [[http://www.amazon.com/Primer-BCS-Practitioner-Ryan-Stansifer/dp/0135617219/ref=sr_1_1?s=books&ie=UTF8&qid=1373149152&sr=1-1&keywords=ML+primer+stansifer][ML Primer]]. Good for beginners.
+-  [[http://www.amazon.com/dp/0133319687][Functional Programming Using Standard Ml.]] A good introduction to the language. Good for beginners.
+-  [[http://www.amazon.com/Abstract-Types-Standard-Professional-Computing/dp/0471938440][Abstract Data Types in Standard ML]]. Poorly written, but good code for intermediate programmers to read.
+-  [[http://www.amazon.com/Purely-Functional-Structures-Chris-Okasaki/dp/0521663504][Purely Functional Data Structures]]. Excellent for advanced programmers.
+-  [[http://www.amazon.com/Applicative-High-Order-Programming-M-L-Perspective/dp/0412392402][Applicative High Order Programming: The Standard M.L.Perspective]]. Excellent for advanced programmers.
+-  [[http://www.amazon.com/Elements-Functional-Programming-International-Computer/dp/0201129159][Elements Of Functional Programming]]. Excellent for intermediate/advanced programmers.
+-  [[http://www.amazon.com/The-Definition-Standard-ML-Revised/dp/0262631814][The Definition of Standard ML - Revised]].
+-  [[http://www.amazon.com/Concurrent-Programming-ML-John-Reppy/dp/0521714729/ref=sr_1_7?s=books&ie=UTF8&qid=1373149124&sr=1-7&keywords=ML+primer][Concurrent Programming in ML]].
+-  [[http://www.mlworkshop.org/][ACM Workshop on ML]]. The proceedings.
+-  [[http://www.amazon.com/Programming-With-Standard-BCS-Practitioner/dp/0137220758][Programming With Standard Ml]]. Good for intermediate programmers.
+
+
+
+We'll see what is my cup of tea.
+
+
+

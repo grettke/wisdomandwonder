@@ -1,0 +1,13 @@
+#+POSTID: 6044
+#+DATE: [2011-11-26 Sat 01:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Sagittarius Scheme System
+
+[[http://code.google.com/p/sagittarius-scheme/][Sagittarius Scheme System]] is a "mostly R6RS Scheme system".
+
+(via [[http://lists.scheme-reports.org/pipermail/scheme-reports/2011-November/001648.html][scheme-reports]])
+
+
+

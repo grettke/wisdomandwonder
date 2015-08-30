@@ -1,0 +1,13 @@
+#+POSTID: 2096
+#+DATE: [2009-03-23 Mon 00:08]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming, philosophy
+#+TITLE: Designing by Accident
+
+[[http://video.google.com/videoplay?docid=2972857259372904575&ei=M-iySbjIMaqIqQOw7enyAw&q=guy+steele][Here]] is a seemingly nice presentation by Guy Steele. I haven't watched it yet but the original poster vouched for it.
+
+(via [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/6186fa58f3700d8b][comp.lang.scheme]])
+
+
+

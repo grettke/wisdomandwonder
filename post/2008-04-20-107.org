@@ -1,0 +1,13 @@
+#+POSTID: 107
+#+DATE: [2008-04-20 Sun 23:21]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Graphviz, Utility
+#+TITLE: Graphviz 
+
+[[http://www.graphviz.org/Documentation.php][Graphviz]], or Graph Visualization Software, is a gem of a program. By specifying graph relationships in plain text files, you can create and publish graph diagrams (in just about any format) to serve any number of purposes including the visualization graphs (of course!) and anything else that can be represented by a graphs like UML, class diagrams, state machines, network architecture, system design, and even code! This is a perfect tool for any developer.
+
+Here are some [[http://www.graphviz.org/Gallery.php][screenshots]]; but don't be limited by what you see. Use your imagination!
+
+
+

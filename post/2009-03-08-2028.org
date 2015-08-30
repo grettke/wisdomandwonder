@@ -1,0 +1,32 @@
+#+POSTID: 2028
+#+DATE: [2009-03-08 Sun 01:25]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: How PLTCOLLECTS works in PLT Scheme
+
+R6RS Scheme systems are composed of code artifacts that are either libraries or top-level-programs. Libraries simply map to directories. In PLT Scheme, you can configure the library search path by configuring the [[http://download.plt-scheme.org/doc/html/reference/collects.html#(idx._(gentag._393._(lib._scribblings/reference/reference..scrbl)))][PLTCOLLECTS]] environmental variable. 
+
+Having configured it and not getting results that I had expected, I asked about what I was doing wrong and got a great explanation [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-March/031114.html][here]]. It is pasted below.
+
+
+
+#+BEGIN_QUOTE
+  The path-list function does something that is common with environment variables that specify paths: you have a string of several paths, separated by a ":", which are searched in order. In addition, an empty path means "splice the default here". So you get:
+
+ "/foo:/bar" -- look in /foo and then in /bar
+ "/foo:/bar:" -- look in /foo, then in /bar, and then in the default
+ ":/foo:/bar" -- look in the default, then /foo then /bar
+ "/foo::/bar" -- look in /foo then the default, then /bar
+
+The last example shows why it's useful -- it allows you to both override PLT collections, as well as specify collections that could be overriden by PLT collections. For example, the first is useful if you want to try patching libraries, and the second is useful if you want to add a library that is added to a later version of PLT and you want to use it now but not when you upgrade.
+
+Finally, on windows, the path separator character is ";" instead of a colon. (And remember the possible pitfalls with backslashes, or just use forward slashes.)
+#+END_QUOTE
+
+
+
+Hopefully that detail gets added to the documentation; it wasn't obvious from reading it.
+
+
+

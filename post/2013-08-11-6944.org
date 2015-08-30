@@ -1,0 +1,15 @@
+#+POSTID: 6944
+#+DATE: [2013-08-11 Sun 16:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Lisp, PLT, Programming Language, Racket, Scheme, Utility
+#+TITLE: Scribfile: File and Operating System related Scribble Functionality
+
+[[http://planet.racket-lang.org/package-source/grettke/scribfile.plt/1/0/planet-docs/scribfile/index.html]]
+
+Is a little library that provides two forms, one to read a lispy language file into a codeblock and another that makes a system call and renders the results in a verbatim form. Pretty helpful for demos of non-Racket code and who knows what else.
+
+Thanks Racket team, and Danny and Matthew for getting this working.
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 5982
+#+DATE: [2011-10-23 Sun 21:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, Programming Language, Scheme
+#+TITLE: Destructuring Lists Using CA*D*R vs First, Second, ... vs Pattern Matching
+
+[[http://lists.scheme-reports.org/pipermail/scheme-reports/2011-October/001568.html][This thread]] discusses the pros and cons of using the CA*D*R functions vs named first, second, third, list-tail, ... and so on vs pattern matching for the same task. 
+
+I thought that pattern-matching was the best way to do it; and now I'm curious about why CA*D*R is better.
+
+
+

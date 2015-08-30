@@ -1,0 +1,25 @@
+#+POSTID: 176
+#+DATE: [2008-05-13 Tue 13:06]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: GNU Guile 1.8.5 Released
+
+#+BEGIN_QUOTE
+  [[http://lists.gnu.org/archive/html/guile-devel/2008-05/msg00016.html][This release]] includes: improved I/O performance, an object-based traps infrastructure, bug fixes, and other changes.
+#+END_QUOTE
+
+
+
+
+
+#+BEGIN_QUOTE
+  This is primarily a bugfix release.
+#+END_QUOTE
+
+
+
+(via [[http://plnews.org/posts/gnu_guile_185_released_20080512_055714.html][PLNews]])
+
+
+

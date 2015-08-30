@@ -1,0 +1,35 @@
+#+POSTID: 6922
+#+DATE: [2013-01-06 Sun 06:11]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Artificial Intelligence, CLIPS, Jess, Rules Engine
+#+TITLE: A Bit about CLIPS
+
+[[http://herzberg.ca.sandia.gov/][JESS]] is a superset of [[http://clipsrules.sourceforge.net/][CLIPS]]. On Linux it is a little less obvious how to get the install because CLIPS seems to come with a powerful IDE, but not on Linux. Oh well, on Ubuntu you can install it with:
+
+
+
+#+BEGIN_EXAMPLE
+    
+sudo apt-get install clips clips-common clips-doc
+
+#+END_EXAMPLE
+
+
+
+Installing it provides 
+
+
+-  the interpreter
+-  a nice man page
+-  a help file accessible within the interpreter via '(help)
+-  /usr/share/doc/clips-common/CLIPS-FAQ a compressed FAQ file readable with zcat or zless or zless to read it.
+-  /usr/share/doc/clips-common/html/ Local copy of the main website with links out to stuff like documentation
+-  /usr/share/doc/clips-common/examples/ "A number of examples of CLIPS program are available so you can test the interpreter and learn how it works. You can, for example, load one of them with (load "/usr/share/doc/clips-common/examples/wordgame.clp") and run it using (reset) and (run)."
+
+
+
+CLIPS seems like a great place to start with learning at least parts of JESS. I'm guessing that there is a lot of good material between the docs and examples.
+
+
+

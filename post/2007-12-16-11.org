@@ -1,0 +1,36 @@
+#+POSTID: 11
+#+DATE: [2007-12-16 Sun 19:27]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: .NET, Programming Language
+#+TITLE: Move and resize windows on MS Windows
+
+ms-window-move-resize-info is a project to provide both the libraries 
+and helper programs to do three things:
+
+
+1. Get information about the windows on your MS Windows desktop.
+2. Move windows on your MS Windows desktop.
+3. Resize windows on your MS Windows desktop.
+
+
+
+
+
+I wanted to do these three things for two reasons: to lay out windows
+precisely on large monitors and to force windows to a suitable size for
+use in screencasts. Surprisingly, no programs exist (as yet) in a 
+“ready to use” form to quickly and easily do these three things. 
+(To be specific, no programs that weren't "fishy", "unfinished", or
+incomplete. Believe you me, I like coding, but I would rather play
+guitar!)
+
+Here is the [[http://code.google.com/p/ms-window-move-resize-info/downloads/list][link]]
+
+/Update: 12/17/07/
+I just uploaded a new release that only displays information on windows that appear in the taskbar. Also the window text is no longer tweaked, it appears just as it does in the taskbar.
+
+Interesting note: when you maximize a window, you are really setting its location to (-4, -4) and adjusting the width and height by adding 8 to your screen width and screen height to "shave" off the (default) window borders.
+
+
+

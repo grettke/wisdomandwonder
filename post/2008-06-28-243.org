@@ -1,0 +1,11 @@
+#+POSTID: 243
+#+DATE: [2008-06-28 Sat 14:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, forth
+#+TITLE: S24 FORTHdrive
+
+[[http://www.ultratechnology.com/][This article]] led me to [[http://www.intellasys.net/index.php?option=com_content&task=view&id=21&Itemid=41][IntellaSys]], which offers this tiny little [[http://www.intellasys.net/index.php?option=com_content&task=view&id=16&Itemid=37][24-core CPU]] that runs Forth code!
+
+
+

@@ -1,0 +1,24 @@
+#+POSTID: 158
+#+DATE: [2008-05-03 Sat 15:32]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: How to print a PLT Slideshow to a file
+
+Here is how to print a [[http://www.plt-scheme.org/software/slideshow/][PLT Slideshow]] to a file:
+
+=slideshow -P -c -o [output file] [input file]=
+
+
+
+-  -P: print to postscript
+-  -c: (condense) flatten the output file in the case that you had built slides incrementally
+
+
+
+*Addendum: 05/17/08*
+
+The 'ps' argument doesn't seem to work. I must have used the alternate 'P' originally for printing, but posted the /other/ option, 'ps'. As such, I've updated this post. I will look into this. Additionally I've changed the condense argument to 'c'.
+
+
+

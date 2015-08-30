@@ -1,0 +1,16 @@
+#+POSTID: 9158
+#+DATE: [2014-09-21 Sun 00:57]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: R Online Anywhere
+
+
+[[http://www.r-fiddle.org/#/][R-Fiddle]] lets you run ℝ anywhere with web access.
+
+
+
+
+
+
+

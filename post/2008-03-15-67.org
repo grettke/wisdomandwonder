@@ -1,0 +1,19 @@
+#+POSTID: 67
+#+DATE: [2008-03-15 Sat 15:04]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Programming, Teaching
+#+TITLE: BarCamp in Wisconsin
+
+Last year some of my [[http://www.geekbookclub.org/web/guest/home][friends]] and I both attended and presented at [[http://barcampmilwaukee.com/][Barcamp Milwaukee]]. When you have a bunch of people coming together to discuss things about which they are really passionate, well, you can't beat it. It was a lot of fun, I met a lot of wonderful people, and even made some new friends. You can watch a video about that event [[http://ourmedia.org/node/380137?format=flv][here]].
+
+I just heard the news that BarCamp Madison #2 is getting lined up. Here are the details:
+
+[[http://barcampmadison2.org/][The Home Page]]
+
+[[http://groups.google.com/group/barcampmadison][The Google Group]]
+
+
+
+
+

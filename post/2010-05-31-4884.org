@@ -1,0 +1,57 @@
+#+POSTID: 4884
+#+DATE: [2010-05-31 Mon 16:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Incremental definition and evaluation of examples in Scribble
+
+#+BEGIN_QUOTE
+  The s[[http://download.plt-scheme.org/doc/html/scribble/eval.html?q=make-base-eval][cribble/eval]] library provides utilities for evaluating code at document-build time and incorporating the results in the document, especially to show example uses of defined procedures and syntax.
+#+END_QUOTE
+
+
+
+Here is an example where the OP was:
+
+
+
+#+BEGIN_QUOTE
+  trying to figure out a way to insert some text in between Scheme definitions: that is, have some definitions (@schemeblock or equivalent), with their explanations (text mode), and then an interaction, like @interaction, except that it should be aware of the preceeding definitions.
+#+END_QUOTE
+
+
+
+Here is the solution:
+
+
+#+BEGIN_EXAMPLE
+    
+#lang scribble/manual 
+@(require scribble/eval) 
+
+@(define ex-eval (make-base-eval)) 
+
+First, we define @scheme[x]: 
+
+@interaction[ 
+#:eval ex-eval 
+(define x 1) 
+] 
+
+Next, we use it: 
+
+@interaction[ 
+#:eval ex-eval 
+x 
+] 
+
+@(close-eval ex-eval)
+
+#+END_EXAMPLE
+
+
+
+(via [[http://groups.google.com/group/plt-scheme/browse_thread/thread/8d78bab43a4b5cdf/daf49b97cde85f91][plt]])
+
+
+

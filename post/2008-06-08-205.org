@@ -1,0 +1,11 @@
+#+POSTID: 205
+#+DATE: [2008-06-08 Sun 07:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: About PLT Scheme v4.0
+
+Have a look at Matthew Flatt's [[http://blog.plt-scheme.org/2008/06/plt-scheme-version-40-is-coming-soon.html][thoughts]] about the pending release of PLT Scheme 4.0. He sets a definitive (if not authoritative) tone for what PLT Scheme v4.0 will, and will not, be.
+
+
+

@@ -1,0 +1,17 @@
+#+POSTID: 8792
+#+DATE: [2014-06-27 Fri 19:09]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, LaTeX, Lisp, Literate Programming, Programming Language, Reproducible research, TeX, elisp, org-mode
+#+TITLE: citationstyles.org
+
+#+BEGIN_QUOTE
+  [[http://citationstyles.org/][CitationStyles.org is the home of the Citation Style Language (CSL), an open XML-based language to describe the formatting of citations and bibliographies.]]
+#+END_QUOTE
+
+
+
+There are over 7000 of them.
+
+
+

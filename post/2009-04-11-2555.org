@@ -1,0 +1,11 @@
+#+POSTID: 2555
+#+DATE: [2009-04-11 Sat 01:37]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Fun
+#+TITLE: The Newspaper Clipping Generator
+
+[[http://www.fodey.com/generators/newspaper/snippet.asp][Here]].
+
+
+

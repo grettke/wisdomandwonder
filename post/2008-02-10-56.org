@@ -1,0 +1,13 @@
+#+POSTID: 56
+#+DATE: [2008-02-10 Sun 00:39]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Looping in Scheme
+
+Not all loops in Scheme are created equally!
+
+[[http://hacks-galore.org/jao/][Jose Ortega]] captures a few perspectives on iteration in Scheme in his post, [[http://jaortega.wordpress.com/2007/02/25/scheme-loops/][Scheme Loops]].
+
+
+

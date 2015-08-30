@@ -1,0 +1,45 @@
+#+POSTID: 8051
+#+DATE: [2013-09-30 Mon 01:28]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Git, Revision control system
+#+TITLE: How to Create a New and Empty Branch in Git
+
+#+BEGIN_EXAMPLE
+    
+git checkout --orphan NEWBRANCH
+git rm -rf .
+touch .gitignore
+git commit -a -m ""
+
+#+END_EXAMPLE
+
+
+
+Via [[http://bitflop.com/document/116][bitflop]].
+
+*Addendum: 2014-02-28*:
+
+
+
+#+BEGIN_EXAMPLE
+    
+Create an orhan branch
+git checkout --orphan lp
+git rm -rf .
+touch .gitignore
+git add .gitignore
+git diff --cached
+git commit -m "Initial import."
+Create a remote branch
+git push -u origin lp
+Obtain a remote branch
+git checkout -b lp
+Delete a branch
+Remote: git push origin :lp
+Local: git branch -D lp
+
+#+END_EXAMPLE
+
+
+

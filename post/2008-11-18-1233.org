@@ -1,0 +1,11 @@
+#+POSTID: 1233
+#+DATE: [2008-11-18 Tue 02:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide
+#+TITLE: 10 Essential Emacs Items
+
+Yet another [[http://steve.yegge.googlepages.com/effective-emacs][man's vision]] of how to master Emacs.
+
+
+

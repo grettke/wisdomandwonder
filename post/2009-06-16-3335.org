@@ -1,0 +1,13 @@
+#+POSTID: 3335
+#+DATE: [2009-06-16 Tue 23:08]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Fun, Programming Language
+#+TITLE: Popular Lisper Doesn't Do TDD; Java Programmer Not Sure How To React
+
+[[http://blog.objectmentor.com/articles/2009/06/05/rich-hickey-on-testing][Here]] is an article about how a Java programmer can't wrap his mind around the fact that [[http://en.wikipedia.org/wiki/Rich_Hickey][Rich Hickey]] doesn't do TDD even though all of said programmer's friends agree that TDD is the best thing ever.
+
+(via [[http://www.reddit.com/r/programming/comments/8q9gm/rich_hickey_on_testing/][reddit]])
+
+
+

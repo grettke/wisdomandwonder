@@ -1,0 +1,13 @@
+#+POSTID: 9316
+#+DATE: [2014-11-18 Tue 01:06]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: How to debug expanded elisp macros
+
+[[https://www.youtube.com/watch?v=odkYXXYOxpo&feature=youtu.be][This]] video reveals just how amazingly it easy it is to expand and debug macros in elisp using the [[https://github.com/joddie/macrostep][macrostep]] package. 
+
+Via [[http://irreal.org/blog/?p=3298][irreal]].
+
+
+

@@ -1,0 +1,139 @@
+#+POSTID: 6601
+#+DATE: [2012-11-21 Wed 20:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Ide, Lisp, PLT, Programming Language, Racket, Scheme
+#+TITLE: DrRacket for the Truly Impatient V02
+
+[[http://racket-lang.org/][DrRacket]] is a wonderful editor. It is so feature rich that the first time you begin using it, you may end up missing out on how powerful and pleasant it is to use due to the multitude of options and features. The following is my attempt to share the most useful and interesting features and get a new-user up and running and feeling really good about it as quickly as possible.
+
+
+
+** Setup
+
+
+
+
+
+1.  [[http://racket-lang.org/][Download]] DrRacket, install it, add it to your path, and start it.
+2.  On the bottom-left corner there is a warning about the language, click it, choose "Choose Language", and choose "Use the language declared in the source" and click "OK".
+3.  Click the menu Edit -> Preferences and choose colors that you like under Colors -> Background Color and then Racket and REPL.
+4.  Go to Editing -> General and check "Always use the platofrm-specific linefeed convention" and "Show line numbers".
+5.  Go to General and check "Open files in separate tabs (not separate windows)" then hit OK to save your changes.
+6.  Go to Racket -> Limit Memory and check Unlimited.
+7.  Look just below the menus for "(define ...)". Click it and choose "Sort by name".
+8.  DrRacket provides code-insight like where symbols are imported form, refactoring of variable names, and click-to-go-to-source via a feature called "online compilation". It is a neat feature. It will also try to show you code documentation for the symbol that the cursor is on. It shows up in the upper right hand corner of the screen. You can minimize and maximize it by hitting F2. If you mouse over things, some arrows will pop up showing you from where the symbol was imported. Sometimes the arrows and code documentation bother me, and I disable it with a right click on the green expander LED on the bottom-right of the IDE and choose: "Disable online compilation".
+9.  Go to [[http://planet.racket-lang.org/][PLaneT]] and look for plugins you might want. Install [[http://planet.racket-lang.org/display.ss?package=drsync.plt&owner=grettke][DrSync]] for nicer default file saving behavior. Subscribe to [[http://planet.racket-lang.org/300/planet.rss][this feed]] to be notified of additions to the PLaneT repository.
+10. Backup your configuration file with a VCS. See [[http://docs.racket-lang.org/drracket/drracket-files.html#(part._.Preference_.Files)][here]] for how to find it.
+
+
+
+
+
+** Must Use Keybindings
+
+
+
+
+
+1.  Create a new file and paste the following in and then save it as "atom.rkt":
+2.  
+
+
+    #+BEGIN_EXAMPLE
+        
+#lang racket
+
+(provide (all-defined-out))
+
+(define atom?
+  (lambda (a)
+    (and (not (null? a)) (not (pair? a)))))
+
+    #+END_EXAMPLE
+
+3.  Hit F5 to evaluate it.
+4.  Hit C:F6 to go back to the definitions window.
+5.  Hit C:e to hide the REPL. Hit again to show it.
+6.  Hit C:d to hide the definitions windows. Hit again to show it.
+7.  Hit C:t to open a new tab. Paste this in and then save it as "atom-test.rkt".
+8.  #+BEGIN_EXAMPLE
+        
+#lang racket
+
+(require "atom.rkt")
+(require rackunit)
+
+(check-eq? #f (atom? '()))
+
+(check-eq? #f (atom? '(a)))
+
+(check-eq? #f (atom? '(a . b)))
+
+(check-eq? #t (atom? 'a))
+
+    #+END_EXAMPLE
+
+9.  Hit F5 to run it. No errors should be displayed. Alter one of the tests like this:
+10. #+BEGIN_EXAMPLE
+        (check-eq? #t (atom? '(a b c)))
+    #+END_EXAMPLE
+
+11. An error will be reported in the REPL. Click on the x icons to jump to the error. Fix the error.
+12. Hit C:PgDown to go to the previous tab. Hit C:PgUp to go back and forth.
+13. Hit C:w to close tab.
+14. Move the cursor to a symbol like 'define' and hit F1 to have the documentation brought up in a web browser.
+15. Hit C:m and split the editor. Hit C:S:m to collapse the split. Hit C:F6 to move between them all.
+
+16. Navigate among s-expressions:
+
+
+    1. Move the cursor between s-expressions within a given s-expression
+    2. M:[arrow keys]
+    3. Add shift to make selections eg: M:S:[arrows]
+
+    
+
+17. Navigate among words:
+
+
+    1. Move the cursor among words
+    2. C:[arrow keys]
+    3. Add shift to make selections eg: C:S:[arrow keys]
+
+    
+
+18. Insert pairs of operators
+
+
+    1. M:S:[char] for: "", (), [], {}, ||
+    2. ESC:[shift]:l) for lambda template
+    3. Perform after selecting an s-expression to safely wrap s-expressions during refactoring
+    4. For example, select an expression, insert a pair, that pair gets inserted around the selection you just made
+    5. By using these commands, you will never end up with un-balanced parentheses... a major source of pain while working with Lisp.
+
+    
+
+19. Racket code supports Unicode. You can easily insert it by using LaTeX markup like this:
+
+
+    1. Enter a backslash
+    2. Enter the macro name
+    3. Enter M:\
+
+20. Here are some LaTeX macros to try out:
+
+    -  rightarrow
+    -  sim
+    -  equiv
+    -  lambda
+    -  pi
+    -  alpha
+    -  omega
+
+
+
+Depending on your perspective you might find this sort of long, but it is the shortest I felt like it could take to get a taste of the different features and try them out "for real". Hope you enjoy reading it. Please post any questions or comments, this is surely far from perfect and I need your help to make it better.
+
+
+

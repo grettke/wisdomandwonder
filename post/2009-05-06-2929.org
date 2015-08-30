@@ -1,0 +1,35 @@
+#+POSTID: 2929
+#+DATE: [2009-05-06 Wed 11:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: A Scheme program that drives wheelchairs
+
+You can read about a Scheme program that drives wheelchairs using machine learning and induction [[http://lists.ccs.neu.edu/pipermail/larceny-users/2009-May/000682.html][here]]:
+
+
+
+#+BEGIN_EXAMPLE
+    
+;; Larceny version.
+;; This program is part of a pattern recognition
+;; system that drives a wheel-chair for quadriplegic
+;; people: www.ciaem.org.br/ciaem.qps/Ref/QUIS-7GJP7J
+;; A description of the complete system, written in 
+;; Scheme by Philippos, will be published in a paper
+;; by Marcus Vinicius dos Santos, that can be reached
+;; at web.mac.com/marcusvsantos/iWeb/Site/About%20Me.html
+;; The wheel chair learns how to recognize EMG signals
+;; from facial muscles. A neural network recognizes
+;; the coeficients of a polynomial approximation of
+;; the signal, and drives the chair accordingly.
+;; The chair will be available soon, although the
+;; pattern recognition version needs a special
+;; order, and user training. This Larceny version
+;; is not used in the chair prototype.
+;; Store in file larcenet.scm
+
+#+END_EXAMPLE
+
+
+

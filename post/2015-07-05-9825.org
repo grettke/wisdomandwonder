@@ -1,0 +1,11 @@
+#+POSTID: 9825
+#+DATE: [2015-07-05 Sun 17:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: forth
+#+TITLE: His Feelings About FORTH
+
+[[http://yosefk.com/blog/my-history-with-forth-stack-machines.html][This]] is a detailed and frank conversations about one man's journey with FORTH.
+
+
+

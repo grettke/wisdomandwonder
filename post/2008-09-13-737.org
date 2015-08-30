@@ -1,0 +1,11 @@
+#+POSTID: 737
+#+DATE: [2008-09-13 Sat 03:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Study-HTDP
+#+TITLE: Lets start here: HTDP/2e Prolog 
+
+Per Matthias, the best place to start HTDP is by quickly going through the [[http://www.ccs.neu.edu/home/matthias/HtDP/Prologue/book-Z-H-3.html][prolog to the 2nd edition]] and then diving into the book. I posted on this [[http://groups.google.com/group/study-htdp/browse_thread/thread/efe6983288336006][here]].
+
+
+

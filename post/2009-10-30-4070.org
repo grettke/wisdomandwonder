@@ -1,0 +1,17 @@
+#+POSTID: 4070
+#+DATE: [2009-10-30 Fri 01:37]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Computer Science, philosophy
+#+TITLE: Hamming's Insight
+
+#+BEGIN_QUOTE
+  THE PURPOSE OF COMPUTING IS INSIGHT, NOT NUMBERS.
+#+END_QUOTE
+
+
+
+(via [[http://en.wikipedia.org/wiki/Richard_Hamming][Wikipedia]] via [[http://groups.google.com/group/geekbookclub/msg/99eace7c617df9d9][John]])
+
+
+

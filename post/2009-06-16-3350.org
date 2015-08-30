@@ -1,0 +1,13 @@
+#+POSTID: 3350
+#+DATE: [2009-06-16 Tue 23:11]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide
+#+TITLE: Using Org Mode: One Man's Approach
+
+[[http://doc.norang.ca/org-mode.html][Here]] is a nice writeup on how one fellow uses [[http://orgmode.org/index.html#sec-4.1][Org Mode]].
+
+(via [[http://www.reddit.com/r/programming/comments/8rlfx/org_mode_organize_your_life_in_plain_text/][reddit]])
+
+
+

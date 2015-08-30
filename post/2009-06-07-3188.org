@@ -1,0 +1,13 @@
+#+POSTID: 3188
+#+DATE: [2009-06-07 Sun 01:21]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming, iPhone
+#+TITLE: Visiting the iPhone Dev SDK Forums
+
+The [[http://www.iphonedevsdk.com/forum/][iPhone Dev SDK Forums]] are just that; a collection of forums whose topics of discussion encompass just about every aspect of working in this market. Specific forum focuses range from low-level details of APIs and tooling to business topics like how best to market and support your product. 
+
+Having spent about an hour clicking around there; I got the impression that it was a pleasant community and look forward to spending more time there.
+
+
+

@@ -1,0 +1,19 @@
+#+POSTID: 5908
+#+DATE: [2011-09-10 Sat 16:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Teaching, philosophy
+#+TITLE: To again feel the creative voice
+
+#+BEGIN_QUOTE
+  Through an historical discussion of the role and nature of creativity in the sciences and mathematics, a process to have students find their creative voice is described
+#+END_QUOTE
+
+
+
+(via [[http://www.mscs.mu.edu/~stevem/creativevoice.pdf][stevem]])
+
+I couldn't elegantly put to words just how delightful this paper is about the nature of creativity and learning. If you have ever had the experience of having a "nightmare" about something you are trying very hard to learn and then eventually "dreamed the solution"; then you will find this paper to be both fascinating and inspiring.
+
+
+

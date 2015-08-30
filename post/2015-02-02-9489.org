@@ -1,0 +1,13 @@
+#+POSTID: 9489
+#+DATE: [2015-02-02 Mon 18:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: .NET, DevOps, PluralSight, Powershell, Programming, Programming Language
+#+TITLE: The Case for PowerShell
+
+[[http://www.pluralsight.com/courses/case-for-powershell][The Case for PowerShell]].
+
+Brief, terse, compact, too many jokes. Excellent details. Not training, rather informational. Must have scripting/automation experience to appreciate the implications of what is covered. Without that experience, the presentation could be viewed as too light-weight.
+
+
+

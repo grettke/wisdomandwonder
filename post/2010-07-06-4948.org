@@ -1,0 +1,11 @@
+#+POSTID: 4948
+#+DATE: [2010-07-06 Tue 16:05]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Erlang, Lisp, ML, Scheme, forth, prolog
+#+TITLE: Lisp, erlang, forth, scheme, prolog, ML maintainer(s) needed urgently in Fedora
+
+See [[http://rwmj.wordpress.com/2010/07/06/lisp-erlang-forth-scheme-ml-maintainers-needed-urgently-in-fedora/][here]].
+
+
+

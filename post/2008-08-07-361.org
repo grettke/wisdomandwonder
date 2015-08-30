@@ -1,0 +1,11 @@
+#+POSTID: 361
+#+DATE: [2008-08-07 Thu 00:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Update
+#+TITLE: Updated: Why mathematics is not fun (when it should be!)
+
+See [[http://www.wisdomandwonder.com/link/86/why-mathematics-is-not-fun-when-it-should-be][here]].
+
+
+

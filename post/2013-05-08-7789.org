@@ -1,0 +1,33 @@
+#+POSTID: 7789
+#+DATE: [2013-05-08 Wed 03:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 02947, CB750, CB750F, Honda, Motorcycle, Repair
+#+TITLE: CB750F: Day 32: Bolts and Shrouds
+
+The front-most frame bolt was nagging me so I figured now is as good a time as any to get it in. It was kind of funny because when that bolt was in there the front-right forward frame bolts would not go in. Pat said to get the jack and use the tapered metal rods to move the frame into position after loosening the bolts on the engine, too. After playing around with the jack and then more importantly the tapered rods, everything just lined up all of a sudden it was really super. After getting all those bolts torqued down I went back to the carburetors.
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130507_171207.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130507_171207-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130507_171211.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130507_171211-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130507_171418.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130507_171418-300x225.jpg]]]]
+
+Last week I had left them in half-installed state with the carbs seated but not mounted on the air box side. Staring at the shrouds I realized that it was wrong, I should have connected them to the carburetors first before installing them for two reasons. The first was that there is physically no way to position them on the carb, so it has to be wrong. The second reason is that it is also nearly impossible to pull the shrouds out of the airbox at that point, too. This time I mounted them and then kind of squashed them to get the rack down into the assembly, both time actually because I installed the 1 and 4 shrouds 180 degrees off!
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130507_185512.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130507_185512-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130507_191610.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130507_191610-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130507_191937.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130507_191937-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130507_193240.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130507_193240-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130507_193856.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130507_193856-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130507_194413.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130507_194413-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130507_194424.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130507_194424-300x225.jpg]]]] That did work, but I forgot to loosen the airbox so the shrouds wouldn't seat nicely into the airbox. So, I loosened it and they still did not want to seat properly. I tried just about every push pull and twist I could and they just didn't want to seat. That wrapped up the night, next time I will see maybe I can move the airbox more and just play with it until everything fits.
+
+
+

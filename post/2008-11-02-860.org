@@ -1,0 +1,13 @@
+#+POSTID: 860
+#+DATE: [2008-11-02 Sun 19:09]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: DrScheme, HTDP, Ide, Learning, Programming, Teaching
+#+TITLE: A peasant revolt against DrScheme!
+
+[[http://www.cs.utah.edu/plt/mailarch/plt-scheme-2001/msg00066.html][Here]] is an interesting thread in the PLT discussion archive discussing the want of beginning programmers only to learn things that are clearly useful!
+
+(surely via the PLT Discussion list, but I can't recall or find it...)
+
+
+

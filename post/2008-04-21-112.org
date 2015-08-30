@@ -1,0 +1,11 @@
+#+POSTID: 112
+#+DATE: [2008-04-21 Mon 00:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: LilyPond
+
+[[http://lilypond.org/web/about/automated-engraving/][LilyPond]] is a music notation that uses Scheme.
+
+
+

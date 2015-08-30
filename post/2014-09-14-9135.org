@@ -1,0 +1,18 @@
+#+POSTID: 9135
+#+DATE: [2014-09-14 Sun 02:05]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: philosophy
+#+TITLE: The cost of perfection
+
+#+BEGIN_QUOTE
+  Do not fall for the illusion that by preventing errors, you won't have errors to fix. The truth is, the cost of preventing errors is often far greater than the cost of fixing them.
+#+END_QUOTE
+
+
+-- Ed Catmull
+
+Via [[http://www.johndcook.com/blog/2014/09/13/prevent-errors-or-fix-errors/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheEndeavour+%28The+Endeavour%29][The Endeavor]].
+
+
+

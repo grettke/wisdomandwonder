@@ -1,0 +1,13 @@
+#+POSTID: 5940
+#+DATE: [2011-09-28 Wed 02:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Java, Programming Language, Scheme
+#+TITLE: SISC (R5RS Scheme) on Android
+
+Details [[http://www.neomantic.com/tutorials/sisc-scheme-on-androids-dalvik-vm/][here]].
+
+(via [[http://www.reddit.com/r/programming/comments/kqixo/sicp_for_kindle/][Reddit]])
+
+
+

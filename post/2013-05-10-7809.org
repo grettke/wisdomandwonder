@@ -1,0 +1,35 @@
+#+POSTID: 7809
+#+DATE: [2013-05-10 Fri 03:32]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: 02947, CB750, CB750F, Honda, Motorcycle, Repair
+#+TITLE: CB750F: Day 33: Carburetor Reinstallation Complete
+
+Tonight I completed installing the carburetors but did not have time to test them. One of the mistakes that I made was that I was babying the carburetors and the air-box side intake shrouds. When you stare at and literally play with the few parts (carb rack, shrouds, and retaining clips) you see that there are only so many ways for the thing to go back together (cylinder head <-> shrouds <-> carburetors <-> air-box) but it doesn't work like a puzzle. You kind of have to play around and force things and squash down the shrouds on the air-box side (not the cylinder head side those are hard and do not flex, they support the carbs almost entirely so you can see why). One curiosity was that when pulled out the air-box shrouds to clean them months ago I found that they were glued in with silicone or something. It was baffling because this is not normal. Only upon re-installation last night, were I found that the carbs would slide in and then out of a correct seating on both the cylinder and air-box side did it become apparent that specifically on the air-box side, the shrouds will only seat correctly to the air-box at the point of "final installation" when everything is correctly lined up, and that includes the location of the air-box itself. Until that point was reached, the air-box side shrouds kept popping in and out of seating, and even worse, they appeared to not even be capable of seating. For the #1 and #2 shrouds, I put them in the hot water ultrasonic batch to loosen them up, and that was one of the final keys because basically I had everything liked up but for #1 and it just wouldn't cooperate. Finally warming it up and strong arming it and then gently guiding the shroud into seating with a flathead screwdriver was the key. 
+
+When things finally looked right I tightened the cylinder side shroud on the cylinder head side, then the air-box side (only one retaining clip on that side), each time making sure it looked right, then the cylinder head carb side, and thought it was done only to find the #1 and #2 were out further than I had wanted, so I loosened those and the key was to loosen the airbox location bolt, and just strongarm the assembly, and then tightened those up. Upon doing that, the #1 and #2 airbox shroud seat popped out, so I reseated #2 and then #1 but boy it didn't want to cooperate. The cylinder side shrouds to appear to pop up a bit under full tightening, but as Pat told me, there is a metal lip in there that is important to seal, so it is OK since it is locked down at that point. It is really kind of "funny" because the airbox side shrouds will sort of go in and out of seating, with very little effort, and then at the end will seat perfectly when everything is lined up perfectly, that is really a noticeable and un-intuitive point. I had wondered why the service manual was so non-descript about re-installation, but now I see that it is, there is only one way for it to go back in, and it is kind of a process of playing to make it fit. That said I would love to have seen how these were installed in the factory!
+
+In preparation, I re-installed the airfilter, hooked up the spark plugs, and connected the exhaust headers and exhaust pipe, but I didn't torque down the header bolts, the u joint between the headers and pipe (also need to turn it inward), and the exhaust hanger bolt yet. I didn't get a chance to use the new exhaust pins because one was drilled out on the cylinder head and wouldn't fit and the other I ended up reusing the old one because the new wasn't needed. Nonetheless I learned about a new to me tool, to hand-turn stuff like that in. The bike is looking closer to being on the road again; I think I'm only going to invest in mechanical stuff this year and maybe cosmetics next year (I hope lol but maybe can't resist).[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130509_170538.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130509_170538-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130509_184813.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130509_184813-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130509_193709.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130509_193709-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130509_193713.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130509_193713-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130509_194154.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130509_194154-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130509_194342.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130509_194342-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130509_194916.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130509_194916-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130509_195703.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130509_195703-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130509_200229.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130509_200229-300x225.jpg]]]]
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130509_205840.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2013/05/20130509_205840-300x225.jpg]]]]
+
+I wrapped up literally at the end of class and didn't want to fire it up, I'll do that next week (only 4 classes left).
+
+
+

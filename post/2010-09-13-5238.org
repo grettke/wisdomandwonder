@@ -1,0 +1,13 @@
+#+POSTID: 5238
+#+DATE: [2010-09-13 Mon 12:31]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: ML, OCaml, Programming Language
+#+TITLE: Objective Caml for Multicore Architectures
+
+[[http://www.algo-prog.info/ocmc/web/][Efforts]] being made on one of the biggest criticisms of OCaml.
+
+(via Caml-list)
+
+
+

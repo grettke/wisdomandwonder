@@ -1,0 +1,25 @@
+#+POSTID: 1272
+#+DATE: [2008-12-08 Mon 00:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Learning, Programming, philosophy
+#+TITLE: It is what you know that you don't know that matters most
+
+The idea that "It is what you know that you don't know that matters most" has been coming up a lot lately. Here is one fellow's take on it via [[http://dobbscodetalk.com/index.php?option=com_myblog&show=My-Inaugural-Blog-Posting.html&Itemid=29][this post]]:
+
+
+
+#+BEGIN_QUOTE
+  
+I have the the distinction of being the "programming languages guru" here at Dobbs Code Talk. So what does this mean to me? It means that after many years of programming and studying language design, I am reasonably aware about what it is that I don't know about programming languages. Contrast this to something like helicopter mechanics, for which the only meaningful thing I can say is that I know nothing about it.
+
+It is perhaps a dubious achievement to be knowledgable about the limits of your understanding, but at the same time I don't really think you can do any better.
+
+#+END_QUOTE
+
+
+
+Agreed.
+
+
+

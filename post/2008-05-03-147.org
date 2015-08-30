@@ -1,0 +1,24 @@
+#+POSTID: 147
+#+DATE: [2008-05-03 Sat 04:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Scheme2Js
+
+[[http://www-sop.inria.fr/mimosa/personnel/Florian.Loitsch/scheme2js/][Scheme2Js]]
+
+
+
+#+BEGIN_QUOTE
+  is a Scheme to JavaScript compiler distributed under the GPL license
+
+#+END_QUOTE
+
+
+
+It is particularly interesting in that it is utilized by the [[http://hop.inria.fr/][HOP]] web framework.
+
+(via [[http://plnews.org/][PLNews]])
+
+
+

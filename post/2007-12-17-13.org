@@ -1,0 +1,21 @@
+#+POSTID: 13
+#+DATE: [2007-12-17 Mon 03:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: C++, Programming Language
+#+TITLE:  Fun read on the evolution of C++
+
+Last June I read [[http://www.research.att.com/~bs/hopl-almost-final.pdf%20]["The Evolution of C++"]]. I was pleasantly surprised by just how fun it was to read. If you've ever read Bjarne Stroustrup before you know that he has got a sense of humor and frankness that makes his work quite accessible and informative.
+
+
+
+The article covers the origins, the process and evolution, critics, users, researchers, big changes, strengths, and weaknesses of C++. On top of that, there are interesting historical bits that really let you put things in perspective. Unless you were there when it happened, you will definitely be surprised about the world surrounding C++ back when it got started. 
+
+For someone pretty unfamiliar with C++, it was a lot of fun to read about its goals, what it does well, and even what it does not so well. In the examples presented in the paper, you get to see the elegance of generic programming and the STL. There is even an overview of exploring functional programming with C++.
+
+The article is quite long, 57 dense pages fill it out quite well. It is so well written and entertaining, though, that it is well worth the read. 
+
+For any of you long time C++ developers out there, I would be interested to hear your take on it.
+
+
+

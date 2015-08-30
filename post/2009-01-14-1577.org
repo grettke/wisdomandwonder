@@ -1,0 +1,34 @@
+#+POSTID: 1577
+#+DATE: [2009-01-14 Wed 18:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Computer Science, Learning
+#+TITLE: Interesting 2009 ACM SIGs
+
+Sometimes people ask me whether or not an [[http://www.acm.org/][ACM]]membership is "worth it". The special interest groups are one reason to join. Here are some that look interesting:
+
+
+
+1.  [[http://www.sigapp.org/][SIGAPP: Applied Computing]]
+2.  [[http://www.sigarch.org/][SIGARCH: Computer Architecture]]
+3.  [[http://www.sigart.org/][SIGART: Artificial Intelligence]]
+4.  [[http://www.sigcas.org/][SIGCAS: Computers and Society]]
+5.  [[http://www.sigcomm.org/][SIGCOMM : Data Communication]]
+6.  [[http://www.sigcse.org/][SIGCSE: Computer Science Education]]
+7.  [[http://www.sigdoc.org/][SIGDOC: Design of Communication]]
+8.  [[http://www.sigir.org/][SIGIR: Information Retrieval]]
+9.  [[http://www.sigite.org/][SIGITE: Information Technology Education]]
+10. [[http://www.sigkdd.org/][SIGKDD: Knowledge Discovery in Data]]
+11. [[http://www.sigmobile.org/][SIGMOBILE: Mobility of Systems, Users, Data & Computing]]
+12. [[http://www.sigmod.org/][SIGMOD: Management of Data]]
+13. [[http://www.sigops.org/][SIGOPS: Operating Systems]]
+14. [[http://www.sigplan.org/][SIGPLAN: Programming Languages]]
+15. [[http://www.sigsac.org/][SIGSAC: Security, Audit & Control]]
+16. [[http://www.sigsoft.org/][SIGSOFT: Software Engineering]]
+
+
+
+
+
+
+

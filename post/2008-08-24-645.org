@@ -1,0 +1,13 @@
+#+POSTID: 645
+#+DATE: [2008-08-24 Sun 04:37]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Study-HTDP
+#+TITLE: What is Study-HTDP?
+
+[[http://groups.google.com/group/study-htdp][Study-HTDP]] is a study group for folks who want to read through [[http://www.htdp.org][HTDP]]. My rationale is explained [[http://groups.google.com/group/study-htdp/browse_thread/thread/5ffa6ad4aca5f406][here]]. I suspect that many blog posts in the following months will be tagged with 'Study-HTDP'.
+
+I'm pretty excited to see how this turns out. I hope not only to learn a lot about programming, but also about learning with other folks, especially with this distributed/online model.
+
+
+

@@ -1,0 +1,23 @@
+#+POSTID: 1684
+#+DATE: [2009-02-01 Sun 02:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Programming, Teaching
+#+TITLE: MOSS: A System for Detecting Software Plagiarism
+
+#+BEGIN_QUOTE
+  [[http://theory.stanford.edu/~aiken/moss/][Moss]] (for a Measure Of Software Similarity) is an automatic system for determining the similarity of C, C++, Java, Pascal, Ada, ML, Lisp, or Scheme programs. To date, the main application of Moss has been in detecting plagiarism in programming classes. Since its development in 1994, Moss has been very effective in this role. The algorithm behind moss is a significant improvement over other cheating detection algorithms (at least, over those known to us).
+
+Moss can currently analyze code written in the following languages:
+
+C, C++, Java, C#, Python, Visual Basic, Javascript, FORTRAN, ML, Haskell, Lisp, Scheme, Pascal, Modula2, Ada, Perl, TCL, Matlab, VHDL, Verilog, Spice, MIPS assembly, a8086 assembly, a8086 assembly, MIPS assembly, HCL2.
+#+END_QUOTE
+
+
+
+Moss was created by [[http://theory.stanford.edu/~aiken/][Alex Aiken]].
+
+(via [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-January/029982.html][PLT]])
+
+
+

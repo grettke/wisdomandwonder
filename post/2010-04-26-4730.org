@@ -1,0 +1,25 @@
+#+POSTID: 4730
+#+DATE: [2010-04-26 Mon 19:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: ML, OCaml, Programming Language
+#+TITLE: Is OCaml's standard library its weakest link?
+
+In [[http://t-a-w.blogspot.com/2006/05/ocaml-programming-best-practice.html][this]]post I read that:
+
+
+
+#+BEGIN_QUOTE
+  OCaml's standard library is one of its weakest parts. Always use extensions to the std library.
+#+END_QUOTE
+
+
+
+Searching around the net I find [[http://code.google.com/p/ocaml-extlib/][ExtLib]], [[http://batteries.forge.ocamlcore.org/][Batteries]], and [[http://www.janestreet.com/ocaml/index.html][Janestreet]].
+
+I'm not sure what "weakest link" meant in the original post so I will leave it wide open for any concerns that people have. Perhaps it means that it does not have enough functionality? Or slow? Or there is something odd about the APIs?
+
+It is true that OCaml's standard library is its weakest link?
+
+
+

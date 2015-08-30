@@ -1,0 +1,13 @@
+#+POSTID: 2090
+#+DATE: [2009-03-23 Mon 00:05]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Learning, Programming, Teaching, philosophy
+#+TITLE: The contentment of content
+
+A few weeks on a PBS television show hosted by Alan Alda the scientists being interviewed were talking about the "Contentment of Content". They said the the research shows that most humans learn the bulk of their knowledge (in particular their approach for all sorts of problem solving) younger in life and never learn any new approaches later on because it would just show them how much they don't know. In other words; it would require the act of learning and that takes work. They go on to explain that in fact, this approach not only happens at the macro level in life but also in the macro level for particular areas of expertise. For sake of discussion, I would focus on programming.
+
+The idea is that once you learn how; you are very, very unlikely to learn "new ways of doing it", and why would you? It makes you feel bad since it makes you look like you don't know what you are doing. It is also very, very unpopular to admit that you don't know everything (I wonder if it has always been this way?). This is unfortunate because most of us really never learned how to program well and in fact seems to be the complete antithesis of the behavior and approaches that are likely to have made you successful as a programmer in the first place.
+
+
+

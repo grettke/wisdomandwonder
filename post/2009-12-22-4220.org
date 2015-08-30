@@ -1,0 +1,37 @@
+#+POSTID: 4220
+#+DATE: [2009-12-22 Tue 17:05]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Box2D Lite: A Scheme Physics Engine
+
+(via [[http://groups.google.com/group/ikarus-users/browse_thread/thread/622d50569161fcdb][ikarus]])
+
+
+
+#+BEGIN_QUOTE
+  Box2D is a physics engine written in C++ by Erin Catto: 
+
+ [[http://www.box2d.org/%20][http://www.box2d.org/]]
+
+Box2D Lite is a simplified version that he posted to his blog once upon 
+a time. 
+
+I've ported Box2D Lite to Ikarus. Here it is running the pyramid demo: 
+
+ [[http://imgur.com/aXAY4%20][http://imgur.com/aXAY4]]
+
+That's a screenshot of the very first successful run. :-) 
+
+Of course, I'll be happy to release the code once the performance is 
+cranked a bit. 
+
+Ed
+#+END_QUOTE
+
+
+
+
+
+
+

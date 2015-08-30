@@ -1,0 +1,146 @@
+#+POSTID: 527
+#+DATE: [2008-08-17 Sun 03:31]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Functional, Programming Language, Scheme
+#+TITLE: Sequencing in Scheme
+
+When I was first learning about Functional Programming and Scheme, the idea that order-of-execution didn't matter in purely functional programs, was "strange to me", to put it nicely. When I first read about Scheme's [[http://www.r6rs.org/final/html/r6rs/r6rs-Z-H-14.html#node_idx_420][begin]] form, for example, I remember feeling satisfied that Scheme wasn't totally insane as it had at least some way to force imperative execution (the fact that, at the time, I never considered how such a feature may be implemented using Scheme's core constructs, I now consider to be both a 'missed opportunity' and 'study flaw', then again you could also call it 'learning'). Nonetheless, much, much later, while reading [[http://library.readscheme.org/page1.html][LAMBDA: The Ultimate Imperative]], I came upon page 5 on which the question of how we may model imperative constructs in languages based on lambda calculus (like Scheme, for example) was raised.
+
+Walking through their example, you will be delighted to find that the answer is quite simple: rely on the fact that Scheme is a call-by-value language and utilize macros to change the shape of your program. Here is what that means.
+
+In Scheme, arguments to a function are evaluated before control is passed to that function. For example when you apply '+' to the following arguments:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(+ 1 2 (+ 3 4))
+
+#+END_EXAMPLE
+
+
+
+each of the arguments is evaluated before passing control to '+', so the call above would really look like:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(+ 1 2 7)
+
+#+END_EXAMPLE
+
+
+
+We can generalize this, per the paper, to say that any time we want to force "one thing to come before the other" (which is of particular interest when we want side-effecting operations), we can perform the following, which I've arbitrarily named the "lambda-dummy" pattern: 
+
+(to reiterate: this pattern comes right from the paper)
+
+
+
+#+BEGIN_EXAMPLE
+    
+((LAMBDA (DUMMY) Statement2) Statement1)
+
+#+END_EXAMPLE
+
+
+
+which can be read as "The first expression evaluates to a function, which is applied to Statement1 . Since arguments to functions are evaluated before they are passed to the anonymous function, Statemen1 is evaluated, the result of which is passed to the function. Since the anonymous function exists purely to facilitate ordering, the result of Statement1 is bound to the name DUMMY to remind us that we would never use it. Finally, the body of the anonymous function, Statement2, is evaluated." This lets us handle ordering for two statements, but how do we handle more than that? Easy, we utilize macros to restructure our code.
+
+Suppose we wanted to implement a sequencing construct named 'sequence' which behaved identically to 'begin' (as already referenced above). The behavior we want is that statements are evaluated in order of appearance within the macro. For example, the following code would produce the following result:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(sequencing
+  (display 'a)
+  (display 'b)
+  (display 'c))
+
+> abc
+
+#+END_EXAMPLE
+
+
+
+If we were to hand-code an expression using the lambda-dummy pattern described above, it would look like the following:
+
+(Note here that I used PLT Scheme to write this which optionally allows (), [], and {} to be used interchangeably. I leveraged that to attempt to add more visual-cues to the code such that: [] encapsulate anonymous function definitions, {} encapsulate arguments to functions, and () contain anonymous functions, along with their arguments, for application):
+
+
+
+#+BEGIN_EXAMPLE
+    
+([λ (dummy) ([λ (dummy) (display 'c)] {display 'b})] {display 'a})
+
+> abc
+
+#+END_EXAMPLE
+
+
+
+We can formalize this transformation by creating a macro with two rules. It is actually pretty straightforward. If there is only one expression to be transformed, the macro returns that expression; if there is more than one than we can apply the lambda-dummy pattern by putting the first statement (S->N) in the argument position and the next expression (S->N+1) in the anonymous function body position (note that since 'expression' refers the pattern variable to which the users 'statement' is bound, you should feel comfortable using the terms interchangeably here). For every expression in the sequence macro body (S->N+...), this pattern is applied such that the resulting code body "grows in the middle", resulting in an expression that makes the code look backwards! Additionally, we can rely on the fact that hygiene will prevent our introduced variable 'ignored' from ever clobbering any existing bindings rather than relying on the user of the macro to see the name 'ignored' and remember not to use it!
+
+
+
+#+BEGIN_EXAMPLE
+    
+(define-syntax sequencing
+  (syntax-rules ()
+    [(_ expression) expression]
+    [(_ expression expressions ...)
+     ((λ (ignored) (sequencing expressions ...)) expression)]))
+
+#+END_EXAMPLE
+
+
+
+Applying the sequencing macro like this:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(sequencing
+ (display 'a)
+ (display 'b)
+ (display 'c))
+
+#+END_EXAMPLE
+
+
+
+generates the following backwards-looking code (again using the same bracket-based visual-cues):
+
+
+
+#+BEGIN_EXAMPLE
+    
+([λ (ignored) ([λ (ignored) (display 'c)] {display 'b})] {display 'a})
+
+#+END_EXAMPLE
+
+
+
+Stare at it for a while. It is actually pretty easy to read when you take into account that the following pattern is present:
+
+
+1. The "whole thing", or expression, that realized the lambda-dummy pattern, may be called the 'sequencing-body'.
+2. The anonymous function is on the left in [] brackets
+3. The argument expression to that function is on the right in {} brackets
+4. The argument expression gets evaluated
+5. The anonymous function gets evaluated. If it evaluates to a 'sequencing-body', go to the first step, otherwise evaluate the last expression and we're done.
+
+
+
+Why, you may ask, is this important? It is important because it gives you a conceptual model for order-of-evaluation about which you can reason. 
+
+Without it, all you've got to go on is that "things happen this way" either because "that is the way the language designer wanted it" or that "computers execute instructions in order, so it has got to be this way". Neither help you to better understand programming or computation, and the latter, in particular, is not true when you're wearing your programmer hat.
+
+This topic originally appeared in a post I made to the [[http://groups.google.com/group/plt-scheme/browse_thread/thread/1375dc9b7f23cbf2/6ea92bd123db5eb3][PLT discussion list]]. I wanted to get feedback and make sure that conceptually this is a reasonable approach to understanding sequencing in Scheme. The answer that I got was 'yes'.
+
+
+

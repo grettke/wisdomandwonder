@@ -1,0 +1,11 @@
+#+POSTID: 3770
+#+DATE: [2009-08-31 Mon 20:13]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: PLT Scheme as an Alternative to Matlab
+
+[[http://groups.google.com/group/plt-scheme/browse_thread/thread/301ccc100a6273e1/ea223b7094d327f0?lnk=gst&q=PLT+Scheme+as+an+Alternative+to+Matlab][Here]] is a discussion on using PLT Scheme as an alternative to Matlab. [[http://groups.google.com/group/plt-scheme/browse_thread/thread/b4946b37be82326b/d5ad1238041aea81?lnk=gst&q=PLT+Scheme+as+an+Alternative+to+Matlab][Here]] is some more.
+
+
+

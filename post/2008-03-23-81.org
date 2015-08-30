@@ -1,0 +1,112 @@
+#+POSTID: 81
+#+DATE: [2008-03-23 Sun 20:45]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Utility, Windows
+#+TITLE: Switching Caps Lock with Control on Windows
+
+Getting the control key "back into the right spot" on PC keyboards is a goal shared between Emacs and UNIX folks. The following are a collection of links on how to do so (this list is sure to grow):
+
+
+
+-  [[http://www.gnu.org/software/emacs/windows/faq3.html#capscontrol][GNU Emacs FAQ For Windows 95/98/ME/NT/XP and 2000]] (thanks [[http://trey-jackson.blogspot.com/2008/03/emacs-tip-14-caps-lock-on-windows.html][Trey]])
+-  [[http://www.microsoft.com/technet/sysinternals/Miscellaneous/Ctrl2Cap.mspx][Sysinternals Ctrl2Cap]] (thanks [[http://kiwlm.blogspot.com/][kiwlm]])
+
+
+
+*Addendum: 10/01/08*
+
+The Sysinternals solution is excellent, but it throws away caps lock. This was fine for me for a while, but believe it or not, now I need it back. As such, I now employ the solution found [[http://www.manicai.net/comp/swap-caps-ctrl.html][here]].
+
+
+
+
+
+*Addendum: 1/11/11*
+
+This approach does not work on Windows 7 (I just started using Win7 this week).
+
+[[http://code.google.com/p/keymapper/][KeyMapper]]works brilliantly though.
+
+(via [[http://www.emacswiki.org/emacs/MovingTheCtrlKey][emacswiki]])
+
+*Addendum: 2014-12-10*
+
+
+
+
+Coming back to Windows I found that [[https://code.google.com/p/keymapper/][KeyMapper]] quit working for me.
+
+
+
+
+
+
+
+[[http://www.autohotkey.com/][AutoHotkey]] seems to be doing the job of swapping:
+
+
+
+
+
+-  caps lock with left control
+
+-  left control with caps lock
+
+-  enter with right control
+
+-  right shift with enter
+
+
+   -  Seems to be the best way to use any keyboard out there
+
+
+   
+
+-  scroll up and down on the wheel mouse
+
+
+
+
+
+
+
+=Alt (Meta) - Enter= doesn't seem to work.
+
+
+
+
+
+
+
+I'll keep at it. Here is the config.
+
+
+
+
+
+
+#+BEGIN_EXAMPLE
+    WheelUp:: 
+Send {WheelDown}
+Return
+
+WheelDown::
+Send {WheelUp}
+Return
+
+Capslock::Ctrl
+
+LCtrl::CapsLock
+
+Enter::RCtrl
+
+RShift::Enter
+
+#+END_EXAMPLE
+
+
+
+
+
+

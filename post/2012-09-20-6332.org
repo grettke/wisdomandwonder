@@ -1,0 +1,34 @@
+#+POSTID: 6332
+#+DATE: [2012-09-20 Thu 21:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide
+#+TITLE: Bless You Emacs
+
+Trying to set up a dev mode in Emacs on Windows today, the code complained that $SHELL was not defined. Not sure what to use I guessed and used 'cmd'. 
+
+At startup, that is startup, not runtime, Emacs gave me this warning:
+
+
+
+#+BEGIN_EXAMPLE
+    Warning! The $SHELL environment variable uses cmd.
+You probably want to change it so that it uses cmdproxy.exe instead.
+
+Warning! shell-file-name uses cmd.
+You probably want to change it so that it uses cmdproxy.exe instead.
+
+Warning! shell-command-switch is "-c".
+You should set this to "/c" when using a system shell.
+
+Warning! w32-quote-process-args is t.
+You should set this to nil when using a system shell.
+
+#+END_EXAMPLE
+
+
+
+Bless you Emacs! 'cmdproxy' worked perfectly.
+
+
+

@@ -1,0 +1,39 @@
+#+POSTID: 1808
+#+DATE: [2009-02-17 Tue 02:08]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Adding a gutter to DrScheme
+
+I had asked about how to add a gutter with line numbers to DrScheme, and Robby explained one approach [[http://list.cs.brown.edu/pipermail/plt-scheme/2007-June/019040.html][here]].
+
+
+
+#+BEGIN_EXAMPLE
+    
+#lang scheme/gui
+(require (lib "framework.ss" "framework")
+         (lib "etc.ss"))
+(define f (new frame:basic% [label ""] [width 500] [height 600]))
+(define hp (new horizontal-panel% [parent (send f get-area-container)]))
+(define gutter-text (new scheme:text%))
+(define gutter-ec (new editor-canvas%
+                       [parent hp]
+                       [style '(hide-vscroll)]
+                       [editor gutter-text]
+                       [stretchable-width #f]
+                       [min-width 60]))
+(define text (new scheme:text%))
+(define ec (new editor-canvas% [parent hp] [editor text]))
+(send text load-file (build-path (collection-path "drscheme")
+                                 "private" "rep.ss"))
+(for-each
+ (λ (n) (send gutter-text insert (format "~a\n" n)))
+ (build-list (send text last-paragraph) add1))
+(send gutter-ec scroll-to 0 0 0 0 #t)
+(send f show #t)
+
+#+END_EXAMPLE
+
+
+

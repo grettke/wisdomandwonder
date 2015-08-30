@@ -1,0 +1,19 @@
+#+POSTID: 968
+#+DATE: [2008-10-17 Fri 18:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Programming, Teaching
+#+TITLE: Notes on Introduction To Algorithms
+
+#+BEGIN_QUOTE
+  Peteris Krumins has been posting his [[http://www.catonmat.net/blog/category/introduction-to-algorithms/][notes on MIT's Introduction to Algorithms]]. The notes are valuable for anyone interested in working their way through the [[http://mitpress.mit.edu/algorithms/][CLRS text]] and [[http://ocw.mit.edu/OcwWeb/Electrical-Engineering-and-Computer-Science/6-046JFall-2005/CourseHome/index.htm][MIT Open Courseware videos]].
+#+END_QUOTE
+
+
+
+
+
+(via [[http://lambda-the-ultimate.org/node/3053][LtU]])
+
+
+

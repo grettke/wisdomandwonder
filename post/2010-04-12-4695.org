@@ -1,0 +1,13 @@
+#+POSTID: 4695
+#+DATE: [2010-04-12 Mon 21:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: ML, OCaml, Programming Language
+#+TITLE: Someone's feedback on OCaml
+
+[[http://sds.podval.org/ocaml-sucks.html][Here]] is one fellow's feedback on OCaml. 
+
+It is balanced and seems useful, especially given that he links to his [[http://sds.podval.org/tool.html][philosophy]] on languages, which appears to be a healthy one.
+
+
+

@@ -1,0 +1,11 @@
+#+POSTID: 9562
+#+DATE: [2015-02-12 Thu 17:04]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Android, Java, Lisp, Programming, Programming Language, Scheme
+#+TITLE: Driving a Printer with Scheme on Android
+
+Ben [[http://www.blogbyben.com/2015/02/thermal-nuclear-bluetooth-printing-on.html][implemented]]printing to a thermal printer on Android using [[https://www.gnu.org/software/kawa/][Kawa]]Scheme.
+
+
+

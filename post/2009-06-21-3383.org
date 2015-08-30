@@ -1,0 +1,13 @@
+#+POSTID: 3383
+#+DATE: [2009-06-21 Sun 21:22]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Conference
+#+TITLE: DEFUN 2009 Schedule is Up
+
+[[http://www.defun2009.info/blog/tutorial-schedule/][Here]]. 
+
+It looks like a lot of fun.
+
+
+

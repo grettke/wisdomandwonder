@@ -1,0 +1,13 @@
+#+POSTID: 1194
+#+DATE: [2008-11-15 Sat 04:43]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme, iPhone
+#+TITLE: Gambit Scheme on the iPhone
+
+[[http://iphone.latte.ca/info/GambitScheme.html][This]] might be the first Scheme running on the iPhone!
+
+(via [[http://groups.google.com/group/comp.lang.scheme/browse_thread/thread/9c2f422d8dcbc611/3ca0b6dad2cf416d#3ca0b6dad2cf416d][comp.lang.scheme]])
+
+
+

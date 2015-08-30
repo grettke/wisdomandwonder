@@ -1,0 +1,11 @@
+#+POSTID: 3073
+#+DATE: [2009-05-31 Sun 02:36]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Agave OpenGL Libraries for R6RS Scheme
+
+[[http://github.com/dharmatech/agave/tree/master][Here]] are some of Eduardos awesome R6RS libraries for working with OpenGL.
+
+
+

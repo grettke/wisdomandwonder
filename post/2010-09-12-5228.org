@@ -1,0 +1,46 @@
+#+POSTID: 5228
+#+DATE: [2010-09-12 Sun 18:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Clojure, Cygwin, Emacs, Ide, Lisp, Ruby
+#+TITLE: Calling Java Under Cygwin
+
+While trying to set up Clojure under Cygwin I found that doing mixed-mode between Cygwin and Java isn't very happy due to the ';' vs ':' in the classpath. 
+
+[[http://whollyweirdwyrd.blogspot.com/2010/04/cygwin-tip-1.html][This]] post (via this [[http://ketain.blogspot.com/2010/03/clojure-with-cygwin-emacs-on-windows.html][post]]) provided an obfuscated Ruby program to take care of that for you... thanks!
+
+
+
+#+BEGIN_EXAMPLE
+    
+#!/bin/ruby
+# Slightly obfuscated cygwin + windows java wrapper, automate cygpath
+
+cpi = ARGV.index("-cp") + 1
+cp = ARGV[cpi] if cpi
+
+XBCP = "-Xbootclasspath/a:"
+
+xbcpi = ARGV.index{|i|i=~/^#{XBCP}.*/}
+xbcp = ARGV[xbcpi] if xbcpi
+
+if cp or xbcpi
+  def convert_paths(paths)
+    paths = paths.gsub(':', ';').split(';')
+    paths.map{|p|`cygpath -aw #{p}`.strip}.join ';'
+  end
+  ARGV[cpi] = convert_paths(cp) if cp
+  ARGV[xbcpi] = XBCP + convert_paths(xbcp.sub(XBCP, '')) if xbcp
+end
+
+java = '/cygdrive/c/Program Files/Java/jdk1.6.0_18/bin/java'
+cmd = [java].concat ARGV
+
+def e(s); "\"#{s.strip.gsub('"','\"')}\""; end
+
+exec(cmd.map{|a|e a}.join(' '))
+
+#+END_EXAMPLE
+
+
+

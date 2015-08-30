@@ -1,0 +1,13 @@
+#+POSTID: 5315
+#+DATE: [2010-09-25 Sat 02:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Concours, Kawasaki, Motorcycle, Repair
+#+TITLE: What to do if your Concours has a puddle of gasoline under the tank
+
+If your Concours has a puddle of gasoline under the tank when you go out to start it, don't. One of the cylinders is probably full of fuel. If you try to start, you will cause [[http://ridingoutloud.com/?p=68][hydrolock]].
+
+(via C.O.G.)
+
+
+

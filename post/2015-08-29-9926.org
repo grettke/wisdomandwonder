@@ -1,0 +1,47 @@
+#+POSTID: 9926
+#+DATE: [2015-08-29 Sat 16:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode, philosophy
+#+TITLE: Org2Blog Setup
+
+Content goes here.
+
+
+
+
+
+#+BEGIN_HTML
+  <div class="org-src-container">
+#+END_HTML
+
+
+
+
+#+BEGIN_EXAMPLE
+    (+ 1 2 3)
+
+#+END_EXAMPLE
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+
+#+BEGIN_EXAMPLE
+    
+6
+
+#+END_EXAMPLE
+
+
+
+
+
+

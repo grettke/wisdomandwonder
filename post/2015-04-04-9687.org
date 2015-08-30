@@ -1,0 +1,107 @@
+#+POSTID: 9687
+#+DATE: [2015-04-04 Sat 14:47]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, R-Project, Statistics, applied statistics, emacs speaks statistics
+#+TITLE: I Wasted Time with a Custom Prompt for R with ESS
+
+I wanted a custom prompt for R with ESS. I wanted a double struck R. I probably did it wrong. It never worked. Actually it worked most of the time, and that is worse than never working. Kind people helped me. I still got it wrong. I take full responsibility. It was better not to do it. If you want to try, here is where I left it.
+
+
+
+
+*.Rprofile*
+
+
+
+
+
+
+
+Make the ℝ prompt stand out (be sure to tell ESS how to handle this):
+
+
+
+
+
+#+BEGIN_HTML
+  <div class="org-src-container">
+#+END_HTML
+
+
+
+
+#+BEGIN_EXAMPLE
+    options(prompt="ℝ> ")
+
+#+END_EXAMPLE
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+
+
+*.emacs.el*
+
+
+
+
+
+
+
+Tell ESS how to handle my custom prompt:
+
+
+
+
+
+#+BEGIN_HTML
+  <div class="org-src-container">
+#+END_HTML
+
+
+
+
+#+BEGIN_EXAMPLE
+    (setq inferior-ess-primary-prompt "ℝ> ")
+
+#+END_EXAMPLE
+
+
+
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+
+
+
+
+
+Handle the custom ℝ prompt in =ess=. Don't use custom here.
+
+
+
+
+
+
+#+BEGIN_EXAMPLE
+    (setq inferior-S-prompt "[]a-zA-Z0-9.[]*\\(?:[>+.] \\)*ℝ+> ")
+
+#+END_EXAMPLE
+
+
+
+
+
+
+
+

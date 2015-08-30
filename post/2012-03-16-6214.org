@@ -1,0 +1,13 @@
+#+POSTID: 6214
+#+DATE: [2012-03-16 Fri 03:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Gear, Motorcycle, Safety
+#+TITLE: Pinlock anti-fog visor
+
+Last year I bought one of [[http://www.pinlock.nl/en/][these]] for the RF1100. It is really a brilliant piece of hardware; it "just works". 
+
+For eyeglass wearing folks... remember that if those fog up then the Pinlock won't offer you much help :).
+
+
+

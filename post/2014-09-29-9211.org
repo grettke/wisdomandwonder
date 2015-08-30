@@ -1,0 +1,64 @@
+#+POSTID: 9211
+#+DATE: [2014-09-29 Mon 23:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Statistics
+#+TITLE: Some Lessons
+
+#+BEGIN_QUOTE
+  
+
+
+  
+To call in the statistician after the experiment is done may be no more than asking him to perform a post-mortem examination: he may be able to say what the experiment died of.
+~ Sir Ronald Aylmer Fisher
+
+
+  
+
+#+END_QUOTE
+
+
+
+
+
+#+BEGIN_QUOTE
+  
+
+
+  
+The plural of anecdote is not data.
+~ Roger Brinner
+
+
+  
+
+#+END_QUOTE
+
+
+
+
+
+#+BEGIN_QUOTE
+  
+
+
+  
+The combination of some data and an aching desire for an answer does not ensure that a reasonable answer can be extracted from a given body of data.
+~ John Tukey
+
+
+  
+
+#+END_QUOTE
+
+
+
+
+
+
+Via [[https://stat.ethz.ch/pipermail/r-help/2014-September/422091.html][r-help]].
+
+
+
+

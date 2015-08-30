@@ -1,0 +1,19 @@
+#+POSTID: 9160
+#+DATE: [2014-09-21 Sun 01:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, Scheme
+#+TITLE: Announce: PicoLisp in Hardware (PilMCU)
+
+#+BEGIN_QUOTE
+  [[http://www.mail-archive.com/picolisp@software-lab.de/msg04823.html][PilMCU]] is an implementation of 64-bit PicoLisp directly in hardware. A
+truly minimalistic system. PicoLisp is both the machine language and the
+operating system:
+#+END_QUOTE
+
+
+
+Via [[https://lists.gnu.org/archive/html/help-gnu-emacs/2014-09/msg00480.html][help-gnu-emacs]].
+
+
+

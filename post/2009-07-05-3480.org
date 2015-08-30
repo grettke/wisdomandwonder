@@ -1,0 +1,15 @@
+#+POSTID: 3480
+#+DATE: [2009-07-05 Sun 21:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: iPhone
+#+TITLE: iPhone developer stencil kit
+
+Check it out [[http://www.designcommission.com/shop/iphone-stencil-kit/][here]].
+
+It looks pretty nice. However, one might find a fat sharpy to be quicker, and good antidote to perfectionism.
+
+(via [[http://the-gadgeteer.com/2009/06/24/iphone-developer-stencil-kit/][the-gadgeteer]])
+
+
+

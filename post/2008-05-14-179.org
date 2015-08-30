@@ -1,0 +1,31 @@
+#+POSTID: 179
+#+DATE: [2008-05-14 Wed 15:41]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, Programming Language, Scheme
+#+TITLE: Chicago Lisp 5/16 Meeting
+
+The next Chicago Lisp meeting is coming up this Friday, 5/16/8. Here are the relevant links:
+
+[[http://www.pchristensen.com/blog/chicago-lisp/][Chicago Lisp Information Page]] (for now check here first)
+
+[[http://www.chicagolisp.org/][Chicago Lisp Homepage]] (eventually this will be the master information site)
+
+I will be heading down for this meeting, and presenting at it, so if you would like to carpool let me know!
+
+*Addendum 05/21/08*:
+
+Here is the [[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/05/bos-pres.pdf][presentation]] and [[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/05/scheme-bos-clug-107.zip][source material]] from my talk. This is the 25lb version of the presentation; it is not light advocacy stuff, rather, it is just a lot of crunchy bits that are meant to be discussed interactively. 
+
+*Addendum 05/27/08*:
+
+Peter posted a great [[http://www.pchristensen.com/blog/articles/recap-of-5162008-chicago-lisp-meeting/][recap]] of the presentation.
+
+[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/05/080516chicagolisp.jpg][[[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/05/080516chicagolisp.thumbnail.jpg]]]]
+
+*Addendum: 08/17/08*
+
+Here is an updated [[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/08/bos-pres.pdf][presentation]] and [[http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2008/08/scheme-bos-clug-201.zip][materials]], v2.01.
+
+
+

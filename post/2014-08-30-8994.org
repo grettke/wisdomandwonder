@@ -1,0 +1,13 @@
+#+POSTID: 8994
+#+DATE: [2014-08-30 Sat 23:09]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: assertthat for R
+
+[[https://github.com/hadley/assertthat][assertthat]] is an amazingly easy library to use design-by-contract in R that has enough options to account for the majority of your usage scenarios.
+
+See also [[http://cran.r-project.org/web/packages/assertthat/index.html]].
+
+
+

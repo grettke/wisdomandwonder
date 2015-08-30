@@ -1,0 +1,32 @@
+#+POSTID: 1179
+#+DATE: [2008-11-15 Sat 03:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: PLT Web Server Changes
+
+Jay, maintainer of the PLT Web Server, has recently made a [[http://jay-mccarthy.blogspot.com/][lot of changes]] to make it easier for folks to get started with the app server. The latest change is in the documentation, per [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-November/028491.html][this post]]:
+
+
+#+BEGIN_QUOTE
+  
+The PLT Web Server manual was organized too much like a reference manual with little guide to a user to understand how some modules fits in to the big picture. I've reorganized the documentation with the following paradigm:
+
+--- Running the Web Server
+--- Writing Servlets
+--- Extending the Web Server
+
+Other improvement related to this: I've added examples to almost every servlet function. I have integrated the stateless and non-stateless servlet documentation to put stateless servlets on a more secure footing and make it clear that they are usable in real applications. I've created an HTTP sub-module that encapsulates most of the HTTP handling. (This will limit the need to use what used to be considered internal Web Server functions.)
+
+#+END_QUOTE
+
+
+Links: [[http://docs.plt-scheme.org/web-server/index.html][Docs]], [[http://docs.plt-scheme.org/web-server/Writing_Servlets.html][Writing Servlets]], [[http://docs.plt-scheme.org/web-server/stateless-servlets.html][Stateless]], and [[http://docs.plt-scheme.org/web-server/http.html][HTTP module]].
+
+
+
+
+
+
+
+

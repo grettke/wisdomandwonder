@@ -1,0 +1,22 @@
+#+POSTID: 9922
+#+DATE: [2015-08-19 Wed 19:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode, philosophy
+#+TITLE: How to reintegrate changes for Word back into Org-Mode
+
+[[https://lists.gnu.org/archive/html/emacs-orgmode/2015-06/msg00246.html][Via]]:
+
+=Original: Your Org source
+A: Org -> DOCX for co-authors (using pandoc)
+B: Org -> DOCX -> Org (using pandoc).
+C: A -> Org (using pandoc and --accept-all-changes)
+D: B-Original
+
+The difference between B and Original are pandoc-introduced changes that you do 
+not want. Ignore/remove these changes from C, call it D and then the difference 
+between D and the Original are your co-author comments. Now your authors can 
+edit DOCX with Track Changes and you can work on those edits with Emacs ediff.=
+
+
+

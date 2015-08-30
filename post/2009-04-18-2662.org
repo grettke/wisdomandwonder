@@ -1,0 +1,38 @@
+#+POSTID: 2662
+#+DATE: [2009-04-18 Sat 23:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, Scheme
+#+TITLE: Two sids of the same coin: coroutines and streams
+
+Jos asked [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-April/032258.html][here]]:
+
+
+#+BEGIN_QUOTE
+  It seems to me that in many cases the same problem can be solved (for an eager evaluater) both by coroutines and by streams. Both solutions very well show the structure of the principal algorithm as might have been written with a lazy evaluator in mind. Which approach would be preferred in terms of efficiency (time and memory). May be you would like to address other aspects as well. One reason that makes me tend to choose streams, is that the latter seem better suited to automatic code generation from purely lazy code.
+#+END_QUOTE
+
+
+
+To which Matthais replied [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-April/032259.html][here]]:
+
+
+#+BEGIN_QUOTE
+  It is indeed a well-known fact that streams and coroutines are two sides of the same coin. Talcott's 1986 dissertation is the earliest theoretical treatment that I know.
+#+END_QUOTE
+
+
+
+Which Jim clarified [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-April/032261.html][here]]:
+
+
+#+BEGIN_QUOTE
+  I believe the reference is to Carolyn Talcott's dissertation "The essence of Rum: A theory of intensional and extensional aspects of Lisp-type computation". Stanford, 1986. Unfortunately this is not available online, as far as I know.
+#+END_QUOTE
+
+
+
+
+
+
+

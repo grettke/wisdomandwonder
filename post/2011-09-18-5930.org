@@ -1,0 +1,21 @@
+#+POSTID: 5930
+#+DATE: [2011-09-18 Sun 17:10]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lua, Programming, Programming Language, Science
+#+TITLE: GSL Shell
+
+#+BEGIN_QUOTE
+  GSL Shell is an interactive interface that gives access to the [[http://www.gnu.org/software/gsl/manual/gsl-ref.html][GSL numerical routines]] by using [[http://www.lua.org/][Lua]], an easy to learn and powerful programming language. With GSL Shell you can access very easily the functions provided by the GSL library without the need of writing and compile a stand-alone C application. In addition the power and expressivity of the Lua language make easy to develop and tests complex procedures to treat your data and use effectively the GSL routines. You will be also able to create plot in real-time by using the powerful builtin graphical module.
+
+GSL Shell is still a young project and it is currently not widely used. It still lacks some important features but we believe that it is very promising because it is built on top of three outstanding free software libraries: the GSL library, Lua and the AGG library. By using and combining together these software components GSL Shell gives the opportunity of doing advanced numerical calculations and produce beautiful plot of the data or mathematical functions.
+#+END_QUOTE
+
+
+
+(via [[http://www.nongnu.org/gsl-shell/intro.html][GSL]] via Mike K.)
+
+Like Mike said, looks like a nice complement to Octave or MATLAB.
+
+
+

@@ -1,0 +1,15 @@
+#+POSTID: 4847
+#+DATE: [2010-05-31 Mon 16:09]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Creating Languages with PLT Scheme
+
+A frequent question on the PLT Scheme discussion list is how to implement new languages on top of PLT Scheme. 
+
+In the next release documentation explaining how to do so is included, and there is a preview [[http://pre.plt-scheme.org/docs/html/guide/languages.html][here]].
+
+(via [[http://groups.google.com/group/plt-scheme/browse_thread/thread/cdd1549d103b1b02/7bd8a2b69e4eee47?lnk=gst&q=Writing+a+Simple+Language#7bd8a2b69e4eee47][plt]])
+
+
+

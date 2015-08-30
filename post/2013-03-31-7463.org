@@ -1,0 +1,11 @@
+#+POSTID: 7463
+#+DATE: [2013-03-31 Sun 21:59]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Utility, Windows
+#+TITLE: OldChromeRemover 
+
+[[http://singularlabs.com/community/topic/oldchromeremover-remove-obsolete-google-chrome-versions/][OldChromeRemover]] removes old copies of Chrome that are doing nothing but wasting disk space on your Windows machine.
+
+
+

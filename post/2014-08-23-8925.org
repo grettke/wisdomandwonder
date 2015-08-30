@@ -1,0 +1,11 @@
+#+POSTID: 8925
+#+DATE: [2014-08-23 Sat 15:38]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: help('$') in R
+
+The R documentation is concise and rich. Documentation on =$= is one example of those properties. The examples teach so much more than the few lines of space that they take up! The best practices advised and detailed explanations in the commentary make this literature required reading.
+
+
+

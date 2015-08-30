@@ -1,0 +1,47 @@
+#+POSTID: 4603
+#+DATE: [2010-03-23 Tue 18:10]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Web, WordPress
+#+TITLE: Re-enabling RSS tag feeds with the Feedburner Plugin
+
+Most of us Wordpress users who are using Feedburner to track our feed subscriptions are using the Feedburner Feedsmith Wordpress plugin to make it all work. Unfortuantely that plugin remove the ability for folks to subscribe to RSS tag feeds directly from your blog. In [[http://blog.bradgrier.com/2008/06/23/tweaking-your-feedburner-feedsmith-plugin-to-support-wordpress-25-tag-feeds-easy/][this]] article, the author explain how to re-enable this feature.
+
+In the function
+
+#+BEGIN_EXAMPLE
+    function ol_feed_redirect()
+#+END_EXAMPLE
+
+
+
+change this
+
+
+
+#+BEGIN_EXAMPLE
+    
+is_feed() && $feed != 'comments-rss2' && !is_single() &&
+
+#+END_EXAMPLE
+
+
+
+to this:
+
+
+
+#+BEGIN_EXAMPLE
+    
+is_feed() && $feed != 'comments-rss2' && !is_single() && !is_tag() &&
+
+#+END_EXAMPLE
+
+
+
+Basically you are just telling the plugin that if the URL has a tag argument, it should let Wordpress handle the feed rather than Feedburner.
+
+(via the [[http://ocamlcore.org/][ocamlcore.org team]])
+
+
+

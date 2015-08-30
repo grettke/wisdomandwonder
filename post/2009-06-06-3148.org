@@ -1,0 +1,13 @@
+#+POSTID: 3148
+#+DATE: [2009-06-06 Sat 13:22]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, philosophy
+#+TITLE: Choosing a Programming Language is Really Choosing a Community
+
+Michele wrote [[http://www.artima.com/weblogs/viewpost.jsp?thread=259296][this]] /great/ article about how for some of us, choosing a programming language is really choosing a community.
+
+I feel this way, very much so. I guess I am not the only one.
+
+
+

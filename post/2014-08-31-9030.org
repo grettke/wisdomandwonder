@@ -1,0 +1,25 @@
+#+POSTID: 9030
+#+DATE: [2014-08-31 Sun 15:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: R-Project
+#+TITLE: Only source a file when it has changes in R
+
+
+You may save a bit of time by only =source='ing your files in R when
+they have changes with =R.utils::sourceTo(file, modifiedOnly=TRUE)=.
+
+
+
+
+
+
+
+Via [[http://r.789695.n4.nabble.com/require-but-for-source-d-files-td4695807.html][r-help]] via [[http://cran.r-project.org/web/packages/R.utils/index.html][R.utils]].
+
+
+
+
+
+
+

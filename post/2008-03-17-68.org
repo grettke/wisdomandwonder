@@ -1,0 +1,34 @@
+#+POSTID: 68
+#+DATE: [2008-03-17 Mon 00:35]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: PLT, Programming Language, Scheme
+#+TITLE: Distributed Programming in Scheme
+
+Here are two places to start with distributed programming in Scheme:
+
+[[http://toute.ca/][Termite]]
+
+[[http://groups.google.com/group/plt-scheme/browse_thread/thread/a63ea150478f0832?hl=en][Dimitris Vyzovitis's patch]] for revision 8983 (of trunk) in [[http://svn.plt-scheme.org/][PLT Scheme]]
+
+*Addendum 03/21/08*
+
+
+-  Dimitris' [[http://groups.google.com/group/plt-scheme/browse_thread/thread/3b3a61f14c8d2189?hl=en][patch]] for additional mailbox functionality.
+
+
+
+*Addendum 04/26/08*
+
+
+-  [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-April/024421.html][Dimitris released an alternative, simpler implementation.]]
+-  [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-April/024422.html][Along with a fix for a slight bug.]]
+
+
+
+*Addendum 06/24/08*
+
+I'm pretty sure this patch has made it into the main source branch.
+
+
+

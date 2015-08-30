@@ -1,0 +1,17 @@
+#+POSTID: 578
+#+DATE: [2008-08-17 Sun 15:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming
+#+TITLE: Managing Gigabytes
+
+#+BEGIN_QUOTE
+  [[http://www.cs.mu.oz.au/mg/][Managing Gigabytes]] helps you to meet this challenge by showing how to capitalize on new methods of compressing and accessing data, enabling you to store information more efficiently and locate specific items more quickly and cost-effectively than ever before. It uniquely covers fully-tested techniques for both text and image compression and shows how to construct a tailor-made electronic index for accessing text, scanned documents, and images. This book largely avoids extensive theoretical and mathematical discussions, making it accessible to curious laypersons who seek a clear, uncomplicated understanding of this new technology. Real, large-scale problems are illustrated, and the technical material is sprinkled with anecdotes and background information.
+#+END_QUOTE
+
+
+
+(via [[http://groups.google.com/group/plt-scheme/browse_thread/thread/c209f638f3f566a/f9cb9069a2b1581b][PLT]])
+
+
+

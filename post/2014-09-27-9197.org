@@ -1,0 +1,14 @@
+#+POSTID: 9197
+#+DATE: [2014-09-27 Sat 14:31]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: R-Project
+#+TITLE: Markdown vignettes in R
+
+If you somehow /didn't/ have a reason to look into r-markdown with knitr before,
+then [[http://cran.r-project.org/web/packages/knitr/vignettes/knitr-markdown.html][this]] is yet another *really good* one.
+
+
+
+
+

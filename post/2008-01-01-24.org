@@ -1,0 +1,15 @@
+#+POSTID: 24
+#+DATE: [2008-01-01 Tue 16:57]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: XO
+#+TITLE: Managing files in the OLPC XO datastore
+
+The only official way to get files in and out of the datastore is to drag and drop a single file at a time, and this only works on USB thumbdrives, /not/ on the filesystem. 
+
+There is ticket for a workaround using a Python script; if you use an XO, please offer encouragement to get this functionality integrated with the XO.
+
+Here is the [[http://dev.laptop.org/ticket/5571][ticket]].
+
+
+

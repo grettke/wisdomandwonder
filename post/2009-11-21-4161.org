@@ -1,0 +1,24 @@
+#+POSTID: 4161
+#+DATE: [2009-11-21 Sat 14:55]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Programming, philosophy
+#+TITLE: Conway's Law
+
+Conway's Law is not intended to be a joke or nasty witticism:
+
+
+
+#+BEGIN_QUOTE
+  ...organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations.
+#+END_QUOTE
+
+
+-- Melvin Conway
+
+(via [[http://fare.livejournal.com/149264.html][Fare]] via [[http://en.wikipedia.org/wiki/Conway's_Law][Wikipedia]])
+
+
+
+
+

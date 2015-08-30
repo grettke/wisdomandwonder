@@ -1,0 +1,13 @@
+#+POSTID: 80
+#+DATE: [2008-03-23 Sun 20:38]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, Programming
+#+TITLE: On Python and Lisp
+
+The last time I spoke to a friend of mine who knows both Scheme and Common Lisp (among /many/ other programming languages), his current language of choice was Python. More or less, he said that it just "feels right" (I need to pick his brain more on this). 
+
+Is Lisp the future of Python? Do Lispers gravitate towards Python? I'm not sure yet, but [[http://www.prescod.net/python/IsPythonLisp.html][this paper]] aims to shed some light on both of those questions.
+
+
+

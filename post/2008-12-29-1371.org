@@ -1,0 +1,21 @@
+#+POSTID: 1371
+#+DATE: [2008-12-29 Mon 02:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Learning, Programming, Teaching
+#+TITLE: Software repository mining with Marmoset
+
+#+BEGIN_QUOTE
+  
+Most computer science educators hold strong opinions about the "right" approach to teaching introductory level programming. Unfortunately, we have comparatively little hard evidence about the effectiveness of these various approaches because we generally lack the infrastructure to obtain sufficiently detailed data about novices' programming habits.To gain insight into students' programming habits, we developed Marmoset, a project snapshot and submission system. Like existing project submission systems, Marmoset allows students to submit versions of their projects to a central server, which automatically tests them and records the results. Unlike existing systems, Marmoset also collects finegrained code snapshots as students work on projects: each time a student saves her work, it is automatically committed to a CVS repository.We believe the data collected by Marmoset will be a rich source of insight about learning to program and software evolution in general. To validate the effectiveness of our tool, we performed an experiment which found a statistically significant correlation between warnings reported by a static analysis tool and failed unit tests.To make fine-grained code evolution data more useful, we present a data schema which allows a variety of useful queries to be more easily formulated and answered.
+
+#+END_QUOTE
+
+
+
+[[http://portal.acm.org/citation.cfm?id=1083149][Here]] is the ACM portal page.
+
+(via the [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-December/029205.html][PLT Discussion List]])
+
+
+

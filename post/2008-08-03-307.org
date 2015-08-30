@@ -1,0 +1,46 @@
+#+POSTID: 307
+#+DATE: [2008-08-03 Sun 20:01]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Scheme
+#+TITLE: An alternate syntax for let
+
+In [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-April/024044.html][this post]] I wondered how one might implement an alternate syntax for let (described in [[http://groups.google.com/group/comp.lang.lisp/msg/a18d840fe8cdd1d3?hl=en][this C.L.L. post]]), which looks like this:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(let (x 0 y 1 z 2) (+ x y z))
+
+#+END_EXAMPLE
+
+
+
+As it turns out my solution was actually let*, and therefore wrong. 
+
+Nonetheless, [[http://list.cs.brown.edu/pipermail/plt-scheme/2008-April/024047.html][here]] is wonderful macro provided by Jos that both implements the alternate syntax for let and also demonstrates a technique for how to use the equivalent of "temporary variables" inside of a macro:
+
+
+
+#+BEGIN_EXAMPLE
+    
+(define-syntax my-let
+  (syntax-rules ( )
+    ((_ my-bindings body-expr0 body-expr ...)
+     (my-let-aux my-bindings ( ) body-expr0 body-expr ...))))
+
+(define-syntax my-let-aux
+  (syntax-rules ( )
+    ((_ ( ) (binding ...) body-expr0 body-expr ...)
+     (let (binding ...) body-expr0 body-expr ...))
+    ((_ (var value-expr . rest) (binding ...) body-expr0 body-expr ...)
+     (my-let-aux rest (binding ... (var value-expr)) body-expr0 body-expr ...))))
+
+(my-let (x 1 y 2 z 3)
+        (+ x y z))
+
+#+END_EXAMPLE
+
+
+

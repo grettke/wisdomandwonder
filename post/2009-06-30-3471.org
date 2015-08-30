@@ -1,0 +1,13 @@
+#+POSTID: 3471
+#+DATE: [2009-06-30 Tue 03:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: .NET, Programming Language, iPhone
+#+TITLE: Programming .NET on the iPhone
+
+[[http://www.mono-project.com/MonoTouch][Here]] is the website for MonoTouch; a framework that lets you write .NET apps for deployment on the iPhone.
+
+(via [[http://www.reddit.com/r/programming/comments/8wtx7/code_with_cxcode_and_monotouch_for_the_iphone/][reddit]])
+
+
+

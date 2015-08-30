@@ -1,0 +1,13 @@
+#+POSTID: 9497
+#+DATE: [2015-02-02 Mon 19:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: DevOps, PluralSight, Windows
+#+TITLE: Windows Azure: The Big Picture
+
+[[http://www.pluralsight.com/courses/azure-bigpicture][Windows Azure: The Big Picture]].
+
+You won't view anything in this video and say "Oh my goodness I never imagined you could do that with a computer". What will happen though is that now you will know how Azure lets you do that with a computer, all of their offerings from virtualization to networking to message queues covered. That is great to know. I chose this video specifically because it is the shortest. Further digging is required.
+
+
+

@@ -1,0 +1,19 @@
+#+POSTID: 8734
+#+DATE: [2014-06-18 Wed 13:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: DevOps, Packer, Vagrant
+#+TITLE: A guest DNS server to ease systems development
+
+#+BEGIN_QUOTE
+  
+[[[https://github.com/phinze/landrush][landrush]] is] a vagrant plugin that provides a simple dns server for vagrant guests
+
+#+END_QUOTE
+
+
+
+
+
+
+

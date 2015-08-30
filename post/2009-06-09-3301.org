@@ -1,0 +1,21 @@
+#+POSTID: 3301
+#+DATE: [2009-06-09 Tue 18:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Ide, PLT, Programming Language, Scheme
+#+TITLE: Using DrScheme to Edit Code for Any Distribution
+
+I would like, or for someone else to, write a plugin for DrScheme that would allow it to easily call out to execute code on any Scheme distribution.
+
+The reason is that DrScheme is a very nice cross-platform editor with great features that you can use on R5RS and R6RS Scheme source code. 
+
+The plugin would need to be smart enough to know how to call out to another Scheme executable and disable PLT specific features. 
+
+Based on Leppie and Eli's [[http://ironscheme.codeplex.com/Thread/View.aspx?ThreadId=58838&ANCHOR#Post199547][conversation]]; it seems possible. 
+
+Am I the only one that uses DrScheme for all of my Scheme editing?
+
+I run code on PLT, Ikarus, Ypsilon, and Iron Scheme.
+
+
+

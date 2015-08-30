@@ -1,0 +1,11 @@
+#+POSTID: 90
+#+DATE: [2008-04-02 Wed 00:22]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp
+#+TITLE: Shlisp
+
+[[http://lingnerd.blogspot.com/2008/03/lisp.html][Shlisp]] is a Lisp without lists!
+
+
+

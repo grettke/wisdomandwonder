@@ -1,0 +1,11 @@
+#+POSTID: 6198
+#+DATE: [2012-03-14 Wed 01:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: MATLAB, Octave, Programming Language
+#+TITLE: MATLAB's Rich Java Interoperation
+
+Last night I wanted to figure out how to get rid of the "Start Menu" on the bottom of the IDE and found a solution [[http://www.mathworks.com/matlabcentral/newsreader/view_thread/152888][here]]. That got me digging into the docs about [[http://www.mathworks.com/help/techdoc/matlab_external/f44062.html][Java integration]]. Wow; it just works and seems to work really well. The interop is seamless. For the little coding I did to play around with loading files (it is built in but I was still curious to know) it was really easy to use. Awesome.
+
+
+

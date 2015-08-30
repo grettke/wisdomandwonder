@@ -1,0 +1,61 @@
+#+POSTID: 3022
+#+DATE: [2009-05-26 Tue 16:05]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Computer Science
+#+TITLE: Why Church chose lambda
+
+Todd [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-May/033320.html][asked]] "Why [did Church choose] lambda and not some other Greek letter?". Here are three answers:
+
+
+
+*** 1
+
+
+
+[[http://list.cs.brown.edu/pipermail/plt-scheme/2009-May/033321.html][Matthias]]:
+
+
+
+#+BEGIN_QUOTE
+  The story is that in the 10s and 20s, mathematicians and logicians used \^ as a notation for set abstraction, as in \^i : i is prime. Church used \^` (i.e., a primed version of this symbol) for function abstraction, because functions are just sets with extra properties. The first type setter/secretary read it as λ and Church was fine with. True or not? I don't know but it's fun.
+#+END_QUOTE
+
+
+
+
+
+*** 2
+
+
+
+[[http://www-maths.swan.ac.uk/staff/jrh/papers/JRHHislamWeb.pdf][This paper]] (link provided by Dave Herman [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-May/033322.html][here]]):
+
+
+
+#+BEGIN_QUOTE
+  (By the way, why did Church choose the notation “λ”? In [Church, 1964, §2] he stated clearly that it came from the notation “xˆ” used for class-abstraction by Whitehead and Russell, by first modifying “xˆ” to "ˆx” to distinguish function abstraction from class-abstraction, and then changing “ˆ” to “λ” for ease of printing. This origin was also reported in [Rosser, 1984, p.338]. On the other hand, in his later years Church told two enquirers that the choice was more accidental: a symbol was needed and “λ” just happened to be chosen.)
+#+END_QUOTE
+
+
+
+
+
+*** 3
+
+
+
+[[http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.26.7908][This paper]] (link provided by Dave Herman [[http://list.cs.brown.edu/pipermail/plt-scheme/2009-May/033322.html][here]]):
+
+
+
+#+BEGIN_QUOTE
+  We end this introduction by telling what seems to be the story how the letter ‘λ' was chosen to denote function abstraction. In [100] Principia Mathematica the notation for the function f with f(x) = 2x + 1 is 2xˆ +1. Church originally intended to use the notation xˆ .2x+1. The typesetter could not position the hat on top of the x and placed it in front of it, resulting in ˆx.2x + 1. Then another typesetter changed it into λx.2x + 1.
+#+END_QUOTE
+
+
+
+
+
+
+

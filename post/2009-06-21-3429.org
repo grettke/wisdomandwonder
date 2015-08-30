@@ -1,0 +1,15 @@
+#+POSTID: 3429
+#+DATE: [2009-06-21 Sun 23:57]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Mac, OS X
+#+TITLE: Reinstalling Leopard
+
+To satisfy my own curiousity, I reinstalled OS X Leopard today.
+
+It took about 1.5h to install the OS and 30m to install the base apps like iDVD and so on.
+
+This was on a 2.0GHz Core2Duo Mini.
+
+
+

@@ -1,0 +1,37 @@
+#+POSTID: 7835
+#+DATE: [2013-05-15 Wed 16:39]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Lisp, Programming Language, Scheme
+#+TITLE: ISLISP
+
+#+BEGIN_QUOTE
+  
+The ISLISP programming language is a member of the Lisp family of programming languages. It attempts to bridge the gap between the various incompatible members of the Lisp family of languages (most notably Common Lisp, Eulisp, LeLisp, and Scheme) by focusing on standardizing those areas of widespread agreement. It is a small language, closer to the size of Scheme than to Common Lisp, for example.
+
+The most recent change to the specification occurred in 2007.
+
+The design of ISLISP had these design goals:
+
+
+
+  -  Compatible with existing Lisp dialects where feasible.
+
+  -  Provide basic functionality.
+  -  Object-oriented.
+  -  Designed with extensibility in mind.
+  -  Gives priority to industrial needs over academic needs.
+  -  Promotes efficient implementations and applications.
+
+  
+
+
+#+END_QUOTE
+
+
+(via [[http://www.islisp.info/][islisp.info]])
+
+John Cowan mentioned it on scheme-reports, so I was curious.
+
+
+

@@ -1,0 +1,28 @@
+#+POSTID: 8704
+#+DATE: [2014-06-14 Sat 12:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Article
+#+TAGS: Artificial Intelligence, Computation, Knowledge Engineering, Rules Engine, mathematics, philosophy
+#+TITLE: The perennial fear revealed by a rules engine
+
+When seeking to attain mastery of rules engines (RE), you will experience an odd phenomenon. Others, upon hearing some details of your course of study, will react in a what initially appears to be a manner angrily dismissive of the topic itself. This is strange given the fundamental role that computation plays in literally everything we do, from a manifest perspective, with hardware computers, organic computers, and other.
+
+Upon further interaction, and reflection, it quickly becomes apparent what motivates this reaction is fundamentally, the re-experience of a long inaccessible, perennial fear. 
+
+
+The fundamental nature of this reality (given our senses and out of the box human being configuration) is composed of four "elements/experiences (E2)" (a decent word choice, as many are available): space (dimensions are irrelevant), time, causality, and number. 
+
+Executing programs inside of a rules engine, by definition, adheres to these rules. There's simply no two ways about it, such programs adhere to the four E2 traits (anyone implementing, debugging, or optimizing a RE system knows this!). Three of the four are easy to see, a program in a rules engine quite clearly contains space, time, and number. It would be hard to see anything otherwise, or even to try to convince people of anything otherwise. The problem comes when either of us start to look at the aspect of causality.
+
+Rules engine programs are written for humans. Humans often discuss things in terms of goals. They don't often discuss the plan for how to achieve them, yet they know they will figure it out by doing. You might call this "on-demand planning". 
+
+People love "if this, then that (IFTT)". If you study smart then you will succeed. If you work smart then you will become wealthy. The details adhere to the same principle wherein every goal requires a plan. Typically, we are the ones who come up with that plan, of thousands of occurrences of IFTT. Our sequential, causal plans give us warm fuzzies, then we move on and try to plan things using a rules engine program.
+
+We start by writing a program. Those programs "run" (revealing word usage) on hardware. In this century, 99.999% of that hardware is implemented in transistor based central processing units (CPU). That hardware alone confirms that our programs adhere to the four E2 values. If you are unsure this fact, then learn how every CPU has a mathematical/logical co-processor (ALU). Important note, we must intentionally ignore the fact that at a hardware computational level, things do not run sequentially depending upon how you look at it, and this does not bother us one bit. What bothers us, though, is when we want to finish our program.
+
+Rules engines programs really like goals, and they really like space, time, and number, too. They feign the appearance of not caring about causality, either, but they really do because of the aforementioned detail, they must. When you work with a RE, it is kind of like when you play peek-a-boo with a child. You hide your face, and upon revealing it to the child, said child reacts with joy upon discovering this new person in front of them. You know though, that you were there all along, just like a rules engine knows that causality never left. When you work with a RE though, at best you react something like that child, who isn't quite sure how to react to the apparent absence of this fundamental E2. The thing is that most of us don't act with that same sense of joy and discovery anymore, mostly we are driven by fear.
+
+Therein lies the distress: rules engines perturb the primal fear inside us of losing the experiential/elemental tenet of causality that our minds so greatly value. For this reason, and this reason alone, rules engines will always be considered an oddity within the industry at best, and mostly doomed to a distant gulag far from acceptance of computational equivalence by humans.
+
+
+

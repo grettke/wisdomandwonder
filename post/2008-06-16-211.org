@@ -1,0 +1,21 @@
+#+POSTID: 211
+#+DATE: [2008-06-16 Mon 16:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Functional, Learning, Programming, Programming Language, Teaching
+#+TITLE: On Functional Programming in Education
+
+Regarding my [[http://www.wisdomandwonder.com/link/210/functional-programming-in-education][last post]], you should definitely read all of the comments. It is pretty interesting to get everyone's perspective on the topic (even if it is simply something to the effect of "Sounds like a great idea!"). Take, for example, [[http://www.cs.indiana.edu/~dfried/][Dan Friedman]]'s comment:
+
+
+
+#+BEGIN_QUOTE
+  Since I have been teaching functional programming in my undergraduate programming languages course since 1967, I am thrilled that at long last I might be teaching the sanctioned material.
+#+END_QUOTE
+
+
+
+
+
+
+

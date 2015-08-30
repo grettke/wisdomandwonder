@@ -1,0 +1,11 @@
+#+POSTID: 8773
+#+DATE: [2014-06-24 Tue 16:03]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Emacs, Ide, Lisp, Programming, Programming Language, elisp
+#+TITLE: 3 articles on Dired that every Emacs user must read
+
+[[http://irreal.org/blog/?p=2612][This]] post will send you to these [[http://www.masteringemacs.org/articles/2014/04/10/dired-shell-commands-find-xargs-replacement/][3]] [[http://www.masteringemacs.org/articles/2011/03/25/working-multiple-files-dired/][other]] [[http://www.masteringemacs.org/articles/2013/10/10/wdired-editable-dired-buffers/][posts]]. Cherish the experience of reading these exquisite expositions of the power of Dired mode. Simply reading them will immediately illuminate the part of your mind that used to say things like "What is the big deal about Dired? I'll just use Finder/Explorer instead... it is the same thing". It isn't. It is better. It is so, so powerful and you will love it after reading those 3 articles.
+
+
+

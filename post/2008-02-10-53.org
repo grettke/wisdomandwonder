@@ -1,0 +1,11 @@
+#+POSTID: 53
+#+DATE: [2008-02-10 Sun 00:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Functional, Programming Language
+#+TITLE: Purely Functional Data Structures
+
+In a thoughtful [[http://okasaki.blogspot.com/2008/02/ten-years-of-purely-functional-data.html][post]] on his blog, [[http://www.eecs.usma.edu/webs/people/okasaki/][Chris Okasaki]] reflects back on his [[http://www.amazon.com/Purely-Functional-Structures-Chris-Okasaki/dp/0521663504][seminal contribution]] to the study of purely functional data structures.
+
+
+

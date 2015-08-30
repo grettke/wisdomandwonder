@@ -1,0 +1,11 @@
+#+POSTID: 2806
+#+DATE: [2009-04-30 Thu 02:50]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Link
+#+TAGS: Objective-C, Programming Language, iPhone
+#+TITLE: Bill's Notes on iPhone App Development 
+
+Bill posted a bunch of notes [[http://bc.tech.coop/blog/090429.html][here]], that, based on what he said, might be interesting for a beginner.
+
+
+
