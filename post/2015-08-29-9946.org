@@ -1,0 +1,18 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 9946
+#+DATE: [2015-08-29 Sat 21:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode, philosophy
+#+TITLE: Migrating to Org2Blog
+
+[[https://wordpress.com/][WordPress]] is a powerful and satisfying writing and publishing platform. After
+learning Org-Mode, I wanted to use Org-Mode for writing and WordPress for
+publishing. [[https://github.com/punchagan/org2blog][Org2Blog]] makes that easy.
+
+WordPress easily exports your posts to XML. [[https://github.com/punchagan/org2blog-importers][Org2Blog-Importers]] converts them
+to Org-Mode via [[http://pandoc.org/][Pandoc]]. Tonight I converted them [[https://github.com/grettke/wisdomandwonder/tree/master/post][here]]. Any future modifications
+belong in these documents with publishing to WordPress.
+
+I tested both publishing new posts and modifying and re-publishing old posts and
+both worked correctly.

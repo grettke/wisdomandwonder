@@ -1,0 +1,29 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 9952
+#+BLOG: wisdomandwonder
+#+DATE: [2015-08-29 Sat 21:39]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article, Link
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode, philosophy
+#+TITLE: Org2Blog DITAA Test
+
+
+#+NAME: 0AE23A91-0184-4D16-93F8-8A7D73A6B3E2
+#+BEGIN_SRC ditaa :file "./image/0AE23A91-0184-4D16-93F8-8A7D73A6B3E2.png"
++--------+   +-------+    +-------+
+|        | --+ ditaa +--> |       |
+|  Text  |   +-------+    |diagram|
+|Document|   |!magic!|    |       |
+|     {d}|   |       |    |       |
++---+----+   +-------+    +-------+
+    :                         ^
+    |       Lots of work      |
+    +-------------------------+
+#+END_SRC
+
+#+RESULTS: 0AE23A91-0184-4D16-93F8-8A7D73A6B3E2
+[[file:./image/0AE23A91-0184-4D16-93F8-8A7D73A6B3E2.png]]
+
+This test failed. My system is not configured correctly. It generates an image.
+It upload the image to WordPress. It inserts a link. The link is incorrect.
