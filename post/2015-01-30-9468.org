@@ -2,7 +2,7 @@
 #+DATE: [2015-01-30 Fri 03:52]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
 #+CATEGORY: Link
-#+TAGS: Science, Yoga, philosophy
+#+TAGS: Science, Yoga, philosophy, Health
 #+TITLE: Where Everything is an Opportunity
 
 #+BEGIN_QUOTE
