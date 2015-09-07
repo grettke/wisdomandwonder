@@ -1,0 +1,39 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 9982
+#+DATE: [2015-09-07 Mon 18:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: org-scraps Notes 6CBD47FB-80AD-41DC-9E0C-482FE1C230E6
+
+- About
+  - [[https://github.com/eschulte/org-scraps/blob/master/scraps.org][org-scraps]] is a collection of Org-Mode demonstrations published by Eric
+    Schulte. *All* of my experience with Org-Mode Literate Programming is
+    working on my [[https://github.com/grettke/help][Emacs configuration for Literate Programming]]. Wanting to
+    address my limited experience I am working through each example in
+    org-scraps. Org-Scraps is weaved to HTML files published [[https://eschulte.github.io/org-scraps/][here]].
+- Approach
+  - Evaluate each example.
+  - Verify identical result.
+  - Update notes on approach.
+  - After every reconfiguration re-evaluate =DONE= examples to verify identical
+    result.
+  - Scraps are under-documented. Important ideas are explored often without
+    explicit mention. Sometimes it is obvious; other times not.
+- [[https://eschulte.github.io/org-scraps/scraps/2011-08-29-simple-short-r-block.html][simple short R block]]
+  - "value table org replace" is probably the best ~:results~ configuration for
+    source blocks. Replace table with scalar for in-line source blocks.
+- [[https://eschulte.github.io/org-scraps/scraps/2011-08-28-two-blocks-and-a-table.html][two blocks and a table]]
+  - Programmatically create tables with ~org-sbe~ and =#+TBLFM=.
+- [[https://eschulte.github.io/org-scraps/scraps/2011-08-23-a-table-with-tags.html][a table with tags]]
+  - Special blocks like =TBLNAME= are taggable, for example with =:noexport:=.
+- [[https://eschulte.github.io/org-scraps/scraps/2011-08-21-shell-script-output-not-in-table.html][shell script output not in table]]
+  - Evaluating a ~sh~ SB generates a table with the captured output from ~echo~,
+    with 1 row for each call.
+  - Scalar output demands replaceable formatting.
+- [[https://eschulte.github.io/org-scraps/scraps/2011-08-19-space-around-exported-code-blocks.html][space around exported code blocks]]
+  - ~org-babel-remove-result~ works no matter where the =RESULT= block is located. It
+    doesn't have to immediately follow the Source-Block.
+- [[https://eschulte.github.io/org-scraps/scraps/2010-08-31-scheme-sessions.html][scheme sessions]]
+  - ~ob-scheme~ allows two sessions with the same name when they were started with
+    different interpreters.
