@@ -1,0 +1,9 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 9977
+#+DATE: [2015-09-07 Mon 12:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Link
+#+TAGS: Meditation, Yoga, philosophy
+#+TITLE: A Meditator’s Map to the Mind
+
+[[https://yogainternational.com/article/view/a-meditators-map-to-the-mind][Precise]] introduction to a mysterious terrain.
