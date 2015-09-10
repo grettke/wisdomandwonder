@@ -1,0 +1,32 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 9985
+#+DATE: [2015-09-07 Mon 20:14]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: org-scraps Notes 30D36486-3578-4C0D-B16F-CE89A283358A
+
+- [[https://eschulte.github.io/org-scraps/scraps/2011-02-21-catch-the-file-name-during-export.html][catch the file name during export]]
+  - Code block specific header arguments are evaluated before execution of the
+    source block. The arguments seem to be symbols, strings, or Emacs-Lisp
+    SEXPs.
+  - Here is an example of an inline source block that gets the name of /this/
+    file and returns it: src_emacs-lisp[:var fn=(buffer-file-name)]{fn} {{{results(src_org{"/Users/gcr/tmp/scratch.org"})}}}
+  - Using Emacs-Lisp in header arguments introduces great flexibility.
+- [[https://eschulte.github.io/org-scraps/scraps/2011-02-20-export-of-inline-code-blocks-which-are-silent.html][export of inline code blocks which are silent]]
+  - Configure a document so that results are included in the document if it is
+    being exported. This is a dynamic decision. It probably relies on
+    ~org-export-current-backend~ now. Another example of Elisp configuring a
+    header arg.
+- [[https://eschulte.github.io/org-scraps/scraps/2011-02-20-mentions-of-file-names-in-file-contents.html][mentions of file names in file contents]]
+  - Literate example using table defintions, =sh=, ~find~, and ~dot~.
+  - An example that demonstrates a lot with a little.
+- [[https://eschulte.github.io/org-scraps/scraps/2011-02-18-inline-code-block.html][inline code block]]
+  - Develop a philosophy of what to evaluate and when.
+  - They are as easy as src_R{1+2+3} {{{results(src_org{6})}}}.
+- [[https://eschulte.github.io/org-scraps/scraps/2011-02-15-recutils.html][recutils]]
+  - Great example of using output to a file and a file as input via header args.
+  - Demonstrate usage of [[https://www.gnu.org/software/recutils/][Recutils]].
+- [[https://eschulte.github.io/org-scraps/scraps/2011-02-15-sql-----example-reading-org-mode-table-into-sql.html][SQL --- example reading org-mode table into sql]]
+  - Show how Org-Mode Table data is converted to SQL data.
+  - This is the essence of how data is brokered in the "BabelVM".
