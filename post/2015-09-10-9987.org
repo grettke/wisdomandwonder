@@ -1,0 +1,136 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 9987
+#+DATE: [2015-09-10 Thu 18:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Link
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Notes On org-scraps
+
+[[https://eschulte.github.io/org-scraps/][org-scraps]] are interesting because I have only used Org-Mode's tangling
+functionality for my Emacs initialization file. They show off a lot of the
+literate stuff with concise examples. Things make a lot more sense how.
+
+#+HTML: <!--more-->
+
+#+MACRO: uelfha Uses Emacs-Lisp for Header-Argument:
+
+- Header arguments
+  - =:sep=
+    - Finally see why this is important: it allows easily handling CSV data.
+      Big deal for working with tables and files. Don't have to worry about too
+      much fancy stuff when you've got Tables, Elisp, and this.
+  - =:results=
+    - =pp= formats the code as expected, reminding us that this header arg value is
+      for rendering, one of this header arg's duties
+    - {{{uelfha}}} Export results for everything *but* Beamer.
+    - =output= with =table= collects a new row for every line of output from the
+      shell. Space separates the columns. =wc= returns one record with 3 columns.
+      Flexible.
+    - {{{uelfha}}} Insert results during export but not during evaluation because you
+      want to see it in HTML but not in Org. Good reminder.
+    - ~raw~ seems important.
+    - =org= is for document formatting for rich features; that is the difference.
+      How can you wrap raw results? =wrap=. I had misunderstood this one, it is to
+      obtain Org-Mode formatting, not just handle wrapping.
+  - =:wrap=
+    - Wrap results in a results block by default or whatever type specified.
+      Probably always want to wrap to make results replaceable and removable.
+      Such a big one that I never considered.
+  - =:prologue=, =:epilogue=
+    - Work as documented. Nice way to evaluate code snippets in a closure so you
+      don't muck up the global environment. R for example with ~local~.
+  - =:cache=
+    - It works.
+  - =:var=
+    - Set with any value accessible by Emacs-Lisp, including Babel, so, anything.
+    - Give any Org-Mode named element/entity a name and you get a
+      handle on the entity itself. You can pass that entity in as an argument
+      anywhere. You get it just as it is. If you name an Example-Special block
+      then you can do whatever you want with it. You can use it for argument
+      values. You can use it in literate examples. You have complete access to
+      the entirety of the document to utilize and manipulate as you please. It
+      is easy to configure =:results= incorrectly here. Like an example block?
+      Bring it's text anywhere, in the document or a programming language.
+    - {{{uelfha}}} You can use lisp for header args. Var is a header arg. You can
+      call anything. Tangle the document before evaluating this block. Maybe
+      do something with the result. Maybe use this as a way to make sure that
+      the tangled files are there before some work is done. Anything is
+      possible. There is a normal control flow.
+    - Nice VC example with a few variables then used. Revealing of how you can
+      do just about anything.
+  - =:eval=
+    - {{{uelfha}}} Allow evaluation on export with a check. Example checks and disallows
+      evaluation during export.
+- Features
+  - Tables are first-class entities. Pass as arguments anywhere.
+  - Call lines
+    - For Org-Babel evaluation functionality.
+    - Also to get block-results places.
+  - In-Line Source-Blocks
+    - Work fine.
+    - Remember to consider these more.
+  - Indexable data: noweb ref data lets you access it by index
+  - Example given of how to get Org-Macro expansion in tangling!
+  - Never read ~sh~'s doc; has =stdin=.
+- Thoughts
+  - Struggling with best way to master Org-Mode Literate Programming. It is
+    flexible and mysterious. Thought that desire to perform a certain task would
+    be best motivator but it isn't because without understanding the tool itself
+    it wouldn't ever occur to you to do such things. Perhaps the best approach
+    is to constantly ask yourself how to do what you are doing right now, and
+    then search Org-Scraps.
+  - While learning Org-Mode I got good at tangling and nothing else.
+  - With the noweb and call stuff, everything that you would expect possible with
+    any programming language is possible with Babel, between languages, with
+    thoughtful evaluation.
+  - Everything in Org is text. You can insert links that you generated via any
+    means. Starting to think that the best way to learn Org is to have a need.
+    There are so many possibilities, and I don't need any of them right now.
+  - More play is required to learn Org-Babel.
+  - "large code in inline blocks" example shows how you might insert text
+    programmatically instead of using macros. Everyone has wondered if that is
+    a better way to do it.
+  - Org-Mode Table into SQL is nice.
+  - Can't have two =VAR='s in a properties block but have alternatives
+    - List of values
+    - Table of name value pairs
+  - Don't just go naming things in other people's Webs
+  - "noweb then variables" example shows how to reuse code-snippets.
+  - "new file handling" example worth doing to test your config
+    - Nice Graphviz example
+  - LoB has the code to read and write tables to file
+  - Pattern ~#+TBLFM: $2='(sbe leftover (prefix $$1))~.
+  - Named result blocks can appear anywhere.
+
+* Code
+
+Should work call_concat(1, 2, 3)[:results scalar] in order.
+
+#+name: concat
+#+begin_src emacs-lisp :var a=0 :var b=0 :var c=0
+  (format "%S%S%S" a b c)
+#+end_src
+
+#+RESULTS: concat
+#+BEGIN_SRC org
+| 000 |
+#+END_SRC
+
+noweb referernces
+- What is going on here?
+
+#+name: noweb-example
+#+begin_src ruby
+  a = 28
+#+end_src
+
+#+begin_src ruby :noweb
+  # <<noweb-example>>
+  a + 4
+#+end_src
+
+#+resname:
+: 32
+
+#  LocalWords:  uelfha arg arg's Beamer wc args VC eval Indexable noweb stdin
