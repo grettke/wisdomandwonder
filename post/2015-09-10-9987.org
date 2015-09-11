@@ -23,11 +23,11 @@ literate stuff with concise examples. Things make a lot more sense how.
   - =:results=
     - =pp= formats the code as expected, reminding us that this header arg value is
       for rendering, one of this header arg's duties
-    - {{{uelfha}}} Export results for everything *but* Beamer.
+    - Uses Emacs-Lisp for Header-Argument: Export results for everything *but* Beamer.
     - =output= with =table= collects a new row for every line of output from the
       shell. Space separates the columns. =wc= returns one record with 3 columns.
       Flexible.
-    - {{{uelfha}}} Insert results during export but not during evaluation because you
+    - Uses Emacs-Lisp for Header-Argument: Insert results during export but not during evaluation because you
       want to see it in HTML but not in Org. Good reminder.
     - ~raw~ seems important.
     - =org= is for document formatting for rich features; that is the difference.
@@ -52,7 +52,7 @@ literate stuff with concise examples. Things make a lot more sense how.
       the entirety of the document to utilize and manipulate as you please. It
       is easy to configure =:results= incorrectly here. Like an example block?
       Bring it's text anywhere, in the document or a programming language.
-    - {{{uelfha}}} You can use lisp for header args. Var is a header arg. You can
+    - Uses Emacs-Lisp for Header-Argument: You can use lisp for header args. Var is a header arg. You can
       call anything. Tangle the document before evaluating this block. Maybe
       do something with the result. Maybe use this as a way to make sure that
       the tangled files are there before some work is done. Anything is
@@ -60,7 +60,7 @@ literate stuff with concise examples. Things make a lot more sense how.
     - Nice VC example with a few variables then used. Revealing of how you can
       do just about anything.
   - =:eval=
-    - {{{uelfha}}} Allow evaluation on export with a check. Example checks and disallows
+    - Uses Emacs-Lisp for Header-Argument: Allow evaluation on export with a check. Example checks and disallows
       evaluation during export.
 - Features
   - Tables are first-class entities. Pass as arguments anywhere.
@@ -105,12 +105,12 @@ literate stuff with concise examples. Things make a lot more sense how.
 
 * Code
 
-Should work call_concat(1, 2, 3)[:results scalar] in order.
+Should work in order.
 
 #+name: concat
-#+begin_src emacs-lisp :var a=0 :var b=0 :var c=0
+#+BEGIN_SRC emacs-lisp
   (format "%S%S%S" a b c)
-#+end_src
+#+END_SRC
 
 #+RESULTS: concat
 #+BEGIN_SRC org
@@ -121,16 +121,15 @@ noweb referernces
 - What is going on here?
 
 #+name: noweb-example
-#+begin_src ruby
+#+BEGIN_SRC ruby
   a = 28
-#+end_src
+#+END_SRC
 
-#+begin_src ruby :noweb
+#+BEGIN_SRC ruby
   # <<noweb-example>>
   a + 4
-#+end_src
+#+END_SRC
 
 #+resname:
 : 32
 
-#  LocalWords:  uelfha arg arg's Beamer wc args VC eval Indexable noweb stdin
