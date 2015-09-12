@@ -1,0 +1,26 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 9990
+#+DATE: [2015-09-12 Sat 11:11]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Link
+#+TAGS: Git, Version Control
+#+TITLE: Obtain the Hash for the Last Commit in Git
+
+[[http://stackoverflow.com/questions/15677439/how-to-get-latest-git-commit-hash-command][Via:]]
+
+#+NAME: 09072FE3-A4FA-4BD8-A226-1575BDBEB5FF
+#+BEGIN_SRC sh :results output verbatim :wrap SRC sh
+pwd
+git log -n 1
+#+END_SRC
+
+#+RESULTS: 09072FE3-A4FA-4BD8-A226-1575BDBEB5FF
+#+BEGIN_SRC sh
+/Users/gcr/src/wisdomandwonder/post
+commit e7766a90d0e41a1c9c4175dde5e5d6a20af52732
+Author: Grant Rettke <gcr@wisdomandwonder.com>
+Date:   Fri Sep 11 14:57:10 2015 -0500
+
+    Posted
+#+END_SRC
+
