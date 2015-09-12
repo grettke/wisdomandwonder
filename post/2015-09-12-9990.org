@@ -3,7 +3,7 @@
 #+DATE: [2015-09-12 Sat 11:11]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Link
-#+TAGS: Git, Version Control
+#+TAGS: Gitre, Version Control
 #+TITLE: Obtain the Hash for the Last Commit in Git
 
 [[http://stackoverflow.com/questions/15677439/how-to-get-latest-git-commit-hash-command][Via:]]
