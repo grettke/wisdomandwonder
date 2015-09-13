@@ -1,0 +1,18 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10004
+#+DATE: [2015-09-12 Sat 20:11]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode, philosophy
+#+TITLE: Literate DevOps: My OS X Development System
+
+Setting up a development system is a non-trivial investment.
+
+[[https://github.com/grettke/osx-provision/blob/master/C02M/provisioning.org][This document]] captures the steps required and automates as much as possible. The
+[[https://github.com/grettke/osx-provision/tree/master/C02M][project]] has other formats, too.
+
+The Style Guide is a *must read* for the operator.
+
+[[http://orgmode.org/][Org-Mode]] converted this manual, tedious, and error prone task to a
+semi-automated, nearly reproducible, and error-less process, for /me/. This document
+has never been beta tested; I am it's *only* user.
