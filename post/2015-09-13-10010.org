@@ -1,0 +1,46 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10010
+#+DATE: [2015-09-13 Sun 11:59]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Applied mathematics, Programming, Programming Language, SAS, WPS, applied statistics
+#+TITLE: SAS University Edition Setup
+
+Today I set up SAS UE on VMWare Fusion. Everything went fine.
+
+It allowed 4 GB of RAM allocation.
+
+* SAS UniversityEdition:Installation Guide for OS X
+
+** Requirements
+
+- OS: OS X 10.8+, 64bit
+- Allows: 2 CPU
+- Recommends: Allocate max \frac{1}{2} of available RAM to VM
+- Browser: Chrome
+
+** Using VMware Fusion
+
+- Verified integrity of the download
+- Extracted archive to
+  #+BEGIN_SRC sh
+mkdir ~/VMWare
+  #+END_SRC
+- Created the UE working directory
+  #+BEGIN_SRC sh
+mkdir -p ~/git/github/sas/SASUniversityEdition/myfolders/
+  #+END_SRC
+- Booted up, logged in, wrote ~hello-world.sas~.
+
+* Additional Configuration
+
+- Settings
+  - Processors & Memory
+    - Processors: 2 processor cores
+    - Memory: 4096 MB RAM
+  - Other
+    - Isolation
+      - [ ] Enable Drag and Drop
+      - [ ] Enable Copy and Paste
+- Linefeeds
+  - [[https://communities.sas.com/t5/SAS-Analytics-U/I-want-to-write-a-text-file-with-a-line-feed-at-the-end-of-every/m-p/149635#U149635][FYI]]
