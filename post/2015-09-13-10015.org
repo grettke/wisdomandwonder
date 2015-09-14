@@ -1,0 +1,14 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10015
+#+DATE: [2015-09-13 Sun 19:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Link
+#+TAGS: Gitre, Version Control
+#+TITLE: Undoing the Last Commit in Git that Wasn't Pushed
+
+[[http://stackoverflow.com/questions/927358/how-do-you-undo-the-last-commit][Via:]]
+
+#+NAME: 12642FB6-37B2-4E07-925C-A1248801E26C
+#+BEGIN_SRC sh
+git reset --soft HEAD~1
+#+END_SRC
