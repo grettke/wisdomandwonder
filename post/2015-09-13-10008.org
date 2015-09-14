@@ -1,0 +1,47 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10008
+#+DATE: [2015-09-13 Sun 08:35]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Applied mathematics, Programming, Programming Language, SAS, WPS, applied statistics
+#+TITLE: SAS University Edition Link Roundup
+
+- [[http://statisticalhorizons.com/free-sas][Free SAS!]]
+  - Previous attempts to introduce an affordable vehicle for learning SAS with
+    SAS Learning Edition and SAS On Demand failed.
+  - "It’s a completely local package and does NOT have to be connected to the
+    Internet".
+  - Doesn't have SAS/GRAPH; does have ODS.
+  - Preferences configure interactive mode at start instead of default batch
+    mode.
+  - If new to UE then read [[http://support.sas.com/resources/papers/proceedings14/SAS302-2014.pdf][this]] or watch [[https://www.youtube.com/watch?v=pE5awNW53z8&index=1&list=PLVBcK_IpFVi9cajJtRel2uBLbtcLz-WIN][this]].
+  - "at least 95% of the statistical analyses that I’ve done using SAS over the
+    last 10 years could have been done with UE"
+  - 26 responses
+- [[https://typeconversion.wordpress.com/2014/06/02/sas-university-edition/][SAS University Edition]]
+  - Pros: error reporting, GUI layout, autocomplete, gratis
+  - Cons:
+    - Runs in a VM: Non-intuitive and limit on RAM and cpu usage
+    - No VCS integration
+    - Folder mapping: only one folder supported
+    - Publishing: doesn't like lack of modern formats
+- [[http://alstatr.blogspot.com/2015/01/new-toy-sas-university-edition.html][New Toy: SAS® University Edition]]
+  - Started relearning SAS because of the free version
+  - Useful end-to-end analysis example
+  - Via responses
+    - Functions vs macros
+    - Task tab
+- [[http://www.analyticsvidhya.com/blog/2014/06/sas-launches-free-version-but-good-enough/][SAS launches a free version – but, is it good enough?]]
+  - Author 7 year SAS user from graduation; loves it
+    - Easier to learn than R, lots of jobs, great customer support
+    - [[http://www.analyticsvidhya.com/blog/2014/03/sas-vs-vs-python-tool-learn/][Which language to learn?]]
+      - If you are new, SAS
+      - If you are intermediate, learn SAS and something more
+      - If you are expert, know two well
+  - ~PROC GCHART~ instead of ~SAS/GCHART~
+  - Max 2GB RAM with 2CPU
+    - Note: I just set it to 4 GB of RAM and it worked fine
+  - New online communities good
+
+#  LocalWords:  SAS WPS UE ve wisdomandwonder autocomplete VM cpu VCS PROC
+#  LocalWords:  GCHART
