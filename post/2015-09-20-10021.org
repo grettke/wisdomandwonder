@@ -3,7 +3,7 @@
 #+DATE: [2015-09-20 Sun 16:09]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Link
-#+TAGS: Editor, Emacs, Ide, Learning, Literate Programming, ML, Programming Language, Reproducible research, Research, SML, Standard ML, Teaching
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
 #+TITLE: A Book Produced Using Org
 
 [[https://lists.gnu.org/archive/html/emacs-orgmode/2015-09/msg00605.html][Via:]]
