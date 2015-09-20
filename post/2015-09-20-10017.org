@@ -6,7 +6,7 @@
 #+TAGS: Git, Revision control system, Subversion, Utility, Emacs
 #+TITLE: Choosing the Right Diff Tool for You
 
-By a my idiosyncratic measures:
+By my idiosyncratic measures:
 
 For small changes ~git diff~ and ~vc-diff~ are perfect.
 
