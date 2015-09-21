@@ -2,7 +2,7 @@
 #+DATE: [2008-09-24 Wed 03:14]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
 #+CATEGORY: Link
-#+TAGS: Revision control system, Subversion, Utility
+#+TAGS: Version Control, Subversion, Utility
 #+TITLE: Remove .svn files recursively
 
 Today I needed to convert a Subversion working copy (aka a checkout) into an export. Recursively blowing away all of the .svn directories in DOS (Windows XP) didn't seem to be straightforward so I ended up using UNIX find in cygwin. Here is the command:
@@ -10,7 +10,7 @@ Today I needed to convert a Subversion working copy (aka a checkout) into an exp
 
 
 #+BEGIN_EXAMPLE
-    
+
 find . -type d -name '.svn' -exec rm -rf {} \;
 
 #+END_EXAMPLE
@@ -20,11 +20,11 @@ find . -type d -name '.svn' -exec rm -rf {} \;
 The command was provided [[http://codesnippets.joyent.com/tag/svn#post1547][here]], and the following is documentation from the man page.
 
 
--  find 
+-  find
   :: Execute the find command
--  . 
+-  .
   :: Path in which to start
--  -type d 
+-  -type d
   :: File is of type 'd', a directory.
 -  -name '.svn'
   :: The file name on which to match, .svn.

@@ -3,7 +3,7 @@
 #+DATE: [2015-09-20 Sun 15:04]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
-#+TAGS: Git, Revision control system, Subversion, Utility, Emacs
+#+TAGS: Git, Version Control, Subversion, Utility, Emacs
 #+TITLE: Choosing the Right Diff Tool for You
 
 By my idiosyncratic measures:

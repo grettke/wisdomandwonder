@@ -2,12 +2,12 @@
 #+DATE: [2008-04-24 Thu 19:40]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
 #+CATEGORY: Article
-#+TAGS: Fun, Revision control system, Subversion, Utility
+#+TAGS: Fun, Version Control, Subversion, Utility
 #+TITLE: Just 3 little words
 
 On my previous project, we had just a bang-up bunch of guys on the team. Everyone was smart, thoughtful, and worked well together: it was ideal. Since there was no revision control system in place when we arrived for the project, we decided to use Subversion. Since I had championed Subversion, I became both the Subversion system and repository administrator.
 
-After a few months, and few thousand commits (a lot of them without any commit messages) I decided to add a commit hook script to prevent commits without comments. To be fair, I figured that no one would mind being required to write commit messages that were as long as they had already been writing, so I wrote a script to get the mean number of words in the commit messages (to date) that were not empty. The average was 7. 
+After a few months, and few thousand commits (a lot of them without any commit messages) I decided to add a commit hook script to prevent commits without comments. To be fair, I figured that no one would mind being required to write commit messages that were as long as they had already been writing, so I wrote a script to get the mean number of words in the commit messages (to date) that were not empty. The average was 7.
 
 7 is a good number, at least enough to convey the “why” with enough brevity to make the RCS helpful. That said, I figured I would be even more accommodating of the users and require only a mere 3 words in every commit message. I made the change, tested it out, and deployed it to the Subversion server.
 

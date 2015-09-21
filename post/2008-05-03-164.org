@@ -2,7 +2,7 @@
 #+DATE: [2008-05-03 Sat 22:30]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
 #+CATEGORY: Link
-#+TAGS: Git, Revision control system, Subversion, Utility
+#+TAGS: Git, Version Control, Subversion, Utility
 #+TITLE: What every Subversion user must know about Git
 
 Subversion is perfect (simple concept, lots of books, good tool integration, and easy to use) but for the fact that it doesn't support:
@@ -40,7 +40,7 @@ You must use the following packages:
 
 Failure to install the subversion-perl bindings results in the error:
 =
-Can't locate SVN/Core.pm in @INC 
+Can't locate SVN/Core.pm in @INC
 
 
 Thank you ycdtosa for the pointer!
@@ -51,7 +51,7 @@ If, like many of us, you haven't fully cut over to cygwin, you may receive the f
 
 You have some suspicious patch lines=
 
-[[http://www.dont-panic.cc/capi/2007/07/13/git-on-windows-you-have-some-suspicious-patch-lines/][Here]] is both an explanation of and a work-around for the error. 
+[[http://www.dont-panic.cc/capi/2007/07/13/git-on-windows-you-have-some-suspicious-patch-lines/][Here]] is both an explanation of and a work-around for the error.
 
 
 

@@ -2,7 +2,7 @@
 #+DATE: [2009-06-21 Sun 20:50]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
 #+CATEGORY: Link
-#+TAGS: Revision control system, Subversion
+#+TAGS: Version Control, Subversion
 #+TITLE: Adding Version Control to Your Application with Subversion
 
 [[http://people.apache.org/~rooneg/talks/version-control/version-control.html][Here]] is a good presentation about the Subversion C API.

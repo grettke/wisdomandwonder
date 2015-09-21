@@ -2,10 +2,10 @@
 #+DATE: [2009-06-07 Sun 01:33]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
 #+CATEGORY: Article
-#+TAGS: Bazaar, Mac, Revision control system
+#+TAGS: Bazaar, Mac, Version Control
 #+TITLE: Setting up QBZR on OS X
 
-[[http://bazaar-vcs.org/][Bzr]] is nice to use. It is tailored for the masses (of which I am a member). It has the usual UNIX support, but it has first-class Windows support, too. It has a nice UI if you want it. The community is great, too. 
+[[http://bazaar-vcs.org/][Bzr]] is nice to use. It is tailored for the masses (of which I am a member). It has the usual UNIX support, but it has first-class Windows support, too. It has a nice UI if you want it. The community is great, too.
 
 A few days ago I installed it on OS X and found that there was no UI support via Qt. Fortunately there are directions for setting it up [[https://answers.launchpad.net/qbzr/+question/10213][here]]. Here are the steps that I followed:
 
@@ -29,7 +29,7 @@ Here are the directions that I followed from that link:
 
 
 #+BEGIN_EXAMPLE
-    
+
 In order to install PyQt, you need to have SIP installed.
 1) download and install QT4.x
 
