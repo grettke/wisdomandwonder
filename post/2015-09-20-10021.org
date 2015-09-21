@@ -35,3 +35,7 @@ projects, freely made available by very vibrant communities of developers.
 During the course of the work, we often drew on support from these communities.
 
 #+END_QUOTE
+
+*ADDEUNDUM: <2015-09-21 Mon>*
+
+The author just released the [[https://github.com/vikasrawal/endingmalnutrition][source code]] for the book!
