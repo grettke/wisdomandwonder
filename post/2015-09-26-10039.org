@@ -1,0 +1,23 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10039
+#+DATE: [2015-09-26 Sat 10:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Link
+#+TAGS: Programming Language, C
+#+TITLE: C Resources on Reddit
+
+* https://www.reddit.com/r/cprog.rss
+- /r/cprog - the cold, hard truth
+- r/cprog
+
+* https://www.reddit.com/r/c_language/.rss
+- The C programming language
+- r/c_language
+
+* https://www.reddit.com/r/cprogramming/.rss
+- Old'scool C Programming Reddit
+- r/cprogramming
+
+* https://www.reddit.com/r/C_Programming/.rss
+- C
+- r/C_Programming
