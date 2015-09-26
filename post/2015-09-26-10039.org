@@ -3,7 +3,7 @@
 #+DATE: [2015-09-26 Sat 10:58]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Link
-#+TAGS: Programming Language, C
+#+TAGS: Programming Language, C Language
 #+TITLE: C Resources on Reddit
 
 * https://www.reddit.com/r/cprog.rss
