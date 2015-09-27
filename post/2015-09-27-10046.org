@@ -1,0 +1,50 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10046
+#+DATE: [2015-09-27 Sun 15:45]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Link
+#+TAGS: Blogging, Utility, Web, WordPress, DevOps, Vagrant
+#+DESCRIPTION:
+#+TITLE: Choosing a WordPress Vagrant Box
+
+I want a Vagrant box on which to configure and develop WordPress. Here are some
+of the options. I wanted to decide on one. Here is how.
+
+- Box: name
+- Stars: on GitHub, # stars
+- Ctrb: on GitHub, # contributors
+- Rel: on GitHub, # releases
+- Cmts: on GitHub, # commits
+- Brn: on GitHub, # branches
+- For: Purpose of box
+- Rct: Gut reaction 1
+  - =+=: Like
+  - =*=: Pros and Cons
+  - =-=: Dislike
+- Rt2: Gut reaction 2
+
+Strategy:
+- Identify options
+- Classify them by stars and contributors
+- Get a gut reaction whether to dig deeper or not
+- Review them again
+
+| Box             | Stars | Ctrb | Rel | Cmts | Brn | For     | Rct | Rt2 |
+|-----------------+-------+------+-----+------+-----+---------+-----+-----|
+| [[https://github.com/Varying-Vagrant-Vagrants/VVV][VVV]]             |  2323 |   72 |  13 | 1178 |   4 | WP Dev  | +   |     |
+| [[https://github.com/chad-thompson/vagrantpress][Vagrnt-Press]]    |   696 |   17 |   0 |  107 |   5 | Gen dev | +   | ++  |
+| [[https://github.com/Automattic/vip-quickstart][vipquickstart]]   |   242 |   23 |   3 |  562 |   9 | Gen dev | +   | -   |
+| [[https://github.com/ChrisWiegman/Primary-Vagrant][Primary-Vgrnt]]   |   103 |    7 |  15 |  399 |   3 | Gen dev | +   | na  |
+| [[https://github.com/keichan34/wp-nginx-hhvm-mariadb][wp-nginx-hhvm]]   |    28 |    2 |   0 |   20 |   1 | Gen dev | +   | na  |
+| [[https://github.com/Cikica/monkeyrocket][MonkeyRocket]]    |    13 |    1 |   0 |    5 |   2 | Gen dev | +   | na  |
+| [[https://github.com/Chassis/Chassis][Chassis]]         |   330 |   17 |   0 |  274 |   7 | Gen dev | *   | na  |
+| [[https://github.com/tierra/wp-vagrant][wp-vagrant]]      |   110 |    1 |   0 |   17 |   2 | Reg sup | *   | na  |
+| [[https://github.com/vccw-team/vccw][vccw]]            |   382 |   20 |  45 |  343 |   3 | Gen dev | *   | na  |
+| [[https://github.com/genesis/wordpress][genesis]]         |   674 |   10 |  83 |  384 |  42 | Gen dev | *   | na  |
+| [[https://github.com/aliso/vvv-site-wizard][VVV-site-wizard]] |   373 |    5 |   0 |   70 |   2 | Cfg VVV | -   | na  |
+| [[https://github.com/aubreypwd/wordpress-themereview-vvv][vvv-reviewer]]    |    69 |    3 |   4 |   23 |   2 | Rvw     | -   | na  |
+| [[https://github.com/jalefkowit/vagrant-ansible-wordpress][VAW]]             |    78 |    2 |   0 |   31 |   1 | Gen dev | -   | na  |
+| [[https://github.com/audionerd/wordpress-machine][WP Machine]]      |    14 |    1 |   0 |   17 |   1 | LAMP    | -   | na  |
+| [[https://github.com/jnettome/wordpress_kickstart][wpkickstart]]     |    32 |    9 |   0 |   44 |   1 | DigOcn  | -   | na  |
+
+=VVV= seems to be the best place to start.
