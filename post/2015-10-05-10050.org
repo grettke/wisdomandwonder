@@ -1,0 +1,23 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10050
+#+DATE: [2015-10-05 Mon 20:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Link
+#+TAGS: Health
+#+TITLE: Too Much Sugar Inhibits Cognitive Function
+
+Via [[http://jcb.sagepub.com/content/early/2015/09/15/0271678X15606719.full.pdf][this study]]:
+
+#+BEGIN_QUOTE
+MetS as a result of fructose consumption exacerbates the deleterious effects of
+TBI on cognitive function. We propose a framework for a potential model in which
+fructose and TBI affect systems related to cell energy metabolism, which
+converge on intracellular pathways that regulate brain plasticity and cognitive
+function (Figure 7). Our results show the harmful impact of metabolic disease on
+the outcome of TBI with regards to mitochondrial biogenesis, synaptic
+plasticity, and cognitive function. These data suggest that fructose consumption
+reduces neural resilience and may predispose the brain toward cognitive
+dysfunction and lifelong susceptibility to neurological disorders.
+#+END_QUOTE
+
+When will this be on the 5, 6, 11, 12, 4, 5, 10 o'clock news shows?!
