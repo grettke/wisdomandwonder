@@ -4,7 +4,7 @@
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Link
 #+TAGS: Health
-#+TITLE: Too Much Sugar Inhibits Cognitive Function
+#+TITLE: Too Much Sugar Inhibits Cognitive Repair & Function
 
 Via [[http://jcb.sagepub.com/content/early/2015/09/15/0271678X15606719.full.pdf][this study]]:
 
