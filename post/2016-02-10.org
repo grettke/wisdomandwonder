@@ -1,3 +1,5 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10068
 #+DATE: [2016-02-10 Wed 18:27]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
@@ -10,7 +12,7 @@ collapse all of them.
 
 My original solution was to avoid collapsing them with =#+STARTUP: showeverything=.
 Major problem with that approach is that you still can't use collapsing because
-if you do, Emacs is because again unusable.
+if you do, Emacs is again unusable.
 
 Months ago I switched to [[https://elpa.gnu.org/packages/nlinum.html][nlinum]] and now there are no more performance issues,
 even on the [[https://raw.githubusercontent.com/grettke/help/master/help.org][largest file]] that I work on.
