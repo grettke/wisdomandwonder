@@ -1,0 +1,10 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10071
+#+DATE: [2016-02-16 Tue 11:36]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide, Lisp, Programming Language, elisp, org-mode, Philosophy
+#+DESCRIPTION:
+#+TITLE: Only Do What Computers Cannot
+
+*Only Do What Computers Cannot*
