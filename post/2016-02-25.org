@@ -1,0 +1,10 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10080
+#+DATE: [2016-02-25 Thu 19:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article,
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+DESCRIPTION:
+#+TITLE: Org-Mode 8.3.4 Is Out
+
+Org-Mode 8.3.4, a bugfix release, is out.
