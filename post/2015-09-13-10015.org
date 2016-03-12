@@ -3,7 +3,7 @@
 #+DATE: [2015-09-13 Sun 19:44]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Link
-#+TAGS: Gitre, Version Control
+#+TAGS: Git, Version Control
 #+TITLE: Undoing the Last Commit in Git that Wasn't Pushed
 
 [[http://stackoverflow.com/questions/927358/how-do-you-undo-the-last-commit][Via:]]
