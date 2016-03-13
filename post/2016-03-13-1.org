@@ -1,0 +1,13 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10116
+#+DATE: [2016-03-13 Sun 17:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Link
+#+TAGS: Blogging, Utility, Web, WordPress
+#+DESCRIPTION:
+#+TITLE: Easily Move Comments to Another Post in WordPress
+
+Sometimes you accidentally double-post the same article. It looks like an easy
+fix until you notice that people have commented on both articles! It turns out
+that the solution is pretty easy if you are comfortable with SQL. [[http://www.g-loaded.eu/2007/11/06/move-comments-to-another-post-in-wordpress/][This post]] is
+a work of art concisely explaining what to do and making it simple.
