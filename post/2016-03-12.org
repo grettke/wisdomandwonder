@@ -1,0 +1,12 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10110
+#+DATE: [2016-03-12 Sat 20:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Artificial Intelligence, Philosophy
+#+DESCRIPTION:
+#+TITLE: Artificial Intelligence Answers Artificial Questions
+
+Artificial intelligence answers artificial questions.
+
+That observation says nothing about the value of them, or their answers.
