@@ -1,0 +1,12 @@
+#+DATE: [2016-03-13 Sun 12:21]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Blogging, Utility, Web, WordPress
+#+DESCRIPTION:
+#+TITLE: Easily and Automatically Post to LinkedIn
+
+[[https://wordpress.org/plugins/social-media-auto-publish/][Social Media Auto Publish]] lets you easily and automatically post to LinkedIn
+from WordPress.
+
+The setup is effortless once you work around the disparity between the setup
+documentation and the current LinkedIn user interface.
