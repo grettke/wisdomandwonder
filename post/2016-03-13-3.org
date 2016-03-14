@@ -1,0 +1,20 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10121
+#+DATE: [2016-03-13 Sun 20:45]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Link
+#+TITLE: You Will Love Woodsongs Old-Time Radio Hour
+
+You will love [[http://www.woodsongs.com/][WOODSONGS OLD-TIME RADIO HOUR]] (sic)
+
+#+BEGIN_QUOTE
+was created, is produced, and hosted by
+folksinger Michael Johnathon. The WoodSongs Old-Time Radio Hour is an all
+volunteer run, Non Profit Organization, and is a worldwide multimedia
+celebration of grassroots music filmed in front of a live audience. WoodSongs is
+not a concert, but a one-hour musical conversation focusing on the artists and
+their music.
+#+END_QUOTE
+
+It will remind you that we all want to express something creative, and sometimes
+it is with music.
