@@ -1,0 +1,25 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10129
+#+DATE: [2016-04-06 Wed 15:11]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Ëmäcs and the Heavy Metal Umlaut
+
+[[http://irreal.org/blog/?p=4945][Jon's article]] reveals the Möglichkeiten for inputting umlauts in Emacs. Maybe
+you've been avoiding some words because they are difficult to input. In
+particular, maybe you've been avoiding using the [[https://en.wikipedia.org/wiki/Metal_umlaut][Metal umlaut]].
+
+For example:
+
+- Motörhead (RIP Lemmy)
+- Mötley Crüe
+- Queensrÿche (Version 1)
+- Blue Öyster Cult
+
+It seems perfectly natural to apply to Emacs, christening it:
+
+*Ëmäcs*
+
+Give it some time to grow on you, because Magnar Sveen /has already established/
+that [[http://emacsrocks.com/][Ëmäcs Rocks]]!
