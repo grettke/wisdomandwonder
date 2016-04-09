@@ -1,0 +1,73 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10131
+#+DATE: [2016-04-09 Sat 04:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Ortho-Linear Emacs and VI Keyboard Design 8
+
+For creating key-binding name-spaces (key-spaces), modifier keys, key-chords (single and
+dual key) and Hydras each have unique strengths. For my use case, I wanted a
+bigger modifier key-space so I started there with Super.
+
+Although Super is supposed to be reserved non-native packages, it is already
+getting scarfed up because the native key-spaces are painfully overcrowded. To
+top it off, when you run Emacs on Windows, Windows intercepts a bunch of
+key-presses for itself and never sends them to Emacs. Yea you can disable
+some, but not all and it is irritating. For my configuration, this is a
+showstopper issue and all of workaround are too painful. I enjoy using
+modifier keys, so I turned to Hyper.
+
+#+HTML: <!--more-->
+
+Initially I thought it would be simple as buying a keyboard with ~Hyper~ on it.
+*Wrong*. *Wrong*. Compared to the painful workarounds out there to reproduce Hyper
+on a keyboard without it, building a keyboard with Hyper on it seemed like
+walk in the park in comparison. Although I've battled the urge to design and
+assemble a keyboard for years because I know that someone else has done it
+better, this weekend I finally broke-down and indulged myself with some mock-ups.
+
+They key top legend is busy if not simple and its laid out like this
+
+- Left Side
+  - Top: Press the key with =Shift=
+  - Bottom: Press the key without any modifier
+- Right Size
+  - Top: Press the key with =Fn= and =Shift=
+  - Bottom: Press the key with =Fn=
+
+This 8th mock-up feels perfectly suited /for me/.
+
+[[./image/keyboard-layout-8.png]]
+
+The thing that I like about is that:
+- It has a familiar QWERTY layout
+- Now typewriter slowdown junk
+- Power keys are all operated with the power fingers
+- Mostly symmetrical
+- Shift and Function handle everything that I want
+- Greek alphabet in order, so simple
+- No need to program and reprogram, super simple
+- Key-chord has taught me the power of the power-finger two-button press, so
+  Function and Option do fine as single keys, combining with nearby keys for
+  common actions
+- No finger-killing put every modifier key in one row
+- It is an ANSI 104 without: ScrollLock, BreakPause and duplicate keys
+- For my VI friends, Escape is an easy-to-reach two-finger press using Fn
+- Someone has surely laid it out this way already, so I can buy it from them
+
+If you want to see this is in the editor, paste it into the awesome
+[[http://www.keyboard-layout-editor.com/][keyboard layout editor]].
+
+#+BEGIN_EXAMPLE
+[{x:2.5},"!\n1\nF11\nF1","@\n2\nF12\nF2","#\n3\nF13\nF03","$\n4\nF14\nF04","%\n5\nF15\nF05",{x:0.25,w:2},"Caps Lock\nTab\n\nEsc",{x:0.25},"^\n6\nF16\nF06","&\n7\nF17\nF07","*\n8\nF18\nF08","(\n9\nF19\nF09",")\n0\nF20\nF10"],
+[{x:2.5},"Q\nq\n&Alpha;\n&alpha;","W\nw\n&Beta;\n&beta;","E\ne\n&Gamma;\n&gamma;","R\nr\n&Delta;\n&delta;","T\nt\n&Epsilon;\n&epsilon;",{x:0.25,a:7},"⌘","&#8997",{x:0.25,a:4},"Y\ny\n&Zeta;\n&zeta;","U\nu\n&Eta;\n&eta;","I\ni\n&Theta;\n&theta;","O\no\n&Iota;\n&iota;","P\np\n&Kappa;\n&kappa;"],
+[{x:2.5},"A\na\n&Lambda;\n&lambda;","S\ns\n&Mu;\n&mu;","D\nd\n&Nu;\n&nu;","F\nf\n&Xi;\n&xi;","G\nv\n&Omicron;\n&omicron;",{x:0.25,a:7},"Fn",{a:4},"BkSp\nDel",{x:0.25},"H\nh\n&Pi;\n&pi;","J\nj\n&Rho;\n&rho;","K\nk\n&Sigma;\n&sigma;","L\nl\n&Tau;\n&tau;",":\n;\n&Upsilon;\n&upsilon;"],
+[{x:2.5},"Z\nz\n&Phi;\n&phi;","X\nx\n&Chi;\n&chi;","C\nc\n&Psi;\n&psi;","V\nv\n&Omega;\n&omega;","B\nb",{x:0.25,a:7,w:2},"Shift",{x:0.25,a:4},"N\nn","M\nm","<\n,\n{\n[",">\n.\n}\n]","?\n/\n|\n\\"],
+[{y:0.25,x:2.5},"~\n`","PgUp\n↑","PrSc\nIns",{a:7},"Meta","Control",{x:0.25,w:2},"Space",{x:0.25},"Control","Meta",{a:4},"_\n-","PgUp\n↑","+\n="],
+[{x:2.5},"Home\n←","PgDn\n↓","End\n→",{a:7},"Hyper","Super",{x:0.25,w:2},"Enter",{x:0.25},"Super","Hyper",{a:4},"Home\n←","PgDn\n↓","End\n→"]
+#+END_EXAMPLE
+
+This didn't take too much time, but I probably spent a little too long on it :).
+
+# ./image/keyboard-layout-8.png https://www.wisdomandwonder.com/wp-content/uploads/2016/04/keyboard-layout-8.png
