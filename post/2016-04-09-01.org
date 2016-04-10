@@ -42,7 +42,7 @@ This 8th mock-up feels perfectly suited /for me/.
 
 The thing that I like about is that:
 - It has a familiar QWERTY layout
-- Now typewriter slowdown junk
+- No typewriter slowdown junk
 - Power keys are all operated with the power fingers
 - Mostly symmetrical
 - Shift and Function handle everything that I want
