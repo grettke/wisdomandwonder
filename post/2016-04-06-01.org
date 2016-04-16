@@ -23,3 +23,8 @@ It seems perfectly natural to apply to Emacs, christening it:
 
 Give it some time to grow on you, because Magnar Sveen /has already established/
 that [[http://emacsrocks.com/][Ëmäcs Rocks]]!
+
+*Addendum: <2016-04-16 Sat>*
+
+Re-published because I broke my RSS feed syndicated for Planet Emacsen and
+@hober fixed it. Thank you @hober.
