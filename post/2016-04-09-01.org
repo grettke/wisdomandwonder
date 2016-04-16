@@ -3,7 +3,7 @@
 #+DATE: [2016-04-09 Sat 04:20]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
-#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode, Keyboard, MechanicalKeyboard
 #+TITLE: Ortho-Linear Emacs and VI Keyboard Design 8
 
 For creating key-binding name-spaces (key-spaces), modifier keys, key-chords (single and
