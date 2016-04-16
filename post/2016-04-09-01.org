@@ -70,4 +70,9 @@ If you want to see this is in the editor, paste it into the awesome
 
 This didn't take too much time, but I probably spent a little too long on it :).
 
+*Addendum: <2016-04-16 Sat>*
+
+Re-published because I broke my RSS feed syndicated for Planet Emacsen and
+@hober fixed it. Thank you @hober.
+
 # ./image/keyboard-layout-8.png https://www.wisdomandwonder.com/wp-content/uploads/2016/04/keyboard-layout-8.png
