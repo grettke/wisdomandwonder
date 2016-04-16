@@ -1,0 +1,11 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10134
+#+DATE: [2016-04-16 Sat 18:28]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article, Link
+#+TAGS: Emacs, Keyboard, MechanicalKeyboard
+#+TITLE: Keyboard Community Sites
+
+- [[https://www.reddit.com/r/MechanicalKeyboards/][r/MechanicalKeyboards]]
+- [[https://geekhack.org/][geekhack]]
+- [[https://deskthority.net/][DESKTHORITY]]
