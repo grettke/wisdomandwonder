@@ -1,6 +1,7 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10144
 #+DATE: [2016-04-17 Sun 14:33]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Article, Link
 #+CATEGORY: Article
 #+TAGS: Emacs, Keyboard, MechanicalKeyboard
 #+TITLE: Emacs Keyboard Design Strategy
@@ -65,7 +66,20 @@ manageable that may result in an actual keyboard within the next year.
 - Switches
   - Cherry MX and Alps look great for quiet, and tactile loud
 - Caps
-  -
+  - Sculpted
+  - Ridges for home
+  - See light through them at night
+- Emacs pinky
+  - Not sure science backs it up; but my hands back it up
+  - Maximize use of thumb/index/middle fingers
+- Biomechanical studies
+  - Things like ulnar rotation
+  - I will ignore
+- Firmware
+  - No I don't want to use ArmPit Scheme
+  - No I don't want to use MicroPhython
+  - Yes I want to use an existing, stable, powerful option like ErgoDox uses
+    [[https://github.com/benblazak/ergodox-firmware][this]] and that looks powerful, supported, and open.
 
 * Step 02: Define Some Simple Measure of Success
 
@@ -75,6 +89,11 @@ manageable that may result in an actual keyboard within the next year.
   - Me: gift
   - My family: gift
   - My friends: gift
+    - Want to be able to hand it to people and have them use it on their
+      computer
+      - Without special software
+      - With USB
+      - With legends and indicator so it is clear what is happening
   - Other Emacs users
   - Other LaTeX users
   - Other programmers: Lisp, APL
@@ -91,7 +110,11 @@ manageable that may result in an actual keyboard within the next year.
     the different keyboards I've used. The Dell ISO and the MacBook Pro are
     the best. No matter what I try, I can't make them he same, and I can't
     move around the keys.
+  - Modifiers are great for helping my friends and family do stuff without
+    switching to different layers. That is the obstacle, modifiers are
+    complicated enough anyway.
   - The Planck would be perfect if it were 8 columns by 16 rows!
+    - Can make it do what I want, use layers or not
 
 * Step 03: Keyboard Modeling
 
@@ -115,9 +138,13 @@ manageable that may result in an actual keyboard within the next year.
 
 * Conclusion
 
-For now I'll test out my ideas and document the why's and the results. Can't wait.
+For now I'll test out my ideas and document the why's and the results. Can't
+wait.
+
+The grid-layout is perfect for what I want; just bigger.
 
 #  Localwords:  Mechanicalkeyboard Kinesis Maltron WASD Colemak ErgoDox APL
 
-#  LocalWords:  MacBook
+#  LocalWords:  MacBook EZ MBP MX pinky Biomechanical XKE cious ArmPit
 
+#  LocalWords:  reprogrammable MicroPhython
