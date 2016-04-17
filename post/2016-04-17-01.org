@@ -1,0 +1,77 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10142
+#+DATE: [2016-04-17 Sun 14:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Keyboard, MechanicalKeyboard
+#+TITLE: Emacs Keyboard Design 13
+
+More observations follow.
+
+#+HTML: <!--more-->
+
+- VI keyboard is redundant if you prioritize Escape placement
+- Ortho-linear?
+  - How about grid?
+- The mouse keys are toys, don't need them
+- Volume control is a toy, the OS can do it
+  - Helps make it work well cross-platform, too
+- I need to color the keys by my classification of how I see them or how
+  Emacs sees them
+  - EMACS MODIFIERS
+    - Ctrl
+    - Including Escape?
+    - Emacs can use OS modifiers, that is user's call
+    - Include every permutation?
+  - OS MODIFIERS
+    - Ctrol
+    - Alt
+    - Gui
+    - Include every permutation?
+    - Symbol 2 and Symbol 3
+      - Use the character in the 2nd or 3rd column of the cap
+      - Shift can modify it
+      - Allows APL keyboard or more
+    - Function
+      - Laptops have them
+      - Let arrow keys be page up for example
+      - How is this different than Symbol2 and Symbol2???
+    - Meh
+      - Seems like a good thing for generic programs
+        - Required with More f keys?
+          - Yea definitely, still useful for every OS
+  - SYMBOLS
+    - Latin
+    - Greek
+    - Unicode
+    - F keys
+  - COMPUTER
+    - Print screen
+    - Do I need scroll lock?
+    - Do I need pause/break?
+  - DESTRUCTORS
+    - Backspace and delete
+    - Insert
+  - Movement
+    - Arrow keys move cursor in buffer
+    - Return and space insert symbols, but they are more about movement than
+      the character, kind of
+- Bigger than 8x16?
+  - Nice to use more
+  - Don't want to clash with other vendor offerings
+    - Scope helps define priorities; without it include all of Unicode
+- Include Greek and APL?
+  - Personal preference
+  - Intriguing
+  - Can re-image firmware anyway, so it's a question of keycaps and firmware,
+    not the keyboard itself
+- Labels keys with names instead of actual signal
+- Make fonts symbols take up space of entire cap
+- Keyboards
+  - Insert symbols into buffer
+  - Modify the buffer
+  - Move point to different locations in the buffer
+  - Tell the OS things
+  - Change buffer modification mode
+  - Is it true that everything keyboards do is to provide characters that
+    might be modified?
