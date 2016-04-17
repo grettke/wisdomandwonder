@@ -37,4 +37,33 @@ manageable that may result in an actual keyboard within the next year.
     - Then be sure you've studied everything available
     - Move on to the next heading
 
-#  LocalWords:  MechanicalKeyboard Kinesis Maltron WASD Colemak ErgoDox
+* Step 02: Share your feelings
+
+- How will you know when you've successfully designed your perfect keyboard?
+  - When I've defined my measure for success and reached it
+- Who is your audience?
+  - Me
+  - My family
+  - My friends
+  - Other Emacs users
+  - Other LaTeX users
+  - Other programmers: Lisp, APL
+- What programs will you use it with?
+  - Everything typical of the OS
+  - Emacs so provide all meta keys
+- What operating systems will you use it on?
+  - OS X
+  - Windows
+  - Linux
+- Have you tried and failed every possible way and are convinced that you need
+  a custom keyboard?
+  - I've spent hundreds of hours over the years tweaking my configuration for
+    the different keyboards I've used. The Dell ISO and the MacBook Pro are
+    the best. No matter what I try, I can't make them he same, and I can't
+    move around the keys.
+
+* Step 03
+
+#  LocalWords:  MechanicalKeyboard Kinesis Maltron WASD Colemak ErgoDox APL
+
+#  LocalWords:  MacBook
