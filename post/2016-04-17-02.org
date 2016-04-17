@@ -37,7 +37,7 @@ manageable that may result in an actual keyboard within the next year.
     - Then be sure you've studied everything available
     - Move on to the next heading
 
-* Step 02: Share your feelings
+* Step 02: Define Some Simple Measure of Success
 
 - How will you know when you've successfully designed your perfect keyboard?
   - When I've defined my measure for success and reached it
