@@ -21,11 +21,20 @@ manageable that may result in an actual keyboard within the next year.
     - You can use them faster than creating it up yourself
 - Do you need a new keyboard?
   - If yes: There are already excellent keyboard manufacturers
-    - To name a *few*: [[https://www.kinesis-ergo.com/][Kinesis]], [[http://www.maltron.com/][Maltron]], [[https://elitekeyboards.com/products.php?sub=pfu_keyboards,hhkbpro2&pid=pdkb400b][Happy Hacking]], [[https://www.microsoft.com/accessories/en-us/keyboards][Microsoft]], [[http://www.wasdkeyboards.com/][WASD]], [[http://cherryamericas.com/product-category/desktop/][Cherry]]
+    - To name a *few*: [[https://www.kinesis-ergo.com/][Kinesis]], [[http://www.maltron.com/][Maltron]], [[https://elitekeyboards.com/products.php?sub=pfu_keyboards,hhkbpro2&pid=pdkb400b][Happy Hacking]], [[https://www.microsoft.com/accessories/en-us/keyboards][Microsoft]], [[http://www.wasdkeyboards.com/][WASD]], [[http://cherryamericas.com/product-category/desktop/][Cherry]],
+      [[https://www.indiegogo.com/projects/ergodox-ez-an-incredible-mechanical-keyboard#/][ErgoDox]], [[https://www.massdrop.com/buy/planck-mechanical-keyboard][Planck]]
     - You can buy one faster then making one yourself
 - Do you need a new key layout?
   - If yes: There are already excellent key layouts
     - To name [[https://en.wikipedia.org/wiki/Keyboard_layout/chart][a few]]: Dvorak, Colemak, Workman
     - You can use one faster than making a new one yourself
+- If you answered no to any of these questions
+  - Go back and read all literature and research everything out there
+    additionally everything also not in the list
+- If after reading everything, familiarizing yourself with all offerings,
+  thought through the entirety of everything
+  - You still want to design your own keyboard
+    - Then be sure you've studied everything available
+    - Move on to the next heading
 
-#  LocalWords:  MechanicalKeyboard Kinesis Maltron WASD Colemak
+#  LocalWords:  MechanicalKeyboard Kinesis Maltron WASD Colemak ErgoDox
