@@ -22,6 +22,7 @@ I wanted the following:
   - Want it wide enough to serve as a split-keyboard, without splitting
 - ($) is available for purchase in USD
 - Re(P)ly: Sales/company replies to emails
+  - Don't make it a challenge just to buy it
 - (R)eprogrammable
   - Conveniently
 - (C)ross Platform
