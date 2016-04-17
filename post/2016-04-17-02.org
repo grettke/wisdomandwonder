@@ -28,14 +28,44 @@ manageable that may result in an actual keyboard within the next year.
   - If yes: There are already excellent key layouts
     - To name [[https://en.wikipedia.org/wiki/Keyboard_layout/chart][a few]]: Dvorak, Colemak, Workman
     - You can use one faster than making a new one yourself
+- Do you need firmware?
+  - If yes: [[https://ergodox-ez.com/][ErgoDox-EZ]] and its progeny are probably fine
 - If you answered no to any of these questions
   - Go back and read all literature and research everything out there
     additionally everything also not in the list
+  - You will use later
+  - Take good notes because you will discover what you value
+    - My findings are in a sub-heading
 - If after reading everything, familiarizing yourself with all offerings,
   thought through the entirety of everything
   - You still want to design your own keyboard
     - Then be sure you've studied everything available
     - Move on to the next heading
+
+** Things that I Learned that I Value
+
+- QWERTY Layout
+  - Fast
+  - Already know it
+  - Won't scare the heck out of anybody I pass the keyboard
+  - Don't care of it slows me down, it is fast enough
+- Custom letter layout
+  - Fascinating topic
+  - Fun statistical analysis
+  - Only works for one person, I want it for my friends and family
+  - So no
+- Flat rectangle
+  - Split keyboards are nice
+  - I guess they cost more, so less friends can easily have them
+  - I don't need one
+  - So no split keyboard
+- Led
+  - I love them on the MBP
+  - So if I can have them, great
+- Switches
+  - Cherry MX and Alps look great for quiet, and tactile loud
+- Caps
+  -
 
 * Step 02: Define Some Simple Measure of Success
 
@@ -61,6 +91,7 @@ manageable that may result in an actual keyboard within the next year.
     the different keyboards I've used. The Dell ISO and the MacBook Pro are
     the best. No matter what I try, I can't make them he same, and I can't
     move around the keys.
+  - The Planck would be perfect if it were 8 columns by 16 rows!
 
 * Step 03: Keyboard Modeling
 
@@ -86,7 +117,7 @@ manageable that may result in an actual keyboard within the next year.
 
 For now I'll test out my ideas and document the why's and the results. Can't wait.
 
-#  LocalWords:  MechanicalKeyboard Kinesis Maltron WASD Colemak ErgoDox APL
+#  Localwords:  Mechanicalkeyboard Kinesis Maltron WASD Colemak ErgoDox APL
 
 #  LocalWords:  MacBook
 
