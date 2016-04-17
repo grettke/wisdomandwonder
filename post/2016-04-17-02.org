@@ -1,0 +1,31 @@
+#+DATE: [2016-04-17 Sun 14:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article, Link
+#+CATEGORY: Article
+#+TAGS: Emacs, Keyboard, MechanicalKeyboard
+#+TITLE: Emacs Keyboard Design Strategy
+
+Keyboard design is a delicate balance between the subtlety of poetry and the
+simplicity of a sledgehammer.
+
+Here is how I scoped down millions of permutations into something more
+manageable that may result in an actual keyboard within the next year.
+
+#+HTML: <!--more-->
+
+* Step 01: Don't, or, Talk yourself out of designing a keyboard *now*
+
+- You already know how to use a keyboard?
+  - If yes: There are already excellent keyboards and layouts ready for you
+    to use
+    - You can use them faster than creating it up yourself
+- Do you need a new keyboard?
+  - If yes: There are already excellent keyboard manufacturers
+    - To name a *few*:  [[https://www.kinesis-ergo.com/][Kinesis]], [[http://www.maltron.com/][Maltron]], [[https://elitekeyboards.com/products.php?sub=pfu_keyboards,hhkbpro2&pid=pdkb400b][Happy Hacking]], [[https://www.microsoft.com/accessories/en-us/keyboards][Microsoft]], [[http://www.wasdkeyboards.com/][WASD]], [[http://cherryamericas.com/product-category/desktop/][Cherry]]
+    - You can buy one faster then making one yourself
+- Do you need a new key layout?
+  - If yes: There are already excellent key layouts
+    - To name [[https://en.wikipedia.org/wiki/Keyboard_layout/chart][a few]]: Dvorak, Colemak, Workman
+    - You can use one faster than making a new one yourself
+
+#  LocalWords:  MechanicalKeyboard Kinesis Maltron WASD Colemak
