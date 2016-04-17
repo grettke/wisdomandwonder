@@ -1,0 +1,36 @@
+#+DATE: [2016-04-16 Sat 20:36]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article, Link
+#+CATEGORY: Article
+#+TAGS: Emacs, Keyboard, MechanicalKeyboard
+#+TITLE: Prototype Your Keyboard Layout First
+
+[[http://olkb.com/planck/][Ortho-Linear]] [[http://xahlee.info/kbd/humble_hacker_keyboards.html][keyboards]] are great. Before laying down the cash it would be nice
+to see how it feels. [[https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard][All of the]] [[http://colemak.com/][different]] [[http://www.workmanlayout.com/blog/][layouts]] look interesting too. It
+would be nice to easily try them out with a new layer or something. It seems
+like there might be a nice option.
+
+#+HTML: <!--more-->
+
+The easiest way to try it out might be using a reprogrammable grid keyboard.
+I wanted the following:
+
+- (Model): And URL
+- (R&C) Lots of rows and columns
+  - Love single keypress to do things
+  - Want it wide enough to serve as a split-keyboard, without splitting
+- ($) is available for purchase in USD
+- Re(P)ly: Sales/company replies to emails
+- (R)eprogrammable
+  - Conveniently
+- (C)ross Platform
+  - Works on OS X and Windows
+- (K)eycaps and switches are likable
+- (Note): Anything
+
+I found:
+
+| Model          |  R&C | $ | P | R | C | K         | Note                   |
+|----------------+------+---+---+---+---+-----------+------------------------|
+| [[http://www.tipro.net/ecatalogue/128-programmable-keys/][TIPRO FREE-128]] | 8x16 | ? | F | T | T | Cherry MX | Mostly PS2. Mostly UK. |
+|                |      |   |   |   |   |           |                        |
