@@ -26,7 +26,7 @@ More observations follow.
     - Emacs can use OS modifiers, that is user's call
     - Include every permutation?
   - OS MODIFIERS
-    - Ctrol
+    - Ctrl
     - Alt
     - Gui
     - Include every permutation?
