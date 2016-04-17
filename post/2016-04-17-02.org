@@ -42,9 +42,9 @@ manageable that may result in an actual keyboard within the next year.
 - How will you know when you've successfully designed your perfect keyboard?
   - When I've defined my measure for success and reached it
 - Who is your audience?
-  - Me
-  - My family
-  - My friends
+  - Me: gift
+  - My family: gift
+  - My friends: gift
   - Other Emacs users
   - Other LaTeX users
   - Other programmers: Lisp, APL
@@ -72,6 +72,21 @@ manageable that may result in an actual keyboard within the next year.
 - This keyboard gives you a place to make the mistakes instead of wasting your
   precious time and money during your own personal learning process
 
+* Step 04: Implementation
+
+- Two possible paths
+  - Pre-package the keyboard
+    - Non programmable
+    - Certified
+    - Available for purchase on Amazon
+  - Do it yourself
+    - Same as a Planck, but bigger, talk to Planck
+
+* Conclusion
+
+For now I'll test out my ideas and document the why's and the results. Can't wait.
+
 #  LocalWords:  MechanicalKeyboard Kinesis Maltron WASD Colemak ErgoDox APL
 
 #  LocalWords:  MacBook
+
