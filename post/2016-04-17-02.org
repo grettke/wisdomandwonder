@@ -72,9 +72,12 @@ manageable that may result in an actual keyboard within the next year.
 - Emacs pinky
   - Not sure science backs it up; but my hands back it up
   - Maximize use of thumb/index/middle fingers
-- Biomechanical studies
+- Biomechanical studies / ergonomic keyboard
   - Things like ulnar rotation
   - I will ignore
+  - There are real studies
+  - I'm not doing one
+  - I'm just using a grid
 - Firmware
   - No I don't want to use ArmPit Scheme
   - No I don't want to use MicroPhython
