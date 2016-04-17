@@ -50,6 +50,10 @@ manageable that may result in an actual keyboard within the next year.
   - Already know it
   - Won't scare the heck out of anybody I pass the keyboard
   - Don't care of it slows me down, it is fast enough
+- Grid layout
+  - When is the last time you used a staggered keypad on your cellphone or
+    smartphone because it didn't want you typing too quickly?
+  - Yup this one bugs me. Grid layout, no stagger.
 - Custom letter layout
   - Fascinating topic
   - Fun statistical analysis
