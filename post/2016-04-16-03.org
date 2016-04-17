@@ -1,0 +1,13 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10140
+#+DATE: [2016-04-16 Sat 20:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Keyboard, MechanicalKeyboard
+#+TITLE: clojure.core/typing - Matt Adereth
+
+- [[https://www.youtube.com/watch?v=uk3A41U0iO4&feature=youtu.be][Nice presentation]] on one hacker's obsession/pursuit
+- Making keyboards with Clojure sounds fun!
+- Reveals the obsession+expressivity of utilizing a keyboard as a craftsman
+- Any machine that required text input resulted in someone designing a keyboard
+- Other observations will go in scoping notes
