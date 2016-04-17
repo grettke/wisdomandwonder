@@ -1,0 +1,19 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10139
+#+DATE: [2016-04-16 Sat 19:25]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article, Link
+#+CATEGORY: Article
+#+TAGS: Emacs, Keyboard, MechanicalKeyboard
+#+TITLE: matias tactilepro4
+
+Delightful things about [[http://matias.ca/tactilepro4/][the matias tactilepro4]]
+
+- Alps switches
+- Mac modifier key caps
+- Mac Fn: screen brightness, volume, and apparently more
+- Caps have option and shift-option keys listed
+- Laser etched caps
+- Sculpted caps
+- USB hub
+- No ghosting
