@@ -62,7 +62,15 @@ manageable that may result in an actual keyboard within the next year.
     the best. No matter what I try, I can't make them he same, and I can't
     move around the keys.
 
-* Step 03
+* Step 03: Keyboard Modeling
+
+- If you can't get what you want out of the keyboards above then you want
+  something unique and uncommon. That is fine, I do to. For me the easiest way
+  is to buy a large matrix reprogrammable keyboard.
+- I chose the [[https://www.wisdomandwonder.com/article/10141/prototype-your-keyboard-layout-first-x-keys-xke-128][XKE-128]].
+- Model, develop, prototype, revise, retry, restart
+- This keyboard gives you a place to make the mistakes instead of wasting your
+  precious time and money during your own personal learning process
 
 #  LocalWords:  MechanicalKeyboard Kinesis Maltron WASD Colemak ErgoDox APL
 
