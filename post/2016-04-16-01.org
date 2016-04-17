@@ -95,4 +95,4 @@ No record. Whatever I learned I put in my other notes.
 
 # ./image/keyboard-layout-3.png https://www.wisdomandwonder.com/wp-content/uploads/2016/04/keyboard-layout-3.png
 # ./image/keyboard-layout-4.png https://www.wisdomandwonder.com/wp-content/uploads/2016/04/keyboard-layout-4.png
-# ./image/keyboard-layout-7.png https://www.wisdomandwonder.com/wp-content/uploads/2016/04/keyboard-layout-7.png
+
