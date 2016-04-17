@@ -160,16 +160,21 @@ P.I. Engineering seems to rock by every asessment I made.
 Elisp let's you fail fast and find what is right. It should be the same with
 designing keyboard layouts.
 
-The XKE-128
+The XKE-128:
+
 - Is inexpensive
-  - $500USD versus crating the PCB and case and firmware yourself
-$500USD seems cheaper and faster then building a new 8x16 keyboard from
-scratch. For prototyping it would be great
+  - $500USD versus creating the PCB and case and firmware yourself
+  - $500USD seems cheaper and faster then building a new 8x16 keyboard from
+scratch
+  - For prototyping it would be great
 - Is flexible
-  - 8x16 gives you penty of wiggle room
+  - 8x16 gives you plenty of wiggle room
+  - Lets you make a virtually split keyboard
 - Is supportable
   - Great team
   - Great timing
 - Is cross-platform
   - Hardware support if you want it
   - OS level if you want more
+- Is production ready
+  - If the keyboard takes off, they can make one /for real/
