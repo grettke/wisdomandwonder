@@ -10,6 +10,8 @@ More observations follow.
 
 #+HTML: <!--more-->
 
+[[./image/keyboard-layout-13.png]]
+
 - VI keyboard is redundant if you prioritize Escape placement
 - Ortho-linear?
   - How about grid?
