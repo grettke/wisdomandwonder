@@ -32,7 +32,9 @@ I wanted the following:
 
 I found:
 
-| Model          |  R&C | $ | P | R | C | K         | Note                   |
-|----------------+------+---+---+---+---+-----------+------------------------|
-| [[http://www.tipro.net/ecatalogue/128-programmable-keys/][TIPRO FREE-128]] | 8x16 | ? | F | T | T | Cherry MX | Mostly PS2. Mostly UK. |
-|                |      |   |   |   |   |           |                        |
+| Model                  |  R&C | $   | P | R | C | K         | Note                                                     |
+|------------------------+------+-----+---+---+---+-----------+----------------------------------------------------------|
+| [[http://www.tipro.net/ecatalogue/128-programmable-keys/][TIPRO FREE-128]]         | 8x16 | ?   | F | T | T | Cherry MX | Mostly PS2. Mostly UK.                                   |
+| [[http://www.access-is.com/custom-keyboard-base-layout.php][ACCESS-IS AKC128]]       | 8x16 | 235 | F | T | T | Cherry MX | Cfg prog painful.                                        |
+| [[http://www.amazon.co.uk/Expertkeys-EK-128-programmable-keypad-keyboard/dp/B00JLJ872E/ref=cm_cr_arp_d_product_top?ie=UTF8][Expertkeys EK-128]]      | 8x16 | NA  |   |   |   |           | No USA sales.                                            |
+| [[http://cherryamericas.com/product/spos-rows-columns-keyboard/][Cherry G86-63400EUADAA]] | 8x16 | 110 | T | T | T | F         | Great support. Rubber dome. *Can't* use Cherry MX keycaps. |
