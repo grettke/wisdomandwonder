@@ -13,7 +13,7 @@ manageable that may result in an actual keyboard within the next year.
 
 #+HTML: <!--more-->
 
-* Step 01: Don't, or, Talk yourself out of designing a keyboard *now*
+* Step 01: Talk Yourself out of Doing It
 
 - You already know how to use a keyboard?
   - If yes: There are already excellent keyboards and layouts ready for you
