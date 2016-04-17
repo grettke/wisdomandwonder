@@ -8,9 +8,9 @@
 
 More observations follow.
 
-#+HTML: <!--more-->
-
 [[./image/keyboard-layout-13.png]]
+
+#+HTML: <!--more-->
 
 - VI keyboard is redundant if you prioritize Escape placement
 - Ortho-linear?
@@ -77,3 +77,5 @@ More observations follow.
   - Change buffer modification mode
   - Is it true that everything keyboards do is to provide characters that
     might be modified?
+
+# ./image/keyboard-layout-13.png https://www.wisdomandwonder.com/wp-content/uploads/2016/04/keyboard-layout-13.png
