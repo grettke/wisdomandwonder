@@ -4,8 +4,97 @@
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
 #+TAGS: Emacs, Keyboard, MechanicalKeyboard
-#+TITLE: Keyboard Community Sites
+#+TITLE: Ortho-Linear Emacs and VI Keyboard Designs 1-7
 
-- [[https://www.reddit.com/r/MechanicalKeyboards/][r/MechanicalKeyboards]]
-- [[https://geekhack.org/][geekhack]]
-- [[https://deskthority.net/][DESKTHORITY]]
+[[http://www.keyboard-layout-editor.com/][Keyboard Layout Editor]] is powerful. It lets you easily explore layouts. As you
+type on them in your mind's eye, you really "try out" the keyboad. Just put
+your hands on your current keyboard and do your best. At every try you learn
+something new about what you want. It is like programming with Elisp!
+
+The following are my first 7 revisions of my experimental keyboard layout.
+
+#+HTML: <!--more-->
+
+* 1-2
+
+No record. Whatever I learned I put in my other notes.
+
+* 3
+
+- =F= keys are great I use them daily
+- =Esc= is important for my ~VI~ friends
+- Greek alphabet on front
+- Separate =Alt= and =Gui= from Emacs modifiers
+- Use thumb
+  - all modifiers
+  - Space
+- Use pinky for
+  - Stuff on left
+- Move tilda to right side
+- Delete backward and forward
+- Ended up throwing important but infrequently used by me keys anywhere
+- Symmetry still matters
+
+[[./image/keyboard-layout-3.png]]
+
+#+BEGIN_EXAMPLE
+[{x:3},"F1","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14"],
+[{x:3},"!\n1","@\n2","#\n3","$\n4","%\n5","^\n6","&\n7","*\n8","(\n9",")\n0","_\n-","+\n=","~\n`",{a:5},"Caps\n\n\n\n\n\nLock"],
+[{x:3,a:7},"Q\n\n\n\nθ","W\n\n\n\nω","E\n\n\n\nε","R\n\n\n\nρ","T\n\n\n\nτ","Y\n\n\n\nψ","U\n\n\n\nυ","I\n\n\n\nι","O\n\n\n\nο","P\n\n\n\nπ",{a:5},"{\n[","}\n]","|\n\\",{a:1},"Back\n\n\n\nDelete\n\nSpace"],
+[{a:7},"Esc",{w:2},"Tab","A\n\n\n\nα","S\n\n\n\nσ","D\n\n\n\nδ","F\n\n\n\nφ","G\n\n\n\nγ","H\n\n\n\nη","J","K\n\n\n\nκ","L\n\n\n\nλ",{a:5},":\n;","\"\n'",{a:7,w:2},"Enter","Esc"],
+["Fn",{w:2},"Shift","Z\n\n\n\nζ","X\n\n\n\nξ","C\n\n\n\nχ","V","B\n\n\n\nβ","N\n\n\n\nν","M\n\n\n\nμ",{a:5},"<\n,",">\n.","?\n/",{a:7,w:3},"Shift","Fn"],
+[{x:3,a:4},"alt\noption",{a:7},"Meta","Control",{w:4},"","Control","Meta",{a:4},"\n\nalt\noption",{x:1,a:7},"↑\n\n\n\nPgUp"],
+[{x:3,a:4},"\n\n⌘\ncmd",{a:7},"Hyper","Super",{x:4},"Super","Hyper",{a:4},"⌘\ncmd",{a:7},"←\n\n\n\nHome","↓\n\n\n\nPgDn","→\n\n\n\nEnd"]
+#+END_EXAMPLE
+
+* 4
+
+- Use all =F= keys
+- Emacs modifiers are more important for working together in Emacs
+- Gui modifiers are important, and they are interrupting
+  - Keep them together, but without a major presence
+- Most keys can be 1x1
+
+[[./image/keyboard-layout-4.png]]
+
+#+BEGIN_EXAMPLE
+["F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19","F20","F21","F22","F23"],
+["F4","F5","F6","~\n`","!\n1","@\n2","#\n3","$\n4","%\n5","^\n6","&\n7","*\n8","(\n9",")\n0","_\n-","+\n=","F24"],
+["F1","F2","F3",{a:7},"Q","W","E","R","T","Y","U","I","O","P",{a:5},"{\n[","}\n]","|\n\\",{a:3},"Back space\n\n\n\nDelete"],
+[{a:7,w:2},"Tab","Fn","A","S","D","F","G","H","J","K","L",{a:5},":\n;","\"\n'",{a:7,w:2},"Enter","Caps Lock"],
+["Esc",{w:2},"Shift","Z","X","C","V","B","N","M",{a:5},"<\n,",">\n.","?\n/",{a:3},"↑\n\n\n\nPgUp",{a:7,w:2},"Shift","Esc"],
+["Super","Meta","Control",{w:6},"","Control","Meta","Super",{a:3},"←\n\n\n\nHome","↓\n\n\n\nPgDn","→\n\n\n\nEnd"],
+[{a:7},"Hyper",{a:4},"alt\noption","\n\n⌘\ncmd",{x:6},"⌘\ncmd","\n\nalt\noption",{a:7},"Hyper"]
+#+END_EXAMPLE
+
+* 5
+
+- Make Greek letters easier to see
+- Use multiple layers for each key
+- Use number keys for every =F= key
+- Include PrSc
+
+* 6
+
+- Even though tilda is moved, keep it as far left as possible, more obvious
+
+* 7
+
+- You hit Space a lot more than return so put that first
+
+[[./image/keyboard-layout-7.png]]
+
+#+BEGIN_EXAMPLE
+[{x:2.5},"!\n1\nF11\nF1","@\n2\nF12\nF2","#\n3\nF13\nF03","$\n4\nF14\nF04","%\n5\nF15\nF05",{x:0.25,w:2},"Caps Lock\nTab\n\nEsc",{x:0.25},"^\n6\nF16\nF06","&\n7\nF17\nF07","*\n8\nF18\nF08","(\n9\nF19\nF09",")\n0\nF20\nF10"],
+[{x:2.5},"Q\nq\n&Alpha;\n&alpha;","W\nw\n&Beta;\n&beta;","E\ne\n&Gamma;\n&gamma;","R\nr\n&Delta;\n&delta;","T\nt\n&Epsilon;\n&epsilon;",{x:0.25,a:7},"⌘","&#8997",{x:0.25,a:4},"Y\ny\n&Zeta;\n&zeta;","U\nu\n&Eta;\n&eta;","I\ni\n&Theta;\n&theta;","O\no\n&Iota;\n&iota;","P\np\n&Kappa;\n&kappa;"],
+[{x:2.5},"A\na\n&Lambda;\n&lambda;","S\ns\n&Mu;\n&mu;","D\nd\n&Nu;\n&nu;","F\nf\n&Xi;\n&xi;","G\nv\n&Omicron;\n&omicron;",{x:0.25,a:7},"Fn",{a:4},"BkSp\nDel",{x:0.25},"H\nh\n&Pi;\n&pi;","J\nj\n&Rho;\n&rho;","K\nk\n&Sigma;\n&sigma;","L\nl\n&Tau;\n&tau;",":\n;\n&Upsilon;\n&upsilon;"],
+[{x:2.5},"Z\nz\n&Phi;\n&phi;","X\nx\n&Chi;\n&chi;","C\nc\n&Psi;\n&psi;","V\nv\n&Omega;\n&omega;","B\nb",{x:0.25,a:7,w:2},"Shift",{x:0.25,a:4},"N\nn","M\nm","<\n,\n{\n[",">\n.\n}\n]","?\n/\n|\n\\"],
+[{y:0.25,x:2.5},"~\n`","PgUp\n↑","PrSc\nIns",{a:7},"Meta","Control",{x:0.25,w:2},"Space",{x:0.25},"Control","Meta",{a:4},"_\n-","PgUp\n↑","+\n="],
+[{x:2.5},"Home\n←","PgDn\n↓","End\n→",{a:7},"Hyper","Super",{x:0.25,w:2},"Enter",{x:0.25},"Super","Hyper",{a:4},"Home\n←","PgDn\n↓","End\n→"]
+#+END_EXAMPLE
+
+# ./image/keyboard-layout-3.png https://www.wisdomandwonder.com/wp-content/uploads/2016/04/keyboard-layout-3.png
+# ./image/keyboard-layout-4.png https://www.wisdomandwonder.com/wp-content/uploads/2016/04/keyboard-layout-4.png
+# ./image/keyboard-layout-y.png https://www.wisdomandwonder.com/wp-content/uploads/2016/04/keyboard-layout-y.png
+
+# ./image/keyboard-layout-7.png https://www.wisdomandwonder.com/wp-content/uploads/2016/04/keyboard-layout-7.png
