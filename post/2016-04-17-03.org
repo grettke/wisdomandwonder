@@ -81,7 +81,9 @@ Here is how it can look to the left side of the spacebar:
 
 [[./image/all-modifiers-for-emacs.png]]
 
-The work now is to set up a keyboard that has the modifiers key appear in this
+I tested it out on a Mac and it worked as expected from the documentation.
+
+The work now is to set up a keyboard that has the modifier keys appear in this
 layout twice on a single keyboard.
 
 This is why I want a custom keyboard layout:
@@ -89,3 +91,6 @@ This is why I want a custom keyboard layout:
 - Emacs makes it *EASY* to use all of the modifier keys for Emacs
 - Emacs makes it *EASY* to use all of the modifier keys for the operating system
 - You /just/ need a keyboard layout that lets you do what you want
+
+This is empowering because you *keep everything* for the OS /and/ Emacs, so
+excited to learn about this.
