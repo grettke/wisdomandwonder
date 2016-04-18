@@ -94,3 +94,5 @@ This is why I want a custom keyboard layout:
 
 This is empowering because you *keep everything* for the OS /and/ Emacs, so
 excited to learn about this.
+
+With this in mind, I hope that Emacs never [[http://ergoemacs.org/emacs/modernization_meta_key.html][throws away the Meta key]]!
