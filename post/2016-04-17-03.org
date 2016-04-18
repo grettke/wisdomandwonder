@@ -2,7 +2,7 @@
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
 #+TAGS: Emacs, Keyboard, MechanicalKeyboard
-#+TITLE: Every Emacser Can Use Hyper on Every Keyboard
+#+TITLE: Every Emacser Can Use Hyper on Every USB HID Keyboard
 
 Every Emacser wishes that they could use =Hyper=.
 
@@ -79,4 +79,13 @@ system.
 
 Here is how it can look to the left side of the spacebar:
 
-[[all-modifiers-for-emacs.png
+[[./image/all-modifiers-for-emacs.png]]
+
+The work now is to set up a keyboard that has the modifiers key appear in this
+layout twice on a single keyboard.
+
+This is why I want a custom keyboard layout:
+
+- Emacs makes it *EASY* to use all of the modifier keys for Emacs
+- Emacs makes it *EASY* to use all of the modifier keys for the operating system
+- You /just/ need a keyboard layout that lets you do what you want
