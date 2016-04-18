@@ -87,6 +87,10 @@ manageable that may result in an actual keyboard within the next year.
   - No I don't want to use MicroPhython
   - Yes I want to use an existing, stable, powerful option like ErgoDox uses
     [[https://github.com/benblazak/ergodox-firmware][this]] and that looks powerful, supported, and open.
+- Programmable
+  - I'd rather not have to program it and have everything there already
+  - Symbol keys should provide access to everything
+  - That said reprogrammable is great... maybe if it is Massdropped
 
 * Step 02: Define Some Simple Measure of Success
 
