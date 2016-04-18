@@ -1,0 +1,82 @@
+#+DATE: [2016-04-17 Sun 18:59]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Keyboard, MechanicalKeyboard
+#+TITLE: Every Emacser Can Use Hyper on Every Keyboard
+
+Every Emacser wishes that they could use =Hyper=.
+
+#+HTML: <!--more-->
+
+=Hyper= is the last free-range where you can bind how you want without any
+conflicts. It isn't that way everywhere else you see!
+
+The =Control= and =Meta= namespaces are overflowing with bindings. =Super= /was/
+*supposedly* reserved, but most packages used it anyway. =Hydra= and =Key-Chord=
+provide a nice work around, but it would be so much simpler just to have
+another modifier, like =Hyper=... so why don't we? Simple answer: the USB
+standard only supports 4 modifier keys and that doesn't include =Hyper=.
+
+[[http://www.usb.org/developers/hidpage/HID1_11.pdf][Here]] is the standard. On page 56 it explains that there is one byte allocated
+to store the modifier key. There are four of them: =CTRL=, =SHIFT=, =ALT=, =GUI=. For
+each modifier, there is =LEFT= and there is a =RIGHT=, hence the 8 bits. Here is
+what I want to have happen:
+
+- Alt is for the OS
+  - Change windows
+  - Take screenshots
+- Super is for the OS
+  - Show run dialogs
+  - Insert characters
+- Control is for both the OS and Emacs
+  - Beyond Windows copy, there is no overlap
+- Meta is for Emacs
+- Super is for Emacs
+- Hyper is for Emacs
+
+Like all things Emacs, you just say what you want, read the literature, and
+99% of the time you find an awesome solution already in place. Yet again, it
+is true. Here is how to make it happen in [[https://emacsformacosx.com/tips][OS X]]...
+
+There are virtually eight modifiers available. Ignore their location and use
+them individually across the keyboard. From Emacs perspective, the left keys
+cannot be ignored. This must be by design and it makes total sense. The right
+keys /can/ be ignored. This lets us use =Alt= and =Gui= exclusively for the
+operating system. Here is the ultimate part: since =Control= doesn't have any
+conflicting bindings between the OS and Emacs, we can re-define the =Right
+Control= to do something else and make the =Left Control= act as control both for
+Windows and for Emacs. That frees up on control key, giving us space to
+redefine another key for =Hyper=. Here is how it looks:
+
+* Configure the OS Specific Modifiers
+
+Emacs does not interpret these keys. They are passed directly to the operating
+system.
+
+#+NAME: D98C210E-5803-46F7-B672-F80717B622ED
+#+BEGIN_SRC emacs-lisp
+(setq ns-right-command-modifier 'none)
+(setq ns-right-option-modifier 'none)
+#+END_SRC
+
+* Configure the Control Modifier using the Right Control
+
+#+NAME: CBAE7621-558D-468F-969C-5559B107EB10
+#+BEGIN_SRC emacs-lisp
+(setq ns-right-control-modifier 'control)
+#+END_SRC
+
+* Configure Emacs Meta Keys
+
+#+NAME: FE82B7F8-990E-431C-A5A2-7168AE612996
+#+BEGIN_SRC emacs-lisp
+(setq ns-control-modifier 'meta)
+(setq ns-command-modifier 'super)
+(setq ns-option-modifier 'hyper)
+#+END_SRC
+
+* Layout & Results
+
+Here is how it can look to the left side of the spacebar:
+
+[[all-modifiers-for-emacs.png
