@@ -1,3 +1,5 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10146
 #+DATE: [2016-04-17 Sun 18:59]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
@@ -96,3 +98,5 @@ This is empowering because you *keep everything* for the OS /and/ Emacs, so
 excited to learn about this.
 
 With this in mind, I hope that Emacs never [[http://ergoemacs.org/emacs/modernization_meta_key.html][throws away the Meta key]]!
+
+# ./image/all-modifiers-for-emacs.png https://www.wisdomandwonder.com/wp-content/uploads/2016/04/all-modifiers-for-emacs.png
