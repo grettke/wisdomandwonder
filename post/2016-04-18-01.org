@@ -4,7 +4,7 @@
 #+TAGS: Emacs, Keyboard, MechanicalKeyboard
 #+TITLE: Emacs Keyboard Design 28
 
-This layout feels a little more honestl and true to it's goals.
+This layout feels a little more true to it's goals.
 
 [[./image/keyboard-layout-28.png]]
 
