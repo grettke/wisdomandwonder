@@ -1,0 +1,102 @@
+#+DATE: [2016-04-18 Mon 19:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Keyboard, MechanicalKeyboard
+#+TITLE: Emacs Keyboard Design 28
+
+This layout feels a little more honestl and true to it's goals.
+
+[[./image/keyboard-layout-28.png]]
+
+#+HTML: <!--more-->
+
+- Only place keys that I know that I use from experience
+- Utilize Emoji
+- This *is* a keyboard for Emacs
+- This isn't a keyboard for APL
+  - I haven't learned it yet and I can add it later
+- Greek letters make sense
+- Some unicode symbols make sense
+- Assuming that I'll switch to XeTeX or LuaTeX at some point
+- Use symbols for modifier keys wherever possible; some found and some made up
+  - ISO for =CONTROL= ⎈ and =ALT= ⎇
+    - This makes them easier to appreciate instead of confusing them with
+      Super between the OS and Super on Emacs
+  - =GUI= (the vintage monitor)
+  - Double-struck for meta, super, hyper
+  - Escape ⎋
+  - Shift ⇧ and double shift ⇧⇧
+  - Numbers 2 and 3 for the 2nd and third column of symbols on a symbol key
+    - 𝟚 and 𝟛
+  - Unicode tab ⭾ and backspace ⌫
+- Color the keys
+  - Symbols: White
+    - Letters
+    - Alpha Numeric
+    - Space
+    - Return
+    - Caps lock
+  - Modifiers: Aquamarine
+  - System calls: Yellow
+  - Point/Cursor/Movement: Green
+  - Function keys: purple
+- Thoughts
+  - This is layout #14 there are so many refinements that it is more like 28
+    - Refinements are small and mostly internal to my cognitive landscape
+  - By only including keys that I know that I use frequently I feel better
+    about getting this layout "right".
+  - "Right" means "configuring it and trying it out for a month"
+  - F19-F24 will probably be exclusively for the OS
+  - The modifiers are really "all thumbs"
+    - You'll only ever need to use your thumb, index, and middle finger
+  - Colors reveal some order to the layout
+  - Un-staggering an ISO-104 layout fits perfectly in a 8x16 grid
+  - No layering or chording required, want to hand this to anyone, more or less
+  - [[https://github.com/tmk/tmk_keyboard][TMK2F]] for [[https://github.com/inkthink/an-alt-ergodox-ez-layout/wiki/Unofficial-Quick-Reference-to-the-ErgoDox-EZ][ERgoDoxEZ]] defines super and meh like this: Hyper (Control, Shift,
+    - Option and Command) and Meh (Alt+Ctrl+Shift). The idea is cool because your
+      get another modifier for your OS in addition to Emacs. This Hyper is not an
+      option because it uses the GUI key and every OS steals keystrokes there. This
+      Hyper though is a nice idea for single key bindings. That chord is ugly
+      in my layout, so I'm going to add Meh. Very cool to see people thinking
+      about making lives easy for OS users here.
+      - For Emacs users open to using Alt, this opens up *yet another* namespace
+  - Had to move Return to the outer edge
+    - This could be a great idea if the operator uses the side of her hand to
+      hit it
+    - Not sure where else to put it since I want arrows keys on both side to
+      make it easy for lefties and righties
+  - Added concept of columns per key
+    - Each key has 3 columns
+      - No-shift is first symbol
+      - Shift is second symbol
+      - Double shift is 3rd symbol
+    - Allows for any keyboard for anything
+      - Can add APL later
+    - 2 and 3 keys move to 2nd and third column
+    - Everything is nearby each other to make it more pleasant
+    - Layout should be intuitive and maximally easy to read (largest fonts
+      possible)
+      - If only one character with one or two cases, put it in the dead center
+      - If only two symbols put them in center bottom and top
+      - If a letter with upper and lower case and another letter with upper
+        and lower case put letter 1 in the top left and letter two in the
+        bottom right.
+    - Keep symbols near their logical counterpart
+  - The concept of 3 columns and shift and double-shift should allow for lots
+    of characters for normal users (like me) never to use layers.
+    - Being reprogrammable, would love to see what layers people come up with
+      if we could put them all in one firwmare
+  - Time will tell, this needs to be tried out.
+
+#+BEGIN_EXAMPLE
+[{y:0.25,x:2.5,c:"#b0b0ff",a:7},"F13","F14","F15","F16","F17","F18",{c:"#cccccc"},"¬","∧","∨","∀",{c:"#b0b0ff"},"F19","F20","F21","F22","F23","F24"],
+[{x:2.5},"F1","F2","F3","F4","F5","F6",{c:"#cccccc"},"∃","“","”",{a:4},"↞\n↜\n↠\n↝\n\n\n←\n→\n↑\n\n↓",{c:"#b0b0ff",a:7},"F7","F8","F9","F10","F11","F12"],
+[{x:2.5,c:"#cccccc",a:5},"!\n1","@\n2","#\n3","$\n4","%\n5","^\n6",{a:7},"😃","😐","😠",{a:5},"👎\n👍","&\n7","*\n8","(\n9",")\n0","_\n-","+\n="],
+[{x:2.5,a:4},"Q\n\n\n&theta;","W\n\n\n&omega;","E\n\n\n&epsilon;","R\n\n\n&rho;","T\n\n\n&tau;","Y\n\n\n&psi;",{c:"#61c97b",a:7,w:2},"⭾",{w:2},"⌫",{c:"#cccccc",a:4},"U\n\n\n&upsilon;","I\n\n\n&iota;","O\n\n\n&omicron;","P\n\n\n&pi;",{a:5},"{\n[","}\n]"],
+[{x:2.5,a:4},"A\n\n\n&alpha;","S\n\n\n&sigma;","D\n\n\n&delta;","F\n\n\n&phi;","G\n\n\n&gamma;","H\n\n\n&eta;",{c:"#47b7ba",a:7},"ℍ","𝟚","𝟛","ℍ",{c:"#cccccc"},"J",{a:4},"K\n\n\n&kappa;","L\n\n\n&lambda;",{a:5},":\n;","\"\n'","|\n\\"],
+[{x:2.5,a:4},"Z\n\n\n&zeta;",{a:7},"X",{a:4},"C\n\n\n&xi;",{a:7},"V",{a:4},"B\n\n\n&beta;","N\n\n\n&nu;",{c:"#47b7ba",a:7},"𝕤",{w:2},"⎋","𝕤",{c:"#cccccc",a:4},"M\n\n\n&mu;","<\n,\n\n\n\n\n\n«",">\n.\n\n\n\n\n\n»",{a:5},"?\n/",{a:7},"⇪",{c:"#d3de45"},"PrtSc"],
+[{x:2.5,c:"#cccccc",w:2},"⏎",{c:"#61c97b",a:5},"PgUp\n↑",{c:"#cccccc",a:7,w:2},"",{c:"#47b7ba"},"𝕄𝕖𝕙","𝕄",{w:2},"⇧","𝕄","𝕄𝕖𝕙",{c:"#cccccc",w:2},"",{c:"#61c97b",a:5},"PgUp\n↑",{c:"#cccccc",a:7,w:2},"⏎"],
+[{x:2.5,a:5},"~\n`",{c:"#61c97b"},"Home\n←","PgDn\n↓","End\n→",{c:"#47b7ba",a:7},"🖳","⎇","⎈",{w:2},"⇧⇧","⎈","⎇","🖳",{c:"#61c97b",a:5},"Home\n←","PgDn\n↓","End\n→",{a:7},"Insert"]
+#+END_EXAMPLE
+
+# ./image/keyboard-layout-28.png https://www.wisdomandwonder.com/wp-content/uploads/2016/04/keyboard-layout-28.png
