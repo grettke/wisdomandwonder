@@ -89,4 +89,4 @@ This layout feels a little more true to it's goals.
       if we could put them all in one firwmare
   - Time will tell, this needs to be tried out.
 
-# ./image/keyboard-layout-17.png https://www.wisdomandwonder.com/wp-content/uploads/2016/04/keyboard-layout-17-1.png
+# ./image/keyboard-layout-17.png https://www.wisdomandwonder.com/wp-content/uploads/2016/04/keyboard-layout-17.png
