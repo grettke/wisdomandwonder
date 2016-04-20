@@ -6,7 +6,7 @@
 
 This layout feels a little more true to it's goals.
 
-[[./image/keyboard-layout-28.png]]
+[[./image/keyboard-layout-17.png]]
 
 #+HTML: <!--more-->
 
@@ -27,7 +27,6 @@ This layout feels a little more true to it's goals.
   - Escape ⎋
   - Shift ⇧ and double shift ⇧⇧
   - Numbers 2 and 3 for the 2nd and third column of symbols on a symbol key
-    - 𝟚 and 𝟛
   - Unicode tab ⭾ and backspace ⌫
 - Color the keys
   - Symbols: White
