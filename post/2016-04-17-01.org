@@ -14,7 +14,7 @@ More observations follow.
 
 - VI keyboard is redundant if you prioritize Escape placement
 - Ortho-linear?
-  - How about grid?
+  - How about grid or matrix?
 - The mouse keys are toys, don't need them
 - Volume control is a toy, the OS can do it
   - Helps make it work well cross-platform, too
