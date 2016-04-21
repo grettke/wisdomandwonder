@@ -1,0 +1,51 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10170
+#+DATE: [2016-04-20 Wed 21:39]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Keyboard, MechanicalKeyboard
+#+TITLE: Emacs Keyboard Design 18
+
+The design is settling in.
+
+[[./image/keyboard-layout-18.png]]
+
+#+HTML: <!--more-->
+
+- Don't try to use the keyboard to teach the user what is possible on that
+  computer using that keyboard. For me this manifested in the form of trying
+  to cram a lot of symbols and idea in each key. It was confusing; you have to
+  know what you are doing before you get there, more or less. The idea of
+  columns and position 1/2/3 are too literal. There isn't enough space to read
+  the symbols. It just doesn't work for me.
+  - Only use 4 symbols for the top and 1 for the front
+  - Whenever letters have a lower and upper case, only including one letter in
+    that column. It will be obvious to the user. I will free-up space on the
+    keyboard.
+  - Provide modifiers for what you will/would expect coming to keyboard
+    - Greek
+    - APL
+    - Function (Fn)
+      - Important because colors distinguish intent
+      - Volume
+      - Page Up and Page down. It is obvious that you would use function for
+        this if you've ever used a laptop.
+    - Symbol
+      - This is the only other thing I've got, Emoticons and maybe
+        Mathematical symbols that aren't on the APL keyboard
+- Moved Greek letters to front freeing up space for APL keys
+  - Didn't add them set, unsure of the APL2 keyset
+    - [[http://www.dyalog.com/uploads/images/Business/products/us_rc.jpg][this]] seems to be it at least for Dyalog
+  - APL symbols are two per key, need the space
+  - Just want this on the keyboard
+- Like colors on the keyboard so pulled colors from [[http://ethanschoonover.com/solarized][Solarized]]
+- Don't use ISO symbols for modifiers, nobody will know them
+  - Set it up using general terms, Alt and Gui
+  - Type out Emacs modifiers
+- Added APL example for E
+  - Place 4 in the left middle
+  - APL symbols on right top and bottom
+  - Maximize space use for readability
+- Difference between symbol and APL key not obvious
+- Like macros, key choices must be evidence based for good results
+# ./image/keyboard-layout-18.png https://www.wisdomandwonder.com/wp-content/uploads/2016/04/keyboard-layout-18.png
