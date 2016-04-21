@@ -85,6 +85,7 @@ manageable that may result in an actual keyboard within the next year.
 - Firmware
   - No I don't want to use ArmPit Scheme
   - No I don't want to use MicroPhython
+  - No I don't want to use the LEDs for games like Breakout and Pong
   - Yes I want to use an existing, stable, powerful option like ErgoDox uses
     [[https://github.com/benblazak/ergodox-firmware][this]] and that looks powerful, supported, and open.
 - Programmable
