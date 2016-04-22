@@ -9,8 +9,7 @@
 An emotional flood of pragmatism and market demand is forcing me to struggle to
 keep my head above water on this one which answers a simpler question:
 
-Q. How to get Emacs and an Emacs suitable keyboard into the hands of every
-computer user everywhere?
+Q. How to get Emacs and an Emacs suitable keyboard into the hands of every computer user everywhere?
 
 A. High quality, low cost, flexible, and familiar.
 
