@@ -1,0 +1,65 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10173
+#+DATE: [2016-04-22 Fri 00:22]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Keyboard, MechanicalKeyboard
+#+TITLE: Emacs Keyboard Design 19: Emacs on Every Desk
+
+An emotional flood of pragmatism and market demand is forcing me to struggle to
+keep my head above water on this one which answers a simpler question:
+
+Q. How to get Emacs and an Emacs suitable keyboard into the hands of every
+computer user everywhere?
+
+A. High quality, low cost, flexible, and familiar.
+
+[[./image/keyboard-layout-19.png]]
+
+#+HTML: <!--more-->
+
+- Thoughts and changes from 18
+  - Switch with staggered querty. It might be painful to switch. Pain ain't a
+    great motivator in this scenario. Goal is to learn and use Emacs, not
+    suffer inflammation.
+    - Personal experience on staggered qwerty has convinced me that pain will come
+      to switch to a grid layout. Don't want to try. Don't want others to try.
+      Don't want pain to be a reason to avoid an Emacs keyboard.
+  - Keyboard needs to be black and white, everything else is too distracting
+  - Only used HID Spec for keys
+    - Don't write a HID spec to do more, not now
+- Build
+  - Start with ANSI 104
+    - Make it easy to see what keys need to stay, or not
+  - Row 6, the F keys don't need any spacing
+    - By the time you reach that far, it is hard reach, so linear is fine
+  - Add F13-F24
+    - They are in the spec, use them!
+  - Add F13-F24
+  - Handle every key to the right of Enter
+    - Keep PrtSc, Insert, Home, delete, end, pgup, pgdn, arrow keys
+    - Delete ScrollLock, Pause/Break, NumLock
+  - Add a Fn key
+    - Put arrows on jkil
+  - Placed a cluster for inser/delete, and navigation, print screen
+  - Modifiers
+    - Make them agnostic, use the real names
+    - Only need 1 key width
+    - Don't need 6 width for spacebar
+    - Modifers go out from common to uncommon so
+      - left to right: C, M, s, H, A, G
+      - On both sides
+      - Emacs modifiers are more important to put then near space bar
+      - OS modifiers are still an easy reach
+- Thoughts
+  - Easily use all Emacs and OS modifiers in familiar positions
+  - Rest of layout is undisturbed
+  - More F keys
+    - Grid like because it is already a reach
+  - Fn key is knew, an simple
+  - Felt like the spacebar was too small so
+    - Moved Alt up by Shift, this resulted in
+      - Manual Meh key
+  - Remember to keep C-A-D available on Win
+
+# ./image/keyboard-layout-19.png https://www.wisdomandwonder.com/wp-content/uploads/2016/04/keyboard-layout-19.png
