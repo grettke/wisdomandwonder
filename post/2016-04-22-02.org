@@ -1,0 +1,47 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10175
+#+DATE: [2016-04-22 Fri 23:06]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Keyboard, MechanicalKeyboard
+#+TITLE: Emacs Keyboard Design 23: ANSI Emacs on Every Desk
+
+Use standard scancodes and nothing more.
+
+[[./image/keyboard-layout-23.png]]
+
+#+HTML: <!--more-->
+
+- Thoughts and changes from 19 follow
+- Nearly everything interesting I want to do with the keyboard I can do in
+  Emacs
+  - Emacs runs everywhere I care about
+  - Emacs handles USB HID keyboard correctly, use that
+  - Save time: don't have to program layout for OS X and Windows
+- Keep modifiers near center
+  - Look weird having duplicates, but it will put more space between home
+    position. Curious if it provides any comfort.
+- Keep space *and* return large and easy to hit
+- Keep shift near the pinky
+  - Goes against original goals
+  - Power of familiarity override
+  - Can still claw-crab it
+- Page and row navigation are placed somewhat randomly, and I still like it
+  because the navigation keys are still close together
+  - Tab couldn't go any higher
+- Backspace and delete are nice, looking forward to trying that
+- There are more two-handed operations
+  - That is OK because they are strong-finger operations
+  - Stays true to thumb-index-middle goal
+- I'll configure Greek and APL bindings inside of Emacs
+  - Might get keycaps with them listed
+  - Won't implement in hardware/os though
+- Layout occupies 8x16
+  - All keys are used
+  - Not a good goal in and of itself
+  - Turned out that layout makes sense because backspace and delete are
+    important. If they were one-key operations, tab too, I could remove 2
+    columns from this layout.
+- Can I buy 3 wide keys anywhere?
+  
+# ./image/keyboard-layout-23.png https://www.wisdomandwonder.com/wp-content/uploads/2016/04/keyboard-layout-23.png
