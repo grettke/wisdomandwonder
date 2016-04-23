@@ -1,3 +1,5 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10180
 #+DATE: [2016-04-23 Sat 10:08]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
@@ -107,3 +109,5 @@ Break out of the grid layout.
   - For modifiers
     - Already familiar if you are coming from OS X or Windows and you set it
       up like that
+
+# ./image/keyboard-layout-25.png https://www.wisdomandwonder.com/wp-content/uploads/2016/04/keyboard-layout-25.png
