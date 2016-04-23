@@ -1,0 +1,109 @@
+#+DATE: [2016-04-23 Sat 10:08]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Keyboard, MechanicalKeyboard
+#+TITLE: Emacs Keyboard Design 25: Out of Bounds
+
+Break out of the grid layout.
+
+[[./image/keyboard-layout-25.png]]
+
+#+HTML: <!--more-->
+
+- Thoughts on the last layout 24 follow
+- Grid layout was great for the possibility of experimentation
+  - In the process of exploring how to lay it out I discovered what I really
+    want
+- Keep staggered keys
+  - Afraid of pain
+  - Afraid of keeping people away
+- Layout
+  - Keep it as similar to ANSI 104 as possible
+    - Keep people comfortable
+    - Keep it simple
+- Maximize use fingers Thumb-Index-Middle (T.I.M.)
+  - Seriously, do it for real
+- Always remember the cognitive notions of distance and interruption
+  - They define where to put keys and what size they are; they are the
+    evidence
+- Layout plan follows
+- Start with an ANSI 104 layout for editing
+- Open the ANSI 104 layout in another window for reference
+- Number format the F keys so =F01= instead of =F1=
+- Add F13-F24
+  - Aligned with =F01=
+- Move Caps Lock
+  - Above Esc
+  - Make it 1W
+    - Infrequently used, ok to interrupt
+- Label the space bar
+- Enter and Shift are
+  - Strike frequency is nearly identical
+  - Naturally part of the flow
+  - Easily combined with with T.I.M.
+  - Make them full bars 6W
+    - 0.5W right of each other staggered to the right
+      - Same as rest of main keys
+  - Delete other enter and shift keys on keyboard
+- Configure modifiers for easy T.I.M access on each side of the 3 big keys
+  - Size: 1.25W
+    - Curious, they are T.I.M keys so make them easily struck
+    - Tried 1.75 and they take up too much space
+  - Layout
+    - Space: Control, Meta
+    - Enter: Super, Hyper
+    - Shift: Alt, Gui
+  - Delete other occurrences
+  - Don't need C.A.S key because you can strike it with T.I.M
+- On number pad delete
+  - /, *, -, up, down, left, right, 5, +
+- Scroll Lock and Page/Break
+  - Are no longer used
+  - Delete them
+- Move arrow keys to the right of the ?
+- Make | \ 1.75W
+- Make Backspace 2.25W
+- Try to make keys maintain some order since the original layout does that
+  - This makes .25W option available for all of the keycaps
+- PrtSc below right arrow
+- NumLock below PrtSc
+- PgUp, PgDn
+  - Below tab
+  - Delete dupes
+- Delete NumLock
+- Delete below |, make 2.25, powerful key
+- Insert below downarrow
+- This leaves a rectangular keyboard
+  - Kind of ugly, probably OK
+- T.I.M. keys
+  - Bulk of frequent and difficult operations live here
+- !T.I.M. keys
+  - All are infrequent or breaking operations
+    - F keys
+    - Caps lock
+    - Escape
+    - Cursor navigation
+- Thoughts 1
+  - Only use standard scancodes
+  - Keep =F=, Symbol, Number keys close to original position
+  - Move big keys and modifiers to core
+  - Keep navigation and mode cluster as a cluster
+  - Keep arrow keys off on their own
+  - Non-programmable, impact on price?
+- Thought 2
+  - For bulk of muscle memory, keys remain the same
+    - No adjusting, at all
+  - For power/T.I.M keys
+    - They are all in one spot
+    - Easily reachable and combine-able
+  - When muscle memory fails
+    - There is nothing to the left or right to trip you up
+      - You must go to core-home, it is the only option
+  - Considered going with ANSI layout for nav keys
+    - They are wrong
+    - Page movement is more frequent when browsing hands-off keyboard
+  - Arrow keys need space so you can feel the difference
+  - Space lets you feel where thing should and shouldn't be
+  - For modifiers
+    - Already familiar if you are coming from OS X or Windows and you set it
+      up like that
