@@ -1,0 +1,25 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10178
+#+DATE: [2016-04-23 Sat 08:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Keyboard, MechanicalKeyboard
+#+TITLE: Emacs Keyboard Design 24: Slimming Modifier Column
+
+The modifier and navigation column is important. So are using
+Thumb-Index-Middle.
+
+[[./image/keyboard-layout-24.png]]
+
+#+HTML: <!--more-->
+
+- The top navigation and cursor keys can be one key
+  - They are used infrequently, why make then 2 wide (w)?
+- The modifier keys only need to be there once
+- Gui is insignificant too so make it 1w
+- Added Control-Alt-Shift (CAS) back
+  - Too useful for normal OS operations
+  - Prevent a painful reach to C-A-S anything
+  - Know the OSS firmware can do it
+
+# ./image/keyboard-layout-24.png https://www.wisdomandwonder.com/wp-content/uploads/2016/04/keyboard-layout-24.png
