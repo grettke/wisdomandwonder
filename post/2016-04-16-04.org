@@ -42,6 +42,11 @@ I found:
 | [[http://xkeys.com/xkeys/xk128.php][P.I. Engineering XKE-128]] | 8x16 | 500 | T  | T  | T  | Cherry MX caps | Rub dome switch. Great support.                                                    |
 | [[http://www.tysso.eu/product_content.php?id=56][TYSSO PKB-111]]            | 7x16 |     | NA | T  | T  | [[http://www.e-birch.com/buy/main_products.php?pid=1381&mt=][Cherry.]]        | 16 layers! Supports OS X? USB PKB-111YBU. On device. Nice. Can't find anywhere :(. |
 
+*Addendum: <2016-04-23 Sat 15:06>*
+
+You can assemble/build an X-KEYS like grid keyboard using the [[http://xkeys.com/xkeys/assets/documents/Pi3%2520Matrix%2520Board/Pi3%2520Matrix%2520Board.html][Pi3 Matrix]] for
+[[http://xkeys.com/PIComponents/EncoderBoards.php][$60USD]].
+
 ** Observations
 
 DigiPos, Access-IS never replied so they are out.
