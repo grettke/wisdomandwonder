@@ -4,7 +4,7 @@
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
 #+TAGS: Emacs, Keyboard, MechanicalKeyboard
-#+TITLE: Emacs Keyboard Design 23: ANSI Emacs on Every Desk
+#+TITLE: Emacs Keyboard Design 23: Standard Scancode Emacs on Every Desk
 
 Use standard scancodes and nothing more.
 
@@ -43,5 +43,5 @@ Use standard scancodes and nothing more.
     important. If they were one-key operations, tab too, I could remove 2
     columns from this layout.
 - Can I buy 3 wide keys anywhere?
-  
+
 # ./image/keyboard-layout-23.png https://www.wisdomandwonder.com/wp-content/uploads/2016/04/keyboard-layout-23.png
