@@ -1,0 +1,9 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10184
+#+DATE: [2016-04-23 Sat 21:04]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Computer, Engineering, Hardware, Fun
+#+TITLE: How a CPU Works
+
+[[https://www.youtube.com/watch?v=cNN_tTXABUA][How a CPU Works]] is a fun watch for just about anybody.
