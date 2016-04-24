@@ -1,0 +1,11 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10186
+#+DATE: [2016-04-24 Sun 00:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: (setq org-use-speed-commands t)
+
+Enable [[http://orgmode.org/manual/Speed-keys.html][speed keys]] if you haven't already; they provide single-key headline
+navigation in exactly the ways that you would expect. For example, =n= and =p=
+take you to the next and previous headline.
