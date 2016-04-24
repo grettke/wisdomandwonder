@@ -1,0 +1,9 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10183
+#+DATE: [2016-04-23 Sat 20:55]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Philosophy
+#+DESCRIPTION: The Power of Groundog Day
+
+[[http://www.theguardian.com/film/2013/feb/07/groundhog-day-perfect-comedy-for-ever][Groundhog Day]] is a fascinating study in the practice of infinity.
