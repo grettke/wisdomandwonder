@@ -1,0 +1,11 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10185
+#+DATE: [2016-04-23 Sat 21:12]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Programming, Philosophy, APL
+#+TITLE: The Origins of APL - 1974
+
+When the best share it is always timeless:
+
+[[https://www.youtube.com/watch?v=8kUQWuK1L4w][The Origins of APL - 1974]]
