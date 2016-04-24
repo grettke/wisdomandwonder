@@ -1,0 +1,105 @@
+#+DATE: [2016-04-24 Sun 12:47]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Keyboard, MechanicalKeyboard
+#+TITLE: Emacs Keyboard Design 26c: The More Things Change
+
+Agile keyboard design rocks. You slowly whittle away at the thousands of
+options that you think you want. You slowly whittle away at the hundreds of
+features that you need. You slowly whittle away at reality and cost. You
+eventually end up with what you didn't know that you needed.
+
+Emacs users want and need a keyboard that
+- Is available everywhere
+- Is inexpensive
+- Is supported first class on Linux, OS X, and Windows
+- Is familiar
+  - Everybody learned on an ANSI 104 keyboard and knows it well
+    - Leverage this
+      - Good for sales as "just another keyboard"
+- Refinements and preference are
+- Make it easy to track changes
+
+[[./image/keyboard-layout-26c.png]]
+
+#+HTML: <!--more-->
+
+- Go to http://www.keyboard-layout-editor.com/#/
+- Start with Present ANSI 104
+- Note the difference in the staggering size between the rows
+  - They are inconsistent
+  - That is probably OK
+  - So ignore it
+  - Leave it alone keep it familiar
+  - *Never change the staggering*
+- *Focus is on Emacs users*
+  - Want to accomodate all others users if it keeps thing simple
+    - VI
+    - OS X, Windows, Linux (media keys)
+- Add F13-F24
+- Make F1-F9 number formatted
+- Leave num pad and arrow key column alone, they are staying
+- Label the space, it is 6W
+- Add 6W Enter after space and blank the existing
+  - So frequently used, needs to be TIM
+- Move caps lock up above Esc and blank existing
+- Rename Win to Gui
+- Delete Menu, not portable
+- Shift is frequent yet weak, move to power bar area
+  - Feels like a natural reach anyway
+- Shift is no Hyper
+- Aesthetics matter
+  - They did for the ANSI 104 so follow that
+- Justification
+  - Super and Hyper are really big keys and easy to crab-claw
+  - Modifier and navigator are easy thumb keys
+  - Everything else is the same
+- No chording, no moding, not changing, no training, just simple
+- Slid the modifier/navigation panel over for use and aesthetics
+- C,M is for Emacs familiarty, A is for OS commmon usag
+- Shift is near enter for frequency of use
+- Gui is there because it must be
+- CAS is there because it is powerful, and worth adding, and looks OK
+  - The only key added, no Fn, no nothing else
+- Moved arrow keys, numpad, navigation keys down one entier row
+- Feel like every attempt involves some customizations just for the sake of...?
+- This is keyboard 26a
+
+[[./image/keyboard-layout-26a.png]]
+
+- Removed the numpad, I never use it ever
+- This is keyboard 26b
+
+[[./image/keyboard-layout-26b.png]]
+
+- This layout "feels right" and "familiar" to a typical Dell keyboard, yet
+  makes a modifiers and navigators easier.
+- Perhaps CAS should go away and Fn should come back?
+  - Easy to hit CAS with T-I-Ring
+    - Con is that it will always be two hand chords
+      - That doesn't bother me too much
+      - Fn looks better
+  - Would get rid of arrow keys and navigation cluster
+    - Lay them out for lefties and righties
+- PauseBreak and ScrollLock can be removed
+  - They are never used
+- Put Functions keys in front
+  - Lets me stick with default ANSI letter placement
+    - Save money on caps
+- Delete key
+  - Even though it is two fingers, position is great
+- Still good about
+  - OS agnostic
+  - No media keys
+  - Compact
+  - Power center for modifiers and navation
+  - Everything else remains precisely the same
+- Nothing else is configured here
+  - No caps
+  - No switches
+  - No nothing
+- This is keyboard 26c
+- This seems to make sense
+# ./image/keyboard-layout-26c.png https://www.wisdomandwonder.com/wp-content/uploads/2016/04/keyboard-layout-26c.png
+# ./image/keyboard-layout-26a.png https://www.wisdomandwonder.com/wp-content/uploads/2016/04/keyboard-layout-26a.png
+# ./image/keyboard-layout-26b.png https://www.wisdomandwonder.com/wp-content/uploads/2016/04/keyboard-layout-26b.png
