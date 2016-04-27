@@ -1,0 +1,38 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10193
+#+DATE: [2016-04-26 Tue 20:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Keyboard, MechanicalKeyboard
+#+TITLE: Emacs Keyboard Design 27: Less Keys
+
+Switch back to tenkeyless and don't need the function key.
+
+[[./image/keyboard-layout-27.png]]
+
+#+HTML: <!--more-->
+
+- Right Fn should be lockable
+- Enough of what I could find explains that OS X and Windows don't support
+  F14-F24, so remove them
+  - Made Esc do Caps Lock, too via Fn
+- Should configure different switches per key
+  - Space and return should use a higher strength
+- I use the arrow keys a lot, even in Emacs, because I don't like keeping my
+  hands in the home position all the time; a tenkeyless makes more sense
+  - Don't need to be up so high, move by super
+- Space bar
+  - Use a lot of space, wastes it
+  - 3 is too small if I center it, my thumbs are .5W too short
+  - Maybe I can do 2,2,2, space return space
+  - Not sure what else I'd put there
+- Fn space key
+  - Great idea, but goes against simplicity goal, so won't
+- CapsLock
+  - Don't need it
+  - Can move it to right
+- Added back Meh key
+  - Named it CAS
+    - Works on OS X and Windows
+
+# ./image/keyboard-layout-27.png https://www.wisdomandwonder.com/wp-content/uploads/2016/04/keyboard-layout-27.png
