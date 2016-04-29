@@ -1,0 +1,17 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10197
+#+DATE: [2016-04-29 Fri 12:48]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Editor, Emacs, Lisp, Programming Language, elisp
+#+TITLE: Bind to Control-Meta-Super-Hyper in Emacs
+
+To sate my curiosity, as you would expect, you *can* bind to
+Control-Meta-Super-Hyper in Emacs. Perfect. [[http://ergoemacs.org/emacs/emacs_hyper_super_keys.html][Xah explains]] how to maybe get
+=Hyper= on your keyboard. Good inspiration for building an Emacs keyboard. Nice
+to have another keyspace.
+
+[[./image/C-M-s-H-really-works.png]]
+
+
+# ./image/C-M-s-H-really-works.png https://www.wisdomandwonder.com/wp-content/uploads/2016/04/C-M-s-H-really-works.png
