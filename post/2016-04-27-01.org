@@ -1,0 +1,72 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10195
+#+DATE: [2016-04-27 Wed 21:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Keyboard, MechanicalKeyboard
+#+TITLE: Emacs Keyboard Design 28: Simple Seven
+
+This makes sense. No =Fn= necessary. Emacs only.
+
+[[./image/keyboard-layout-28.png]]
+
+#+HTML: <!--more-->
+
+- Combining learning with layout results in a lot of changes
+- The =Fn= key
+  - Great way to save a row
+  - Emacs users are already comfortable with chords
+  - Was interesting when smaller than tenkeyless; still good to get it down to
+    6 rows
+- Why are the =F= keys up so high?
+  - Is the layout by design or arbitrary?
+  - Can we make a rectangle with them flat?
+- Can a tenkeyless still be a rectangle?
+  - The ANSI 104 layout is OK with resizing keys just to fit the shape
+- CAS
+  - Easy to in this layout, redundant
+  - C-M-s-H would be hard
+- The ANSI 104 layout
+  - Is probably a good thing
+  - I use it and like it
+  - Make it a big rectangle
+- How to make the case
+  - Easy to carry anywhere like a Dell keyboard
+  - Easily 3d printable
+  - Inexpensive
+  - Open design
+- Can the system and navigation keys line up in a row on the right?
+- This keyboard is for Emacs users
+  - That is the singular focus
+  - Forget about general acceptance and use
+    - It will be generally usable though
+- Steps
+  - Move Escape row down above numbers and move them all left
+  - Move Delete above backspace
+    - Logical location
+  - Ultra key
+    - [[https://english.stackexchange.com/questions/87330/which-is-higher-hyper-ultra-or-super][Via]], better than omega
+    - Control Meta Super Hyper
+    - Move below Meta, shift needs to be outside enter, more familiar
+    - Alt and Gui are better positioned, they are closer really
+  - Align PrtSc with delete
+  - Align cluster by frequency
+    - Pg Up, Pg Dn
+    - Home, End
+    - Insert, PrtSc
+  - Space bar can be 6 bars wide
+    - Unsure where to find smaller
+  - Main board keys on right (delete, super) can be smaller, make them all
+    standardish
+  - Keep right side keys flush with left
+    - No, doesn't look right
+  - Modifier board
+    - Fill to rectangle
+      - Make Emacs modifiers bigger, 1.5w
+      - Leave OS modifiers 1.25
+  - Made control a homing here
+    - There is a lot more space down there
+    - Can make sense of lactation given two big bars and edges
+    - Removed homing, unnecessary based on using a real heyboard
+
+# ./image/keyboard-layout-28.png https://www.wisdomandwonder.com/wp-content/uploads/2016/04/keyboard-layout-28.png
