@@ -1,0 +1,38 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10200
+#+DATE: [2016-04-29 Fri 12:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Keyboard, MechanicalKeyboard
+#+TITLE: Emacs Keyboard Design 29: More Standard
+
+[[./image/keyboard-layout-29.png]]
+
+- The right side keys should remain in ANSI layout
+  - Complies with [[http://c2.com/cgi/wiki?PrincipleOfLeastAstonishment][POLA]]
+  - Returned them
+- Put CapsLock above Backspace
+- [[https://geekhack.org/index.php?topic=51069.0][SpaceFn]] makes you want to use [[https://github.com/tmk/tmk_core/blob/master/doc/keymap.md][TMK's awesome firmware]]
+  - Remind my self that POLA is still an important goal
+- How are people carrying their keyboards?
+- A good keyboard body negates needs for a case
+  - Dell keyboards are a perfect example
+
+- How similar is this to an ANSI layout
+  - Background color legend
+    - Green: Identical
+    - Yellow: Moved
+    - Turquoise: New
+    - Red: Removed
+      - Only the number pad was removed
+
+[[./image/keyboard-layout-29-compared.png]]
+
+- Thoughts
+  - Every Emacs user who has reconfigured their modifier keys on a Windows or
+    Mac laptop will be OK with this
+  - Every user who has used an ANSI layout will be OK with this
+  - Users who value the number pad will not be OK with this
+  - The modifier clusters make sense
+# ./image/keyboard-layout-29.png https://www.wisdomandwonder.com/wp-content/uploads/2016/04/keyboard-layout-29.png
+# ./image/keyboard-layout-29-compared.png https://www.wisdomandwonder.com/wp-content/uploads/2016/04/keyboard-layout-29-compared.png
