@@ -1,0 +1,91 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10207
+#+DATE: [2016-05-01 Sun 06:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Keyboard, MechanicalKeyboard
+#+TITLE: Emacs Keyboard Design 31 and 32: Give Emacs More Logical Modifiers
+
+- Impossible to design and fabricate a custom for a reasonable price in time
+  and money
+- Use a XKE-128 instead
+
+#+HTML: <!--more-->
+
+- Rubber dome switches and caps
+  - Disassembled a Dell keyboard
+  - Found it had rubber dome switches (obviously, spongy)
+  - Good to see and know
+  - Been using them for years, and they were fine
+  - Mechanical switch probably isn't required by me
+- N-Key rollover
+  - You could quickly hit
+    - Control, Meta, Super, Hyper, Shift, j
+  - If you designed the keyboard out to make it easy
+  - 6 NKRO is probably fine
+- You must choose a [[http://www.keycapsdirect.com/key-caps.php][keycap style]]
+  - DSA makes it easy to try different layouts so use that
+  - Cost is a big topic
+  - Maybe a [[https://www.youtube.com/watch?v=S5WnKTNURL0][grab bag]] is a good option?
+- If you want a lot of rows and columns then you need a microcontroller with a
+  lot of connections like the [[https://www.pjrc.com/store/teensypp.html][Teensy++]]
+- You must choose available key sizes
+  - The design tools let you make a keycap any size which helps exploration
+  - At build time you needs fabricated keycaps in that size
+  - Easier to use pre-made caps
+  - 3d printing caps is another option, but I don't want to do that
+- Reality is that doing a custom build
+  - Will require 3x iterations
+  - Will cost 3x as much
+  - Reviewed the [[https://www.indiegogo.com/projects/ergodox-ez-an-incredible-mechanical-keyboard#/][Ergodox EZ]] and it's not for me
+    - Thoughtful ideas about OS-Hyper key
+- Might be best to use the XKE-128 instead
+  - Zero fabrication costs
+  - Well-built body
+  - Rubber-dome is OK
+  - Cherry MX compatible stems
+  - No way I could built for less
+    - Hobby-ish
+- Converting to XKE-128 follows
+- Make power keys 2 wide because they are available from PI or SP
+- Left align QAZ
+- Make PgUp PgDn 1w
+- Moved arrows to bottom right
+- Added CapsLock back under right super
+- Added Ultra* so had to move PgUp to each side of Enter row by shift
+- Added a space down the middle to occupy 8x16
+
+[[./image/keyboard-layout-31.png]]
+
+- Decided that it would be nice to have a space and return that went from C to
+  M so expanded that
+- Move Alt and Gui up to middle because
+  - They are important modifiers
+    - Alt-Tab is always two-handed, that is OK
+  - Their importance doesn't overlap with Emacs modifiers so you use them in a
+    cognitively different place
+- PgUp PgDn go all the way left
+- Didn't add back ScrollLk and Break, can add later if needed
+- Swap Super and Shift
+  - Muscle memory makes Shift happier as expected location
+  - Makes super-shift easy negating opportunity for Super*
+- Every Emacs modifier with * appended includes shift
+  - Wherever it isn't easy to do by hand, and free keys
+- Add Hyper* to left of hyper making it one key
+  - This placement of hyper makes sense if you recall the feel of the layout
+    of a typical laptop keyboard after you made CapsLock super. Using your
+    thumb to go to C, M, super with your pinky, and H with your thumb again
+    are natural
+  - C-s and M-s are natural
+  - H-s is even natural and H*-s is doable
+- Ultra shift is easy now, so U* can go away
+- Added Xtrm key for Emacs
+  - C-M-s
+  - Ultra below it
+- You an go "all out" with Emacs modifiers if you like
+- H* still makes sense
+
+[[./image/keyboard-layout-32.png]]
+
+# ./image/keyboard-layout-31.png https://www.wisdomandwonder.com/wp-content/uploads/2016/05/keyboard-layout-31.png
+# ./image/keyboard-layout-32.png https://www.wisdomandwonder.com/wp-content/uploads/2016/05/keyboard-layout-32.png
