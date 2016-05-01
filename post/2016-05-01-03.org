@@ -1,0 +1,11 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10209
+#+DATE: [2016-05-01 Sun 10:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Keyboard, MechanicalKeyboard
+#+TITLE: An Open Tenkeyless Keyboard
+
+[[https://input.club/k-type][The K-TYPE Keyboard]] purports to be a truly open keyboard at the software and
+hardware level. *Can't wait* for this to come out because I want a tenkeyless
+with an extra row on the top and an extra row on the bottom.

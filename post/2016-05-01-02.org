@@ -1,0 +1,20 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10208
+#+DATE: [2016-05-01 Sun 10:13]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Chez, Learning, Programming Language, Scheme, Teaching
+#+TITLE: Chez Scheme Now Open Source
+
+The other night I was daydreaming about buying a [[http://www.scheme.com/][Chez Scheme]] license so I
+checked up on their license costs.
+
+[[https://github.com/cisco/chezscheme][They]] are now [[https://github.com/cisco/ChezScheme/blob/master/LICENSE][Apache Licensed OSS]].
+
+Funny timing as they opened up only days prior.
+
+[[https://github.com/cisco/ChezScheme/issues][The issue board]] is already active.
+
+=#chez= on Freenode is [[https://github.com/cisco/ChezScheme/issues/5][blessed]] though the channel doesn't seem to be up yet.
+
+This is all delightful.

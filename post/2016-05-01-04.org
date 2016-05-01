@@ -1,0 +1,28 @@
+#+DATE: [2016-05-01 Sun 10:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Keyboard, MechanicalKeyboard
+#+TITLE: Why Design an Emacs Keyboard
+
+- An Emacs keyboard would easily provide
+  - Control, Meta, Super, and Hyper to Emacs
+  - Alt and Gui (*confusingly called* Windows key on Windows, Option key on OS X, Super
+    everywhere else)
+  - Without conflict between the two
+
+The easiest way to do it is by configuring Emacs to
+- Redefine left control, left alt, and left gui as meta, super, and hyper
+- Leaving right control as control
+- Passing right alt and right gui through to the operating system, ignoring
+  them in Emacs
+
+The hardest part os designing and fabricating the hardware
+- Automatically iterative and single-runs are the most expensive
+  - Inexperience with fabrication guarantees this
+- No tenkeyless hardware/software definitions exist ([[https://input.club/k-type][yet]])
+
+The easiest way to lay out a keyboard you like with enough keys is to use the
+[[http://xkeys.com/xkeys/xk128.php][XKE-128]].
+
+I'm not going to move forward with it right now because I don't want to invest
+in two of them.
