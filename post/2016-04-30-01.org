@@ -1,0 +1,47 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10202
+#+DATE: [2016-04-30 Sat 15:01]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Keyboard, MechanicalKeyboard
+#+TITLE: Emacs Keyboard Design 30: Smaller Modifiers
+
+- After 3 years using single-key modifiers on a MBP and HP laptop I can do the
+  same thing here.
+- USB spec defines all =F= keys so use them and see what happens
+- Get rid of right side of board in the process
+
+[[./image/keyboard-layout-30.png]]
+
+#+HTML: <!--more-->
+
+- Start with version 29
+- Add =F13= to =F24=
+- Make bottom 1 wide:
+  - Because
+    - They are flow interrupting actions
+    - It is OK to find home with 1 key
+  - Keys
+    - Alt
+    - Meta
+    - Ctrl
+    - Gui
+    - Ultra
+    - Shift
+- Leave middle modifiers alone because they are pinky used; need to be large
+- Make spacebar and enter 4 wide
+  - 3 is too small
+  - 4 is perfect
+- Move arrows below right hyper
+- Move pgup pgdn below left hyper
+  - Make them 1.5w
+- Move home above left arrow and end above right arrow
+- Move caps lock above escape making it 1w
+- Move insert and delete above backspace left
+- This leaves PrSc, ScrollLock, and Pause hanging
+  - Replace CapsLock with PrSc and del caps lock
+  - Delete Scroll Lock and Pause
+  - Make delete and insert wide
+- Made F4 and F7 homing keys if it isn't obvious
+
+# ./image/keyboard-layout-30.png https://www.wisdomandwonder.com/wp-content/uploads/2016/04/keyboard-layout-30.png

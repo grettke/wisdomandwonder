@@ -1,0 +1,10 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10204
+#+DATE: [2016-04-30 Sat 21:27]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Keyboard, MechanicalKeyboard
+#+TITLE: How a Key Matrix Works
+
+[[http://pcbheaven.com/wikipages/How_Key_Matrices_Works/][Here]] is a concise introduction to how a keyboard matrix works along with a
+demonstration of rollover and ghosting.
