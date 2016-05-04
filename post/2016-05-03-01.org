@@ -4,7 +4,7 @@
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Link
 #+TAGS: Emacs, Ide, Programming Language, elisp
-#+TITLE: [[https://github.com/magnars/.emacs.d/blob/master/site-lisp/diminish.el#L87][Why you can't diminish auto-fill-mode]]
+#+TITLE: Why you can't diminish auto-fill-mode
 
 =auto-fill-mode= is named by =auto-fill-function= via [[https://github.com/magnars/.emacs.d/blob/master/site-lisp/diminish.el#L87][magnars]].
 
