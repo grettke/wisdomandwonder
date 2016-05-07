@@ -1,0 +1,43 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10222
+#+DATE: [2016-05-07 Sat 16:14]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Keyboard, MechanicalKeyboard
+#+TITLE: Emacs Keyboard Design 34: Grid Layout Revisited
+
+The latest iteration places space and return well and the modifiers are all
+present and easily reached. How would it look in a grid layout?
+
+#+HTML: <!--more-->
+
+- Start with design [[https://www.wisdomandwonder.com/article/10220/emacs-keyboard-design-33-what-if-emacs-pinky-isnt-real][33]]
+- Left-align the rows on 1, Q, A, Z
+- Keep F-space and J-space aligned
+- Make shift 1x
+- Add a gap after G to put halves as far apart as possible
+  - Only 2 rows available, not enough for a gap, put it back
+- Move PgUp and PgDn above right arrow
+  - Use them together frequently
+- Insert and Delete are stacked right of Back Space
+  - Logically close
+- Home and End right of Fn
+- Between Shift and PgUp and Below Fn there are 3 places open so move in there
+  - PrSc
+  - Scroll Lock
+  - Pause Break
+  - Last 2 are debatable
+  - Want to fill space and layers would be ugly here
+- Added separator after 5
+  - Original thought was to make them separable
+  - Also have no obvious need for that column
+  - Left I and II on each side to encourage using both hands
+- Added re-legendable keys as "Ghosted"
+  - Screenflow is the first candidate
+  - Everything else is easy to do in Emacs
+- PauseBreak and ScrollLock might not need to be there
+- A Mouse layer might be nice, but then again, no
+
+[[./image/keyboard-layout-34.png]]
+
+# ./image/keyboard-layout-34.png https://www.wisdomandwonder.com/wp-content/uploads/2016/05/keyboard-layout-34.png

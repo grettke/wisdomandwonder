@@ -1,0 +1,103 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10220
+#+DATE: [2016-05-07 Sat 15:39]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Keyboard, MechanicalKeyboard
+#+TITLE: Emacs Keyboard Design 33: What If Emacs Pinky Isn't Real
+
+[[http://c2.com/cgi/wiki?EmacsPinky][Emacs Pinky]] might be real.
+
+What does a good Emacs keyboard look like if it isn't, though?
+
+#+HTML: <!--more-->
+
+- Guiding idea:
+  - Wide variety of key switches lets you choose for strength of finger
+  - Don't need to worry about "Emacs pinky"
+  - Still stick with tenets and lessons learned so far
+  - Assumption: Your fingers combined with the appropriate switch only require a
+    single key
+- Start with preset ANSI 104
+- Make every key 1x1
+- Space goes in home position below F and J
+- Enter goes in home position below Space
+- Menu key is deleted
+- Num pad is deleted
+- Leave QAZ alone!
+- Shift ~ right so 1 is above Q
+- Rename Backspace to "Back Space"
+- Move below ~: Tab, Caps Lock, Shift
+- Move shift near main body
+- Move CapsLock close to A
+- Add Fn to right of "
+  - I use F1-F4 for macros, and not much else
+- Use Fn to move escape rows into row below
+  - Justification
+    - Never used ScrollLock and PauseBreak
+    - PrtSc is a flow interruption operation, so Fn is fine
+    - Ditto for F keys and Esc
+    - Important for one handed operation are navigation keys
+    - Originally made these moved keys front print, but they are so familiar
+      and obvious, I removed it. Made it easier, use doubleshot donors.
+- Rename Win to Gui
+- Move arrow keys on same row as Gui
+- Too difficult to guess what shifters would be perfect
+  - Instead of guessing: Greek, APL, Emoticons, and Double-Struck
+  - Make it per-layer 1-4
+    - See now why Space cadet ended up here
+  - Added I, II, III, IV between spaces and enters
+- Made Shift keys 1.5w
+  - Foundational for reach-shift combinations
+  - Make you feel "home", sort of
+  - Visually fine
+- Desire to utilize empty key space grows
+- Ultra key: C-M-s-H
+  - Can do to do with current layout
+  - Can do with Shift, too
+  - Not easy though
+  - Adding it
+  - Works fine with shift
+- Still love the idea of a GUI Ultra/Meh
+  - Control-Alt-Shift is doable
+  - Seems a waste not to use that space to left and right of GUI
+    - Unless I move arrow keys left and saved two spaces on right
+      - Makes sense
+      - PrSc is still totally fine
+      - Gap in keyboard between Fn and Home looks weird
+        - Shouldn't matter but it just looks weird
+      - Stick with 80%
+  - Name it Parc, for Xerox's Gui
+- Still a shame to waste empty spaces
+- Add function layers for V, VI, VII, VIII, IX, X
+- Still a shame to waste empty spaces
+- Add function layers for XI, XII
+- 11 layers is great, currently not using that many, perhaps make PrtSc row
+  normal keys again?
+  - Yea, familiarity is good, and still plenty of function layers
+- Thoughts
+  - Home keys still staggered and familiar
+  - Everything is familiar
+  - Shift is the "second home" so bigger
+  - Nice to see layer access be simple and transparent
+  - 6 rows means using caps other than DSA
+  - Use letters on each cap, easier to remember
+  - Can get most caps doubleshot from [[http://www.wasdkeyboards.com/index.php/products/keycap-set/doubleshot-pbt-104-key-cherry-mx-keycap-set-black-slate.html][stock set]]
+  - For custom 1x and 1.5x can do [[http://www.wasdkeyboards.com/index.php/products/keycap-set/104-key-cherry-mx-keycap-set.html][custom]]
+    - Donate 35 custom keys, rest spares or sell
+- Summary
+  - Started with ANSI-104
+  - Keys removed: 0
+  - Keys added: 19 (2x each modifier, 5) (layers, 9)
+  - Keys resized: 8
+  - Keys moved: Enter and space
+  - 5 emacs modifiers (Emacs remapping)
+  - 3 OS modifiers (Normal OS stuff)
+  - Layers: 11 total (firmware layers)
+    - Base (normal keyboard)
+    - Fn: Use top row as function keys
+    - 1-9
+
+[[./image/keyboard-layout-33.png]]
+
+# ./image/keyboard-layout-33.png https://www.wisdomandwonder.com/wp-content/uploads/2016/05/keyboard-layout-33.png
