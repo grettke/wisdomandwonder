@@ -1,0 +1,28 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10216
+#+DATE: [2016-05-07 Sat 15:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Keyboard, MechanicalKeyboard
+#+TITLE: Potential Keyboard Builders Need a Switch Sampler
+
+MAX keyboards sells a [[http://www.maxkeyboard.com/max-keycap-cherry-mx-switch-gateron-switch-o-ring-ultimate-sampler-tester-kit.html][MAX Keycap, Cherry MX Switches, Gateron Switches, O-Ring
+Ultimate Sampler Tester Kit]].
+
+#+HTML: <!--more-->
+
+Might seem crazy to buy a sampler but it lets you do two cool things
+- Try out *13* different switches
+- You can spend a little more to buy it as an [[http://www.maxkeyboard.com/max-falcon-8-programmable-mini-macropad-mechanical-keyboard-diy-kit.html][8-key programmable keyboard]].
+
+Lessons learned after "typing" on it (trying it out) for 3 days
+- The switches are noticeably different
+- It takes a few days to feel the difference
+- Coming from a MacBook Pro, the linear switches feel great
+  - Supposedly only for gamers, would be fine for Mac users
+- Should use different switches for different parts of the keyboard
+  - Main keys: weak springs because used so frequently
+  - Control keys: strong springs because you want to know it happened
+  - Modifier keys: strong springs because you will rest your strong fingers there
+- Might make you feel better about laying down the cash for a bunch of
+  switches before you have "first hand" experience with them
