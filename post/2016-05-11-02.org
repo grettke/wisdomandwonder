@@ -1,0 +1,23 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10227
+#+DATE: [2016-05-11 Wed 01:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Keyboard, MechanicalKeyboard
+#+TITLE: Emacs Keyboard Design 36: Mainstream 90 Key Emacs Keyboard Layout
+
+- Start with [[https://www.wisdomandwonder.com/article/10225/emacs-keyboard-design-35-mainstream-96-key-emacs-keyboard-layout][layout 35]]
+- There are only 10 layers total
+- Use Fn as a one-shot
+  - Perfect for F keys
+- Use Layer as a toggle
+  - Choose layer with number keys
+  - Double-tap to return to base layer
+- Remove layer row
+- src_emacs-lisp{(* 6 15)} {{{results(=90=)}}} key layout
+
+[[./image/keyboard-layout-36.png]]
+
+#+HTML: <!--more-->
+
+# ./image/keyboard-layout-36.png https://www.wisdomandwonder.com/wp-content/uploads/2016/05/keyboard-layout-36.png
