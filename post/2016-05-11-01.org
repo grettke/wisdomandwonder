@@ -1,0 +1,57 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10225
+#+DATE: [2016-05-11 Wed 00:09]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Keyboard, MechanicalKeyboard
+#+TITLE: Emacs Keyboard Design 35: Mainstream 96 Key Emacs Keyboard Layout
+
+- Going too far from the mainstream pushes the cost up too high
+- Let key do things that Emacs knows how to do well to leverage keyboard firmware
+  
+[[./image/keyboard-layout-35.png]]
+
+
+#+HTML: <!--more-->
+
+- [[https://geekhack.org/index.php?topic=51252.0][EasyAVR]] is great, but stick closer to mainstream with [[https://github.com/tmk/tmk_keyboard][tmk]]
+- Start with [[https://www.wisdomandwonder.com/article/10222/emacs-keyboard-design-34-grid-layout-revisited][layout 34]]
+- Six rows is closer to a common row count, lets you use any type of
+  keycap
+  - First two rows are unoccupied anyway
+  - Remove first two rows
+  - Layers can handle common keys
+- Easier to source keycaps using a [[http://www.wasdkeyboards.com/index.php/products/keycap-set/104-key-cherry-mx-keycap-set.html][104 key donor]]
+  - Fine that it isn't double-shot, deal with wear later
+- Balance Fn like the other modifiers
+  - Makes them easily reachable for handling all F keys
+  - Fn is only used for Function keys right now, that is fine, simple
+- Move Esc to its place
+  - Good for VI users
+- Add a layer below Fn
+  - Keeping it balanced
+  - Layer 1 (base is 0) most frequently used
+- In the empty row in the middle, add layers
+- Still an Emacs keyboard
+  - Use firmware macros to input Unicode for example Greek-a would send
+    - =M-x ucs-insert RET GREEK SMALL LETTER ALPHA=
+      - Unlikely to be re-bound
+    - Hex would be easier
+- Layer listing
+  - 0 Base
+  - 1 Fn
+  - 2 Balanced below Fn
+  - 3-9 Middle row (balanced by location)
+    - Greek
+    - APL
+    - Emoticons
+      - Faces
+      - Brackets
+    - Double-Struck
+      - Upper
+      - Lower
+  - 9 layers
+    - Perhaps 10th layer can be accessed by double tap
+- src_emacs-lisp{(* 6 16)} {{{results(=96=)}}} key layout
+
+# ./image/keyboard-layout-35.png https://www.wisdomandwonder.com/wp-content/uploads/2016/05/keyboard-layout-35.png
