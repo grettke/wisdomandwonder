@@ -6,6 +6,10 @@
 #+TAGS: Screencasting, Blogging, Utility, Video, ScreenFlow
 #+TITLE: Hello, Screenflow and Youtube
 
-Tonight I set up a [[https://www.youtube.com/watch?v=wNMHg3nDj5c][jingle]] for this blog on YouTube.
+Tonight I set up a [[https://youtu.be/wbrXYkZkmhU][jingle]] for this blog on YouTube.
 
 Fun and personal project.
+
+*Addendum: <2016-05-11 Wed>*
+
+Looped the jingle to 5 minutes.

@@ -1,0 +1,19 @@
+#+DATE: [2016-05-11 Wed 01:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Keyboard, MechanicalKeyboard
+#+TITLE: Emacs Keyboard Design 37: Playing with Layers
+
+- Function keys will never be chorded to label them in front
+  - Might not be worth labeling
+- Labels on keys should make layer choice obvious to user
+  - Don't need separate keys for each layer like Greek and APL and Smiley
+    - Greeks only neeed lower case
+  - Users will change them
+  - Fn will hold most common
+    - Maybe those will always go on front label
+- TODO: ISO Greek layout, lower case in front
+- TODO: Dyalog APL
+  - How does GNU APL do it?
+- TODO: Smileys
+- Mouse, can't mirror it
