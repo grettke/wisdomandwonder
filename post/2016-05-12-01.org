@@ -1,0 +1,175 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10231
+#+DATE: [2016-05-12 Thu 18:12]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: APL, Array programming, Programming Language, Emacs, Lisp, Scheme
+#+TITLE: If You Like LISP Then You'll Love APL
+
+Notes on [[http://www.jsoftware.com/papers/perlis78.htm][Transcription of a talk given by Professor Perlis at the APL’78
+Conference held at Foothill College, Los Altos, CA. on 1978-03-29]] revealed
+these gems:
+
+- Contains all of the best attributes of written language
+- Contains all of the best attributes of LISP... just more so
+- Is a lyrical language
+
+Notes follow...
+
+#+HTML: <!--more-->
+
+Paragraphs starting at 1:
+
+- 1
+  - [[http://www.merriam-webster.com/dictionary/apostate][Apostate]]: someone whose beliefs have changed and who no longer belongs to
+    a religious or political group
+  - "under the influence"
+  - "Like all people who enter interesting things late in life, one tends to
+    go over one’s head very quickly."
+- 2
+  - Row order: Bauer|Perlis|Dijkstra
+- 3
+  - "My God, there must be something in this language (APL)."
+  - APL takes on the properties of the viewer
+- 4
+  - "What attracted me, then, to APL was a feeling that perhaps through APL
+    one might begin to acquire some of the dimensions in programming that we
+    revere in natural language — some of the pleasures of composition; of
+    saying things elegantly; of being brief, poetic, artistic, that makes our
+    natural languages so precious to us. That aspect of programming was one
+    that I’ve long been interested in but have never found any level for
+    coming close to in my experience with (other) languages"
+    - WOW
+  - "It was clear in those languages that programming was really an exercise
+    in plumbing. One was building an intricate object, and the main problem
+    was just to keep your head above water. But, so difficult is it to keep
+    your head above water with those languages"
+- 5
+  - It's unnecessary that APL ever run on a computer: 1963
+    - Notation for expressing algorithmic concepts
+  - Happy accident: System 360 and Iverson not at Harvard
+- 6
+  - His interests don't like up with the majority
+  - APL is approaching a kind of completeness
+  - Every user approaches APL differently
+  - People don't mind using a language if they get things done and feel kind
+    of good doing it; no matter how bad the language it
+  - FORTRAN will pay bills for a long time; don't throw APL (aka have a bowel
+    movement) in people's Wheaties
+  - About every language ever
+    #+BEGIN_EXAMPLE
+And it certainly shouldn’t be a goal of people who use APL to stand forth and
+say, “Why do you jackasses use these inferior linguistic vehicles when we have
+something here that’s so precious, so elegant, which gives me so much
+pleasure? How can you be so blind and so foolish?” That debate you’ll never
+win, and I don’t think you ought to try.
+    #+END_EXAMPLE
+- 7
+  - Adding new language features tends to add new problems
+- 8
+  - WOW follows
+    #+BEGIN_EXAMPLE
+What many of us forget — and we should never forget, of course — is that
+programming step-by-step must someday, though we don’t know how, reach the
+point where it is universally capable of expressing our thoughts, at least
+insofar as they involve giving prescriptions on how to do things. Programming
+is thinking — not all thinking yet, and maybe never all thinking — but insofar
+as when we sit down at the computer we are faced with so many attractive
+possibilities which never occurred to us until we programmed, insofar as that
+happens, we are going to be dissatisfied with the programming languages we
+have. And that includes every language that’s ever been created and those yet
+to come — and there will be others yet to come.
+    #+END_EXAMPLE
+- 9
+  - The idea that one language is perfect for teaching is false
+  - The invention of constructions is "learning to program"
+  - We curse those inventions, but that which we must invent will never be
+    there, so it must be invented
+    - Reminiscent of LISP
+  - We invent (construct) more and more, killing elegance
+- 10
+  - "...the quest for the perfect"
+    - Makes me think of LISP
+  - Every language is the language of tomorrow
+  - APL has something extra though
+- 11
+  - "LISP has a very precious character, if indeed there are some people who
+    can express programming ideas to other people in the language in which
+    they program."
+    - WOW
+  - APL has this property to a far greater degree
+  - WOW follows
+    #+BEGIN_EXAMPLE
+I can’t do that with ALGOL; never have I been able to do it with ALGOL.
+Whenever I’ve programmed in ALGOL and I’ve wished to make some statements
+about the program I was writing, I was forced to go outside the language and
+use English, or mathematics, or some block diagrams or what-not. In APL, I
+find that to a far greater degree than any other language that I’ve used, I
+can make statements about the programs that I’m writing, in APL — actually not
+exactly APL, but APL with some nice little extensions that I dream up at the
+moment but would never think of implementing. But by and large, I find that
+the language allows me to express myself, in the language, about the things
+I’m dealing with. I find that a very precious property of a programming
+language.
+    #+END_EXAMPLE
+- 12
+  - APL is *lyrical*
+  - Programming APL is fun, charming, and pleasant
+    - Perl?
+  - Only one way to do things make programming *dull*
+    - Perlis, certainly LISPism
+- 13
+  - "God made us all different."
+  - You can say things different ways using language
+  - Makes reading fun
+  - "... it’s a pleasure to read (something) when it’s written by someone who has
+    that talent"
+  - "If Shakespeare were alive today, he’d be a programmer, and he’d be
+    writing one-liners in APL."
+    - WOW
+- 14
+  - 1 problem, 50 people, 40 different solutions
+  - Lets people think originally and possibly poorly
+  - Gives APL a literary quality
+  - Efficiency is important, so are infinite other criteria
+- 15
+  - Elegant and clever are praiseworthy
+  - "My God, that’s wonderful! That’s a mechanism!"
+- 16
+  - "APL Pornography" "thrives not because we're evil, but because we're human"
+  - ONE liners are the first step in learning APL
+    - Never use control structures when you are first learning
+- 17
+  - Eventually everything "just fits"
+- 18
+  - Avoid the "the dumbbell model of a language" utilization
+    - High at both ends
+    - Barely used in the middle
+- 19
+  - APL is not perfect, no language is
+  - "the commerce of programs" will not elevate APL to the next level
+- 20
+  - NA
+- 21
+  - Fortran was built for the hardware
+  - APL wasn't built to fit computers
+    - A stream processing language, parallel?
+- 22
+  - Thoughts about how to realize the stream model
+- 23
+  - "we’ve got to get BASIC out of the public school system. BASIC is really
+    harmful for young people. It’s all right for old-timers."
+  - "once you’ve learned APL, you know BASIC, you know FORTRAN, you know
+    ALGOL, indeed, I think you know all programming languages. You don’t know
+    how you know them, but you know them."
+- 24
+  - "arrays, by-and-large, are used by you as control carriers through which
+    you blast sequences of operations. And the use of rank is merely a
+    convenient method of carrying small arrays on the backs of larger arrays.
+    "
+- 25
+  - NA
+- 26
+  - "Hardware drives our field"
+  - "APL is just the ideal language, or closer than any other language, for
+    using that real estate"
