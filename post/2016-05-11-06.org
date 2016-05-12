@@ -1,0 +1,11 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10230
+#+DATE: [2016-05-11 Wed 21:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: APL, Array programming, Programming Language
+#+TITLE: APL demonstration 1975
+
+A [[https://www.youtube.com/watch?v=_DTpQ4Kk2wA][1975 screencast]] about APL. Delightful.
+
+Computers and phones didn't always have screens.

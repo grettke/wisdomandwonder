@@ -1,0 +1,9 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10229
+#+DATE: [2016-05-11 Wed 20:47]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: APL, Array programming, Programming Language
+#+TITLE: APL (programming language)
+
+The [[https://en.wikipedia.org/wiki/APL_(programming_language)][Wikipedia Page on APL]] is fascinating.

@@ -1,0 +1,13 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10228
+#+DATE: [2016-05-11 Wed 20:37]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: APL, Array programming, Programming Language
+#+TITLE: Here Begins APL
+
+[[https://www.youtube.com/watch?v=8kUQWuK1L4w][Here begins APL!]]
+
+To have attended this discussion!
+
+Delightful insights into the minds behind this gem.
