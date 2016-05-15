@@ -1,0 +1,30 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10235
+#+DATE: [2016-05-15 Sun 11:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: APL, Array programming, Programming Language
+#+TITLE: Dyalog at 25
+
+- [[http://www.dyalog.com/papers.htm][URL]]
+- _The Ugly Duckling_
+- PCs made things slower. More available, and slower. That was the challenge.
+- APL made serious money
+- Dyadic Systems Limited + Zilog = Dyalog
+  - Happy accident at the near portmanteau of dialog
+- Interpreter implementation
+  - By committee an spec: 28 man months
+  - By free team making their own decisions: 14 man months
+- "subtle and profound differences"
+  - Our favorite kind! 😊
+- Nested-array schism decision
+- single page marketing strategy, five page technical guide
+- Regarding Dyalog sales in the educational market
+  - "most university computer departments regarded APL as some kind of devil
+    worship"
+- "like ducks to water"
+- "moving all in"
+- Runtime licenses are important once you sell everyone your product
+- Graphics demo duck
+- "we had a dress code. When we became Dyalog, we became scruffy"
+- Helpful read to get a sense of the APL landscape as it exists today
