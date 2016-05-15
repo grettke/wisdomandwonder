@@ -3,7 +3,7 @@
 #+DATE: [2016-04-23 Sat 21:12]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
-#+TAGS: Programming, Philosophy, APL
+#+TAGS: APL, Array programming, Programming Language, Philosophy
 #+TITLE: The Origins of APL - 1974
 
 When the best share it is always timeless:
