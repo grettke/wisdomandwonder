@@ -1,0 +1,36 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10237
+#+DATE: [2016-05-16 Mon 15:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: APL, Array programming, Programming Language
+#+TITLE: Notation as a tool of thought
+
+"You need this programming language..."
+
+... at least, that's what they tell you.
+
+#+HTML: <!--more-->
+
+Iverson doesn't tell you that, though. He sits with you. He shares what he is
+thinking. [[https://dl.acm.org/citation.cfm?id=358899][He shares his values]]. He provides examples. He lets you draw your
+own conclusion. This is unheard of today in the popular landscape of programming
+language bullies.
+
+"Do you know what you value? Do you know what you want in programming
+languages? Do you know what you want to do with those languages?"
+
+Most of us don't have answers to those questions. They are worth answering.
+
+While solving a problem we've all experienced the phenomenon where the
+complexity starts small, enlarges to its maximum as we spend time on it, and
+finally when we've spent a long time on it, the complexity returns to a small
+size. It is universal. Mark Twain said it better, [[https://www.goodreads.com/quotes/21422-i-didn-t-have-time-to-write-a-short-letter-so][like this]]:
+
+#+BEGIN_QUOTE
+I didn't have time to write a short letter, so I wrote a long one instead.
+#+END_QUOTE
+
+What if the notation helps you get you there faster?
+
+This is my impression of APL: that it does. This is my gut feeling.
