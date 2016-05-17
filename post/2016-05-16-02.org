@@ -6,6 +6,7 @@
 #+TAGS: Yoga, philosophy, Health
 #+TITLE: Brené Brown: 3 Things You Can Do to Stop a Shame Spiral
 
+- [[https://www.youtube.com/watch?v=TdtabNt4S7E][YouTube]]
 - Three counter-intuitive things
   - Talk to yourself like you are someone you love when you are feeling
     unworthy
