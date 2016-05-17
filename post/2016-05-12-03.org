@@ -4,7 +4,7 @@
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Link
 #+TAGS: Yoga, philosophy, Health
-#+TITLE: Brene Brown: Why Your Critics Aren't The Ones Who Count
+#+TITLE: Brené Brown: Why Your Critics Aren't The Ones Who Count
 
 [[https://www.youtube.com/watch?v=8-JXOnFOXQk][Here]] is the link.
 
