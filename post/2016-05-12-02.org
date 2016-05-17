@@ -4,7 +4,7 @@
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Link
 #+TAGS: Yoga, philosophy, Health
-#+TITLE: Brene Brown: 6 Types of People Who Do Not Deserve to Hear Your Shame Story
+#+TITLE: Brené Brown: 6 Types of People Who Do Not Deserve to Hear Your Shame Story
 
 "You share with people who earn the right to hear your story".
 
