@@ -1,0 +1,24 @@
+#+DATE: [2016-05-18 Wed 13:47]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: APL, Array programming, Programming Language
+#+TITLE: User Guide Notes for @dyalogapl APL on OS X
+
+- Page 1
+- Page 2
+- Version ~14.1~
+- Revision: ~20151012_141~
+- To whom is =Javascript= trademarked?!
+- Page 3
+- Page 4
+- Page 5
+- Assumption: Most reading will be done in the main documentation
+  #+BEGIN_QUOTE
+  This document is only part of the full documentation set for Dyalog
+  (available to download from http://docs.dyalog.com). In cases where the
+  information given is different between this document and any of the others,
+  this document should be regarded as the definitive source for Dyalog for Mac
+  OS.
+  #+END_QUOTE
+- Maybe I should have done the [[http://tutorial.dyalog.com/][tutorial]] before reading this!
+- 
