@@ -1,0 +1,68 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10244
+#+DATE: [2016-05-17 Tue 20:06]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: APL, Array programming, Programming Language
+#+TITLE: Getting Started with @dyalogapl APL on OS X for the Truly Impatient
+
+- These are the steps that I took to get Dyalog up and running on an OS X
+  10.11 box *for my first time ever*
+- Dyalog is easy to set up on OS X
+- These notes are the shortest specific steps that I found to get Dyalog up
+  and running
+- My goal is to evaluate =⍳5= using my laptop keyboard
+- My notes follow
+
+#+HTML: <!--more-->
+
+- There are four different licenses that make Dyalog accessible to every kind
+  of user
+- Choose a [[http://www.dyalog.com/prices-and-licences.htm][price and license]] and then follow the link to apply for a license
+  | Approximate Price (USD) | License Link            | Note                  |
+  |-------------------------+-------------------------+-----------------------|
+  |                       0 | [[http://www.dyalog.com/download-zone/unregistered.htm][Unregistered]]            | Nagware               |
+  |                       0 | [[http://dss.dyalog.com/apply.php?ltype=edu][Educational]]             | Share project details |
+  |                     100 | [[http://dss.dyalog.com/apply.php?ltype=pe][Personal/Non-Commercial]] | NA                    |
+  |                    2000 | [[http://www.dyalog.com/prices-and-licences/licence-terms-and-conditions.htm#developer][Commercial]]              | NA                    |
+- Wait 5 minutes for that license and download link via email
+- Read the [[http://docs.dyalog.com/14.1/Dyalog%2520APL%2520for%2520Mac%2520OS%2520Installation%2520and%2520Configuration%2520Guide.pdf][installation guide]]
+- Download and install, don't run it yet
+- Go to ~$HOME/.dyalog~ and initialize a Git repo and add everything and commit
+  it
+- Install the *fixed-width* APL385 font into =$HOME/Library/Fonts/=
+- Install keyboard mapping for APL glyphs into =$HOME/Library/Keyboard Layouts=
+  following the setup directions
+  - The default way to switch input sources is
+    - =control-<space>= previous input source
+    - =control-option-space= next input source
+  - Emacs will notice, so change it to
+    - =option-space= previous
+    - =option-shift-space= next
+  - The input source is nice, glad to learn about this
+- Print out the Default Keyboard page to keep on your desk
+  - You can also find the layout [[https://dfns.dyalog.com/n_keyboards.htm][here]] which is nice if you want to change the
+    font size or color of the printout. The APL symbols are difficult to read
+    when they are in orange on white.
+  - I pasted it into a text editor and made it black on white, and increased
+    the font (APL385) size to 41 to fill the entire page
+  - After playing around with I learned that when you print the PDF you can
+    adjust the zoom to fill the entire page, so I did so
+  - [[./pdf/dyalog-keyboard-fmt.pdf][Here]] is the final result
+- Start Dyalog
+  - Make sure that it works
+  - Should be able to evaluate =⍳5= now
+  - Hold =Option= and push the I key and then 5 and hit return
+- Most APL examples on the Internet are IBM APL2
+  - If you want to run them then [[https://stackoverflow.com/questions/27936301/enclose-behaviour-in-gnu-apl-and-dyalog-apl][set the compatibility level]] to 3 like this ~⎕ML←3~
+- This is how I got started
+  - Feel good about it
+  - Have an APL distribution
+    - With an APL keyboard, cool!
+    - That can run most APL examples, cool!
+  - Looking forward to doing more
+
+#  LocalWords:  APL dyalogapl Dyalog dyalog repo glyphs vious TEXTINAPLCORE
+#  LocalWords:  ERRORONEXTERNAL KiB INUSE MAXWS GiB config
+
+# ./pdf/dyalog-keyboard-fmt.pdf https://www.wisdomandwonder.com/wp-content/uploads/2016/05/dyalog-keyboard-fmt.pdf
