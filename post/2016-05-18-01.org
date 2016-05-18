@@ -4,13 +4,11 @@
 #+TAGS: APL, Array programming, Programming Language
 #+TITLE: User Guide Notes for @dyalogapl APL on OS X
 
-- Page 1
-- Page 2
+- Page 1-2
 - Version ~14.1~
 - Revision: ~20151012_141~
 - To whom is =Javascript= trademarked?!
-- Page 3
-- Page 4
+- Page 3-4
 - Page 5
 - Assumption: Most reading will be done in the main documentation
   #+BEGIN_QUOTE
@@ -23,4 +21,18 @@
 - Maybe I should have done the [[http://tutorial.dyalog.com/][tutorial]] before reading this?!
   - Feel like getting comfortable with Dyalog means getting comfortable with
     the tooling
-- 
+- Page 6
+- 14.1 is brand new for OS X and it uses the new IDE which is catching up to
+  the Windows IDE
+- Page 7
+- When I start Dyalog, the APL key mapping isn't enabled
+- "Hide" and "Show" feature, neat!
+- Why does =(<LBR>)= give an error? Is that a key code?
+- Page 9-12
+- Page 13
+- Trying to edit =+= and failing on each of the four ways to do it
+- Tried again, =X←10=, now all 4 options work
+  - <ED> means edit, bound to =shift-enter=
+- Page 14
+- "is for" instead of "if for"
+- Changed =X= to =20= and tried saving it, it doesn't save
