@@ -20,5 +20,7 @@
   this document should be regarded as the definitive source for Dyalog for Mac
   OS.
   #+END_QUOTE
-- Maybe I should have done the [[http://tutorial.dyalog.com/][tutorial]] before reading this!
+- Maybe I should have done the [[http://tutorial.dyalog.com/][tutorial]] before reading this?!
+  - Feel like getting comfortable with Dyalog means getting comfortable with
+    the tooling
 - 
