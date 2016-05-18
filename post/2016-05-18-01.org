@@ -36,3 +36,8 @@
 - Page 14
 - "is for" instead of "if for"
 - Changed =X= to =20= and tried saving it, it doesn't save
+- Page 15
+- Page 16
+- Can't get the trace window opened with =control-enter= on =+/⍳5=
+  - Perhaps because it is a primitive?
+  - 
