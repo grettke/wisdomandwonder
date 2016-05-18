@@ -40,4 +40,16 @@
 - Page 16
 - Can't get the trace window opened with =control-enter= on =+/⍳5=
   - Perhaps because it is a primitive?
-  - 
+- Created a function to add two to the argument
+#+NAME: 0B87B000-8E65-4804-8D7B-3261D3D42C68
+#+BEGIN_SRC sh
+∇ADDTWO X
+[1]  X+2
+[2]  ∇
+#+END_SRC
+- ADDTWO 10 results in 12
+- Now I can test the debugger
+- Going back to the session window lets you evalute debugged values
+  - Believe this is the intent, and it does work
+- Page 17
+- Forward and backward debugger, nice
