@@ -1,8 +1,15 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10245
 #+DATE: [2016-05-18 Wed 13:47]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
 #+TAGS: APL, Array programming, Programming Language
 #+TITLE: User Guide Notes for @dyalogapl APL on OS X
+
+- This is enough to leave you with a system that you can easily code in, feels
+  familiar, and gives you pop up help for learning APL
+
+#+HTML: <!--more-->
 
 - Page 1-2
 - Version ~14.1~
@@ -28,13 +35,14 @@
 - When I start Dyalog, the APL key mapping isn't enabled
 - "Hide" and "Show" feature, neat!
 - Why does =(<LBR>)= give an error? Is that a key code?
+  - Jump to section 5.1 to see how this notation is defined
+  - These are Keyboard Shortcuts and Command Codes
 - Page 9-12
 - Page 13
 - Trying to edit =+= and failing on each of the four ways to do it
 - Tried again, =X←10=, now all 4 options work
   - <ED> means edit, bound to =shift-enter=
 - Page 14
-- "is for" instead of "if for"
 - Changed =X= to =20= and tried saving it, it doesn't save
 - Page 15
 - Page 16
@@ -49,7 +57,53 @@
 #+END_SRC
 - ADDTWO 10 results in 12
 - Now I can test the debugger
-- Going back to the session window lets you evalute debugged values
+- Going back to the session window lets you evaluate debugged values
   - Believe this is the intent, and it does work
 - Page 17
 - Forward and backward debugger, nice
+- Page 18
+- Page 19
+- =control-tab= Cycle between windows forward
+- =shift-control-tab= Cycle between windows backward
+- =escape= Exit window, save changes
+- =shift-escape= Exit window, don't save changes
+- Easier to float windows and move them around outside of the session window
+- Page 20
+- Autocomplete starts with =`=
+  - Nice way to learn the commands and their bindings
+- It would be nice of command code's were listed along with their default
+  keybinding so you can try it out right away instead of going back to the
+  appendix
+  - Maybe print out the command code appendix *before* reading the guide!
+- Page 22
+- F1 is context sensitive help
+  - This is a *biggie*
+  - This alone is enough to start playing with stuff and learning the system
+- Page 23
+- How to import/export color themes?
+  - Can define new ones on page 31
+- Backward =BK*= =control-shift-backspace=, previous line of input history
+- *Forward* =FD*= =control-shift-enter=, next line of input history
+- Page 24
+- Daylog provides multi-threading
+- Supports debugging (different from tracing?!)
+  - Breakpoints can bet set in the edit window and flagged in the trace window
+  - =)SI= shows the stack
+  - =⎕STOP= sets breakpoints
+- Page 25
+- Interrupts can be handled
+- =)off= leaves the REPL
+- Page 26
+- List of things that are unsupported on OS X
+  - Never used Dyalog before so will not miss it
+  - Still good to know
+  - Some symbol rendering is wrong
+  - Can't interact with a terminal
+- Page 27-30
+- Page 31
+- How to create a color theme
+- Page 32
+- How to set the titlebar text
+- Page 33-38
+
+#  LocalWords:  APL dyalogapl Javascript Dyalog LBR ADDTWO Autocomplete
