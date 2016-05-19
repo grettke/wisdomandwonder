@@ -45,8 +45,7 @@
       - Negative number means smaller than desired force
   - CE: Close enough?
     - Want the actuation force as close as possible
-    - If it is close enough, consider it
-    - Within 18g is fine to start
+    - If competing, take smaller, don't want extra strain
   - Data & Analysis
     | Color | Switch | Act | Dlt | CE |
     |-------+--------+-----+-----+----|
@@ -54,7 +53,7 @@
     | Black | L      |  60 |  -8 | T  |
     | Brown | T      |  45 | -23 | F  |
     | Clear | T      |  55 | -13 | T  |
-    | Grey  | T      |  80 |  12 | T  |
-    | Blue  | TC     |  50 | -18 | T  |
+    | Grey  | T      |  80 |  12 | F  |
+    | Blue  | TC     |  50 | -18 | F  |
     | White | TC     |  65 |  -3 | T  |
-    | Green | TC     |  80 |  12 | T  |
+    | Green | TC     |  80 |  12 | F  |
