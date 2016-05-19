@@ -5,7 +5,7 @@
 #+CATEGORY: Article
 #+TAGS: APL, Array programming, Programming Language
 #+TITLE: User Guide Notes for @dyalogapl APL on OS X
-
+y 
 - This is enough to leave you with a system that you can easily code in, feels
   familiar, and gives you pop up help for learning APL
 
