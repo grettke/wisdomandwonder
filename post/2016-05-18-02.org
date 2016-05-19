@@ -35,13 +35,24 @@
     - One of them [[https://www.usmint.gov/about_the_mint/?action=coin_specifications][weighs]] 5.670 grams
     - Key press weight: src_emacs-lisp{(* 5.670 12)} {{{results(=68.03999999999999=)}}}
 - Cherry Candidates (closest)
-  | Color | Switch Type      | Actuation grams | Delta grams |
-  |-------+------------------+-----------------+-------------|
-  | Red   | Linear           |              45 |          23 |
-  | Black | Linear           |              60 |           8 |
-  | Brown | Tactile          |              45 |          23 |
-  | Clear | Tactile          |              55 |          13 |
-  | Grey  | Tactile          |              80 |         -12 |
-  | Blue  | Tactile & Clicky |              50 |          18 |
-  | White | Tactile & Clicky |              65 |           3 |
-  | Green | Tactile & Clicky |              80 |         -12 |
+  - Legend
+    - Color: Color
+    - Switch: Cherry Switch Type
+      - L, Linear
+      - T, Tactile
+      - TC, Tactile & Clicky
+    - Act: Switch activation in grams
+    - Dlt: Difference between desired actuation force of 68 grams and actual
+      - Positive number means larger than desired force
+      - Negative number means smaller than desired force
+  - Data
+    | Color | Switch | Act | Dlt |
+    |-------+--------+-----+-----|
+    | Red   | L      |  45 |  23 |
+    | Black | L      |  60 |   8 |
+    | Brown | T      |  45 |  23 |
+    | Clear | T      |  55 |  13 |
+    | Grey  | T      |  80 | -12 |
+    | Blue  | TC     |  50 |  18 |
+    | White | TC     |  65 |   3 |
+    | Green | TC     |  80 | -12 |
