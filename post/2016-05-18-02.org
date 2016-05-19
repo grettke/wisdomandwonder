@@ -57,3 +57,4 @@
   - CE: Close enough?
     - Want the actuation force as close as possible
     - If it is close enough, consider it
+    - Within 18g is fine to start
