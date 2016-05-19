@@ -1,3 +1,5 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10246
 #+DATE: [2016-05-18 Wed 19:11]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
@@ -44,7 +46,7 @@
       - T, Tactile
       - TC, Tactile & Clicky
     - Act: Switch activation in grams
-    - Dlt: Difference between desired actuation force of 68 grams and actual
+    - \Delta: Difference between desired actuation force of 68 grams and actual
       - Positive number means larger than desired force
       - Negative number means smaller than desired force
   - CE: Close enough?
@@ -55,7 +57,7 @@
       them. Never noticed this *before* the past few weeks testing switches.
       Great to know. I want sound.
 - Analysis
-    | Color | Switch | Act | Dlt | CE | SO |
+    | Color | Switch | Act | \Delta | CE | SO |
     |-------+--------+-----+-----+----+----|
     | White | TC     |  65 |  -3 | T  | T  |
     | Clear | T      |  55 | -13 | T  | T  |
