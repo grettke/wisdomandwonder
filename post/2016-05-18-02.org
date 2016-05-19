@@ -4,7 +4,7 @@
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
 #+TAGS: Keyboard, MechanicalKeyboard
-#+TITLE: Choosing a Switch: I Choose Cherry MX Whites
+#+TITLE: Choosing a Switch: Why Cherry MX Whites
 
 - Here is how I decided to go with the Cherry MX White Switch
 
