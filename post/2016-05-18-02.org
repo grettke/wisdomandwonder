@@ -8,7 +8,7 @@
   - Go with best predictability
   - Cherry
 - Model
-  - Play with 8 switch types on tester for a couple weeks (with actuation
+  - Play with 8 switch types on [[http://www.maxkeyboard.com/max-keycap-cherry-mx-switch-gateron-switch-o-ring-ultimate-sampler-tester-kit.html][tester]] for a couple weeks (with actuation
     force)
     - Red 45g, Black 60g, Brown45g, Clear 55g, Grey 80g, Blue 50g, White 65g,
       Green 80g
@@ -34,6 +34,5 @@
       - Tested 3 times
     - One of them [[https://www.usmint.gov/about_the_mint/?action=coin_specifications][weighs]] 5.670 grams
     - Key press weight: src_emacs-lisp{(* 5.670 12)} {{{results(=68.03999999999999=)}}}
-      - Round it to =68.04= grams
   - Cherry Candidates
     -
