@@ -1,0 +1,38 @@
+#+DATE: [2016-05-18 Wed 19:11]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Keyboard, MechanicalKeyboard
+#+TITLE: Choosing a Switch
+
+- Brand
+  - Go with best predictability
+  - Cherry
+- Model
+  - Play with 8 switch types on tester for a couple weeks (with actuation
+    force)
+    - Red 45g, Black 60g, Brown45g, Clear 55g, Grey 80g, Blue 50g, White 65g,
+      Green 80g
+      - Only noted the actuation force after testing for two or three weeks
+  - All felt fine
+    - Linears felt great surprisingly
+    - Tactile bump makes sense
+      - Different the laptop because you begin the travel and then encounter
+        another obstacle, keep pressing and then the key activates. They are
+        two different bits of action: the energy to get the switch moving
+        because of the weight and then the energy? to get it over the bump
+    - Click noise interesting to add another dimension of feedback
+      - Maybe also headache
+  - Find that all keyboard make noise no matter what so choosing something
+    that feels right
+- Research
+  - Switches on my laptop
+    - Are not silent, but not clicky either
+    - Go with something close to that
+    - It takes 12 US 25 cent coins to activate the ALT key
+      - 11 will not press the key no matter how I nudge it
+      - Tested 3 times
+    - One of them [[https://www.usmint.gov/about_the_mint/?action=coin_specifications][weighs]] 5.670 grams
+    - Key press weight: src_emacs-lisp{(* 5.670 12)} {{{results(=68.03999999999999=)}}}
+      - Round it to =68.04= grams
+  - Cherry Candidates
+    -
