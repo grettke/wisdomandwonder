@@ -46,16 +46,20 @@
   - CE: Close enough?
     - Want the actuation force as close as possible
     - If competing, take smaller, don't want extra strain
-  -
+  - SO: Sounds OK?
+    - On my laptop keyboard, I hit the keys so hard that I stop when I hear
+      them. Never noticed this *before* the past few weeks testing switches.
+      Great to know. I want sound.
 - Analysis
-    | Color | Switch | Act | Dlt | CE |
-    |-------+--------+-----+-----+----|
-    | Black | L      |  60 |  -8 | T  |
-    | Clear | T      |  55 | -13 | T  |
-    | White | TC     |  65 |  -3 | T  |
-    | Red   | L      |  45 | -23 | F  |
-    | Brown | T      |  45 | -23 | F  |
-    | Grey  | T      |  80 |  12 | F  |
-    | Blue  | TC     |  50 | -18 | F  |
-    | Green | TC     |  80 |  12 | F  |
+    | Color | Switch | Act | Dlt | CE | SO |
+    |-------+--------+-----+-----+----+----|
+    | White | TC     |  65 |  -3 | T  | T  |
+    | Clear | T      |  55 | -13 | T  | T  |
+    | Black | L      |  60 |  -8 | T  | F  |
+    | Red   | L      |  45 | -23 | F  | NA |
+    | Brown | T      |  45 | -23 | F  | NA |
+    | Grey  | T      |  80 |  12 | F  | NA |
+    | Blue  | TC     |  50 | -18 | F  | NA |
+    | Green | TC     |  80 |  12 | F  | NA |
 - Decision
+
