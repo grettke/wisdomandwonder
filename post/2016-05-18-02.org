@@ -49,11 +49,11 @@
   - Data & Analysis
     | Color | Switch | Act | Dlt | CE |
     |-------+--------+-----+-----+----|
-    | Red   | L      |  45 | -23 | F  |
     | Black | L      |  60 |  -8 | T  |
-    | Brown | T      |  45 | -23 | F  |
     | Clear | T      |  55 | -13 | T  |
+    | White | TC     |  65 |  -3 | T  |
+    | Red   | L      |  45 | -23 | F  |
+    | Brown | T      |  45 | -23 | F  |
     | Grey  | T      |  80 |  12 | F  |
     | Blue  | TC     |  50 | -18 | F  |
-    | White | TC     |  65 |  -3 | T  |
     | Green | TC     |  80 |  12 | F  |
