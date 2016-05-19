@@ -10,7 +10,7 @@
 - Model
   - Play with 8 switch types on [[http://www.maxkeyboard.com/max-keycap-cherry-mx-switch-gateron-switch-o-ring-ultimate-sampler-tester-kit.html][tester]] for a couple weeks (with actuation
     force)
-    - Red 45g, Black 60g, Brown45g, Clear 55g, Grey 80g, Blue 50g, White 65g,
+    - Red 45g, Black 60g, Brown 45g, Clear 55g, Grey 80g, Blue 50g, White 65g,
       Green 80g
       - Only noted the actuation force after testing for two or three weeks
   - All felt fine
