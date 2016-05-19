@@ -29,6 +29,7 @@
     - Are not silent, but not clicky either
     - Go with something close to that
     - It takes 12 US 25 cent coins to activate the ALT key
+      - Easiest one to test, a quarter can sit on it without obstacles
       - 11 will not press the key no matter how I nudge it
       - Tested 3 times
     - One of them [[https://www.usmint.gov/about_the_mint/?action=coin_specifications][weighs]] 5.670 grams
