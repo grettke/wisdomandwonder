@@ -8,10 +8,8 @@
   - Go with best predictability
   - Cherry
 - Model
-  - Play with 8 switch types on [[http://www.maxkeyboard.com/max-keycap-cherry-mx-switch-gateron-switch-o-ring-ultimate-sampler-tester-kit.html][tester]] for a couple weeks (with actuation
-    force)
-    - Red 45g, Black 60g, Brown 45g, Clear 55g, Grey 80g, Blue 50g, White 65g,
-      Green 80g
+  - Play with 8 switch types on [[http://www.maxkeyboard.com/max-keycap-cherry-mx-switch-gateron-switch-o-ring-ultimate-sampler-tester-kit.html][tester]] for a couple weeks
+    - Red, Black, Brown, Clear, Grey, Blue, White, Green
       - Only noted the actuation force after testing for two or three weeks
   - All felt fine
     - Linears felt great surprisingly
@@ -45,7 +43,7 @@
     - Dlt: Difference between desired actuation force of 68 grams and actual
       - Positive number means larger than desired force
       - Negative number means smaller than desired force
-  - Data
+  - Data & Analysis
     | Color | Switch | Act | Dlt |
     |-------+--------+-----+-----|
     | Red   | L      |  45 |  23 |
@@ -56,3 +54,4 @@
     | Blue  | TC     |  50 |  18 |
     | White | TC     |  65 |   3 |
     | Green | TC     |  80 | -12 |
+  - hi
