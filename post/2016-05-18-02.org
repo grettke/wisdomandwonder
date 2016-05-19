@@ -32,7 +32,7 @@
       - Tested 3 times
     - One of them [[https://www.usmint.gov/about_the_mint/?action=coin_specifications][weighs]] 5.670 grams
     - Key press weight: src_emacs-lisp{(* 5.670 12)} {{{results(=68.03999999999999=)}}}
-- Cherry Candidates (closest)
+- Cherry Candidates Data
   - Legend
     - Color: Color
     - Switch: Cherry Switch Type
