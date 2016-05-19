@@ -61,5 +61,18 @@
     | Grey  | T      |  80 |  12 | F  | NA |
     | Blue  | TC     |  50 | -18 | F  | NA |
     | Green | TC     |  80 |  12 | F  | NA |
-- Decision
+- Decision: White
+  - White's delta is closer, but that isn't what sold me
+  - I press the key until I hear that it is activated
+  - With the Clear, I keep pressing until it bottoms out and I hear it, in
+    addition to feeling it
+    - The feel is the same as on my laptop
+  - What I hope to gain from the tactile and clicky feedback is not having to
+    pound on keys to know that they have been pressed
+- Thoughts
+  - Fun to learn about different options
+  - Fun to learn what I think that I want
+  - Look forward to trying it out
 
+#  LocalWords:  MechanicalKeyboard dictability Linears ssing clicky ss src
+#  LocalWords:  emacs Dlt ssed
