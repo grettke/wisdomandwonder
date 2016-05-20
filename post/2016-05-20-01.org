@@ -1,0 +1,15 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10249
+#+DATE: [2016-05-20 Fri 07:48]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: APL, Array programming, Programming Language
+#+TITLE: The GNU APL Mailing List bug-apl is For Everything (not only bugs)
+
+[[https://savannah.gnu.org/mail/?group=apl][Via:]]
+
+#+BEGIN_QUOTE
+[[https://lists.gnu.org/mailman/listinfo/bug-apl][bug-apl Mailing List]]  Everything (not only bugs) related to GNU APL
+
+To see the collection of prior posting to the list, visit the [[https://lists.gnu.org/archive/html/bug-apl/][bug-apl archives]].
+#+END_QUOTE
