@@ -1,0 +1,14 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10250
+#+DATE: [2016-05-22 Sun 20:49]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Three Ways to Quote in your Notes with Org-Mode
+
+Here are three ways that I might want to quote content in my personal notes
+with Org-Mode:
+
+[[yt:1uZiKtHswus]]
+
+My friends *really* /might/ want to know how.
