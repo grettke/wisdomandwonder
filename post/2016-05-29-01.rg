@@ -117,6 +117,7 @@ The following are some of them that were the most helpful to me.
   - Makes more sense after studying other builds
   - Use acrylic layer on top of steel to avoid shorts instead of using
     electrical tape
+  - top and bottom plates are 1.5mm, seems to be the standard
 
 * Notes on the Notes
 
