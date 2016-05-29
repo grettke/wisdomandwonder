@@ -50,8 +50,11 @@ The following are some of them that were the most helpful to me.
 
 * Thoughts & Decisions
 
-- Custom build because I can't find any programmable grids that are available
-  or have Cherry MX switches
+- Custom build
+  - Yes because I can't find any programmable grids that are available or have
+    Cherry MX switches
+  - Builds like the Keyboardio and ErgoDox are great and cost less than
+    anything you can do on your own
 
 #  LocalWords:  MechanicalKeyboard walkthrough
 
