@@ -148,7 +148,19 @@ The most important is the diode direction. This is from row to column. Most buil
   - Used a ribbon pulled apart?
   - Controller "hanging out"
   - Weaved cable
-
+- 65% build [[https://deskthority.net/workshop-f7/custom-65-finally-finished-t5663.html][DeskThority]]
+  - Wnats better cable sleeve and screws
+  - Sandwich 4 layers
+    - Metal skinny
+    - Acrylic thick
+    - Acrylic thick
+    - Metal skinny
+  - Started 100% stainless steel; super strong and good
+    - Wouldn't do it again, because it is too firm because he types too hard
+      and didn't want to change style
+  - Use aluminum or acrylic instead
+  - Had shorting problems
+    
 * Notes on the Notes
 
 - Referenced guides
