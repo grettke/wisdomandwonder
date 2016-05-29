@@ -113,6 +113,10 @@ The following are some of them that were the most helpful to me.
   - Via build
     - Love it
     - Would add another row for emacs keys
+- Mateo's build of Brown Fox ([[http://cubiq.org/build-your-very-own-pc-keyboard][Blog]])
+  - Makes more sense after studying other builds
+  - Use acrylic layer on top of steel to avoid shorts instead of using
+    electrical tape
 
 * Notes on the Notes
 
