@@ -63,6 +63,7 @@ The following are some of them that were the most helpful to me.
       - Ran out of colors
     - Rows are wired by diodes
     - Sandwich case, hot glued, electrical tape on bottom
+    - Accessible reset button
 
 ** Bamboo
 
