@@ -109,6 +109,8 @@ The following are some of them that were the most helpful to me.
 - Can you block-out pins that you should'nt use so you won't accidentally use
   them?
 - Is there an insulator that you can apply after say to diodes?
+- Can you wire an entire board without soldering?
+  - Just curious; soldering stuff is fine
 
 #  LocalWords:  MechanicalKeyboard walkthrough
 
