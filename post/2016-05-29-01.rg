@@ -11,12 +11,9 @@ The following are some of them that were the most helpful to me.
 #+HTML: <!--more-->
 
 * Whole Build
-
-** Planck
+** Planck (or Planck clone)
 
 *** 3D Printed
-
-**** Plastic
 
 - Metal top plate, 3d printed plastic body ([[https://www.reddit.com/r/MechanicalKeyboards/comments/34riqo/planck_pcb_3d_printed_milled_case/][Reddit]], [[https://imgur.com/a/nwrZV][Imgur]])
   - Via discussion
@@ -36,7 +33,7 @@ The following are some of them that were the most helpful to me.
     - visible/mentioned tools: needle-nose pliers, pliers, x-acto, solder
       wick, solder sucker, [[https://geekhack.org/index.php?topic=51792.0][SIP sockets]] so don't have to solder LEDs
 
-**** Carbon Fiber
+*** Carbon Fiber
 
 - Entire body is carbon, ([[https://www.reddit.com/r/MechanicalKeyboards/comments/4hnpk9/photos_the_carbon_planck_full_buildlog/][Reddit]], [[https://imgur.com/gallery/tO6tz][Imgur]])
   - Via discussion
@@ -65,7 +62,7 @@ The following are some of them that were the most helpful to me.
     - Sandwich case, hot glued, electrical tape on bottom
     - Accessible reset button
 
-** Bamboo
+*** Bamboo
 
 - Used Bamboo ([[https://www.reddit.com/r/MechanicalKeyboards/comments/4li1fo/photos_40_the_pilcrow/][Reddit]], [[https://imgur.com/a/qRiW4][Imgur]])
   - Via discussion
