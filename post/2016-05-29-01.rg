@@ -50,8 +50,8 @@ The following are some of them that were the most helpful to me.
 
 * Thoughts & Decisions
 
-- Custom build because I can't find any programmable grids that are available or have
-  Cherry MX switches
+- Custom build because I can't find any programmable grids that are available
+  or have Cherry MX switches
 
 #  LocalWords:  MechanicalKeyboard walkthrough
 
