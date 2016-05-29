@@ -158,6 +158,8 @@ The following are some of them that were the most helpful to me.
     - Wood
 - Switches
   - Might as well make the swith cutout serviceable
+  - Speaker wire mentioned, has insulation everywhere, melt off on solder,
+    looks nice
 - Caps
   - Doubleshot DSA PBT, do they exist?
   - Make accessible; don't layer/blank standard stuff
