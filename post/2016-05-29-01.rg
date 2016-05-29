@@ -155,7 +155,7 @@ The following are some of them that were the most helpful to me.
 - Switches
   - Might as well make the swith cutout serviceable
 - Caps
-  - DSA PBT
+  - Doubleshot DSA PBT, do they exist?
   - Make accessible; don't layer/blank standard stuff
 - LED
   - Can't see them with DSA PBT
