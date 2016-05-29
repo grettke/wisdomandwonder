@@ -12,12 +12,22 @@ The following are some of them that were the most helpful to me.
 
 * Whole Build
 
-- You can [[https://imgur.com/gallery/nwrZV][purchase a Planck top plate]]
+** Planck
+
+*** 3D Printed
+
+**** Plastic
+
+- Metal top plate, 3d printed plastic body ([[https://www.reddit.com/r/MechanicalKeyboards/comments/34riqo/planck_pcb_3d_printed_milled_case/][Reddit]], [[https://imgur.com/a/nwrZV][Imgur]])
   - etch/prime, and paint the top plate matte black
   - print the milled bottom case
     - might have to break it up into pieces small enough for the printer to
       print
     - acetone "welds" the separate pieces together
   - visible tools: needle-nose pliers, pliers, x-acto
+
+**** Carbon Fiber
+
+-
 
 #  LocalWords:  MechanicalKeyboard walkthrough
