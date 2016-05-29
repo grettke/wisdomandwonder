@@ -48,13 +48,22 @@ The following are some of them that were the most helpful to me.
 - Via build
 
 
-* Thoughts & Decisions
+* Notes on the Notes
 
+- Referenced guides
+  - [[https://deskthority.net/workshop-f7/how-to-build-your-very-own-keyboard-firmware-t7177.html][How to build your own firmware]]
+  - [[https://deskthority.net/workshop-f7/brownfox-step-by-step-t6050.html][BrownFox]]
+  - [[https://github.com/jackhumbert/qmk_firmware/blob/master/HAND_WIRE.md][Quantum Hand-Wiring]]
 - Custom build
   - Yes because I can't find any programmable grids that are available or have
     Cherry MX switches
   - Builds like the Keyboardio and ErgoDox are great and cost less than
     anything you can do on your own
+
+* To Do
+
+- Can you block-out pins that you should'nt use so you won't accidentally use
+  them?
 
 #  LocalWords:  MechanicalKeyboard walkthrough
 
