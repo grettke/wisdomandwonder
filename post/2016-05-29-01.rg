@@ -93,6 +93,11 @@ The following are some of them that were the most helpful to me.
       - Columns are color-coded
     - Caulk around inner edge to ensure no shorts?
 
+** Phantom
+
+- Sweet Phantom build ([[https://geekhack.org/index.php?topic=54422.0][GeekHack]], [[https://www.flickr.com/photos/115722906@N08/sets/72157640605854324/][Flickr]])
+  - Good for ideas
+
 * Notes on the Notes
 
 - Referenced guides
