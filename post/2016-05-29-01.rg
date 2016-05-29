@@ -39,19 +39,40 @@ The following are some of them that were the most helpful to me.
 **** Carbon Fiber
 
 - Entire body is carbon, ([[https://www.reddit.com/r/MechanicalKeyboards/comments/4hnpk9/photos_the_carbon_planck_full_buildlog/][Reddit]], [[https://imgur.com/gallery/tO6tz][Imgur]])
-- Via discussion
-  - Next time would wire cleaner with better cable management
-  - Going DSA
-  - Fabbers are quoting $40USD/set(top and bottom plate)
-  - Column wires are color coded
-  - Not stiff as metal; some flex
-- Via build
-  - Used the serviceable switch pattern
-    #+BEGIN_EXAMPLE
-I used 1N4148 diodes and bent all them together and put them like this to
-solder them. The last row was a bit more difficult. Don't heat the diodes too
-long and of course always check the orientation before soldering.
-    #+END_EXAMPLE
+  - Via discussion
+    - Next time would wire cleaner with better cable management
+    - Going DSA
+    - Fabbers are quoting $40USD/set(top and bottom plate)
+    - Column wires are color coded
+    - Not stiff as metal; some flex
+  - Via build
+    - Used the serviceable switch pattern
+      #+BEGIN_EXAMPLE
+  I used 1N4148 diodes and bent all them together and put them like this to
+  solder them. The last row was a bit more difficult. Don't heat the diodes too
+  long and of course always check the orientation before soldering.
+      #+END_EXAMPLE
+- A conversation about the previous post before it was finished
+  - Via discussion
+    - Super glue the carbon fiber edges because they will cut you and stay in
+      you forever
+    - Breathing carbon fiber dust will kil you
+  - Via build
+    - What specs are the spacers?
+    - Nice insulated, color-coded wiring for columns
+      - Ran out of colors
+    - Rows are wired by diodes
+    - Sandwich case, hot glued, electrical tape on bottom
+
+** Grid Like
+
+- First 70% ([[https://www.reddit.com/r/MechanicalKeyboards/comments/4h3ycu/photos_first_70_custom_matrix_keyboard_build/][Reddit]], [[https://imgur.com/a/UUTRY][Imgur]])
+  - Via discussion
+    - Spent only 56USD
+    - [[https://github.com/optiminimal/70-custom-grid-keyboard/blob/master/05/stl/optiminmal_top_rev5.stl][Modeled in OpenSCAD]]
+      - 3d
+      - Serviceable
+  - Via build
 
 * Notes on the Notes
 
@@ -64,6 +85,12 @@ long and of course always check the orientation before soldering.
     Cherry MX switches
   - Builds like the Keyboardio and ErgoDox are great and cost less than
     anything you can do on your own
+- Sandwich case
+  - Electrical tape on bottom prevents shorts
+  - Between layers
+    - Hot glue
+  - Layers
+    - Wood
 - Switches
   - Might as well make the swith cutout serviceable
 - Caps
@@ -73,6 +100,7 @@ long and of course always check the orientation before soldering.
 - Plate
   - Powder coated might wear and feel better
   - Sandwich cases can use [[https://www.google.com/search?q=sex+bolts&oq=sex+bolts&aqs=chrome..69i57j69i60l3.3057j0j7&sourceid=chrome&ie=UTF-8][sex bolts]]
+  - Modeling it myself might be simpler
 - Wiring
   - Diodes can serve as ininsulated wire for a row
 
@@ -80,6 +108,7 @@ long and of course always check the orientation before soldering.
 
 - Can you block-out pins that you should'nt use so you won't accidentally use
   them?
+- Is there an insulator that you can apply after say to diodes?
 
 #  LocalWords:  MechanicalKeyboard walkthrough
 
