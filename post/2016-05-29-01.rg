@@ -32,6 +32,8 @@ The following are some of them that were the most helpful to me.
       - acetone "welds" the separate pieces together
     - visible/mentioned tools: needle-nose pliers, pliers, x-acto, solder
       wick, solder sucker, [[https://geekhack.org/index.php?topic=51792.0][SIP sockets]] so don't have to solder LEDs
+- [[https://3dprint.com/52748/3d-printed-mechanical-keyboard/][100% plastic printed!]]
+  - Novel
 
 *** Carbon Fiber
 
