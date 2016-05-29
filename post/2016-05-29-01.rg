@@ -11,7 +11,7 @@ The following are some of them that were the most helpful to me.
 #+HTML: <!--more-->
 
 * Whole Build
-** Planck (or Planck clone)
+** Planck (or Planck like)
 
 *** 3D Printed
 
@@ -98,6 +98,19 @@ The following are some of them that were the most helpful to me.
     the port on the microcontroller
     - Keeps strain off microcontroller
     - Lets you put microcontroller anywhere
+
+** ANSI 104 (or ANSI like)
+
+- His end game, 104 key squashed ([[https://www.reddit.com/r/MechanicalKeyboards/comments/47zjzv/my_end_game_zz96rs96/?][Reddit]], [[https://i.imgur.com/ScvGnVb.jpg][Imgur]])
+  - Via discussion
+    - Love it
+    - Would like another row on the bottom
+    - ZZ96 case
+    - RS96 pcb with RGB underlighting
+    - Took 2 years to collect caps, ouch
+    - "It's the same width as a tkl"
+      - Wow, TKL is already high on my list
+  - Via build
 
 * Notes on the Notes
 
