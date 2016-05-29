@@ -89,7 +89,7 @@ The following are some of them that were the most helpful to me.
       - 3d
       - Serviceable
   - Via build
-    - NA
+    - Nice wiring pics
 
 * Notes on the Notes
 
