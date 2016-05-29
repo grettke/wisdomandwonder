@@ -46,7 +46,12 @@ The following are some of them that were the most helpful to me.
   - Column wires are color coded
   - Not stiff as metal; some flex
 - Via build
-
+  - Used the serviceable switch pattern
+    #+BEGIN_EXAMPLE
+I used 1N4148 diodes and bent all them together and put them like this to
+solder them. The last row was a bit more difficult. Don't heat the diodes too
+long and of course always check the orientation before soldering.
+    #+END_EXAMPLE
 
 * Notes on the Notes
 
@@ -59,6 +64,17 @@ The following are some of them that were the most helpful to me.
     Cherry MX switches
   - Builds like the Keyboardio and ErgoDox are great and cost less than
     anything you can do on your own
+- Switches
+  - Might as well make the swith cutout serviceable
+- Caps
+  - DSA PBT
+- LED
+  - Can't see them with DSA PBT
+- Plate
+  - Powder coated might wear and feel better
+  - Sandwich cases can use [[https://www.google.com/search?q=sex+bolts&oq=sex+bolts&aqs=chrome..69i57j69i60l3.3057j0j7&sourceid=chrome&ie=UTF-8][sex bolts]]
+- Wiring
+  - Diodes can serve as ininsulated wire for a row
 
 * To Do
 
