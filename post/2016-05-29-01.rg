@@ -77,6 +77,11 @@ The following are some of them that were the most helpful to me.
       them
     - Don't see any wiring at all
 
+*** Hardwood
+
+- https://imgur.com/a/WUXfM
+  - Nice to see something with a strip of LEDs?
+
 ** Metal and Acrylic
 
 - First 70% ([[https://www.reddit.com/r/MechanicalKeyboards/comments/4h3ycu/photos_first_70_custom_matrix_keyboard_build/][Reddit]], [[https://imgur.com/a/UUTRY][Imgur]])
