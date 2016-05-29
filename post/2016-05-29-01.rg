@@ -90,7 +90,6 @@ The following are some of them that were the most helpful to me.
   - Via discussion
     - Acrylic 3mm top and bottom to save money
     - Row to colum diode direction for firmware
-  - Via build
     - [[https://geekhack.org/index.php?topic=75103.0][Know correct direction]]
       #+BEGIN_EXAMPLE
 I'm hand wiring a planck soon so could you explain the technique to make it work with easyAVR?
@@ -98,6 +97,10 @@ permalinkembedsavegive gold
 [–]pokkuhlag[S] 1 point 7 months ago
 The most important is the diode direction. This is from row to column. Most build you see here is the opposite direction. For example matt3o brownfox example is diode direction from column to row. This will not work with the current version of easy avr handwire config. The second thing is when you use a default led port. you need to define the led port to an unused port. Me and fauxsoul had the issue when you do not define it correctly, it will active a row on the wrong port. See this link for problem and solved
       #+END_EXAMPLE
+  - Via build
+    - 3mm acrylic looks fine
+      - Transparent is nice
+    - He glued them in?
 
 ** Metal and Acrylic
 
