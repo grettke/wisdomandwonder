@@ -6,7 +6,7 @@
 
 Every design and walkthrough teaches something new.
 
-The following are some of them that were the most new to me.
+The following are some of them that were the most helpful to me.
 
 #+HTML: <!--more-->
 
