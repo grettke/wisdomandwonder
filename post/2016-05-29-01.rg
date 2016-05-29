@@ -18,5 +18,6 @@ The following are some of them that were the most new to me.
     - might have to break it up into pieces small enough for the printer to
       print
     - acetone "welds" the separate pieces together
+  - bisibl tools: needle-nose pliers, pliers, x-acto
 
 #  LocalWords:  MechanicalKeyboard walkthrough
