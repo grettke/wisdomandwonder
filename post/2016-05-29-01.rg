@@ -157,6 +157,7 @@ The most important is the diode direction. This is from row to column. Most buil
   - [[https://github.com/jackhumbert/qmk_firmware/blob/master/HAND_WIRE.md][Quantum Hand-Wiring]]
   - [[https://deskthority.net/workshop-f7/building-a-custom-keyboard-from-the-ground-up-t5761.html][Building a custom keyboard from the ground up]]
   - [[http://cubiq.org/build-your-very-own-pc-keyboard][Matteo Spinelli's Build your very own PC keyboard]]
+  - [[http://gizmodo.com/i-built-a-keyboard-from-scratch-1649325860][(How He) Built a Keyboard from Scratch]]
 - Custom build
   - Yes because I can't find any programmable grids that are available or have
     Cherry MX switches
