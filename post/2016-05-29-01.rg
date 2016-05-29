@@ -64,11 +64,22 @@ The following are some of them that were the most helpful to me.
     - Rows are wired by diodes
     - Sandwich case, hot glued, electrical tape on bottom
 
-**** Bamboo
+** Bamboo
 
--
+- Used Bamboo ([[https://www.reddit.com/r/MechanicalKeyboards/comments/4li1fo/photos_40_the_pilcrow/][Reddit]], [[https://imgur.com/a/qRiW4][Imgur]])
+  - Via discussion
+    - Likes hand-wiring
+    - Based on Planck, heavy layer use
+    - Touch-typer uses it for trips
+  - Via build
+    - Seems to have used the sandwich generator
+    - Gorrilla-glued the layers together
+    - Clamped the glued layers *one layer at a time*
+    - Think bamboo plate prevented switches from staying in place so hot-glued
+      them
+    - Don't see any wiring at all
 
-** Grid Like
+** Metal and Acrylic
 
 - First 70% ([[https://www.reddit.com/r/MechanicalKeyboards/comments/4h3ycu/photos_first_70_custom_matrix_keyboard_build/][Reddit]], [[https://imgur.com/a/UUTRY][Imgur]])
   - Via discussion
