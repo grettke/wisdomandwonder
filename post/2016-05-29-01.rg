@@ -114,6 +114,7 @@ The following are some of them that were the most helpful to me.
     - Would like another row on the bottom
     - ZZ96 case
     - RS96 pcb with RGB underlighting
+      - [[https://imgur.com/a/CLh49#oU2jH0Q][example build]]
     - Took 2 years to collect caps, ouch
     - "It's the same width as a tkl"
       - Wow, TKL is already high on my list
