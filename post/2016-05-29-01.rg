@@ -38,6 +38,20 @@ The following are some of them that were the most helpful to me.
 
 **** Carbon Fiber
 
--
+- Entire body is carbon, ([[https://www.reddit.com/r/MechanicalKeyboards/comments/4hnpk9/photos_the_carbon_planck_full_buildlog/][Reddit]], [[https://imgur.com/gallery/tO6tz][Imgur]])
+- Via discussion
+  - Next time would wire cleaner with better cable management
+  - Going DSA
+  - Fabbers are quoting $40USD/set(top and bottom plate)
+  - Column wires are color coded
+  - Not stiff as metal; some flex
+- Via build
+
+
+* Thoughts & Decisions
+
+- Custom build because I can't find any programmable grids that are available or have
+  Cherry MX switches
 
 #  LocalWords:  MechanicalKeyboard walkthrough
+
