@@ -90,7 +90,7 @@ The following are some of them that were the most helpful to me.
       - Serviceable
   - Via build
     - Nice wiring pics
-    - Caulk around inner edge to ennsure no shorts?
+    - Caulk around inner edge to ensure no shorts?
 
 * Notes on the Notes
 
