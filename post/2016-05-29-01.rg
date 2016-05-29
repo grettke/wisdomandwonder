@@ -126,6 +126,10 @@ The following are some of them that were the most helpful to me.
   - Use acrylic layer on top of steel to avoid shorts instead of using
     electrical tape
   - top and bottom plates are 1.5mm, seems to be the standard
+- Nice wiring [[https://imgur.com/a/i5Ba2][Imgur]]
+  - Used a ribbon pulled apart?
+  - Controller "hanging out"
+  - Weaved cable
 
 * Notes on the Notes
 
@@ -165,6 +169,8 @@ The following are some of them that were the most helpful to me.
   - Modeling it myself might be simpler
 - Wiring
   - Diodes can serve as ininsulated wire for a row
+- USB Cable
+  - Get a weaved one
 
 * To Do
 
