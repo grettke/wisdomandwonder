@@ -160,7 +160,24 @@ The most important is the diode direction. This is from row to column. Most buil
       and didn't want to change style
   - Use aluminum or acrylic instead
   - Had shorting problems
-    
+- Minimal Animal 65% board ([[https://www.reddit.com/r/MechanicalKeyboards/comments/22mqga/minimal_animal_custom_board_complete/][Reddit]], [[https://imgur.com/a/sWuH1][Imgur]], [[https://deskthority.net/workshop-f7/minimal-animal-complete-build-log-t7779.html#p157190][Deskthority]])
+  - Via reddit discussion
+    - You can't do a non-layered build with less than 6 rows
+    - Shocked to [[http://www.keyboard-layout-editor.com/#/layouts/a93f828efd3098aa5ba69c8560b2e86e][see]] arrows keys chorded, ouch
+    - Sex bolts links [[http://www.mscdirect.com/browse/tn/Fasteners/Bolts-Screws/Bolts/Sex-Bolts-Binding-Posts?navid=12108778][one]] and [[https://www.fastenal.com/products?term=sex+bolt&r=&termca=&termpx=&searchmode=&zipcode=&filterByStore=&filterByVendingMachine=&sortby=wholesaleprice&sortdir=ascending&pageno=][two]]
+    - KarmChief
+      - Liked the mix of transparent and black acrylic
+        - Maybe black and yellow
+      - Loved teensy placement
+    - You can contact SignaturePlastics for a quote on your layout
+  - Via build
+    - A grid which some 1.25x and 2x thrown in arbitrarily, aka true custom
+    - Never use epoxy anywhere
+  - Via deskthority
+- [[https://deskthority.net/workshop-f7/75-layout-from-the-ground-up-t9912.html][75% Layout]] via [[https://deskthority.net/workshop-f7/75-layout-from-the-ground-up-t9912.html][DeskThority]]
+  - [[http://www.keyboard-layout-editor.com/#/layouts/f5aad3f0a2be60810590be90be4e718a][Clean and nice]]
+  - TKL much smaller than a TKL
+
 * Notes on the Notes
 
 - Referenced guides
