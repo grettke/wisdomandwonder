@@ -177,6 +177,7 @@ The most important is the diode direction. This is from row to column. Most buil
 - [[https://deskthority.net/workshop-f7/75-layout-from-the-ground-up-t9912.html][75% Layout]] via [[https://deskthority.net/workshop-f7/75-layout-from-the-ground-up-t9912.html][DeskThority]]
   - [[http://www.keyboard-layout-editor.com/#/layouts/f5aad3f0a2be60810590be90be4e718a][Clean and nice]]
   - TKL much smaller than a TKL
+  - This might be perfect, too
 
 * Notes on the Notes
 

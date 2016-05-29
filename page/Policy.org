@@ -50,7 +50,7 @@
 
 # https://support.google.com/adsense/answer/1348695?hl=en
 
-- I don't your share personal information with third parties nor do I store any
+- I don't share your personal information with third parties nor do I store any
   information about your visit to this blog other than to analyze and optimize
   your content and reading experience through the use of cookies (primarily
   using [[https://analytics.google.com][Google Analytics]]).
