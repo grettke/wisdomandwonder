@@ -120,7 +120,7 @@ The following are some of them that were the most helpful to me.
   - Might as well make the swith cutout serviceable
 - Caps
   - DSA PBT
-  - Make accessible; don't layer standard stuff
+  - Make accessible; don't layer/blank standard stuff
 - LED
   - Can't see them with DSA PBT
 - Plate
