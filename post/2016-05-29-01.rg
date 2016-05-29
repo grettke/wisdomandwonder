@@ -111,6 +111,8 @@ The following are some of them that were the most helpful to me.
     - "It's the same width as a tkl"
       - Wow, TKL is already high on my list
   - Via build
+    - Love it
+    - Would add another row for emacs keys
 
 * Notes on the Notes
 
