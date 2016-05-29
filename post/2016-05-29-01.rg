@@ -118,8 +118,9 @@ The following are some of them that were the most helpful to me.
 
 - Referenced guides
   - [[https://deskthority.net/workshop-f7/how-to-build-your-very-own-keyboard-firmware-t7177.html][How to build your own firmware]]
-  - [[https://deskthority.net/workshop-f7/brownfox-step-by-step-t6050.html][BrownFox]]
+  - [[https://deskthority.net/workshop-f7/brownfox-step-by-step-t6050.html][BrownFox step by step]]
   - [[https://github.com/jackhumbert/qmk_firmware/blob/master/HAND_WIRE.md][Quantum Hand-Wiring]]
+  - [[https://deskthority.net/workshop-f7/building-a-custom-keyboard-from-the-ground-up-t5761.html][Building a custom keyboard from the ground up]]
 - Custom build
   - Yes because I can't find any programmable grids that are available or have
     Cherry MX switches
