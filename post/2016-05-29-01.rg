@@ -90,6 +90,7 @@ The following are some of them that were the most helpful to me.
       - Serviceable
   - Via build
     - Nice wiring pics
+      - Columns are color-coded
     - Caulk around inner edge to ensure no shorts?
 
 * Notes on the Notes
