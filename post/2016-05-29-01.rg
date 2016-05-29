@@ -170,6 +170,7 @@ The following are some of them that were the most helpful to me.
 - Is there an insulator that you can apply after say to diodes?
 - Can you wire an entire board without soldering?
   - Just curious; soldering stuff is fine
+- Can you use LEDs or a LCD to display the current layer?
 
 #  LocalWords:  MechanicalKeyboard walkthrough
 
