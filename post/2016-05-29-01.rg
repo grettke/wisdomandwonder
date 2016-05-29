@@ -73,6 +73,7 @@ The following are some of them that were the most helpful to me.
       - 3d
       - Serviceable
   - Via build
+    - NA
 
 * Notes on the Notes
 
@@ -85,6 +86,12 @@ The following are some of them that were the most helpful to me.
     Cherry MX switches
   - Builds like the Keyboardio and ErgoDox are great and cost less than
     anything you can do on your own
+  - Make it easy
+    - Lots of space
+    - Easily accessible
+  - Hot-rod it
+    - Show off wires
+    - Show off microcontroller
 - Sandwich case
   - Electrical tape on bottom prevents shorts
   - Between layers
