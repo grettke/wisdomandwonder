@@ -68,7 +68,12 @@
 
 - CalOPPA is the first state law in the nation to require commercial websites
   and online services to post a privacy policy
-- This is a personal website, not commercial, but I feel like it is useful here
+- This is a personal website, not commercial, but I feel like it is useful
+  here
+- What is "personally identifiable information (PII)"?
+  - When you leave comments or register for the site you are prompted for
+    your first name, last name, website, and email address. This is considered
+    PII.
 - The law's reach stretches well beyond California to require a person or
   company in the United States (and conceivably the world) that operates
   websites collecting personally identifiable information from California
@@ -166,4 +171,4 @@ Users may opt out of the use of the DoubleClick cookie for interest-based advert
 - Their [[https://policies.yahoo.com/us/en/yahoo/privacy/products/flickr/index.htm][privacy policy is here]]
 - Now I host all images right on the blog
 
-#  LocalWords:  AdSense AdWords SiteGround Flickr src emacs
+#  LocalWords:  AdSense AdWords SiteGround Flickr src emacs PII
