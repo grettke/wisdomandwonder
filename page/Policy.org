@@ -37,6 +37,8 @@
 - To the best of my ability, this blog both complies with and faciliates all
   applicable laws in both letter and in spirit to make that happen
 
+# http://olkb.com/privacy/
+
 ** Copyright
 
 - I value copyright and gladly invest effort in giving full attribution to all
@@ -61,6 +63,27 @@
 - This privacy policy is subject to change without notice and was last updated
   on <2016-05-28 Sat 17:19>. If you have any questions feel free to contact me
   directly here: gcr@wisdomandwonder.com.
+
+*** California Online Privacy Protection Act
+
+- CalOPPA is the first state law in the nation to require commercial websites
+  and online services to post a privacy policy
+- This is a personal website, but I feel like it is useful here
+- The law's reach stretches well beyond California to require a person or
+  company in the United States (and conceivably the world) that operates
+  websites collecting personally identifiable information from California
+  consumers to post a conspicuous privacy policy on its website stating
+  exactly the information being collected and those individuals with whom it
+  is being shared, and to comply with this policy.
+- See more at [[http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf][here]]
+
+*** According to CalOPPA we agree to the following
+
+- You can visit this site anonymously
+- Once this privacy policy is created, I will add a link to it on the home
+  page in the footer at the location [[http://www.wisdomandwonder.com/site-policy][Site Policy]]
+- You will be notified of any privacy policy changes on the privacy policy page
+- You can change your personal information by logging into your account
 
 *** Things Having Entirely to Do With Money
 
