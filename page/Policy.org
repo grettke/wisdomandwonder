@@ -9,6 +9,11 @@
   you.
 - My pledge to you is that I am honest and open about both my intent and means
   by which I publish that content on this site
+- I will
+  - Say what I do
+  - Do what I say
+  - Conspicuously document it in [[http://www.wisdomandwonder.com/site-policy][this privacy policy]]
+  - Comply with [[http://www.wisdomandwonder.com/site-policy][this privacy policy]]
 - The following policy definitions spell it all out
 
 * Values Policy
@@ -171,4 +176,4 @@ Users may opt out of the use of the DoubleClick cookie for interest-based advert
 - Their [[https://policies.yahoo.com/us/en/yahoo/privacy/products/flickr/index.htm][privacy policy is here]]
 - Now I host all images right on the blog
 
-#  LocalWords:  AdSense AdWords SiteGround Flickr src emacs PII
+#  LocalWords:  AdSense AdWords SiteGround Flickr src emacs PII CalOPPA TLS
