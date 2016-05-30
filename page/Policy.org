@@ -117,6 +117,12 @@ Users may opt out of the use of the DoubleClick cookie for interest-based advert
 
 *** Things Having Entirely to Do with the Server
 
+**** Scanning
+
+- This website is scanned daily for security holes and known vulnerabilities
+  in order to make your visit here as safe as possible (using regular malware
+  scanning)
+
 **** Web Server Logs
 
 - Apache keeps access and error logs
