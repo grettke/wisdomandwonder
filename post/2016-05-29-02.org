@@ -1,0 +1,14 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10257
+#+DATE: [2016-05-29 Sun 20:07]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Blogging, Web, WordPress
+#+TITLE: Second Blogging Privacy Policy
+
+- Step 1
+  - Capture intent in plain English
+- Step 2
+  - Maintain compliance with [[https://consumercal.org/about-cfc/cfc-education-foundation/california-online-privacy-protection-act-caloppa-3/#sthash.0FdRbT51.dpuf][CalOPPA]]
+
+Please [[https://www.wisdomandwonder.com/site-policy][review it here]].
