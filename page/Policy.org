@@ -68,7 +68,7 @@
 
 - CalOPPA is the first state law in the nation to require commercial websites
   and online services to post a privacy policy
-- This is a personal website, but I feel like it is useful here
+- This is a personal website, not commercial, but I feel like it is useful here
 - The law's reach stretches well beyond California to require a person or
   company in the United States (and conceivably the world) that operates
   websites collecting personally identifiable information from California
