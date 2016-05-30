@@ -79,6 +79,7 @@
   - When you leave comments or register for the site you are prompted for
     your first name, last name, website, and email address. This is considered
     PII.
+  - *I NEVER SHARE THIS WITH ANYONE*
 - The law's reach stretches well beyond California to require a person or
   company in the United States (and conceivably the world) that operates
   websites collecting personally identifiable information from California
