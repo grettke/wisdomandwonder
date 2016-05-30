@@ -95,6 +95,7 @@
   page in the footer at the location [[http://www.wisdomandwonder.com/site-policy][Privacy Policy]]
 - You will be notified of any privacy policy changes on the privacy policy page
 - You can change your personal information by logging into your account
+- This site does not do anything when it receives a "Do Not Track" message
 
 ** Things Having Entirely to Do With Money
 
