@@ -1,0 +1,16 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10258
+#+DATE: [2016-05-30 Mon 21:37]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Science, Philosophy
+#+TITLE: Science and Quaience
+
+Science is what happens when you reject a [[https://en.wikipedia.org/wiki/Null_hypothesis][null hypothesis]].
+
+[[http://portmanteaur.com/?words=quasi+science][Quaience]] (quasi science) is what happens when you don't, but the story is so
+powerful that it doesn't matter.
+
+Source: personal experience.
+
+#  LocalWords:  Quaience
