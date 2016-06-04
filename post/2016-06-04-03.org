@@ -1,0 +1,9 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10265
+#+DATE: [2016-06-04 Sat 15:59]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: APL, Array programming, Programming Language
+#+TITLE: Aaron Hsu on APL
+
+Aaron Hsu blogs on APL [[http://www.sacrideo.us/tag/apl/][here]]; all good reads.
