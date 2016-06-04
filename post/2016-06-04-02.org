@@ -1,0 +1,14 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10264
+#+DATE: [2016-06-04 Sat 15:59]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: APL, Array programming, Programming Language
+#+TITLE: Zark's Dyalog APL Tutorial
+
+Just went through most of [[http://tutorial.dyalog.com/][Zark's Dyalog APL Tutorial]]
+- Nice to pick and choose topic areas
+- Seems to serve both inexperienced and experienced programmers
+- Lots of examples
+- Funny
+- Great for virtual input from an experienced APL programmer for you
