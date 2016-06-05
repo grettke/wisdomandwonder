@@ -2,7 +2,7 @@
 #+POSTID: 10266
 #+DATE: [2016-06-04 Sat 19:25]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Link
+#+CATEGORY: Article
 #+TAGS: Yoga, philosophy, Health
 #+TITLE: Brené Brown: The Power of Vulnerability
 

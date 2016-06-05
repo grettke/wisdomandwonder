@@ -2,7 +2,7 @@
 #+POSTID: 10242
 #+DATE: [2016-05-17 Tue 13:43]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Link
+#+CATEGORY: Article
 #+TAGS: Yoga, philosophy, Health
 #+TITLE: Brené Brown: The price of invulnerability
 

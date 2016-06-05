@@ -2,7 +2,7 @@
 #+POSTID: 10233
 #+DATE: [2016-05-12 Thu 19:24]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Link
+#+CATEGORY: Article
 #+TAGS: Yoga, philosophy, Health
 #+TITLE: Brené Brown: Why Your Critics Aren't The Ones Who Count
 
