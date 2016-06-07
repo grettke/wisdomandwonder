@@ -7,7 +7,7 @@
 #+TITLE: Test post E4BC7995-4F38-4918-9C08-AB4E0A3786FC
 
 Test post to verify that Hootsuite is publishing on <2016-06-07 Tue 17:04>:
-- [ ] Facebook: https://www.facebook.com/grant.rettke
-- [ ] Twitter: https://twitter.com/GrantRettke
-- [ ] Google+: https://plus.google.com/104324359509682741162
-- [ ] Linkedin: https://www.linkedin.com/pulse/activities/grant-rettke+0_0X9UAztM2AgfA3QNITP9BK?trk=nav_responsive_sub_nav_yourupdates
+- [X] Facebook: https://www.facebook.com/grant.rettke
+- [X] Twitter: Https://twitter.com/GrantRettke
+- [X] Google+: https://plus.google.com/104324359509682741162
+- [X] Linkedin: https://www.linkedin.com/pulse/activities/grant-rettke+0_0X9UAztM2AgfA3QNITP9BK?trk=nav_responsive_sub_nav_yourupdates
