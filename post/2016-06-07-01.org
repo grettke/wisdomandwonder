@@ -6,7 +6,7 @@
 #+TAGS: Blogging, Web, WordPress
 #+TITLE: Test post E4BC7995-4F38-4918-9C08-AB4E0A3786FC
 
-Test post to verify that Hootsuite is publishing to:
+Test post to verify that Hootsuite is publishing on <2016-06-07 Tue 17:04>:
 - [ ] Facebook: https://www.facebook.com/grant.rettke
 - [ ] Twitter: https://twitter.com/GrantRettke
 - [ ] Google+: https://plus.google.com/104324359509682741162
