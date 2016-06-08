@@ -1,0 +1,18 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10277
+#+DATE: [2016-06-08 Wed 12:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide
+#+TITLE: GNU Hackers' Meeting 2016 in Brittany, France
+
+Via [[https://www.gnu.org/ghm/upcoming.html][here]]:
+
+#+BEGIN_QUOTE
+The ninth GNU Hackers' Meeting will take place in Rennes (Brittany, France)
+from August 18-20
+#+END_QUOTE
+
+Talk about fine taste!
+
+Sounds like a delightful trip.
