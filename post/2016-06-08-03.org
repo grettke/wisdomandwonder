@@ -1,0 +1,51 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10279
+#+DATE: [2016-06-08 Wed 13:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Screencasting, Blogging, Utility, Video, ScreenFlow, Teaching, Learning
+#+TITLE: Screencasting Practice & Feedback: 00002
+
+* Result
+
+[[https://www.wisdomandwonder.com/article/10250/three-ways-to-quote-in-your-notes-with-org-mode][(Screencast) Three Ways to Quote in your Notes with Org-Mode]]
+
+* Plan
+
+- Demonstrate how I like to quote content in Org-Mode
+- Learn how to use call-outs and text-boxes
+- Learn how to ad-lib content
+- Scripted out location of content and video-recording of presenter to make
+  sense of what is appearing on the screen and where
+- Learn how to use content-music
+
+* Execution
+
+- Made video top right 100% of the top right corner
+  - This means scaling it by 50%
+- Remove the dropshadow from the video
+  - The video stood out enough already
+- Amplified volume by 200%
+- Added callouts interesting content
+- Added watermwark, 25% scale, 25% opacity, 10 key-presses from bottom and
+  right edge
+- Include the word Screencast in announcement to distinguish between
+  screencast and blog post
+- 6h of effort for 7m of content
+- Posted manually on Reddit
+- Blog published to social sites
+
+* Outcome & Feedback
+
+- Wrote a script; didn't pay attention to it enough
+- After re-recording it six times, said I would never re-record it again.
+  Instead made corrections using text-boxes positioned over my face.
+- Light was OK
+- Speaking volume was too quiet; content volume was too loud
+- Skin was shiny
+- Looping the banner and jingle at the end was a mistake
+- The 3m monologue about Braille displays was interesting to me and perhaps no
+  one else so don't include that. 3m is a long time.
+- Use a lower-third intead of text boxes
+- Redditers commented that a blog post would have been more concise and
+  faster. What is the best of both worlds?
