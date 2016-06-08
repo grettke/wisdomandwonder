@@ -1,0 +1,139 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10280
+#+DATE: [2016-06-08 Wed 13:29]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Screencasting, Blogging, Utility, Video, ScreenFlow, Teaching, Learning
+#+TITLE: Screencasting Practice & Feedback: 00003
+
+* Result
+
+[[https://www.wisdomandwonder.com/article/10269/screencast-the-best-emacs-modifier-key-setup-for-os-x][(Screencast) The Best Emacs Modifier Key Setup for OS X]]
+
+* Plan
+
+- Demonstrate lessons-learned about alternate input methods and redefinition
+  of the Emacs interpretation of modifier keys
+- Utilize a lower-third instead of text-boxes
+- Talk louder
+
+* Execution
+
+** Preparation
+
+- Pretend you are going to a job-interview, or on a date, that is recorded for
+  everyone to see, forever
+  - Perform all personal preparations that you normally would for example
+    - Brush your teeth
+- Applied [[http://www.walgreens.com/store/c/revlon-photoready-prime-%252b-anti-shine-balm/ID=prod6272387-product?ext=gooPLA_-_Beauty&pla&adtype=pla_with_promotion&adtype=pla_with_promotion&adtype=pla_with_promotion&adtype=pla_with_promotion&adtype=pla_with_promotion&adtype=pla_with_promotion&adtype=pla_with_promotion&adtype=pla_with_promotion&adtype=pla_with_promotion&adtype=pla_with_promotion&adtype=pla_with_promotion&adtype=pla_with_promotion&adtype=pla_with_promotion&kpid=sku6231294&sst=abb5cf84-d367-4b3f-94fe-8140a77f2d18][Revlon PhotoReady Prime + Anti Shine Balm Clear]]
+  - First watched a [[https://www.youtube.com/watch?v=_VEsLuyTvD8][video how-to]], YouTube rocks
+- [[http://www.adorama.com/LTO2S.html][Lights]] and camera and microphone
+  - Set them up
+  - Tested them
+  - Hooked up camera and turned it on
+  - Adjusted white balance
+  - Set left light pointed at me; right light pointed at ceiling
+  - Adjust left light to give face warmth (versus ghost appearance)
+  - Microphone is on and input volume maxed out
+- Turn off HVAC
+- Mute Phone and Pushbullet
+- Close other applications
+- Verify microphone woks
+- Verify recording on correct monitor
+- Write rough script
+- Pour glass of water
+
+** Execution
+
+- Showed off Emacs mug and encouraged FSF support
+
+** Post Production
+
+- Removed makeup
+
+#+HTML: <!--more-->
+
+- Save in new folder with name same as post
+- Dragged in jingle
+- Dragged in banner 1920x1080
+- Now it is row 1: WNW 512x512 logo
+  - Drag it over to start of recording so it doesn't show up on
+   the banner page, stretch it for the whole recording
+  - Make it 25% opaque
+  - Scale it 50%
+  - Place it top right corner
+  - Move it10 arrow clicks left and up
+- Now it is row 1: banner, video/sound
+- Row 2: jingle, screen recording
+  - Make it occupy bottom right quadrant, high up though, so the
+    lower third will look right. Leave scale at 100% so the size
+    will always look right
+- Line them up
+- Starting ending transition on banner, FLASH and ripple
+- On "Screen Recording"
+  - Don't show mouse pointer
+  - Do show keystrokes
+- At start of video, add L3,
+- Add a text box 7 second after L3
+  - Paste in title of post
+  - Georgia font
+  - Make font size so it fits in box and looks right
+  - No backdrop
+  - Resize the box so it is just big enough to hold text
+  - Reposition box so that it is centered on the page
+  - Resize to disappear at the right time, so make the text
+     disappear about a second before L3 disappears
+- Start listening
+- Corrections made (3-4 hours, good to learn, painful to do, great motivation
+  never to say and do these things again)
+  - "So"
+  - "Um"
+  - "And"
+  - "You know"
+  - Long pauses
+  - Stuttering
+  - Hesitating
+  - Repeating
+  - Not looking into camera
+  - Sing-songy
+  - Why tell the story exactly as I experienced it? The story was
+    important to me that doesn't mean it is important to anyone
+    else. What is important to anyone else is the information.
+  - The purpose of a screencast isn't for me to figure out what is
+    important, it is for other people to figure that out.
+- File, Export, Project Dir, Web-High, Scale 100%
+- Prepare blog post
+  - Title is name of post
+  - Body is Source and comments here:
+  - Add link later
+- Watch entire exported video
+- Upload to YouTube
+- Get link of video and post blog post
+- Update video with link to blog post
+- Verify social outlets published
+- Manually post to Reddit and remember to reply to comments
+
+* Outcome & Feedback
+
+- Script
+  - Good because I focused on key points
+  - Missed a key point and added it to blog post as addendum
+  - First version was totally not what I wanted; 2nd version seemed great,
+    really needed the 3rd version
+- Audio volume was perfect
+- Lighting was great
+- Blogged on essence of screencast in an attempt to provide best of both words
+  - Title prepended with (Blog and Screencast)
+- 10m might be too long
+  - Nick suggested adding a table-on-contents
+- 7h of work for 10m of content
+- Detailed notes make new production simple, easier, and faster
+- Feel smarter about Screenflow
+- Speaking slowly has the good quality of being more accessible to non-native
+  English speaks combined with the ability to speed-up video with YouTube
+  - *There is an additional benefit*
+    - It is easier to make corrections on slowly spoken video
+    - Corrections to quickly spoken audio and video require
+      millisecond-spanning corrections which are tedious and difficult and
+      boring
+      - Further motivation not to make the mistakes in the first place
