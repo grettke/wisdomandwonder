@@ -1,0 +1,34 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10278
+#+DATE: [2016-06-08 Wed 13:04]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Screencasting, Blogging, Utility, Video, ScreenFlow, Teaching, Learning
+#+TITLE: Screencasting Practice & Feedback: 00001
+
+* Result
+
+[[https://www.wisdomandwonder.com/article/10223/hello-screenflow-and-youtube][Hello, Screenflow and Youtube]]
+
+* Plan
+
+- Develop a jingle and banner to introduce the videos
+- Learn how to use ScreenFlow on smallest project possible
+- Learn how to publish and monetize on YouTube
+- Learn how to define closed-caption content
+
+* Outcome & Feedback
+
+- YouTube
+  - Easy and pleasant process
+  - Signing up takes 30m or so
+  - Publishing the video offers 20-30 configuration options
+- Forgot to develop a watermark for the videos
+- Closed-captioning is tedious and time-consuming
+- Screenflow project is large; be sure to keep it on a large disk
+- Glad to have worked in a simple project like this to get some practice with
+  Screenflow. It took some trial and error to grok the power of layers /in
+  practice/.
+- Volume wasn't loud enough
+- Transitions were OK; can see some blockiness because of how I layered the
+  background
