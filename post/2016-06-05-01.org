@@ -12,6 +12,13 @@ inside Emacs:
 Toggle the right-option and function key to switch between using them inside
 Emacs and using them for OS X.
 
+*Addendum: <2016-06-08 Wed 08:22>*
+
+I used Karabiner to make =ENTER= send =LEFT CONTROL= when chorded. I used OS X to
+make =CAPS LOCK= be =CONTROL=. I didn't change =OPTION= and =COMMAND=. I made this
+change after years of using /another keyboard layout/ because Emacs couldn't
+ignore the key-event when it was coming from Karabiner.
+
 Here is the code:
 
 #+BEGIN_SRC emacs-lisp
