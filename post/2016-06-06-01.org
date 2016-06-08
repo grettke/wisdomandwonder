@@ -1,0 +1,17 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10270
+#+DATE: [2016-06-06 Mon 15:35]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Science, mathematics
+#+TITLE: Emil Post and his Anticipation of Goedel and Turing
+
+In [[http://www.maa.org/programs/faculty-and-departments/classroom-capsules-and-notes/emil-post-and-his-anticipation-of-goedel-and-turing][Emil Post and his Anticipation of Goedel and Turing]]
+
+#+BEGIN_QUOTE
+The author discusses Emil Post`s life and ideas about incompletness and
+insolvability which later became famous with Goedel and Turing`s work, and the
+differences between Post and Goedel.
+#+END_QUOTE
+
+Fascinating read (the parts that I understood :P).
