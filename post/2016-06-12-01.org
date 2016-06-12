@@ -1,0 +1,17 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10281
+#+DATE: [2016-06-12 Sun 09:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Yoga, philosophy
+#+TITLE: So, you've got a problem? That's good!
+
+#+BEGIN_QUOTE
+[[http://www.azquotes.com/quote/856290][So, you've got a problem? That's good!]] Why? Because repeated victories over
+your problems are the rungs on your ladder of success. With each victory, you
+grow in wisdom, stature and experience. You become a better, bigger, more
+successful person each time you meet a problem and tackle and conquer it with
+a positive mental attitude.
+
+-- W. Clement Stone
+#+END_QUOTE
