@@ -6,7 +6,8 @@
 #+TAGS: Business, philosophy
 #+TITLE: Crucial Conversations: Tools for Talking When Stakes Are High
 
-[[https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822][Crucial Conversations: Tools for Talking When Stakes Are High, Second Edition]]
+#+HTML: <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=wisdomandwo0f-20&marketplace=amazon&region=US&placement=1469266822&asins=1469266822&linkId=9f867d033952ad044459bbff035e1608&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff"> </iframe>
+
 is the solution to 80% of the less intense communication issues in both a
 professional and personal relationship. This book is concise and a valuable use
 of your time. Only share with someone that "they could have handled it better"
