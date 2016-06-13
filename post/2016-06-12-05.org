@@ -9,5 +9,5 @@
 Org-Mode [[http://orgmode.org/manual/Working-With-Source-Code.html][code blocks]] are verbose and lovable for literate programming. Rasmus
 wants to use the raw literate document for a presentation though, so that
 verbosity won't do. He explains [[https://pank.eu/blog/pretty-babel-src-blocks.html][here]] how to prettify code blocks. The
-value-add here is that he doesn't have to weave (document) the document for it
+value-add here is that he doesn't have to weave (export) the document for it
 to look great in the presentation; it already does directly in the Emacs buffer.
