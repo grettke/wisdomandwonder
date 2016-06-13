@@ -1,0 +1,13 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10285
+#+DATE: [2016-06-12 Sun 21:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Prettifying Org-Mode Code Blocks for Presentations
+
+Org-Mode [[http://orgmode.org/manual/Working-With-Source-Code.html][code blocks]] are verbose and lovable for literate programming. Rasmus
+wants to use the raw literate document for a presentation though, so that
+verbosity won't do. He explains [[https://pank.eu/blog/pretty-babel-src-blocks.html][here]] how to prettify code blocks. The
+value-add here is that he doesn't have to weave (document) the document for it
+to look great in the presentation; it already does directly in the Emacs buffer.
