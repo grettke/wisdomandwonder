@@ -1,0 +1,13 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10282
+#+DATE: [2016-06-12 Sun 20:10]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Business, philosophy
+#+TITLE: Crucial Conversations: Tools for Talking When Stakes Are High
+
+[[https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822][Crucial Conversations: Tools for Talking When Stakes Are High, Second Edition]]
+is the solution to 80% of the less intense communication issues in both a
+professional and personal relationship. This book is concise and a valuable use
+of your time. Only share with someone that "they could have handled it better"
+when you can say "and here is how". This book is the "how" part.
