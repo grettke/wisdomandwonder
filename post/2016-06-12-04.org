@@ -1,0 +1,9 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10284
+#+DATE: [2016-06-12 Sun 20:57]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Programming, Investment
+#+TITLE: Mechwarrior, Programmer, Investor
+
+[[https://socketloop.com/blogs/from-programming-to-investing-all-in-the-mind][One programmer's]] journey from MechWarrior, to Programmer, to Investor.
