@@ -1,0 +1,9 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10290
+#+DATE: [2016-06-17 Fri 17:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: APL, Array programming, Programming Language
+#+TITLE: New Google+ APL Group
+
+Google+ has an [[https://plus.google.com/u/0/communities/103512884580581067929?cfem=1][APL Group]] now!
