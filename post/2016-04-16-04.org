@@ -41,11 +41,16 @@ I found:
 | [[http://cherryamericas.com/product/spos-rows-columns-keyboard/][Cherry G86-63400EUADAA]]   | 8x16 | 110 | T  | T  | T  | F              | Great support. Rubber dome. *Can't* use Cherry MX keycaps.                           |
 | [[http://xkeys.com/xkeys/xk128.php][P.I. Engineering XKE-128]] | 8x16 | 500 | T  | T  | T  | Cherry MX caps | Rub dome switch. Great support.                                                    |
 | [[http://www.tysso.eu/product_content.php?id=56][TYSSO PKB-111]]            | 7x16 |     | NA | T  | T  | [[http://www.e-birch.com/buy/main_products.php?pid=1381&mt=][Cherry.]]        | 16 layers! Supports OS X? USB PKB-111YBU. On device. Nice. Can't find anywhere :(. |
+| [[http://www.prehkeytecusa.com/products/mc-128.html][PrehKeyTec USA MC 128]]    | 8x16 | 120 | NA | T  | ?  | ?              |                                                                                    |
 
 *Addendum: <2016-04-23 Sat 15:06>*
 
 You can assemble/build an X-KEYS like grid keyboard using the [[http://xkeys.com/xkeys/assets/documents/Pi3%2520Matrix%2520Board/Pi3%2520Matrix%2520Board.html][Pi3 Matrix]] for
 [[http://xkeys.com/PIComponents/EncoderBoards.php][$60USD]].
+
+*Addendum: <2016-06-20 Mon 19:09>*
+
+Found the MC 128; there are both USB and PS/2 models on Ebay.
 
 ** Observations
 
