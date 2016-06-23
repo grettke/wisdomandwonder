@@ -1,0 +1,33 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10293
+#+DATE: [2016-06-22 Wed 19:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: APL, Array programming, Programming Language
+#+TITLE: GNU APL mode for Emacs
+
+APL might pique your interest, but not enough for you take final step forward
+to start hacking with it. [[https://www.gnu.org/software/apl/][GNU APL]] is there, waiting for you. Still not enough?
+
+Set up [[https://github.com/lokedhs/gnu-apl-mode][GNU APL mode for Emacs]] using [[https://github.com/jwiegley/use-package][use-package]]
+
+#+NAME: 7B6F0069-B998-4A7A-8410-E7927AE8F76F
+#+BEGIN_SRC emacs-lisp
+(use-package gnu-apl-mode
+  :ensure t)
+#+END_SRC
+
+or [[https://github.com/lokedhs/gnu-apl-mode/archive/master.zip][download it]], extract it, and load it with a
+
+#+NAME: 8DF34D90-CE07-4BC7-B5B4-28488CC3E0FD
+#+BEGIN_SRC emacs-lisp
+(add-to-list 'load-path "~/path-to/gnu-apl-mode")
+(require 'gnu-apl-mode)
+#+END_SRC
+
+Do you have any more reasons /not/ to start hacking with GNU APL and Emacs?!
+
+Never having studied a package like this before, it is educational. It is also
+revealing how much love and labor went into this delightful package.
+
+Thanks you Elias Mårtenson; hear, hear!
