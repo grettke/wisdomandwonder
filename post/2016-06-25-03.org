@@ -1,0 +1,10 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10301
+#+DATE: [2016-06-25 Sat 15:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: C-Language
+#+TITLE: Programming Projects in C for Students of Engineering, Science, and Mathematics
+
+[[http://bookstore.siam.org/cs13/][Programming Projects in C for Students of Engineering, Science, and
+Mathematics]] looks great.
