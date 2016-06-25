@@ -1,0 +1,27 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10294
+#+DATE: [2016-06-24 Fri 19:29]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Hardware, Disk
+#+TITLE: Yes, Why You Do Need A Blu-Ray Writer
+
+Today's Blu-Ray write-once 128 GB BDXL disks
+
+#+HTML: <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=wisdomandwo0f-20&marketplace=amazon&region=US&placement=B00G5RVT5W&asins=B00G5RVT5W&linkId=2abd950ee8fb089b6b1c7af18f1ed267&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
+
+cost only $10USD/disc and the writer
+
+#+HTML: <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=wisdomandwo0f-20&marketplace=amazon&region=US&placement=B007YWMCA8&asins=B007YWMCA8&linkId=a8d857a81ec01a2258f6ba8195bb1c23&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
+
+costs only $50USD.
+
+Why do I care?
+
+- Vagrant, Docker, and VMWare images are ginormous
+- Upload speed is a small fraction of download speed
+- Thrifty portable hard drives are too slow in time
+- Performant portable hard drives are too expensive in dollars
+- 4x drive is 1997 level too slow
+
+Upgrade scheduled.
