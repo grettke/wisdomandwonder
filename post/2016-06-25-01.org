@@ -1,0 +1,9 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10299
+#+DATE: [2016-06-25 Sat 07:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide, Lisp, Programming Language, Reproducible research, elisp
+#+TITLE: Making the Repl sing electric
+
+Easily [[http://www.repl-electric.com/][compose music and visual art]] with Emacs [[https://www.reddit.com/r/emacs/comments/3neafk/animations_with_emacs/][via ReneFroger]].
