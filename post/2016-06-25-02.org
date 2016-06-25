@@ -1,0 +1,18 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10300
+#+DATE: [2016-06-25 Sat 15:04]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: mathematics, fun
+#+TITLE: The Man Who Knew Infinity
+
+Via [[https://en.wikipedia.org/wiki/The_Man_Who_Knew_Infinity_(film)][Wikipedia]]:
+
+#+BEGIN_QUOTE
+The Man Who Knew Infinity is a 2015 British biographical drama film based on
+the 1991 book of the same name by Robert Kanigel. The film stars Dev Patel as
+the real-life [[https://en.wikipedia.org/wiki/Srinivasa_Ramanujan][Srinivasa Ramanujan]], a mathematician who after growing up poor
+in Madras, India, earns admittance to Cambridge University during World War I,
+where he becomes a pioneer in mathematical theories with the guidance of his
+professor, G. H. Hardy (played by Jeremy Irons).
+#+END_QUOTE
