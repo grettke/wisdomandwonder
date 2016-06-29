@@ -1,0 +1,31 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10303
+#+DATE: [2016-06-28 Tue 20:50]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Keyboard, MechanicalKeyboard
+#+TITLE: KEYR8 (Emacs Friendly Keyboard): Prototype Fabricated
+
+[[http://vmetalsfab.com/][VMETALS ROCKS!!!]]
+
+They took a newbie like me through the process of designing the thing and it
+was fun. Then they fabricated the thing and it rocks.
+
+Emacs friends: there is enough key-space (128 keys) to easily place
+
+- Control
+- Meta
+- Super
+- Hyper
+- Ultra (Control-Meta-Super-Hyper)
+- Alt
+- Gui
+
+*ON EACH SIDE OF THE KEYBOARD*
+
+Strong thumb proponents: I'm trying to make it happen here by placing
+everything on the bottom two rows (including space, Fn, and enter).
+
+[[file:~/git/bitbucket/keyboard/000/run1/DSC_0107.JPG]]
+
+# /Users/gcr/git/bitbucket/keyboard/000/run1/DSC_0107.JPG https://www.wisdomandwonder.com/wp-content/uploads/2016/06/DSC_0107.jpg
