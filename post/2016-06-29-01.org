@@ -3,7 +3,7 @@
 #+DATE: [2016-06-29 Wed 19:51]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
-#+TAGS: AMPL, Constraint Programming, Artificial Intelligence, Knowledge Engineering, Rules Engine
+#+TAGS: AMPL, Linear programming, Constraint Programming, Artificial Intelligence, Knowledge Engineering, Rules Engine
 #+TITLE: AMPL
 
-[[https://en.wikipedia.org/wiki/AMPL][AMPL]] is a [[https://en.wikipedia.org/wiki/Algebraic_modeling_language][Algebraic modeling language]] that supports [[https://en.wikipedia.org/wiki/Constraint_programming][Constraint programming]].
+[[https://en.wikipedia.org/wiki/AMPL][AMPL]] is a [[https://en.wikipedia.org/wiki/Algebraic_modeling_language][Algebraic modeling language]] for [[https://en.wikipedia.org/wiki/Linear_programming][Linear programming]] that supports [[https://en.wikipedia.org/wiki/Constraint_programming][Constraint programming]].
