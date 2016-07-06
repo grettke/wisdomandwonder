@@ -1,0 +1,22 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10306
+#+DATE: [2016-07-06 Wed 14:45]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: APL, Array programming, Programming Language
+#+TITLE: @dyalogapl Now Free for Non-Commercial Use
+
+The announcement is [[http://www.dyalog.com/news/108/420/Dyalog-Ltd-Announces-Dyalog-Version-15-0.htm][here]].
+
+- Great way to start the summer
+  - Better for developers, too :)
+- Free for non-commercial use
+  - Paid for it before as it was worth it
+  - Hope better pricing attracts more users
+- Performance speedups
+  - Hashed array type speeds things up
+- More cross-platform tools including functions and IDE
+  - RIDE will go open-source
+  - More/easier Emacs integration?
+- Workspace can reference Unicode files
+  - Changes are stored back in the file
