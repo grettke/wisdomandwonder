@@ -1,0 +1,9 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10308
+#+DATE: [2016-07-06 Wed 19:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Linear programming, Constraint Programming, Artificial Intelligence, Knowledge Engineering, Rules Engine
+#+TITLE: Gurobi Optimizer
+
+[[http://www.gurobi.com/products/gurobi-optimizer][Gurobi Optimizer]] seems nice.
