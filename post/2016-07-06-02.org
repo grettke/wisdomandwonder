@@ -1,0 +1,9 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10307
+#+DATE: [2016-07-06 Wed 19:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Linear programming, Constraint Programming, Artificial Intelligence, Knowledge Engineering, Rules Engine
+#+TITLE: FICO Xpress Optimization Suite
+
+[[http://www.fico.com/en/products/fico-xpress-optimization-suite#overview][FICO Xpress Optimization Suite]] seems to have everything optimization.
