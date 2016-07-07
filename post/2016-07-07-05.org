@@ -1,0 +1,12 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10314
+#+DATE: [2016-07-07 Thu 13:28]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Literate Programming, Programming Language, R-Project, Reproducible research
+#+TITLE: Export Literate Org-Mode Documents to Other R-Project Formats
+
+After switching between Emacs/Org-Mode and RStudio one hundred times you start
+to wonder if you ought to export your Literate Org-Mode documents to RMarkdown
+and try it out for a while. [[https://github.com/chasberry/orgmode-accessories/blob/master/ox-ravel.org][ox-ravel]] lets you export Literate Org-Mode
+documents to RMarkdown, and more.
