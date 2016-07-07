@@ -1,0 +1,11 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10309
+#+DATE: [2016-07-06 Wed 19:57]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Linear programming, Constraint Programming, Artificial Intelligence, Knowledge Engineering, Rules Engine
+#+TITLE: Optimal Planning Solutions
+
+Happy with your NFL matchups?
+
+Thank [[http://www.optimalplanning.com/Home/About][Optimal Planning Solutions]].
