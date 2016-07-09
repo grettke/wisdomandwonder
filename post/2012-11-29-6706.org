@@ -9,13 +9,14 @@ My placeholder for image conversion commands mostly with ImageMagick:
 
 Resize without quality loss:
 
-
-
 #+BEGIN_EXAMPLE
-    
 convert -resize 50%% -quality 100 %1.jpg %1s.jpg
-
 #+END_EXAMPLE
 
+*ADDENDUM: <2016-07-09 Sat>*
 
+Resize to 33% of the original size using =mogrify=.
 
+#+BEGIN_EXAMPLE
+mogrify -resize 33% *.jpg
+#+END_EXAMPLE
