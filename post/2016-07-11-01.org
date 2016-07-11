@@ -1,0 +1,16 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10318
+#+DATE: [2016-07-11 Mon 17:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Utility
+#+TITLE: Easily Dust With A Damp Microfiber Cloth
+
+Having grown up with Lemon Pledge I found that the lemon scent was the only
+pleasant thing about dusting with it. The endless wiping which just spread the
+dust around was... not fun. My dad mentioned he switched to dusting with a
+damp microfiber cloth. Wow. It rocks. The world needs to know about these
+things. Best of all: when you are finished, just wash them and hang them to
+dry, no paper waste /at all/!
+
+#+HTML: <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=wisdomandwo0f-20&marketplace=amazon&region=US&placement=B00CFALFXY&asins=B00CFALFXY&linkId=8c014ffba52586257d9684c9b5aa6530&show_border=false&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
