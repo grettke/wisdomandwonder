@@ -1,0 +1,9 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10334
+#+DATE: [2016-07-23 Sat 14:45]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Org-Mode 8.3.5 Is Released
+
+Hear, hear! Org-Mode 8.3.5 Is Released!
