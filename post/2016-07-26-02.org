@@ -1,0 +1,15 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10336
+#+DATE: [2016-07-26 Tue 14:17]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Git, Version Control, Utility
+#+TITLE: A Simplified Git Workflow
+
+[[http://mikeeverhart.net/2013/01/simplified-git-workflow/][This]] is what I use most of the time when I don't need 4096 feature branches.
+
+Cool thing is that even when you do need 4096 feature branches that this still
+makes total sense. Add some client releases and QA branches and it still works
+fine.
+
+Key though is that it is really is this simple.
