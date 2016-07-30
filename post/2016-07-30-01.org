@@ -1,0 +1,9 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10337
+#+DATE: [2016-07-30 Sat 10:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Smalltalk
+#+TITLE: Dolphin Smalltalk 7 is Open Source
+
+[[http://object-arts.com/blog/files/d60e38332cc3e009d1326504af95a64a-6.html][Here]] is the announcement. Most delightful Smalltalk interpreter ever.
