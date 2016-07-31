@@ -1,0 +1,15 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10338
+#+DATE: [2016-07-31 Sun 13:17]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Yoga, philosophy, Health
+#+TITLE: Salutogenesis
+
+#+BEGIN_QUOTE
+Salutogenesis is a term coined by Aaron Antonovsky,[1] a professor of medical
+sociology. The term describes an approach focusing on factors that support
+human health and well-being, rather than on factors that cause disease. More
+specifically, the "salutogenic model" is concerned with the relationship
+between health, stress, and coping.
+#+END_QUOTE
