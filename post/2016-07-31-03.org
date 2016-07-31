@@ -1,0 +1,9 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10340
+#+DATE: [2016-07-31 Sun 15:45]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: org-spec: A Pleasant Weaving Theme For Org-Mode
+
+[[https://github.com/thi-ng/org-spec][Project]]. [[http://demo.thi.ng/org-spec/][Demo]] and [[https://raw.githubusercontent.com/thi-ng/org-spec/master/index.org][Demo Source Code]].
