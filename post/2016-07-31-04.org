@@ -1,0 +1,20 @@
+#+DATE: [2016-07-31 Sun 23:22]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: AMPL, Linear programming, Constraint Programming, Artificial Intelligence, Knowledge Engineering, Rules Engine
+#+TITLE: AMPL Book Download Script
+
+AMPL provides their user manual freely [[http://ampl.com/resources/the-ampl-book/chapter-downloads/][here]].
+
+This is a shell script that
+- downloads them
+- renames them to their human title
+- creates a compressed file for backup
+
+#+NAME: B598E4A9-F7AF-4C46-92D1-D6B8FE03C0E6
+#+BEGIN_SRC sh
+set DOWNLOADDIR="$HOME/tmp/AMPLBOOK-`date +%Y-%m-%dT%H-%M-%S%z`"
+mkdir $DOWNLOADDIR
+cd $DOWNLOADDIR
+unset DOWNLOADDIR
+#+END_SRC
