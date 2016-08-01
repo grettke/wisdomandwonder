@@ -13,6 +13,7 @@ This is a shell script that
 
 #+NAME: B598E4A9-F7AF-4C46-92D1-D6B8FE03C0E6
 #+BEGIN_SRC sh
+set OLDDOWNLOADDIR $DOWNLOADDIR
 set DOWNLOADDIR="$HOME/tmp/AMPLBOOK-`date +%Y-%m-%dT%H-%M-%S%z`"
 mkdir $DOWNLOADDIR
 cd $DOWNLOADDIR
@@ -41,5 +42,6 @@ Complementarity_Problems http://ampl.com/BOOK/CHAPTERS/22-complement.pdf
 Integer_Linear_Programs http://ampl.com/BOOK/CHAPTERS/23-integer.pdf
 Appendix http://ampl.com/BOOK/CHAPTERS/24-refman.pdf
 Index http://ampl.com/BOOK/CHAPTERS/25-index.pdf
-unset DOWNLOADDIR
+set DOWNLOADDIR $OLDDOWNLOADDIR
+unset OLDDOWNLOADDIR
 #+END_SRC
