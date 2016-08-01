@@ -16,30 +16,30 @@ This is a shell script that
 set DOWNLOADDIR="$HOME/tmp/AMPLBOOK-`date +%Y-%m-%dT%H-%M-%S%z`"
 mkdir $DOWNLOADDIR
 cd $DOWNLOADDIR
-Title_Pages
-Table_of_Contents
-Introduction
-Production_Models-_Maximizing_Profits
-Diet_and_Other_Input_Models-_Minimizing_Costs
-Transportation_and_Assignment_Models
-Building_Larger_Models
-Simple_Sets_and_Indexing
-Compound_Sets_and_Indexing
-Parameters_and_Expressions
-Linear_Programs-_Variables._Objectives_and_Constraints
-Specifying_Data
-Database_Access
-Modeling_Commands
-Display_Commands
-Command_Scripts
-Interactions_with_Solvers
-Network_Linear_Programs
-Columnwise_Formulations
-Piecewise-Linear_Programs
-Nonlinear_Programs
-Complementarity_Problems
-Integer_Linear_Programs
-Appendix
-Index
+Title_Pages http://ampl.com/BOOK/CHAPTERS/01-title.pdf
+Table_of_Contents http://ampl.com/BOOK/CHAPTERS/02-contents.pdf
+Introduction http://ampl.com/BOOK/CHAPTERS/03-intro.pdf
+Production_Models-_Maximizing_Profits http://ampl.com/BOOK/CHAPTERS/04-tut1.pdf
+Diet_and_Other_Input_Models-_Minimizing_Costs http://ampl.com/BOOK/CHAPTERS/05-tut2.pdf
+Transportation_and_Assignment_Models http://ampl.com/BOOK/CHAPTERS/06-tut3.pdf
+Building_Larger_Models http://ampl.com/BOOK/CHAPTERS/07-tut4.pdf
+Simple_Sets_and_Indexing http://ampl.com/BOOK/CHAPTERS/08-sets1.pdf
+Compound_Sets_and_Indexing http://ampl.com/BOOK/CHAPTERS/09-sets2.pdf
+Parameters_and_Expressions http://ampl.com/BOOK/CHAPTERS/10-params.pdf
+Linear_Programs-_Variables._Objectives_and_Constraints http://ampl.com/BOOK/CHAPTERS/11-linprog.pdf
+Specifying_Data http://ampl.com/BOOK/CHAPTERS/12-data.pdf
+Database_Access http://ampl.com/BOOK/CHAPTERS/13-tables.pdf
+Modeling_Commands http://ampl.com/BOOK/CHAPTERS/14-command.pdf
+Display_Commands http://ampl.com/BOOK/CHAPTERS/15-display.pdf
+Command_Scripts http://ampl.com/BOOK/CHAPTERS/16-script.pdf
+Interactions_with_Solvers http://ampl.com/BOOK/CHAPTERS/17-solvers.pdf
+Network_Linear_Programs http://ampl.com/BOOK/CHAPTERS/18-network.pdf
+Columnwise_Formulations http://ampl.com/BOOK/CHAPTERS/19-colwise.pdf
+Piecewise-Linear_Programs http://ampl.com/BOOK/CHAPTERS/20-piecewise.pdf
+Nonlinear_Programs http://ampl.com/BOOK/CHAPTERS/21-nonlinear.pdf
+Complementarity_Problems http://ampl.com/BOOK/CHAPTERS/22-complement.pdf
+Integer_Linear_Programs http://ampl.com/BOOK/CHAPTERS/23-integer.pdf
+Appendix http://ampl.com/BOOK/CHAPTERS/24-refman.pdf
+Index http://ampl.com/BOOK/CHAPTERS/25-index.pdf
 unset DOWNLOADDIR
 #+END_SRC
