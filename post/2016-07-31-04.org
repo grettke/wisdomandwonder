@@ -45,7 +45,6 @@ curl --limit-rate 56K -o ./23-Chapter_20-Integer_Linear_Programs-integer.pdf htt
 curl --limit-rate 56K -o ./24-Appendix-refman.pdf http://ampl.com/BOOK/CHAPTERS/24-refman.pdf
 curl --limit-rate 56K -o ./25-Index-index.pdf http://ampl.com/BOOK/CHAPTERS/25-index.pdf
 DOWNLOADDIR=$OLDDOWNLOADDIR
-unset OLDDOWNLOADDIR
 #+END_SRC
 
 #  LocalWords:  AMPL
