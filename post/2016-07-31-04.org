@@ -26,7 +26,7 @@ Building_Larger_Models
 Simple_Sets_and_Indexing
 Compound_Sets_and_Indexing
 Parameters_and_Expressions
-Linear_Programs:_Variables,_Objectives_and_Constraints
+Linear_Programs:_Variables._Objectives_and_Constraints
 Specifying_Data
 Database_Access
 Modeling_Commands
