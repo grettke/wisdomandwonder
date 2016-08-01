@@ -19,14 +19,14 @@ cd $DOWNLOADDIR
 Title_Pages
 Table_of_Contents
 Introduction
-Production_Models:_Maximizing_Profits
-Diet_and_Other_Input_Models:_Minimizing_Costs
+Production_Models-_Maximizing_Profits
+Diet_and_Other_Input_Models-_Minimizing_Costs
 Transportation_and_Assignment_Models
 Building_Larger_Models
 Simple_Sets_and_Indexing
 Compound_Sets_and_Indexing
 Parameters_and_Expressions
-Linear_Programs:_Variables._Objectives_and_Constraints
+Linear_Programs-_Variables._Objectives_and_Constraints
 Specifying_Data
 Database_Access
 Modeling_Commands
