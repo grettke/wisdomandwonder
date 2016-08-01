@@ -16,5 +16,30 @@ This is a shell script that
 set DOWNLOADDIR="$HOME/tmp/AMPLBOOK-`date +%Y-%m-%dT%H-%M-%S%z`"
 mkdir $DOWNLOADDIR
 cd $DOWNLOADDIR
+Title Pages
+Table of Contents
+Introduction
+Production Models: Maximizing Profits
+Diet and Other Input Models: Minimizing Costs
+Transportation and Assignment Models
+Building Larger Models
+Simple Sets and Indexing
+Compound Sets and Indexing
+Parameters and Expressions
+Linear Programs: Variables, Objectives and Constraints
+Specifying Data
+Database Access
+Modeling Commands
+Display Commands
+Command Scripts
+Interactions with Solvers
+Network Linear Programs
+Columnwise Formulations
+Piecewise-Linear Programs
+Nonlinear Programs
+Complementarity Problems
+Integer Linear Programs
+Appendix
+Index
 unset DOWNLOADDIR
 #+END_SRC
