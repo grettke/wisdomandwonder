@@ -17,31 +17,31 @@ set OLDDOWNLOADDIR $DOWNLOADDIR
 set DOWNLOADDIR="$HOME/tmp/AMPLBOOK-`date +%Y-%m-%dT%H-%M-%S%z`"
 mkdir $DOWNLOADDIR
 cd $DOWNLOADDIR
-curl -limit-rate 1K -o 01-Title_Pages-title.pdf http://ampl.com/BOOK/CHAPTERS/01-title.pdf
-curl -limit-rate 1K -o 02-Table_of_Contents-contents.pdf http://ampl.com/BOOK/CHAPTERS/02-contents.pdf
-curl -limit-rate 1K -o 03-Introduction-intro.pdf http://ampl.com/BOOK/CHAPTERS/03-intro.pdf
-curl -limit-rate 1K -o 04-Chapter_01-Production_Models-_Maximizing_Profits-tut1.pdf http://ampl.com/BOOK/CHAPTERS/04-tut1.pdf
-curl -limit-rate 1K -o 05-Chapter_02-Diet_and_Other_Input_Models-_Minimizing_Costs-tut2.pdf http://ampl.com/BOOK/CHAPTERS/05-tut2.pdf
-curl -limit-rate 1K -o 06-Chapter_03-Transportation_and_Assignment_Models-tut3.pdf http://ampl.com/BOOK/CHAPTERS/06-tut3.pdf
-curl -limit-rate 1K -o 07-Chapter_04-Building_Larger_Models-tut4.pdf http://ampl.com/BOOK/CHAPTERS/07-tut4.pdf
-curl -limit-rate 1K -o 08-Chapter_05-Simple_Sets_and_Indexing-sets1.pdf http://ampl.com/BOOK/CHAPTERS/08-sets1.pdf
-curl -limit-rate 1K -o 09-Chapter_06-Compound_Sets_and_Indexing-sets2.pdf http://ampl.com/BOOK/CHAPTERS/09-sets2.pdf
-curl -limit-rate 1K -o 10-Chapter_07-Parameters_and_Expressions-params.pdf http://ampl.com/BOOK/CHAPTERS/10-params.pdf
-curl -limit-rate 1K -o 11-Chapter_08-Linear_Programs-_Variables._Objectives_and_Constraints-linprog.pdf http://ampl.com/BOOK/CHAPTERS/11-linprog.pdf
-curl -limit-rate 1K -o 12-Chapter_09-Specifying_Data-data.pdf http://ampl.com/BOOK/CHAPTERS/12-data.pdf
-curl -limit-rate 1K -o 13-Chapter_10-Database_Access-tables.pdf http://ampl.com/BOOK/CHAPTERS/13-tables.pdf
-curl -limit-rate 1K -o 14-Chapter_11-Modeling_Commands-command.pdf http://ampl.com/BOOK/CHAPTERS/14-command.pdf
-curl -limit-rate 1K -o 15-Chapter_12-Display_Commands-display.pdf http://ampl.com/BOOK/CHAPTERS/15-display.pdf
-curl -limit-rate 1K -o 16-Chapter_13-Command_Scripts-script.pdf http://ampl.com/BOOK/CHAPTERS/16-script.pdf
-curl -limit-rate 1K -o 17-Chapter_14-Interactions_with_Solvers-solvers.pdf http://ampl.com/BOOK/CHAPTERS/17-solvers.pdf
-curl -limit-rate 1K -o 18-Chapter_15-Network_Linear_Programs-network.pdf http://ampl.com/BOOK/CHAPTERS/18-network.pdf
-curl -limit-rate 1K -o 19-Chapter_16-Columnwise_Formulations-colwise.pdf http://ampl.com/BOOK/CHAPTERS/19-colwise.pdf
-curl -limit-rate 1K -o 20-Chapter_17-Piecewise-Linear_Programs-piecewise.pdf http://ampl.com/BOOK/CHAPTERS/20-piecewise.pdf
-curl -limit-rate 1K -o 21-Chapter_18-Nonlinear_Programs-nonlinear.pdf http://ampl.com/BOOK/CHAPTERS/21-nonlinear.pdf
-curl -limit-rate 1K -o 22-Chapter_19-Complementarity_Problems-complement.pdf http://ampl.com/BOOK/CHAPTERS/22-complement.pdf
-curl -limit-rate 1K -o 23-Chapter_20-Integer_Linear_Programs-integer.pdf http://ampl.com/BOOK/CHAPTERS/23-integer.pdf
-curl -limit-rate 1K -o 24-Appendix-refman.pdf http://ampl.com/BOOK/CHAPTERS/24-refman.pdf
-curl -limit-rate 1K -o 25-Index-index.pdf http://ampl.com/BOOK/CHAPTERS/25-index.pdf
+curl --limit-rate 1K -o 01-Title_Pages-title.pdf http://ampl.com/BOOK/CHAPTERS/01-title.pdf
+curl --limit-rate 1K -o 02-Table_of_Contents-contents.pdf http://ampl.com/BOOK/CHAPTERS/02-contents.pdf
+curl --limit-rate 1K -o 03-Introduction-intro.pdf http://ampl.com/BOOK/CHAPTERS/03-intro.pdf
+curl --limit-rate 1K -o 04-Chapter_01-Production_Models-_Maximizing_Profits-tut1.pdf http://ampl.com/BOOK/CHAPTERS/04-tut1.pdf
+curl --limit-rate 1K -o 05-Chapter_02-Diet_and_Other_Input_Models-_Minimizing_Costs-tut2.pdf http://ampl.com/BOOK/CHAPTERS/05-tut2.pdf
+curl --limit-rate 1K -o 06-Chapter_03-Transportation_and_Assignment_Models-tut3.pdf http://ampl.com/BOOK/CHAPTERS/06-tut3.pdf
+curl --limit-rate 1K -o 07-Chapter_04-Building_Larger_Models-tut4.pdf http://ampl.com/BOOK/CHAPTERS/07-tut4.pdf
+curl --limit-rate 1K -o 08-Chapter_05-Simple_Sets_and_Indexing-sets1.pdf http://ampl.com/BOOK/CHAPTERS/08-sets1.pdf
+curl --limit-rate 1K -o 09-Chapter_06-Compound_Sets_and_Indexing-sets2.pdf http://ampl.com/BOOK/CHAPTERS/09-sets2.pdf
+curl --limit-rate 1K -o 10-Chapter_07-Parameters_and_Expressions-params.pdf http://ampl.com/BOOK/CHAPTERS/10-params.pdf
+curl --limit-rate 1K -o 11-Chapter_08-Linear_Programs-_Variables._Objectives_and_Constraints-linprog.pdf http://ampl.com/BOOK/CHAPTERS/11-linprog.pdf
+curl --limit-rate 1K -o 12-Chapter_09-Specifying_Data-data.pdf http://ampl.com/BOOK/CHAPTERS/12-data.pdf
+curl --limit-rate 1K -o 13-Chapter_10-Database_Access-tables.pdf http://ampl.com/BOOK/CHAPTERS/13-tables.pdf
+curl --limit-rate 1K -o 14-Chapter_11-Modeling_Commands-command.pdf http://ampl.com/BOOK/CHAPTERS/14-command.pdf
+curl --limit-rate 1K -o 15-Chapter_12-Display_Commands-display.pdf http://ampl.com/BOOK/CHAPTERS/15-display.pdf
+curl --limit-rate 1K -o 16-Chapter_13-Command_Scripts-script.pdf http://ampl.com/BOOK/CHAPTERS/16-script.pdf
+curl --limit-rate 1K -o 17-Chapter_14-Interactions_with_Solvers-solvers.pdf http://ampl.com/BOOK/CHAPTERS/17-solvers.pdf
+curl --limit-rate 1K -o 18-Chapter_15-Network_Linear_Programs-network.pdf http://ampl.com/BOOK/CHAPTERS/18-network.pdf
+curl --limit-rate 1K -o 19-Chapter_16-Columnwise_Formulations-colwise.pdf http://ampl.com/BOOK/CHAPTERS/19-colwise.pdf
+curl --limit-rate 1K -o 20-Chapter_17-Piecewise-Linear_Programs-piecewise.pdf http://ampl.com/BOOK/CHAPTERS/20-piecewise.pdf
+curl --limit-rate 1K -o 21-Chapter_18-Nonlinear_Programs-nonlinear.pdf http://ampl.com/BOOK/CHAPTERS/21-nonlinear.pdf
+curl --limit-rate 1K -o 22-Chapter_19-Complementarity_Problems-complement.pdf http://ampl.com/BOOK/CHAPTERS/22-complement.pdf
+curl --limit-rate 1K -o 23-Chapter_20-Integer_Linear_Programs-integer.pdf http://ampl.com/BOOK/CHAPTERS/23-integer.pdf
+curl --limit-rate 1K -o 24-Appendix-refman.pdf http://ampl.com/BOOK/CHAPTERS/24-refman.pdf
+curl --limit-rate 1K -o 25-Index-index.pdf http://ampl.com/BOOK/CHAPTERS/25-index.pdf
 set DOWNLOADDIR $OLDDOWNLOADDIR
 unset OLDDOWNLOADDIR
 #+END_SRC
