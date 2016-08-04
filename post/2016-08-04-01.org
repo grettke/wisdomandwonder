@@ -1,0 +1,19 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10342
+#+DATE: [2016-08-04 Thu 15:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Link
+#+TAGS: Health
+#+TITLE: Obesity Associated With Increased Brain-Age From Mid-Life
+
+[[http://www.neurobiologyofaging.org/article/S0197-4580%252816%252930140-3/fulltext][Via this paper:]]
+
+#+BEGIN_QUOTE
+The results of our study suggest that increased adiposity has a significant
+impact on brain structure, that it modulates the relationship between white
+matter volume and age, and that such effects may be equivalent to an increased
+in brain-age of up to 10 years in overweight and obese individuals.
+#+END_QUOTE
+
+In other words: it changes how you think by impairing your brain's ability to
+heal.
