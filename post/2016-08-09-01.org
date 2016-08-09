@@ -1,0 +1,15 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10347
+#+DATE: [2016-08-09 Tue 13:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Windows
+#+TITLE: Delightful @Microsoft #Windows10 Upgrade Experience
+
+Figured it wouldn't make sense to pass up a $200USD free upgrade from Windows
+7 Professional to Windows 10 Pro so I clicked "Yes" and the download began.
+
+Fourteen hours later the installation completed and I was left with a Windows
+box that booted *faster* than before!
+
+The new Windows release is faster and it includes Bash. /Yes/ times have changed.
