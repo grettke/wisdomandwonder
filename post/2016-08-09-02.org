@@ -1,0 +1,21 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10348
+#+DATE: [2016-08-09 Tue 21:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Screencasting, Blogging, Utility, Video, ScreenFlow, Teaching, Learning
+#+TITLE: Screenflow 6 User Guide Highlights
+
+- Recording Monitor makes monitoring easier
+  - Easily add markers
+- Difference between clips and backing medias turns ScreenFlow (SF) into a
+  Lisp-like and Git-like environment for easily trying things out and
+  reverting them if you don't like the results
+  - Test this out by speeding up or slowing down a clip, *cool*
+- Where can I find standard, known-good approaches for visual and audio
+  effects in multimedia content production?
+- Nested clips
+- Templates seem like a really great idea, too
+- You can do free-hand callouts that blur and darken areas
+- *Everyone must know about snapback actions*
+  - Restore the state of the clip to the $N-1$ action
