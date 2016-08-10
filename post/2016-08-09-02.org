@@ -18,4 +18,4 @@
 - Templates seem like a really great idea, too
 - You can do free-hand callouts that blur and darken areas
 - *Everyone must know about snapback actions*
-  - Restore the state of the clip to the $N-1$ action
+  - Restore the state of the clip to the =N-1= action
