@@ -1,0 +1,11 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10352
+#+DATE: [2016-08-11 Thu 20:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, VIM, Teco, Editor
+#+TITLE: The Glorious Horror of TECO
+
+Via [[https://www.reddit.com/r/emacs/comments/4lfy6r/the_glorious_horror_of_teco_2010/][Reddit]]: [[http://goodmath.scientopia.org/2010/11/30/the-glorious-horror-of-teco/][The Glorious Horror of TECO]] is a fascinating read about
+implementing a useful and expressive programming environment under drastically
+constrained resources.
