@@ -1,0 +1,10 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10350
+#+DATE: [2016-08-11 Thu 20:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Programming, Typography, Security
+#+TITLE: Homoglyphs and Security
+
+Unicode [[https://github.com/codebox/homoglyph][homoglyphs]] at best make it easy to play jokes on other programmers and
+at worst make it easy mislead users.

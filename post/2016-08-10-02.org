@@ -1,0 +1,13 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10349
+#+DATE: [2016-08-10 Wed 23:04]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: (Screencast) The Story Of blackboard-bold-mode
+
+Here is how I learned to move functionality from my .emacs.el into a
+minor-mode.
+
+[[yt:c0z7dh1JAZM][The Story Of blackboard-bold-mode]]
+
