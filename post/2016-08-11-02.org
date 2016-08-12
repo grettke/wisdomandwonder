@@ -1,0 +1,10 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10351
+#+DATE: [2016-08-11 Thu 20:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Org-mode with the ox-twbs package
+
+Via [[https://www.reddit.com/r/emacs/comments/41o2xq/quick_intro_to_produce_nice_html_docs_with_org/][Reddit]], [[http://clubctrl.com/org/prog/howto.html][this]] is a nice post about the authors flow and style for
+publishing.
