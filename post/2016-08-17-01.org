@@ -230,6 +230,26 @@ sure that every =Source Block= has a unique name:
 
 The net result here is that you get 100% traceability with virtually no effort.
 
+* Easily Configure Source Blocks
+
+After refactoring huge chunks of code into documented source blocks by hand it
+got old, fast. In an attempt to automate it I set up a [[https://github.com/joaotavora/yasnippet][YASnippet]] to automate
+as much as possible including giving it a unique =NAME=:
+
+#+BEGIN_EXAMPLE
+# -*- mode: snippet -*-
+# key: sc
+# name: Source Block
+# group: HELP
+# contributor: gcr@wisdomandwonder.com
+# expand-env: ((yas-indent-line 'fixed))
+# --
+,#+NAME: ${1:`(org-id-new)`}
+,#+BEGIN_SRC ${2:$$(let ((langs (sort (-map (lambda (x) (symbol-name (car x))) org-babel-load-languages) 'string<))) (yas-choose-value (if (-contains? langs "shell") (-snoc langs "sh") langs)))}${2:$(when (-contains? '("ditaa" "dot" "plantuml") yas-text) (concat " :file \\"./image/" (yas-field-value 1) ".png\\""))} $3
+$0
+,#+END_SRC
+#+END_EXAMPLE
+
 * Outcomes Of This Approach
 
 ** Easy Attribution and Researching
