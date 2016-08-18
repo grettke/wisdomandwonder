@@ -451,4 +451,11 @@ version 25.1 of Emacs.
 
 [back]
     #+END_EXAMPLE
+  - The =ID= seems to be an object indeed used only by Org-Mode for things like
+    generating unique links when exporting. It is probably that simple.
+- [[http://orgmode.org/w/?p=org-mode.git;a=blob_plain;f=lisp/org-id.el;hb=HEAD][org-id.el]]
+  - This code seems to be responsible for two things
+    - Allocating unique =ID= s
+    - Doing things in regards to a particular =ID=
+
 * Conclusions About CUSTOM_ID
