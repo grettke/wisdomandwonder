@@ -185,7 +185,7 @@ put together to make sure that every =Headline= has a unique =ID=:
 #+END_SRC
 
 This way you can refactor your =Headlines= as much as you want without your code
-breaking.
+breaking. This is probably a pretty [[https://stackoverflow.com/questions/13340616/assign-ids-to-every-entry-in-org-mode][common task]].
 
 Org-Babel's helper functions make it trivially easy to perform Lisp style
 iterative development inside of Emacs-Lisp while working inside of an Org-Mode
@@ -303,4 +303,4 @@ Here is what [[http://orgmode.org/cgit.cgi/org-mode.git/plain/etc/ORG-NEWS][ORG-
 
 Then I started searching the web and learned the following:
 
-- 
+-
