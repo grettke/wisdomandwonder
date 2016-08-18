@@ -1,0 +1,85 @@
+#+DATE: [2016-08-17 Wed 20:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Why To Use Org-Mode's ID and CUSTOM_ID
+
+The following are my notes about why and how I started using =ID= and =CUSTOM_ID=
+in [[https://github.com/grettke/help][HELP]] in chronological order.
+
+They are accurate where they can be and recollections where they can't.
+
+Please notify me of errors, issues, and improvements where you can!
+
+#+HTML: <!--more-->
+
+* Automatically Perform Actions Upon Specific Headlines
+
+When I set up [[https://github.com/grettke/home/blob/master/TC3F.org][TC3F]], I manually exported it to =ASCII= in case anyone wanted to
+read it. Same goes for [[https://github.com/grettke/home/blob/master/ALEC.org][ALEC]]. Although I figured that virtually no one read
+either of the weaved documents, it seemed like a wasted opportunity not trying
+out all of them so I kept it in the back of my mind wondering where might be a
+good opportunity. When I refactored =ALEC= into [[https://github.com/grettke/help][HELP]] that opportunity came;
+suddenly in addition to the document itself I also had two more documents that
+I cared about *a lot*: the [[https://github.com/grettke/help/blob/master/README.md][README]] and the [[https://github.com/grettke/help/blob/master/STYLEGUIDE.md][STYLEGUIDE]].
+
+The =README= contains the minimal steps to get =HELP= up and running. When I set
+up a new box, /I/ use it. Even when I automate most of the process, I /refer/ to
+it; otherwise I just wouldn't remember.
+
+The =STYLEGUIDE= contains every decision I consciously made about writing this
+document. It ain't rocket science, but it is mine and I can't remember all of
+it so I wrote it down. One of the most frequently used reminders that I keep
+coming back to in there is how choose between formatting =code= and =verbatim=...
+that one /still/ needs refinement because I break that rule all the time lol.
+Even as I write this document, I'm glad to see that I at least /noted/ that it is
+important to always set a unique =ID= for every =Headline= (more later).
+
+That makes *six weavings (exports)*, way too many to do manually because it is
+tedious and time consuming. Really, it is. The folks on the Org-Mode mailing
+list (link excluded because all of my links are to gmame which no longer
+exists) showed me how to go somewhere and do something so I pieced together
+the following to automate all of the weaving of =HELP=:
+
+#+NAME: 7F835528-B720-430E-8B14-190A4BA9FD0B
+#+BEGIN_SRC emacs-lisp
+(defun help/org-weave-subtree-gfm (id file)
+  "Export the subtree with ID to FILE in gfm."
+  (interactive)
+  (help/save-all-file-buffers)
+  (save-excursion
+    (let ((hidx (org-find-property "ID" id)))
+      (when hidx
+        (goto-char hidx)
+        (org-export-to-file 'gfm file nil t nil)))))
+
+(defun help/org-weave-readme ()
+  (interactive)
+  (help/org-weave-subtree-gfm
+   "README"
+   "README.md"))
+
+(defun help/org-weave-style-guide ()
+  (interactive)
+  (help/org-weave-subtree-gfm
+   "STYLEGUIDE"
+   "STYLEGUIDE.md"))
+
+(defun help/weave-everything-everywhere ()
+  "Export this entire document in configured weavers."
+  (interactive)
+  (save-excursion
+    (org-ascii-export-to-ascii)
+    (org-html-export-to-html)
+    (org-gfm-export-to-markdown)
+    (org-latex-export-to-pdf))
+  (help/org-weave-readme)
+  (help/org-weave-style-guide))
+#+END_SRC
+
+Every few days/weeks/months/years I call =help/weave-everything-everywhere=, go
+for a walk, and publish new versions of the documents. It has worked great for
+a long time. Going to a Headline with a specific =ID= is my introduction to =ID=
+and it has worked great.
+
+#  LocalWords:  Ide elisp README STYLEGUIDE lol weavings gmame
