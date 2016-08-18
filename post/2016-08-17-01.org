@@ -2,12 +2,15 @@
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
 #+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
-#+TITLE: Why To Use Org-Mode's ID and CUSTOM_ID
+#+TITLE: Why To Use Org-Mode's ID, CUSTOM_ID, and NAME
 
-The following are my notes about why and how I started using =ID= and =CUSTOM_ID=
-in [[https://github.com/grettke/help][HELP]] in chronological order.
+The following are my notes about why and how I started using =ID,= =CUSTOM_ID=, and
+=NAME= with [[https://github.com/grettke/help][HELP]] in chronological order.
 
 They are accurate where they can be and recollections where they can't.
+
+Originally I wanted to publish this as separate posts, but it doesn't make
+sense to me separately, so here goes.
 
 Please notify me of errors, issues, and improvements where you can!
 
