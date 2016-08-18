@@ -152,3 +152,7 @@ to make that happen:
 - Easily jump from comments to the origin source block by opening the tangled
   file in Emacs and changing the mode to =org-mode= and clicking on the link
   - Jennifer searched manually which works really well, too
+
+When you de-mystify Org-Modes literate tangling and weaving you find that it
+is /just a plain old program/ like everything else and all of the fear about it
+is plain old =FUD=.
