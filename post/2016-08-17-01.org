@@ -156,3 +156,28 @@ to make that happen:
 When you de-mystify Org-Modes literate tangling and weaving you find that it
 is /just a plain old program/ like everything else and all of the fear about it
 is plain old =FUD=.
+* Automatically Allocate ID and NAME
+* Outcomes Of This Approach
+
+** Easy Attribution and Researching
+
+Most of the Emacs configuration universe consists of snippets that have been
+passed around via the SneakerNet, EmacsWikiNet, and InterNet. That rocks. If
+you read my [[https://github.com/grettke/help/blob/master/.emacs.el][.emacs.el]] you will find =Attribution= lines all over the place. I am
+not unique here. What I am curious about is how to easily attribute code
+across publishing mediums. My config here makes it easy because every single
+code snippet has a =UUID= associated with it. Not perfect, but it is a start
+because you can use the same =UUID= across source code and human-readable
+documents. That is very exciting and is not about enforcing ownership and
+totally about making it easy to track down who did what and why just to know,
+which is always a big topic for Emacs-Lisp code.
+
+** Easy Iterative Development
+
+[[http://orgmode.org/manual/noweb_002dref.html][noweb-ref]] makes it easy to use a natural iterative coding style in your
+Org-Mode document iself. Automatic naming of Headlines and Source Blocks makes
+it easy to keep track of what came from where and why.
+
+** Easy Sharing
+
+Easily study all kinds of documents inside Emacs, or out.
