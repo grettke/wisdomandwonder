@@ -457,5 +457,8 @@ version 25.1 of Emacs.
   - This code seems to be responsible for two things
     - Allocating unique =ID= s
     - Doing things in regards to a particular =ID=
+- [[http://thewanderingcoder.com/2015/01/emacs-org-mode-links-and-exported-html/][emacs-org-mode-links-and-exported-html]]
+  - Explains the whole topic well
+  - 
 
 * Conclusions About CUSTOM_ID
