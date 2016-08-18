@@ -86,3 +86,69 @@ a long time. Going to a Headline with a specific =ID= is my introduction to =ID=
 and it has worked great.
 
 #  LocalWords:  Ide elisp README STYLEGUIDE lol weavings gmame
+
+* Easily Share Tangled And Weaved Documents With Non Org-Mode Users
+
+One of the *big scary stories* told about Org-Mode is that it is virtually
+impossible to utilize tangled-documents on mixed-teams of Org-Mode-Users and
+Non-Org-Mode-Users. Like most stories, when you shine some light on them the
+fear disappears instantly. That got me curious about something easier than
+doing mixed-development: just sharing. How do you share tangled and weaved
+documents in a pleasant way with Non-Org-Mode users (or any users for that
+matter actually)? The scary user story here goes something like this:
+
+- David wrote a document in Org-Mode
+- He tangled it to an Emacs-Lisp program
+- Jennifer read the program and wants to know why it works the way it does,
+  one specific line actually
+  #+BEGIN_EXAMPLE
+;; [[file:Org-Mode_Fundamentals.org::AD42B561-29FA-4652-AD28-692CAD631E62][AD42B561-29FA-4652-AD28-692CAD631E62]]
+(help/set-org-babel-default-header-args :comments "noweb")
+;; AD42B561-29FA-4652-AD28-692CAD631E62 ends here
+  #+END_EXAMPLE
+- Jennifer realizes that the program has actually been tangled then so
+  obviously: Human sacrifice, dogs and cats living together... mass hysteria!
+
+Hold on. It ain't that bad. It isn't even scary. Here is what really will
+happen:
+
+- David wrote a document in Org-Mode
+- He tangled it to an Emacs-Lisp program
+- Jennifer read the program and wants to know why it works the way it does,
+  one specific line actually
+  #+BEGIN_EXAMPLE
+;; [[file:Org-Mode_Fundamentals.org::AD42B561-29FA-4652-AD28-692CAD631E62][AD42B561-29FA-4652-AD28-692CAD631E62]]
+(help/set-org-babel-default-header-args :comments "noweb")
+;; AD42B561-29FA-4652-AD28-692CAD631E62 ends here
+  #+END_EXAMPLE
+- Jennifer realizes that the program has actually been tangled so she pieces
+  together what the tangled document is telling her, namely that
+  - The source code she is looking at
+    - Came from the physical file [[https://github.com/grettke/help/blob/master/.org-mode-fundamentals.emacs.el#L120][Org-Mode_Fundamentals.org]]
+      - Holding the =NAME= =AD42B561-29FA-4652-AD28-692CAD631E62=
+- To study where the source code came from she simply opens up that Org-Mode
+  file and searches for that name. Doesn't this betray the whole point of
+  Literate Programming's =tangle= and =weave= business? Why should she look at the
+  source code why isn't reading a human-readable document? Excellent point.
+- To study the human-readable document for where the source code came from and
+  why, she opens up the [[https://github.com/grettke/help/blob/master/Org-Mode_Fundamentals.md][Markdown file]] and searches for
+  =49787FC5-CAA7-466B-B742-0F38973E070B= and finds an explanation of what this
+  code does. In practice she would probably just read the source code inside
+  of Emacs once she switches to Emacs, but /this/ gives her a means of
+  leveraging LP before making the switch.
+
+My goal is that *anyone* can make sense of LP documents, *any* of them. It turns
+out that it is pretty simple to do so, it just takes a few different settings
+to make that happen:
+
+- Configure [[http://orgmode.org/manual/comments.html][:comments]] as =noweb=
+- Configure your weaver to include the =ID=
+  - Help the reader make sense of the document by displaying it's internal
+    properties.
+  #+NAME: EB94858A-C299-4F0E-91CA-39ADD9AA73C8
+  #+BEGIN_SRC emacs-lisp
+(setq org-export-with-properties t)
+  #+END_SRC
+- Easily jump from comments to the origin source block by opening the tangled
+  file in Emacs and changing the mode to =org-mode= and clicking on the link
+  - Jennifer searched manually which works really well, too
