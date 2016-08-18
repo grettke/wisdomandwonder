@@ -459,6 +459,13 @@ version 25.1 of Emacs.
     - Doing things in regards to a particular =ID=
 - [[http://thewanderingcoder.com/2015/01/emacs-org-mode-links-and-exported-html/][emacs-org-mode-links-and-exported-html]]
   - Explains the whole topic well
-  - 
+    #+BEGIN_EXAMPLE
+<p>This will also attach an id attribute to the header element in the exported
+html, so in both .org and .html it is recognized as #20130309, and if you then
+change the link to</p> <p>[[file:2013.org::#20130309][9 March 2013]]</p> <p>it
+will work as before in the *.org file, and also in the exported *.html
+>file.</p>
+    #+END_EXAMPLE
+  - Therefore, you never need to use =ID= if Org will always use your =CUSTOM_ID= first
 
 * Conclusions About CUSTOM_ID
