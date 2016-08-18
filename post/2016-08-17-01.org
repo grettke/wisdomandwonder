@@ -281,7 +281,7 @@ it easy to keep track of what came from where and why.
 
 Easily study all kinds of documents inside Emacs, or out.
 
-* Making Sense Of CUSTOM_ID
+* Learning About CUSTOM_ID
 
 Today I was reviewing my TODO list and found this entry "Replace ID with
 CUSTOM_ID because of [[https://github.com/jgm/pandoc/releases/tag/1.17.1][this]]". That links explains that
@@ -296,6 +296,9 @@ format.
 - Who uses =ID= internally and why?
 - =org-id= uses it and it is a general-API, so what gives?
 - Why would =CUSTOM_ID= be different? Are users just never supposed to use =ID=?
+
+All of the following are notes documenting the process of learning about the
+difference between =ID= and =CUSTOM_ID=.
 
 ** Researching Why
 
@@ -448,3 +451,4 @@ version 25.1 of Emacs.
 
 [back]
     #+END_EXAMPLE
+* Conclusions About CUSTOM_ID
