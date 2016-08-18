@@ -351,3 +351,36 @@ file. Later, when inserting the link, you need to decide which one to use.
   - Yet more code to add unique identifiers, bet there are a lot of us
   - Excellent point about valid XHTML anchors!
   - This might make it all come together
+- [[https://emacs.stackexchange.com/questions/614/creating-permalinks-for-sections-in-html-exported-from-org-mode][Creating permalinks for sections in HTML exported from org-mode]]
+  - Solution is to use =CUSTOM_ID=
+  - Helper code
+    #+NAME: 714C1389-2DC5-48AA-B7E2-AC1CCF2FD34E
+    #+BEGIN_SRC emacs-lisp
+;; Use custom ID if present, otherwise create a new one when trying to
+;; resolve links
+(setq org-id-link-to-org-use-id
+      'create-if-interactive-and-no-custom-id)
+
+;; Based on org-expiry-insinuate
+(add-hook 'org-insert-heading-hook 'org-id-get-create)
+(add-hook 'org-after-todo-state-change-hook 'org-id-get-create)
+(add-hook 'org-after-tags-change-hook 'org-id-get-create)
+(defun my/org-update-ids ()
+  (interactive)
+  (let* ((tree (org-element-parse-buffer 'headline))
+         (map (org-element-map tree 'headline
+                (lambda (hl)
+                  (org-element-property :begin hl)))))
+    (save-excursion
+      (cl-loop for point in map do
+               (goto-char point)
+               (org-id-get-create)))))
+    #+END_SRC
+  - The discussion explains that
+    - "TOC is only configured to use CUSTOM_ID or sec-#-# for generating
+      links. You can however access the sections by their ID's (I would
+      suggest changing org-id-method to org from uuid to shorten the ID length
+      if you intend to use it this way."
+
+  - Seems like we should never use =ID= ourselves, and, always make them totally
+    unique 
