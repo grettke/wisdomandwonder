@@ -157,6 +157,79 @@ When you de-mystify Org-Modes literate tangling and weaving you find that it
 is /just a plain old program/ like everything else and all of the fear about it
 is plain old =FUD=.
 * Automatically Allocate ID and NAME
+
+Org-Mode documents are hierarchical data structures. Each node is a =Headline=.
+Humans distinguish them by the text of the headline. For example the text of
+*this* headline is (as of writing) =Automatically Allocate ID and NAME=. That can
+change over time. In fact it is likely to change. If you have references to a
+headline by name, you will break them when you change the name. Ouch, no way,
+that is needless pain. It is easier to give a unique =ID= to every single
+=Headline=. Most of the time I don't even care about the =ID=; only using it twice
+ever. The rest of the time it just needs to be unique. Here is the code that I
+put together to make sure that every =Headline= has a unique =ID=:
+
+#+NAME: 4B5F24EF-3E74-4CF2-A207-0301515B4E71
+#+BEGIN_SRC emacs-lisp
+(defun help/org-prp-hdln ()
+  "Visit every Headline. If it doesn't have an ID property then add one and
+  assign it a UUID. Attribution: URL `http://article.gmane.org/gmane.emacs.orgmode/99738'"
+  (interactive)
+  (save-excursion
+    (goto-char (point-min))
+    (dolist (p (nreverse
+                (org-element-map (org-element-parse-buffer 'headline) 'headline
+                  (lambda (headline) (org-element-property :begin headline)))))
+      (goto-char p)
+      (org-id-get-create))
+    (save-buffer)))
+#+END_SRC
+
+This way you can refactor your =Headlines= as much as you want without your code
+breaking.
+
+Org-Babel's helper functions make it trivially easy to perform Lisp style
+iterative development inside of Emacs-Lisp while working inside of an Org-Mode
+document. It is awesome and addictive. A natural outcome here is that you can
+and will break up large chunks of code into individual source blocks. You
+won't want to name all of them because they aren't all that special. Typically
+you onlye name allocate =noweb-ref= names when you want to call those source
+blocks. The rest of the time you just need to make sure that they have a name,
+any name, so that they are traceable from tangled code back to the source
+document. To make sure of that, I when I tangle a document I run code to make
+sure that every =Source Block= has a unique name:
+
+#+NAME: A23CCE01-3592-495F-99E4-A18FF600F674
+#+BEGIN_SRC
+(defun help/org-prp-src-blk ()
+  "If it doesn't have a NAME property then add one and
+   assign it a UUID. Attribution: URL `http://article.gmane.org/gmane.emacs.orgmode/99740'"
+  (interactive)
+  (help/org-2every-src-block
+   #'(lambda (element)
+       (if (not (org-element-property :name element))
+           (let ((i (org-get-indentation)))
+             (beginning-of-line)
+             (save-excursion (insert "#+NAME: " (org-id-new) "\n"))
+             (indent-to i)
+             (forward-line 2))))))
+
+(defconst help/org-special-pre "^\s*#[+]")
+
+(defun help/org-2every-src-block (fn)
+  "Visit every Source-Block and evaluate `FN'."
+  (interactive)
+  (save-excursion
+    (goto-char (point-min))
+    (let ((case-fold-search t))
+      (while (re-search-forward (concat help/org-special-pre "BEGIN_SRC") nil t)
+        (let ((element (org-element-at-point)))
+          (when (eq (org-element-type element) 'src-block)
+            (funcall fn element)))))
+    (save-buffer)))
+#+END_SRC
+
+The net result here is that you get 100% traceability with virtually no effort.
+
 * Outcomes Of This Approach
 
 ** Easy Attribution and Researching
