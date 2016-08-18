@@ -293,6 +293,9 @@ to be used instead, it is converted to the ID property for certain export
 format.
 #+END_EXAMPLE
 
+- Who uses =ID= internally and why?
+- =org-id= uses it and it is a general-API, so what gives?
+
 ** Researching Why
 
 Oh, OK. Why?
@@ -312,6 +315,7 @@ current file. The most important case is a link like ‘[[#my-custom-id]]’ whi
 will link to the entry with the CUSTOM_ID property ‘my-custom-id’. You are
 responsible yourself to make sure these custom IDs are unique in a file.
   #+END_EXAMPLE
+  -
 - [[http://orgmode.org/manual/Handling-links.html][Handling links]]
   #+BEGIN_EXAMPLE
 C-c l     (org-store-link)
@@ -332,4 +336,4 @@ potentially create two links: a human-readable from the custom ID, and one
 that is globally unique and works even if the entry is moved from file to
 file. Later, when inserting the link, you need to decide which one to use.
   #+END_EXAMPLE
-- 
+-
