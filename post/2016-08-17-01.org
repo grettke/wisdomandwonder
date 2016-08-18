@@ -282,3 +282,25 @@ it easy to keep track of what came from where and why.
 Easily study all kinds of documents inside Emacs, or out.
 
 * Making Sense Of CUSTOM_ID
+
+Today I was reviewing my TODO list and found this entry "Replace ID with
+CUSTOM_ID because of [[https://github.com/jgm/pandoc/releases/tag/1.17.1][this]]". That links explains that
+
+#+BEGIN_EXAMPLE
+Use CUSTOM_ID in properties (Albert Krewinkel). The ID property is reserved
+for internal use by Org-mode and should not be used. The CUSTOM_ID property is
+to be used instead, it is converted to the ID property for certain export
+format.
+#+END_EXAMPLE
+
+Oh, OK. Why?
+
+Here is what [[http://orgmode.org/cgit.cgi/org-mode.git/plain/etc/ORG-NEWS][ORG-NEWS]] said about "CUSTOM_ID": nothing.
+
+[[http://news.gmane.org/gmane.emacs.orgmode][GMAME]] is gone so there is nothing to see there.
+
+[[https://lists.gnu.org/archive/cgi-bin/namazu.cgi?query=CUSTOM_ID&submit=Search%2521&idxname=emacs-orgmode&max=20&result=normal&sort=score][This search]] turns up nothing.
+
+Then I started searching the web and learned the following:
+
+- 
