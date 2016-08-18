@@ -383,4 +383,69 @@ file. Later, when inserting the link, you need to decide which one to use.
       if you intend to use it this way."
 
   - Seems like we should never use =ID= ourselves, and, always make them totally
-    unique 
+    unique
+- [[https://stackoverflow.com/questions/25669681/how-to-pass-the-custom-id-property-as-custom-label-when-exporting-to-latex][How to pass the CUSTOM_ID property as custom \label when exporting to latex?]]
+  - Thoughtful must-read documentation explains it all
+    #+BEGIN_EXAMPLE
+    org-latex-prefer-user-labels is a variable defined in `ox-latex.el'.
+Its value is nil
+
+Documentation:
+Use user-provided labels instead of internal ones when non-nil.
+
+When this variable is non-nil, Org will use the value of
+CUSTOM_ID property, NAME keyword or Org target as the key for the
+\label commands generated.
+
+By default, Org generates its own internal labels during LaTeX
+export.  This process ensures that the \label keys are unique
+and valid, but it means the keys are not available in advance of
+the export process.
+
+Setting this variable gives you control over how Org generates
+labels during LaTeX export, so that you may know their keys in
+advance.  One reason to do this is that it allows you to refer to
+various elements using a single label both in Org's link syntax
+and in embedded LaTeX code.
+
+For example, when this variable is non-nil, a headline like this:
+
+  ,** Some section
+     :PROPERTIES:
+     :CUSTOM_ID: sec:foo
+     :END:
+  This is section [[#sec:foo]].
+  ,#+BEGIN_EXPORT latex
+  And this is still section \ref{sec:foo}.
+  ,#+END_EXPORT
+
+will be exported to LaTeX as:
+
+  \subsection{Some section}
+  \label{sec:foo}
+  This is section \ref{sec:foo}.
+  And this is still section \ref{sec:foo}.
+
+Note, however, that setting this variable introduces a limitation
+on the possible values for CUSTOM_ID and NAME.  When this
+variable is non-nil, Org passes their value to \label unchanged.
+You are responsible for ensuring that the value is a valid LaTeX
+\label key, and that no other \label commands with the same key
+appear elsewhere in your document.  (Keys may contain letters,
+numbers, and the following punctuation: '_' '.'  '-' ':'.)  There
+are no such limitations on CUSTOM_ID and NAME when this variable
+is nil.
+
+For headlines that do not define the CUSTOM_ID property or
+elements without a NAME, Org will continue to use its default
+labeling scheme to generate labels and resolve links into proper
+references.
+
+You can customize this variable.
+
+This variable was introduced, or its default value was changed, in
+version 25.1 of Emacs.
+
+[back]
+
+    #+END_EXAMPLE
