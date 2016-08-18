@@ -293,6 +293,8 @@ to be used instead, it is converted to the ID property for certain export
 format.
 #+END_EXAMPLE
 
+** Researching Why
+
 Oh, OK. Why?
 
 Here is what [[http://orgmode.org/cgit.cgi/org-mode.git/plain/etc/ORG-NEWS][ORG-NEWS]] said about "CUSTOM_ID": nothing.
@@ -330,3 +332,4 @@ potentially create two links: a human-readable from the custom ID, and one
 that is globally unique and works even if the entry is moved from file to
 file. Later, when inserting the link, you need to decide which one to use.
   #+END_EXAMPLE
+- 
