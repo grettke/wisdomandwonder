@@ -340,4 +340,14 @@ file. Later, when inserting the link, you need to decide which one to use.
   #+END_EXAMPLE
   - Where does =org-id-link-to-org-use-id= fit?
   - Where and when are we able to create two differnt links?
-
+- [[https://writequit.org/articles/emacs-org-mode-generate-ids.html][Emacs Org-mode: Use good header ids!]]
+  - "The Problem - anchors are not consistent"
+    - You can't make modifications without breaking links because of
+      sequential section references
+  - "The Solution - use custom ids in headline properties"
+    - URL references use =CUSTOM_ID= instead of the sequential section
+  - Still unclear about =ID= versus =CUSTOM_ID=
+  - Explains how to easily define =ID= if a =CUSTOM_ID= doesn't exist
+  - Yet more code to add unique identifiers, bet there are a lot of us
+  - Excellent point about valid XHTML anchors!
+  - This might make it all come together
