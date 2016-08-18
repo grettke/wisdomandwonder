@@ -252,6 +252,12 @@ $0
 
 * Outcomes Of This Approach
 
+The long and the short of is that this worked out really well for me. It has
+taken a while to try it out and perfect, and I really like it because it is so
+simple: I'm only using what Org-Mode provides out of the box. All it took as
+reading the manual, asking questions, getting help, and trying stuff out. The
+hardest part was figuring out what I wanted to do.
+
 ** Easy Attribution and Researching
 
 Most of the Emacs configuration universe consists of snippets that have been
