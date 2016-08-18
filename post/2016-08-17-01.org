@@ -295,6 +295,7 @@ format.
 
 - Who uses =ID= internally and why?
 - =org-id= uses it and it is a general-API, so what gives?
+- Why would =CUSTOM_ID= be different? Are users just never supposed to use =ID=?
 
 ** Researching Why
 
