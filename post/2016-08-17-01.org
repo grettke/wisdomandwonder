@@ -447,5 +447,4 @@ This variable was introduced, or its default value was changed, in
 version 25.1 of Emacs.
 
 [back]
-
     #+END_EXAMPLE
