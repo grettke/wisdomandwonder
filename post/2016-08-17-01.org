@@ -300,6 +300,8 @@ format.
 All of the following are notes documenting the process of learning about the
 difference between =ID= and =CUSTOM_ID=.
 
+*YOU SHOULD PROBABLY SKIP THIS SECTION*.
+
 ** Researching Why
 
 Oh, OK. Why?
