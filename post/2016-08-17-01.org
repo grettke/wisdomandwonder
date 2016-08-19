@@ -472,7 +472,7 @@ will work as before in the *.org file, and also in the exported *.html
 - Emailed the mailing list. Eric Replied. Thank you Eric.
   - Basically if it ain't broke, why fix it?
 
-* Conclusions About CUSTOM_ID
+* Conclusions And Outcomes of Learning About CUSTOM_ID
 
 - =CUSTOM_ID=
   - Is for human creation and use
