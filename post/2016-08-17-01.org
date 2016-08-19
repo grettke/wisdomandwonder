@@ -467,5 +467,19 @@ will work as before in the *.org file, and also in the exported *.html
 >file.</p>
     #+END_EXAMPLE
   - Therefore, you never need to use =ID= if Org will always use your =CUSTOM_ID= first
+- Emailed the mailing list. Eric Replied. Thank you Eric.
+  - Basically if it ain't broke, why fix it?
 
 * Conclusions About CUSTOM_ID
+
+- =CUSTOM_ID=
+  - Is for human creation and use
+  - Is for linking
+  - *Must be unique*
+  - =org-store-link= make this confusing because it creates both =ID= and
+    =CUSTOM_ID= making it sound like at the end of the day, =ID= is the best way
+    to maintain uniqueness.
+- =org-id-link-to-org-use-id= really leans towards =CUSTOM_ID= always taking
+  preference. Does it matter whether it is custom or not? Isn't it just more
+  important that it exists? The list is silent on this anyway.
+- Set up everything for =CUSTOM_ID= everywhere
