@@ -473,6 +473,14 @@ will work as before in the *.org file, and also in the exported *.html
   - Basically if it ain't broke, why fix it?
 
 * Conclusions And Outcomes of Learning About CUSTOM_ID
+** Deciding Whether To Use ID or CUSTOM_ID (Keep Using ID)
+
+Org-Mode is "Your Life In Plain-Text". Org-Mode wants you to always have
+unique identifiers for plain-text headlines; we are free to do as we wish
+here. =org-id= makes it easy to do so. We can use =org-id= to allocate unique =ID=
+for headlines whenever we want. It is the same function.
+
+I'll keep using =ID=.
 
 - =CUSTOM_ID=
   - Is for human creation and use
