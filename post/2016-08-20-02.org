@@ -1,0 +1,11 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10355
+#+DATE: [2016-08-20 Sat 18:42]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: mathematics, fun
+#+TITLE: Following Benford's Law, or Looking Out for No. 1
+
+Fraudulent data never contains enough samples that start with the number one!
+
+[[http://www.rexswain.com/benford.html][More here]].
