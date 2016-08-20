@@ -473,6 +473,7 @@ will work as before in the *.org file, and also in the exported *.html
   - Basically if it ain't broke, why fix it?
 
 * Conclusions And Outcomes of Learning About CUSTOM_ID
+
 ** Deciding Whether To Use ID or CUSTOM_ID (Keep Using ID)
 
 Org-Mode is "Your Life In Plain-Text". Org-Mode wants you to always have
@@ -482,14 +483,15 @@ for headlines whenever we want. It is the same function.
 
 I'll keep using =ID=.
 
-- =CUSTOM_ID=
-  - Is for human creation and use
-  - Is for linking
-  - *Must be unique*
-  - =org-store-link= make this confusing because it creates both =ID= and
-    =CUSTOM_ID= making it sound like at the end of the day, =ID= is the best way
-    to maintain uniqueness.
-- =org-id-link-to-org-use-id= really leans towards =CUSTOM_ID= always taking
-  preference. Does it matter whether it is custom or not? Isn't it just more
-  important that it exists? The list is silent on this anyway.
-- Set up everything for =CUSTOM_ID= everywhere
+** Configure Org-Mode's Notion Of Identity
+
+Make sure that =ID= is always unique, portable, and easy to maintain by
+- Using a memorable prefix
+  - Must be both LaTeX label and XHTML identifier compliant
+- Include the current login
+- Include the current domain
+- Use a UUID
+
+** Handling Links
+
+- Always link in a manner that helps non Emacs users for LP
