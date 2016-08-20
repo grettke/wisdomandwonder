@@ -1,0 +1,25 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10354
+#+DATE: [2016-08-20 Sat 13:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Getting Started with Org-mode
+
+[[http://harryrschwartz.com/][Harry's]] [[http://emacsboston.org/2016/03/21/getting-started-with-org-mode.html][presentation]] on Org-Mode is great. He shares his personal preferences.
+You can read his blog to learn about them too. The meter to the presentation
+is perfect, too. It left me thinking more about
+
+- What are out expectations as viewers?
+- What are our expectations as presenters?
+- Is it worth communicating assumptions?
+- Is it all an sales exercise?
+- How does our experience with commercial software change our valuation of OSS?
+- Org-Mode is large and expressive; can we ever say more than "In my
+  experience, X is good or bad"? Sure everything is in our experience but
+  people really don't listen unless you make strong statements, right?
+- As of 2016, is it fair to start a conversation with something like "I've
+  spent 1,000 hours mastering X... this is the context of what I'm about to
+  share"? When we provide opinions should we provide the same contextual
+  disclaimer? What does /mastery/ mean today and what is it's role in practice?
+  Does mastery have a place when sales matters most? Do both have a place?
