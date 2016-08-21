@@ -9,5 +9,5 @@
 Here are some nice desoldering iron links:
 
 - [[https://www.youtube.com/watch?v=Ft50m8UU5WQ&feature=youtu.be&t=26m59s][EEVblog #542 - ZD985 Desoldering Station]]
-- [[http://amzn.to/2b8VPyM][$25: ECG J-045-DS Electric Corded De-Soldering Iron, +420 Degree C Tip Temperature, 45W]]
-- [[http://amzn.to/2b6PaYC][$145: Aoyue 474A++ Digital Desoldering Station with Built-in Vacuum Pump]]
+- [[http://amzn.to/2b8VPyM][$25: ECG J-045-DS Electric Corded De-Soldering Iron, 420 Degree C Tip Temperature, 45W]]
+- [[http://amzn.to/2b6PaYC][$145: Aoyue 474A Digital Desoldering Station with Built-in Vacuum Pump]]
