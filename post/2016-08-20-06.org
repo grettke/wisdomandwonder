@@ -1,0 +1,11 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10359
+#+DATE: [2016-08-20 Sat 20:09]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Mac, OS X, Administration, DevOps, dtrace
+#+TITLE: Top 10 DTrace scripts for Mac OS X
+
+[[http://dtrace.org/blogs/brendan/2011/10/10/top-10-dtrace-scripts-for-mac-os-x/][This post]] demonstrates some powerful dtrace scripts for OS X.
+
+Did you know that OS X has dtrace running on it?! I didn't.
