@@ -1,0 +1,14 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10370
+#+DATE: [2016-08-21 Sun 15:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Mac, OS X, Utility
+#+TITLE: Change password of encrypted disk image in OS X with Terminal
+
+[[https://superuser.com/questions/316480/change-password-of-encrypted-disk-image-in-os-x-with-terminal][Via superuser]]:
+
+#+NAME: orgmode:gcr:vela:04DD439E-7CCD-458E-87B6-F37ADA11DB2A
+#+BEGIN_SRC sh
+hdiutil chpass [image_name]
+#+END_SRC
