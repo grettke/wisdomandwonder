@@ -1,0 +1,13 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10361
+#+DATE: [2016-08-21 Sun 10:36]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide, Utility
+#+TITLE: A Calendar Framework For Emacs
+
+[[https://github.com/kiwanami/emacs-calfw][emacs-calfw]] is a calendar framework for Emacs. It looks beautiful, thoughtful,
+well thought out, and well-developed. That is from reading its landing page,
+I never used it. I use Google Calendar, and, this package is still intriguing
+because every question I could come up with was well answered on that landing
+page. 
