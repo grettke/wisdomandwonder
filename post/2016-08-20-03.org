@@ -1,0 +1,9 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10356
+#+DATE: [2016-08-20 Sat 19:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Electronics
+#+TITLE: Introduction to Wire Wrap
+
+Fun to learn about this wiring technique via [[https://www.youtube.com/watch?v=IXvEDM-m9CEhttps://www.youtube.com/watch?v=IXvEDM-m9CE][Introduction to Wire Wrap]].
