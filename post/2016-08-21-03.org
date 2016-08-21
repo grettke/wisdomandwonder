@@ -1,0 +1,20 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10363
+#+DATE: [2016-08-21 Sun 14:12]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Hardware, Electronics, USB
+#+TITLE: How To Build A USB Puzzle Box?
+
+It would be fun to build a USB puzzle box. Here is how it would work after you
+plug it in:
+
+- It would illuminate it's buttons in an entertaining pattern
+- If you punch in the secret code it would unlock it's storage drive
+- If you punch in the wrong code it would reboot your computer
+
+It is supposed to be fun. I haven't thought too deeply about this, but it is
+supposed to be fun no encryption or anything. The security comes from the
+device simply *not even showing up* as a storage device until you "unlock" it.
+
+Since I'm on OS X, [[http://www.colinkraft.com/macusbhid/macusbhid.php][this]] seemed like a good place to start.
