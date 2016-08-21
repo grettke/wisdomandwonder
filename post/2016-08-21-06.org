@@ -1,0 +1,11 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10366
+#+DATE: [2016-08-21 Sun 14:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Visualization, Algorithmic Trading, Big Data, Business Intelligence, Data Analysis and Modeling, Data Mining, Data Visualization, Data science, Financial Engineering, MDS, Machine Learning, Mathematical Modelling, Predictive Analytics, Quantitative Analysis, Quantitative Finance, R-Project, Risk Management, Statistical Computing
+#+TITLE: Efective Visualization of Large Multidimensional Datasets
+
+Ever wonder how to visualize data in multiple dimensions?
+
+[[https://www.csc.ncsu.edu/faculty/healey/download/phd.pdf][Here]] is what one team learned.
