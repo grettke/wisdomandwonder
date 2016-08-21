@@ -9,6 +9,6 @@
 [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Imenu.html][Imenu]] is an under-recognized gem of a package. One way to make it more
 accessible is to utilize it via a buffer instead of going up to a menu.
 
-[[https://github.com/bmag/imenu-list][imenu-list]] does just that. It is shockingly powerful because nearly every menu
+[[https://github.com/bmag/imenu-list][imenu-list]] does just that. It is shockingly powerful because nearly every package
 has Imenu integration, it is fast, easy to read, and lets you quickly jump
 around and exit the mode just as easily as you entered it.
