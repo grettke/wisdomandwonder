@@ -1,0 +1,10 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10364
+#+DATE: [2016-08-21 Sun 14:27]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article, Link
+#+TAGS: Lisp, Programming Language, Scheme, Emacs, Ide
+#+DESCRIPTION:
+#+TITLE: A Scheme Dialect Based Emacs Clone
+
+[[https://github.com/FemtoEmacs/Femto-Emacs/][Femto-Emacs]] is an Emacs clone built on [[https://github.com/JeffBezanson/femtolisp][the Scheme dialect femtolisp]].
