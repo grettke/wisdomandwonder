@@ -1,0 +1,12 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10357
+#+DATE: [2016-08-20 Sat 19:38]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Writing, Screenplay, Tools
+#+TITLE: Easily Write Modular Screenplays
+
+[[http://fountain.io/][Fountain]] rocks for writing screenplays.
+
+[[https://github.com/mjrusso/mountain][Mountain]] makes it easy to split them up into multiple files so you don't have
+to work in one gigantic file.
