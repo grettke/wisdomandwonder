@@ -1,0 +1,12 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10371
+#+DATE: [2016-08-21 Sun 15:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Typography
+#+TITLE: Two Typography Must-Reads I Was Told
+
+- [[http://www.amazon.com/Letters-Credit-View-Type-Design/dp/0879236361/ref=sr_1_1?ie=UTF8&qid=1461607763&sr=8-1&keywords=%2522Letters+of+Credit%2522][Letters of Credit: A View of Type Design]]
+- [[http://www.amazon.com/Elements-Typographic-Style-Version-Anniversary/dp/0881792128/ref=sr_1_1?s=books&ie=UTF8&qid=1461607749&sr=1-1&keywords=%2522The+Elements+of+Typographic+Style%2522][The Elements of Typographic Style: Version 4.0: 20th Anniversary Edition]]
+
+I didn't read them yet.
