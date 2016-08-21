@@ -1,0 +1,13 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10367
+#+DATE: [2016-08-21 Sun 15:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Screencasting, Utility, Audio
+#+TITLE: Blank MP3s Of Varying Lengths
+
+Every need an audio file with nothing on it?
+
+Surprisingly it is pretty common.
+
+[[http://www.xamuel.com/blank-mp3s/][Here]] are some blank MP3s, thank you Xamuel!
