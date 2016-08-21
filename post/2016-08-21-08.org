@@ -1,0 +1,11 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10368
+#+DATE: [2016-08-21 Sun 15:14]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide, Utility
+#+TITLE: Emacs-wgrep Provides Writable Grep Buffers That Apply The Changes To The Files
+
+[[https://github.com/mhayashi1120/Emacs-wgrep][Emacs-wgrep]] provides writable grep buffer that apply the changes to files.
+
+Intuitive and familiar idea if you already like editable dired buffers.
