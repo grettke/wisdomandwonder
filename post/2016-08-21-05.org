@@ -1,0 +1,10 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10365
+#+DATE: [2016-08-21 Sun 14:45]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Ide, Utility
+#+TITLE: It Is Time To Migrate from grep to ag
+
+[[https://github.com/ggreer/the_silver_searcher][ag]] is fast, does what you expect, and [[https://github.com/Wilfred/ag.el][works well with Emacs]]. Maybe it is time
+for you to switch.
