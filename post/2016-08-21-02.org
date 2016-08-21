@@ -1,0 +1,12 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10362
+#+DATE: [2016-08-21 Sun 11:42]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Photography
+#+TITLE: Every LEE Diffusion Compared
+
+[[https://www.youtube.com/watch?v=7l6FjphZXsk][This presentation]] demonstrates the difference between every [[http://www.leefilters.com/][LEE Filter]] out
+there. For me it is introductory and amazing. Just reading about the
+properties of the filter doesn't mean much to me but *seeing* them in action is
+amazing. Subtle power comes to mind here, wow!
