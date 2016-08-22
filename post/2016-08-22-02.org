@@ -1,0 +1,15 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10373
+#+DATE: [2016-08-22 Mon 15:35]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Disk Management, Partition, OS X, Windows, NTFS, HFS
+#+TITLE: @tuxera NTFS for Mac Lets You Easily Read And Write NTFS Partitions
+
+[[http://www.tuxera.com/products/tuxera-ntfs-for-mac/][@tuxera NTFS for Mac]] lets you easily read and write NTFS partitions.
+
+This is the kind of high quality software that gets you excited about your job
+(in software) again!
+
+If plan to live in the modern universe running a Mac and you are not running
+this then you are missing out pleasant and easy operations on NTFS partitions.
