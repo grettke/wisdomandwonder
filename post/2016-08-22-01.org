@@ -1,0 +1,19 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10372
+#+DATE: [2016-08-22 Mon 13:05]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Disk Management, Partition, OS X, Windows, NTFS, HFS
+#+TITLE: @coriolissystems iPartition Makes Partition Management on OS X A Happy Dream
+
+@coriolissystems [[https://coriolis-systems.com/iPartition/][iPartition]] makes partition management on OS X a happy dream.
+
+It does only what you expect.
+
+If you have worked with OS X's =Disk Utility= enough you know how unpredictable
+it can be. I don't know why it is that way, but you do have to be careful and
+thoughtful even if you are in iPartition. I suppose that it has to do with the
+OS and neither of the tools.
+
+I just know that iPartition makes it trivially easy to resize and recreate
+partitions and on OS X 10.11 it is impossible to do so with Disk Utility!
