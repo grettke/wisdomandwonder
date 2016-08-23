@@ -13,3 +13,5 @@ This is the kind of high quality software that gets you excited about your job
 
 If plan to live in the modern universe running a Mac and you are not running
 this then you are missing out pleasant and easy operations on NTFS partitions.
+
+Copied 107GB in 21 minutes.
