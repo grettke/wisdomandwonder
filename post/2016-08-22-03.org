@@ -1,0 +1,14 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10374
+#+DATE: [2016-08-22 Mon 20:39]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Hardware, ESATA, USB3
+#+TITLE: Why You Need eSATA USB3 Adapter Cables
+
+You need eSATA USB3 adapter cables because they are super-fast, work on nearly
+every modern computer, and provide the fastest speeds with least hassle.
+
+[[http://amzn.to/2baM5qB][This one]] worked great for me, repeatedly, on a few different boxes.
+
+*Note*: that adapter cable is *not* designed work in a USB hub.
