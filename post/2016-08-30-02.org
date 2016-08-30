@@ -1,0 +1,16 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10380
+#+DATE: [2016-08-30 Tue 15:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Easily insert Unicode mathematical Fraktur characters
+
+[[https://github.com/grettke/fraktur-mode][fraktur-mode]]:
+
+#+BEGIN_EXAMPLE
+;; Transliterate ASCII a-z and A-Z to their Unicode mathematical
+;; Fraktur equivalent.  Eszett and umlaut aren't used because the Unicode
+;; specification defines these characters only as a mathematical symbol via
+;; `http://www.unicode.org/faq/ligature_digraph.html'.
+#+END_EXAMPLE
