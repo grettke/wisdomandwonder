@@ -1,0 +1,9 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10377
+#+DATE: [2016-08-30 Tue 15:13]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: APL, Array programming, Programming Language
+#+TITLE: GNU APL 1.6 Released
+
+[[https://savannah.gnu.org/forum/forum.php?forum_id=8662][Via]].
