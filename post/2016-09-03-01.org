@@ -83,6 +83,18 @@ like a fair number of people use =ucs4= ([[https://codegists.com/code/install-py
 [[https://cffi.readthedocs.io/en/latest/installation.html#linux-and-os-x-ucs2-versus-ucs4][This]] explains common CFFI errors from systems with both =ucs2= and =ucs4=
 installatins that are "mixed up":
 
+Here is how you know that there is a problem:
+
+#+BEGIN_QUOTE
+This is about getting an ImportError about =_cffi_backend.so= with a message
+like =Symbol not found: _PyUnicodeUCS2_AsASCIIString=. This error occurs in
+Python 2 as soon as you mix “ucs2” and “ucs4” builds of Python. It means that
+you are now running a Python compiled with “ucs4”, but the extension module
+=_cffi_backend.so= was compiled by a different Python: one that was running
+“ucs2”. (If the opposite problem occurs, you get an error about
+=_PyUnicodeUCS4_AsASCIIString= instead.)
+#+END_QUOTE
+
 #+BEGIN_QUOTE
 More generally, the solution that should always work is to download the
 sources of CFFI (instead of a prebuilt binary) and make sure that you build it
