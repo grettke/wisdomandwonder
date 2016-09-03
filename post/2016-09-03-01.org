@@ -122,6 +122,6 @@ this virtualenv.
 This all looks like it is fragile. Yuck. I'm going to set up a =vagrant= box
 instead
 
-- Name it: unidecode
+- Name it: unidecode-box
 - Create the github project
-  - 
+  -
