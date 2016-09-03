@@ -119,3 +119,7 @@ this virtualenv.
 #+END_QUOTE
 
 [[https://medium.com/@pimterry/setting-up-pyenv-on-os-x-with-homebrew-56c7541fd331#.k4hs3zw4b][This]] post explains another approach to get it running.
+
+[[https://gist.github.com/mwaterfall/6621874][Here]] is another one.
+
+
