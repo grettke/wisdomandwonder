@@ -78,7 +78,7 @@ print sys.maxunicode
 #+END_EXAMPLE
 
 This is the wrong Python build. It needs to be =ucs4= instead of =ucs2=. Seems
-like a fair number of people use =ucs4= ([[https://codegists.com/code/install-python-2.7-mac/][here]], [[https://codegists.com/code/install-python-2.7.9/][here]], [[http://www.jasonamyers.com/pyenv-importerror-flatnamespace][here]]).
+like a fair number of people use =ucs4= ([[https://codegists.com/code/install-python-2.7-mac/][here]], [[https://codegists.com/code/install-python-2.7.9/][here]], [[http://www.jasonamyers.com/pyenv-importerror-flatnamespace][here]], [[https://github.com/att/rcloud/wiki/Required-Installations-for-running-Python-code-in-RCloud][here]]).
 
 [[https://cffi.readthedocs.io/en/latest/installation.html#linux-and-os-x-ucs2-versus-ucs4][This]] explains common CFFI errors from systems with both =ucs2= and =ucs4=
 installatins that are "mixed up":
@@ -117,3 +117,5 @@ cd ~/path/to/sources/of/cffi
 This will compile and install CFFI in this virtualenv, using the Python from
 this virtualenv.
 #+END_QUOTE
+
+[[https://medium.com/@pimterry/setting-up-pyenv-on-os-x-with-homebrew-56c7541fd331#.k4hs3zw4b][This]] post explains another approach to get it running.
