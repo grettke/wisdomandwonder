@@ -40,5 +40,5 @@ looking for solutions:
 | [[https://github.com/xuender/unidecode][xuender/unidecode]]   | Java   |  35 | NA                          |
 | [[https://github.com/FGRibreau/node-unidecode][node-unidecode]]      | JS     |  70 | Lots of use in webapps?     |
 | [[https://github.com/rich-iannone/UnidecodeR][UnidecodeR]]          | R      |  58 | Good to know!               |
-|                     |        |     |                             |
+| [[https://github.com/sindikat/unidecode][sindikat/unidecode]]  | Elisp  |   2 | NA                          |
 
