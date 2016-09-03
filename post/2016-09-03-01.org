@@ -1,0 +1,42 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10385
+#+DATE: [2016-09-03 Sat 11:08]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article, Link
+#+TAGS: Unicode, Writing, Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Best Way To Transliterate Unicode to ASCII?
+
+For creating audiobooks I use a text-to-speech engine. One problem is that the
+application dies on Unicode text. The documents that I encode are too long to
+correct manually so I want it automated. The correction isn't as simple as
+removing all Unicode text though because if possible I don't want to lose the
+meaning of the character when it is easily converted to ASCII.
+
+For example here are some transliterations that ought to occur:
+- ¢ \rarr cents
+- © \rarr copyright
+- ™ \rarr trademark
+- ∀ \rarr for all
+- ♥ \rarr heart
+- ∂ \rarr derivative
+
+I'm more concerned with not-breaking the text-to-speech engine but having a
+large breadth of transliterations would be nice. With that in mind I started
+looking for solutions:
+
+- PKG/URL
+  - Package name
+  - Github URL
+- Lang
+  - Programming language
+- Str
+  - Number of stars
+- Notes
+
+| PKG/URL             | Lang   | Str | Notes    |
+|---------------------+--------+-----+----------|
+| [[https://github.com/iki/unidecode][iki/unidecode]]       | Python |  75 | Clone [[https://www.tablix.org/~avian/blog/archives/2009/01/unicode_transliteration_in_python/][of]] |
+| [[https://github.com/rainycape/unidecode][rainycape/unidecode]] | Go     |  12 | NA       |
+| [[https://github.com/xuender/unidecode][xuender/unidecode]]   | Java   |  35 | NA       |
+|                     |        |     |          |
+
