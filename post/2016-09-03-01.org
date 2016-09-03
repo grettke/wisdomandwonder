@@ -95,6 +95,9 @@ you are now running a Python compiled with “ucs4”, but the extension module
 =_PyUnicodeUCS4_AsASCIIString= instead.)
 #+END_QUOTE
 
+Here is the solution for doing a custom build with a custom CFFI and
+virtualenv though [[https://github.com/yyuu/pyenv/issues/257][pyenv is also mentioned]].
+
 #+BEGIN_QUOTE
 More generally, the solution that should always work is to download the
 sources of CFFI (instead of a prebuilt binary) and make sure that you build it
