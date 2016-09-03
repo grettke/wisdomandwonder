@@ -39,5 +39,6 @@ looking for solutions:
 | [[https://github.com/rainycape/unidecode][rainycape/unidecode]] | Go     |  12 | NA                      |
 | [[https://github.com/xuender/unidecode][xuender/unidecode]]   | Java   |  35 | NA                      |
 | [[https://github.com/FGRibreau/node-unidecode][node-unidecode]]      | JS     |  70 | Lots of use in webapps? |
+| [[https://github.com/rich-iannone/UnidecodeR][UnidecodeR]]          | R      |  58 | Good to know!           |
 |                     |        |     |                         |
 
