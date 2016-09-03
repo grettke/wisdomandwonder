@@ -33,12 +33,14 @@ looking for solutions:
   - Number of stars
 - Notes
 
-| PKG/URL             | Lang   | Str | Notes                                |
-|---------------------+--------+-----+--------------------------------------|
-| [[https://github.com/iki/unidecode][iki/unidecode]]       | Python |  75 | Clone [[https://www.tablix.org/~avian/blog/archives/2009/01/unicode_transliteration_in_python/][of]]. [[https://github.com/takluyver/Unidecode][Another clone of]]. [[https://github.com/avian2/unidecode][Another]]. |
-| [[https://github.com/rainycape/unidecode][rainycape/unidecode]] | Go     |  12 | NA                                   |
-| [[https://github.com/xuender/unidecode][xuender/unidecode]]   | Java   |  35 | NA                                   |
-| [[https://github.com/FGRibreau/node-unidecode][node-unidecode]]      | JS     |  70 | Lots of use in webapps?              |
-| [[https://github.com/rich-iannone/UnidecodeR][UnidecodeR]]          | R      |  58 | Good to know!                        |
-| [[https://github.com/sindikat/unidecode][sindikat/unidecode]]  | Elisp  |   2 | NA                                   |
+| PKG/URL                | Lang   | Str | Notes                                |
+|------------------------+--------+-----+--------------------------------------|
+| [[https://github.com/iki/unidecode][iki/unidecode]]          | Python |  75 | Clone [[https://www.tablix.org/~avian/blog/archives/2009/01/unicode_transliteration_in_python/][of]]. [[https://github.com/takluyver/Unidecode][Another clone of]]. [[https://github.com/avian2/unidecode][Another]]. |
+| [[https://github.com/rainycape/unidecode][rainycape/unidecode]]    | Go     |  12 | NA                                   |
+| [[https://github.com/xuender/unidecode][xuender/unidecode]]      | Java   |  35 | NA                                   |
+| [[https://github.com/FGRibreau/node-unidecode][node-unidecode]]         | JS     |  70 | Lots of use in webapps?              |
+| [[https://github.com/rich-iannone/UnidecodeR][UnidecodeR]]             | R      |  58 | Good to know!                        |
+| [[https://github.com/sindikat/unidecode][sindikat/unidecode]]     | Elisp  |   2 | NA                                   |
+| [[https://github.com/alexei/silverstripe-unidecode][silverstripe-unidecode]] | PHP    |   8 | NA                                   |
+|                        |        |     |                                      |
 
