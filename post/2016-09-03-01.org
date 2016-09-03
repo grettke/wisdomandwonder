@@ -81,6 +81,24 @@ This is the wrong Python build. It needs to be =ucs4= instead of =ucs2=. Seems
 like a fair number of people use =ucs4= ([[https://codegists.com/code/install-python-2.7-mac/][here]], [[https://codegists.com/code/install-python-2.7.9/][here]], [[http://www.jasonamyers.com/pyenv-importerror-flatnamespace][here]]).
 
 [[https://cffi.readthedocs.io/en/latest/installation.html#linux-and-os-x-ucs2-versus-ucs4][This]] explains common CFFI errors from systems with both =ucs2= and =ucs4=
-installatins that are "mixed up".
+installatins that are "mixed up":
 
+#+BEGIN_QUOTE
+More generally, the solution that should always work is to download the
+sources of CFFI (instead of a prebuilt binary) and make sure that you build it
+with the same version of Python than the one that will use it. For example,
+with virtualenv:
+#+END_QUOTE
 
+#+NAME: orgmode:gcr:vela:B5AB6CB5-D5E3-408A-86F2-A5A60A51C37F
+#+BEGIN_SRC python
+virtualenv ~/venv
+cd ~/path/to/sources/of/cffi
+~/venv/bin/python setup.py build --force # forcing a rebuild to make sure
+~/venv/bin/python setup.py install
+#+END_SRC
+
+#+BEGIN_QUOTE
+This will compile and install CFFI in this virtualenv, using the Python from
+this virtualenv.
+#+END_QUOTE
