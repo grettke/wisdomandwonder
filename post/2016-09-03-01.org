@@ -6,11 +6,13 @@
 #+TAGS: Unicode, Writing, Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
 #+TITLE: Best Way To Transliterate Unicode to ASCII?
 
-For creating audiobooks I use a text-to-speech engine. One problem is that the
+For creating audio-books I use a text-to-speech engine. One problem is that the
 application dies on Unicode text. The documents that I encode are too long to
 correct manually so I want it automated. The correction isn't as simple as
 removing all Unicode text though because if possible I don't want to lose the
 meaning of the character when it is easily converted to ASCII.
+
+#+HTML: <!--more-->
 
 For example here are some transliterations that ought to occur:
 - ¢ \rarr cents
@@ -33,15 +35,43 @@ looking for solutions and whittling them down to choosing one:
   - Str
     - Number of stars
   - Notes
+- Revision 2 options. I want well supported and easy to run.
+  - #C: Number of committers
+  - C: Most recent commit: Hours, Days, Months, Years
 
-| PKG/URL                | Lang   | Str | Notes           |
-|------------------------+--------+-----+-----------------|
-| [[https://github.com/iki/unidecode][iki/unidecode]]          | Python |  75 | Clone [[https://www.tablix.org/~avian/blog/archives/2009/01/unicode_transliteration_in_python/][of]]. [[https://github.com/takluyver/Unidecode][+]]. [[https://github.com/avian2/unidecode][+]]. |
-| [[https://github.com/rainycape/unidecode][rainycape/unidecode]]    | Go     |  12 | NA.             |
-| [[https://github.com/xuender/unidecode][xuender/unidecode]]      | Java   |  35 | NA.             |
-| [[https://github.com/FGRibreau/node-unidecode][node-unidecode]]         | JS     |  70 | Curious.        |
-| [[https://github.com/rich-iannone/UnidecodeR][UnidecodeR]]             | R      |  58 | Good to know!   |
-| [[https://github.com/sindikat/unidecode][sindikat/unidecode]]     | Elisp  |   2 | NA.             |
-| [[https://github.com/alexei/silverstripe-unidecode][silverstripe-unidecode]] | PHP    |   8 | NA.             |
-| [[https://github.com/prakashk/Text-Unidecode][Text-Unidecode]]         | Perl   |   1 | The original.   |
+| PKG/URL                | Lang   | Str | Notes           | #C | C |
+|------------------------+--------+-----+-----------------+----+---|
+| [[https://github.com/iki/unidecode][iki/unidecode]]          | Python |  75 | Clone [[https://www.tablix.org/~avian/blog/archives/2009/01/unicode_transliteration_in_python/][of]]. [[https://github.com/takluyver/Unidecode][+]]. [[https://github.com/avian2/unidecode][+]]. |  8 | Y |
+| [[https://github.com/prakashk/Text-Unidecode][Text-Unidecode]]         | Perl   |   1 | The original.   |  1 | Y |
+| [[https://github.com/rainycape/unidecode][rainycape/unidecode]]    | Go     |  12 | NA.             |    |   |
+| [[https://github.com/xuender/unidecode][xuender/unidecode]]      | Java   |  35 | NA.             |    |   |
+| [[https://github.com/FGRibreau/node-unidecode][node-unidecode]]         | JS     |  70 | Curious.        |    |   |
+| [[https://github.com/rich-iannone/UnidecodeR][UnidecodeR]]             | R      |  58 | Good to know!   |    |   |
+| [[https://github.com/sindikat/unidecode][sindikat/unidecode]]     | Elisp  |   2 | NA.             |    |   |
+| [[https://github.com/alexei/silverstripe-unidecode][silverstripe-unidecode]] | PHP    |   8 | NA.             |    |   |
+
+The Python port looks like the most actively maintained and Python is always a
+good choice. [[https://www.tablix.org/~avian/blog/archives/2009/01/unicode_transliteration_in_python/][The author's discussion]] of his port is interesting for
+programmers. In theory we design system that use Unicode even though we know
+that they'll have to inter-operate with ASCII-only systems. In practice it is
+usually an afterthought that results in well-hidden bugs and exploits. Kind of
+gets you wondering whether or not we would be better off only building
+ASCII-only systems today.
+
+Here is how to get it set up with =virtualenv= on OS X and =brew=:
+
+Review [[https://pypi.python.org/pypi/Unidecode][this]] and verify that you have a Python build with the Unicode support
+that this package requires. This code should answer "True":
+
+#+NAME: orgmode:gcr:vela:54A7A3DB-81A1-4D79-8411-4B6459FA4E5C
+#+BEGIN_SRC python :results value scalar
+import sys
+sys.maxunicode > 0xffff
+#+END_SRC
+
+#+RESULTS: orgmode:gcr:vela:54A7A3DB-81A1-4D79-8411-4B6459FA4E5C
+#+BEGIN_EXAMPLE
+None
+#+END_EXAMPLE
+
 
