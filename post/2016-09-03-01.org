@@ -120,4 +120,8 @@ this virtualenv.
 
 [[https://medium.com/@pimterry/setting-up-pyenv-on-os-x-with-homebrew-56c7541fd331#.k4hs3zw4b][This]] post explains another approach to get it running. [[https://gist.github.com/mwaterfall/6621874][Here]] is another one.
 This all looks like it is fragile. Yuck. I'm going to set up a =vagrant= box
-instead.
+instead
+
+- Name it: unidecode
+- Create the github project
+  - 
