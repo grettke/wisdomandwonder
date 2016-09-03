@@ -60,18 +60,21 @@ ASCII-only systems today.
 
 Here is how to get it set up with =virtualenv= on OS X and =brew=:
 
-Review [[https://pypi.python.org/pypi/Unidecode][this]] and verify that you have a Python build with the Unicode support
-that this package requires. This code should answer "True":
+Review [[https://pypi.python.org/pypi/Unidecode][this]] and [[https://webamused.wordpress.com/2011/01/31/building-64-bit-python-python-org-using-ucs-4-on-mac-os-x-10-6-6-snow-leopard/][this]] and verify that you have a Python build with the Unicode
+support for "wide" characters. For transliterating Blackboard bold, you need
+this.
+
+This code should answer 1114111 (not 65535)
 
 #+NAME: orgmode:gcr:vela:54A7A3DB-81A1-4D79-8411-4B6459FA4E5C
-#+BEGIN_SRC python :results value scalar
+#+BEGIN_SRC python :results output
 import sys
-sys.maxunicode > 0xffff
+print sys.maxunicode
 #+END_SRC
 
 #+RESULTS: orgmode:gcr:vela:54A7A3DB-81A1-4D79-8411-4B6459FA4E5C
 #+BEGIN_EXAMPLE
-None
+65535
 #+END_EXAMPLE
 
-
+I've got the wrong Python build.
