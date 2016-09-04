@@ -1,0 +1,11 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10386
+#+DATE: [2016-09-04 Sun 13:46]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: mathematics, fun
+#+TITLE: 3D Transforms Without Matrices Using Quaternions
+
+Check out [[https://www.youtube.com/watch?v=3BR8tK-LuB0][this video]] on what and why.
+
+See [[https://en.wikipedia.org/wiki/Quaternion][quaternions]], and also [[https://en.wikipedia.org/wiki/Octonion][octonions]] then [[https://en.wikipedia.org/wiki/Sedenion][sedenions]].
