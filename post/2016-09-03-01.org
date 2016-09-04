@@ -4,7 +4,7 @@
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article, Link
 #+TAGS: Unicode, Writing, Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
-#+TITLE: Best Way To Transliterate Unicode to ASCII?
+#+TITLE: Best Way To Transliterate Unicode to ASCII? Python Help Needed With Solution.
 
 For creating audio-books I use a text-to-speech engine. One problem is that the
 application dies on Unicode text. The documents that I encode are too long to
@@ -120,8 +120,7 @@ this virtualenv.
 
 [[https://medium.com/@pimterry/setting-up-pyenv-on-os-x-with-homebrew-56c7541fd331#.k4hs3zw4b][This]] post explains another approach to get it running. [[https://gist.github.com/mwaterfall/6621874][Here]] is another one.
 This all looks like it is fragile. Yuck. I'm going to set up a =vagrant= box
-instead
+instead.
 
-- Name it: unidecode-box
-- Create the github project
-  -
+[[https://github.com/grettke/unidecode-box][Here]] is a start. It doesn't build right now and I'm stuck. Pythonistas, what
+am I doing wrong here?
