@@ -1,0 +1,45 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10388
+#+DATE: [2016-09-05 Mon 09:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Screencasting, Blogging, Utility, Video, ScreenFlow, Teaching, Learning
+#+TITLE: Screencasting Practice & Feedback: 00004
+
+* Result
+
+[[https://youtu.be/c0z7dh1JAZM][The Story Of blackboard-bold-mode]]
+
+* Plan
+
+- Evaluate sound-dampening foam
+- Record the audio and video simultaneously in a conversational style and edit
+  the video to fit the time-line
+  - Love conversational style; curious about how to reduce it to the core
+    content
+
+* Execution
+
+** Preparation
+
+- Minimal
+
+** Execution
+
+- Spoke more loudly
+
+** Post Production
+
+- Minimal
+  - Added logo
+  - Sped up video content to make it fit the time-line or removed some
+
+* Outcome & Feedback
+
+- Spent only 2 hours and I'm happy with the result
+- Conversation (audio and video) were recorded separately from the content. It
+  is difficult *not* to synchronize them /but rather/ to make them work well
+  together. In this screencast, the content more or less makes sense. I think
+  that I could do it better.
+- Weighing the balance between getting the content out there in an imperfect
+  form versus planning forever and rarely publishing anything.
