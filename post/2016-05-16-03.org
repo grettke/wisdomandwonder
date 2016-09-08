@@ -1,44 +1,19 @@
 #+BLOG: wisdomandwonder
-#+POSTID: 10241
-#+DATE: [2016-05-16 Mon 21:03]
+#+POSTID: 10239
+#+DATE: [2016-05-16 Mon 20:28]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Article
-#+TAGS: Emacs, Keyboard, MechanicalKeyboard
-#+TITLE: Emacs Keyboard Design 37: Possible
+#+CATEGORY: Link
+#+TAGS: Yoga, philosophy, Health
+#+TITLE: Brené Brown on Joy: It's Terrifying
 
-- Small changes to a 104 key ANSI skyrocket the price
-- Stay close to the standard to make it affordable
-
-[[./image/keyboard-layout-37.png]]
-
-#+HTML: <!--more-->
-
-- Start with the ANSI 104 preset
-- Delete the numpad to make it a tenkeyless
-- Make the spacebar 6w, they do exist
-- Make Ctrl, Win, Menu 1w
-  - Make them Emacs keys, with the front text the real key code
-- Difficult to press shift-C-M-s-H, so add Ultra
-  - C-M-s-H is easily done
-- Place Alt and Gui below Delete and End
-- Meh key below PgDn
-  - No better name, this is the standard
-  - Control-Alt-Shift
-- Fn below Alt for F13-F24
-  - For anything more, makes sense
-  - Faster than toggling to a layer
-  - Add mouse keys here maybe
-- Layer below Meh
-  - Easily toggle to any particular layer
-  - Don't need individual keys for them
-- Thoughts
-  - Can buy keycap set from any MX compatible provider (nearly all of them)
-    - Costs less
-  - Pay for a 104 key keycap set and repurpose the numpad keys as Emacs keys
-    - Costs less
-  - Sticks with 6 rows
-    - Keys at correct height
-  - OS and Emacs keys can happily and easily coexist
-  - Fn and Layer handle just about everything
-
-# ./image/keyboard-layout-37.png https://www.wisdomandwonder.com/wp-content/uploads/2016/05/keyboard-layout-37.png
+- [[https://www.youtube.com/watch?v=RKV0BWSPfOw][YouTube]]
+- Joy requires gratitude
+- Joy is the most terrifying thing that humans experience
+- "When we lose our tolerance for vulnerability, joy becomes forboding"
+  - "We try to beat vulnerability to the punch"
+- "I know because I'm fixing to meet Oprah, I'm going to die" lolol
+- "We're trying to dress rehearse tragedy so we can beat vulnerability to the
+  punch"
+- When happy people feel that, they practice gratitude to defeat that fear
+- "In a culture of scarcity, we are always searching for extraordinary when
+  the truth is" (that we truly love the ordinary sweet things about our life)
