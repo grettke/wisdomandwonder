@@ -52,6 +52,7 @@
   WILL CORRECT IT AS QUICKLY AS POSSIBLE*
 - Everything not given attribution is copyright myself since I started this
   blog
+- See more about licensing under [[https://www.wisdomandwonder.com/Copying][Copying]].
 
 * Disclosure Policy
 
