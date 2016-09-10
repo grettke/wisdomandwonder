@@ -157,8 +157,9 @@ Users may opt out of the use of the DoubleClick cookie for interest-based advert
 
 *** Transport Layer Security (TLS) and Secure Sockets Layer (SSL)
 
-- This website is only available over a secure increasing the likelihood that
-  when your site talks to my site it is /really/ your site talking to my site
+- This website is only available over a secure protocol increasing the
+  likelihood that when your site talks to my site it is /really/ your site
+  talking to my site
 
 *** Scanning
 
