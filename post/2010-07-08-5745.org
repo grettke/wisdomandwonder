@@ -5,7 +5,7 @@
 #+TAGS: 22656, Concours, Kawasaki, Motorcycle
 #+TITLE: Post Purchase Inspection
 
-I took the bike to SouthEast Sales for them to do a general inspection and service. Here is what they did:
+I took the bike to [[http://www.southeastsales.com/][SouthEast Sales]] for them to do a general inspection and service. Here is what they did:
 
 
 -  Change motor oil & filter
