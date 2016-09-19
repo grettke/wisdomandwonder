@@ -148,7 +148,7 @@ Users may opt out of the use of the DoubleClick cookie for interest-based advert
 
 *** I Use SiteGround Affiliate Links Here
 
-- Your blog's gotta live somewhere; and [[https://www.siteground.com/][SiteGround]] a perfect new home for it
+- Your blog's gotta live somewhere; and [[https://www.siteground.com/go/wisdomandwonderblog][SiteGround]] a perfect new home for it
 - It's fast, secure and modern
 - They are my professional blog-hosting friends
 - However you like to blog, they make it easy and fun
