@@ -142,6 +142,10 @@ Users may opt out of the use of the DoubleClick cookie for interest-based advert
   vendor website or if the advertiser is a member of the Digital Advertising
   Alliance via [[https://www.aboutads.info/][their website]]
 
+*** I Use ScreenFlow Affiliate Links Here
+
+- [[https://store.telestream.net/order/checkout.php?PRODS=4674839&QTY=1&AFFILIATE=88784&CART=1][ScreenFlow]] is the easiest and most-fun way to screencast
+
 *** I Use SiteGround Affiliate Links Here
 
 - Your blog's gotta live somewhere; and [[https://www.siteground.com/][SiteGround]] a perfect new home for it
