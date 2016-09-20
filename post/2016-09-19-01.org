@@ -1,0 +1,11 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10393
+#+DATE: [2016-09-19 Mon 19:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article, Link
+#+TAGS: Unicode, Writing, Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode, Mac, OS X
+#+TITLE: AppleScript integration for Org Babel
+
+Been looking for an excuse to play with AppleScript?!
+
+Now you [[https://github.com/stig/ob-applescript.el][have one very good one]]!
