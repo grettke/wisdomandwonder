@@ -1,0 +1,9 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10394
+#+DATE: [2016-09-22 Thu 19:31]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: forth, Emacs, IDE, elisp
+#+TITLE: lbForth, Common Lisp, and Forth Emacs fmacs
+
+[[https://github.com/larsbrinkhoff/lbForth/tree/master/src][lbForth]] is bootstrapped by a [[https://github.com/larsbrinkhoff/forth-metacompiler/blob/master/meta.lisp][forth-metacompiler]] and used to implement [[https://github.com/larsbrinkhoff/fmacs][fmacs]].
