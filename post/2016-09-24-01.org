@@ -1,0 +1,32 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10395
+#+DATE: [2016-09-24 Sat 13:47]
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Hide uninteresting files in dired-mode
+
+[[https://www.reddit.com/r/emacs/comments/54bd0s/hide_uninteresting_files_in_diredmode/][Via here]]:
+
+#+BEGIN_QUOTE
+I just found a neat trick today i.e hiding uninteresting(temporary files like
+backup or autosave files, all files of a particular extension or a particular
+set of files which match a regexp) files in =dired-mode= using =dired-x=. Here's
+how I did it in my =.emacs= :-
+#+END_QUOTE
+
+#+NAME: orgmode:gcr:vela:D0BE70F4-C842-4E8D-BFB4-7BE506670A1B
+#+BEGIN_SRC emacs-lisp
+(use-package dired-x
+  :config
+  (progn
+(setq dired-omit-verbose nil)
+;; toggle `dired-omit-mode' with C-x M-o
+(add-hook 'dired-mode-hook #'dired-omit-mode)
+(setq dired-omit-files
+      (concat dired-omit-files "\\|^.DS_STORE$\\|^.projectile$"))))
+#+END_SRC
+
+#+BEGIN_QUOTE
+There is also =dired-omit-extensions= which can be used to hide all files of a
+particular extension.
+#+END_QUOTE
