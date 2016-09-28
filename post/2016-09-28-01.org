@@ -1,0 +1,16 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10397
+#+DATE: [2016-09-28 Wed 13:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: APL, Array programming, Programming Language
+#+TITLE: apl-library: Useful stuff for APl programmers
+
+#+BEGIN_QUOTE
+[[https://sourceforge.net/projects/apl-library/][This]] is a collection of APL libraries.
+
+It was developed in gnu-apl but should be easily ported to other versions.
+
+Our objective is adding functionality that is available in more recently
+created languages.
+#+END_QUOTE
