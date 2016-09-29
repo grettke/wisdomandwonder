@@ -1,0 +1,12 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10398
+#+DATE: [2016-09-28 Wed 19:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: How To Reevaluate Local Variables
+
+[[https://www.reddit.com/r/emacs/comments/54vc6u/reevaluating_local_variables_after_change/][Via here]]:
+
+- If you want hooks to run call =normal-mode=
+- If you don't want hooks to run call =hack-local-variables=
