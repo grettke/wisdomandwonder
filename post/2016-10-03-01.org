@@ -1,0 +1,39 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10400
+#+DATE: [2016-10-03 Mon 21:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: The Fifteen Questions That You Must Answer In Your Org Mode Literate Programming Configuration
+
+[[https://github.com/grettke/help/blob/master/Org-Mode_Fundamentals.md][My configuration]] results in an environment where you can only evaluate
+code within the document and never during export or tangling. That way it is
+easier to understand what happens when.
+
+Code is only ever evaluated when you execute the document. The results of
+execution are stored within the document. That is my workflow.
+
+[[https://en.wikipedia.org/wiki/Knitr][Knitr]] in comparison does the opposite only evaluating code during export.
+
+Here is the easiest way to make sense of /what/ happens /when/ resulting in /what/:
+
+#+HTML: <!--more-->
+
+Key:
+
+- Columns
+  - Activity: The actions that is being performed on the document
+  - S :: Source document modified?
+  - T :: Destination tangled-document modified?
+  - W :: Destination weaved-document modified?
+  - C :: Source-Block Evaluation occurred?
+  - O :: Org-Macro Expansion occurred?
+
+| Activity   | S | T | W | C | O |
+|------------+---+---+---+---+---|
+| Tangling   | F | T | F | F | F |
+| Evaluating | T | F | F | T | F |
+| Weaving    | F | F | T | F | T |
+
+Once you answer all of those questions you aren't likely to have many
+surprises by your Org-Mode Literate Programming system.
