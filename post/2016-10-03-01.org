@@ -23,11 +23,11 @@ Key:
 
 - Columns
   - Activity: The actions that is being performed on the document
-  - S :: Source document modified?
-  - T :: Destination tangled-document modified?
-  - W :: Destination weaved-document modified?
-  - C :: Source-Block Evaluation occurred?
-  - O :: Org-Macro Expansion occurred?
+  - S : Source document modified?
+  - T : Destination tangled-document modified?
+  - W : Destination weaved-document modified?
+  - C : Source-Block Evaluation occurred?
+  - O : Org-Macro Expansion occurred?
 
 | Activity   | S | T | W | C | O |
 |------------+---+---+---+---+---|
