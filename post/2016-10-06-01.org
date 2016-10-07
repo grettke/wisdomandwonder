@@ -1,0 +1,16 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10401
+#+DATE: [2016-10-06 Thu 23:57]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: How To Pragmatically Set A Prefix Argument
+
+Via [[https://www.reddit.com/r/emacs/comments/567ju3/magit_manage_a_repo_without_having_a_file_opened/][here]], in this example it handles the situation when you want to run Magit
+but haven't got a project file open:
+
+#+NAME: orgmode:gcr:vela:0ACF569B-DB08-4A57-B327-242A6C760055
+#+BEGIN_SRC emacs-lisp
+(let ((current-prefix-arg '(4)))
+  (call-interactively #'magit-status))
+#+END_SRC
