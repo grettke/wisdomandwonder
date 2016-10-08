@@ -1,0 +1,21 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10404
+#+DATE: [2016-10-08 Sat 15:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Adobe, Illustrator, Vector graphics, Udemy, adobe-illustrator-cc-tutorial
+#+TITLE: AICCT: Lecture 3
+
+- Teacher shares his philosophy+strategy for learning followed by detailed
+  advice on implementation
+  - Discipline+perseverance+self-control
+  - Great working files
+- Attitude is everything
+- Great recording quality
+  - Speedy
+- Fonts are easy to read
+- Brown and yellow theme
+- Must follow lectures in order
+  - Must grok before moving ahead
+- Bring your own goals into the training
+  - Great reminder!
