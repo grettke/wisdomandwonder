@@ -1,0 +1,11 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10407
+#+DATE: [2016-10-08 Sat 18:47]
+RW##+DATE: [2016-10-08 Sat 18:22]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+TAGS: Adobe, Illustrator, Vector graphics, Udemy, adobe-illustrator-cc-tutorial
+#+TITLE: AICCT: Lecture 6
+
+- AI is for vector graphics
+- AP is for raster graphics
+- Raster files are much bigger than vector files
