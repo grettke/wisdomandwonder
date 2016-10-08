@@ -2,6 +2,7 @@
 #+POSTID: 10407
 #+DATE: [2016-10-08 Sat 18:47]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
 #+TAGS: Adobe, Illustrator, Vector graphics, Udemy, adobe-illustrator-cc-tutorial
 #+TITLE: AICCT: Lecture 6
 
