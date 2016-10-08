@@ -1,0 +1,14 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10402
+#+DATE: [2016-10-08 Sat 15:01]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Adobe, Illustrator, Vector graphics, Udemy, adobe-illustrator-cc-tutorial
+#+TITLE: Adobe Illustrator CC Tutorial (AICCT): Lecture 1
+
+Personal notes from [[https://www.udemy.com/adobe-illustrator-cc-tutorial/learn/v4/overview][Adobe Illustrator CC Tutorial - Training Taught By Experts]]
+start here:
+
+#+HTML: <!--more-->
+
+Downloaded and verified the integrity of 212.4 MB of supplementary material.
