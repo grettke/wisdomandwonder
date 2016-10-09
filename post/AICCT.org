@@ -292,12 +292,18 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   presses can't press up to the edge so you print to a larger sheet of paper
   that is cut down to the desired size. The bleed is the addition to the page
   size that will be cut down from.
-** TODO 13. 0303 Working Toward The Web 3:07
+** DONE 13. 0303 Working Toward The Web 3:07
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 13
+:ID:       o2b:DB5789AB-79CD-40F3-9637-C8474392A390
+:POST_DATE: [2016-10-09 Sun 15:47]
+:POSTID:   10415
+:BLOG:     wisdomandwonder
 :END:
 
-
+- When you =Align New Object to Pixel Grid= all objects align to an invisible
+  grid that helps prevent visual pixelation of an image on a monitor
+- Command-R shows the rulers in your workspace
 ** TODO 14. 0304 Controlling Multiple Documents 2:49
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 14
