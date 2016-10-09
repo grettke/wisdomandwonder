@@ -42,11 +42,25 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 ** 3. 0103 How You Will Learn And Working Files 3:53
 :PROPERTIES:
 :BLOG:     wisdomandwonder
-:POSTID:   paste-here
-:POST_DATE: paste-here
+:POSTID:   10404
+:POST_DATE: [2016-10-08 Sat 15:23]
 :TITLE:    AICCT: Lecture 3
+:ID:       o2b:D78664EF-5E78-4438-B40E-2AF99B2ADD77
 :END:
 
+- Teacher shares his philosophy+strategy for learning followed by detailed
+  advice on implementation
+  - Discipline+perseverance+self-control
+  - Great working files
+- Attitude is everything
+- Great recording quality
+  - Speedy
+- Fonts are easy to read
+- Brown and yellow theme
+- Must follow lectures in order
+  - Must grok before moving ahead
+- Bring your own goals into the training
+  - Great reminder!
 
 ** 4. 0104 Top Ten Hits From Andy 7:49
 :PROPERTIES:
