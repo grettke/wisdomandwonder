@@ -127,11 +127,15 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 ** 6. 0202 Illustrator Versus Photoshop 5:55
 :PROPERTIES:
 :BLOG:     wisdomandwonder
-:POSTID:   paste-here
-:POST_DATE: paste-here
+:POSTID:   10407
+:POST_DATE: [2016-10-08 Sat 18:47]
 :TITLE:    AICCT: Lecture 6
+:ID:       o2b:19DBD60B-610D-41E2-974A-9809807234B0
 :END:
 
+- AI is for vector graphics
+- AP is for raster graphics
+- Raster files are much bigger than vector files
 
 ** 7. 0203 Controlling Illustrator Through Preferences 11:03
 :PROPERTIES:
