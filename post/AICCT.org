@@ -65,11 +65,47 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 ** 4. 0104 Top Ten Hits From Andy 7:49
 :PROPERTIES:
 :BLOG:     wisdomandwonder
-:POSTID:   paste-here
-:POST_DATE: paste-here
+:POSTID:   10405
+:POST_DATE: [2016-10-08 Sat 15:32]
 :TITLE:    AICCT: Lecture 4
+:ID:       o2b:DAE3303D-7332-40E1-B11E-92F2548ECD89
 :END:
 
+- Presenter's name is Andy
+- Shares his favorite ten features
+- These are all new ideas so they are introductory for me
+- Context for me is
+  - Keyboard templates
+  - Logos and icons for just about everything
+- Top ten follows
+- Custom Toolbar
+  - Of course, great idea, I only ever use three to give at least for
+    keyboards
+- Pathfinder Options
+  - Merge multiple simple objects into a single object
+- The Width Tool
+  - Increase the width of a object interactively
+  - Resize multiple parts
+- Rule Guides
+  - Make guides
+  - Is this for symbol layout on keycaps?
+- Duplicate Last Function
+  - Nice for symbol placement
+  - Store functions for symbol placement algorithm?
+- Gradient Mesh
+  - Create multi-dimensional objects
+- Touch Type Tool
+  - Modify individual characters as a unique object while remaining part of
+    the original text
+- Appearance Panel
+  - Always include this
+  - Single panel for every aspect of the object
+  - Is this where layers go?
+- Image Trace
+  - Automatically convert an image to an object
+- Live Paint
+  - Bucket fill for objects?
+- Look forward to my top-ten
 
 * Section: 2, The First Step
 ** 5. 0201 Introduction 1:20
