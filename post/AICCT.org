@@ -107,7 +107,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Bucket fill for objects?
 - Look forward to my top-ten
 
-* IN-PROGRESS Section: 2, The First Step
+* DONE Section: 2, The First Step
 ** DONE 5. 0201 Introduction 1:20
 :PROPERTIES:
 :BLOG:     wisdomandwonder
