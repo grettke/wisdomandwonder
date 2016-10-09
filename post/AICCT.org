@@ -107,7 +107,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Bucket fill for objects?
 - Look forward to my top-ten
 
-* DONE Section: 2, The First Step
+* IN-PROGRESS Section: 2, The First Step
 ** DONE 5. 0201 Introduction 1:20
 :PROPERTIES:
 :BLOG:     wisdomandwonder
@@ -223,3 +223,317 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Select them
   - Shows type tool
   - Customizable by clicking on arrow in the bar for each section
+** TODO 9. 0205 The Illustrator Control Panel 3:29
+** TODO 10. 0206 Generating User-Defined Workspaces 5:54
+Controlling Adobe Illustrator
+11. 0301 Introduction
+1:07
+12. 0302 Working Toward Printing
+4:42
+13. 0303 Working Toward The Web
+3:07
+14. 0304 Controlling Multiple Documents
+2:49
+15. 0305 Using View And Navigation Features
+7:46
+16. 0306 Object Control With Grids And Guides
+10:59
+17. 0307 Controlling What You See
+4:48
+18. 0308 Defining Default Measuring Systems
+4:09
+19. 0309 Creating Multiple Views
+3:34
+20. 0310 Hiding And Locking Illustrator Objects
+3:12
+21. 0311 Generating Multiple Illustrator Art-boards
+5:31
+22. 0312 Resizing An Art-Board From Center
+3:56
+23. 0313 New Tricks With Guides
+3:42
+24. 0314 Generating A Customized Tool Panel
+4:12
+Section: 4
+0 / 11
+Selecting And Manipulating Illustrator Objects
+25. 0401 Introduction To Selection
+0:57
+26. 0402 Controlling Selection With Preferences
+5:49
+27. 0403 Group And Direct Selection Tips
+6:48
+28. 0404 Using The Lasso Tool
+2:52
+29. 0405 Selection With The Magic Wand Tool
+4:10
+30. 0406 Selection Via Attributes
+3:57
+31. 0407 Working In Isolation Mode
+4:32
+32. 0408 Resizing Tricks
+5:51
+33. 0409 Object Rotation And Smart Guides
+5:16
+34. 0410 Working With Distort Tools
+7:04
+35. 0411 Creative Uses Of Duplicate Options
+4:38
+Section: 5
+0 / 10
+Adobe Illustrator And Color Management
+36. 0501 Introduction To Color Management
+1:08
+37. 0502 Designing With The End In Mind
+6:10
+38. 0503 Managing ColorSync Settings
+6:10
+39. 0504 The Improved Illustrator Swatches Panel
+2:03
+40. 0505 Creating Process And Global Colors
+6:59
+41. 0506 Defining Spot Colors
+3:27
+42. 0507 Organizing Colors Using Groups
+3:08
+43. 0508 Using Illustrator Color Libraries
+3:29
+44. 0509 Saving Custom Color Libraries
+4:25
+45. 0510 Getting Inspiration With Color Guide And Kuler
+6:07
+Section: 6
+0 / 9
+Working With Shapes, Fills, And Strokes
+46. 0601 Introduction To Shapes, Fills, And Strokes
+0:55
+47. 0602 Creating Basic Shapes
+10:42
+48. 0603 More On Basic Shapes
+8:15
+49. 0604 It Is All In The Math
+3:57
+50. 0605 Working With Object Fills
+6:07
+51. 0606 The Basics Of Object Strokes
+8:17
+52. 0607 Converting Strokes To Objects
+3:44
+53. 0608 Working With Gradient Fills
+7:02
+54. 0609 Modifying And Creating Patterns
+6:44
+Section: 7
+0 / 6
+Working With Anchors And Paths
+55. 0701 Introduction To Anchors And Paths
+0:52
+56. 0702 Paths Versus Strokes
+5:02
+57. 0703 Controlling Paths With Anchors
+6:25
+58. 0704 Open Versus Closed Paths
+4:18
+59. 0705 Using Join And Average On Open Paths
+5:57
+60. 0706 Getting Creative With The Scissors And Knife Tools
+8:39
+Section: 8
+0 / 10
+Creating And Managing Vector Shapes
+61. 0801 Introduction To Vector Shapes
+0:54
+62. 0802 Switching Drawing Modes
+8:46
+63. 0803 Working With Pathfinder Tools
+10:05
+64. 0804 Using Shape Mode Tools
+5:20
+65. 0805 Working With The New Live Corners
+4:37
+66. 0806 Understanding The Shape Builder Tool
+3:12
+67. 0807 Using The Symbol Sprayer
+7:37
+68. 0808 Creating Custom Symbols
+5:08
+69. 0809 Using The Blob, Paintbrush And Pencil Tools
+8:52
+70. 0810 Touch Type And Free Transform
+5:16
+Section: 9
+0 / 8
+The Illustrator Pen Tool
+71. 0901 Introduction To The Pen Tool
+1:43
+72. 0902 Pen Tool Basics
+6:26
+73. 0903 Generating Simple Paths
+7:23
+74. 0904 Adding, Deleting, And Converting Anchor Points
+4:48
+75. 0905 Gaining Control
+5:33
+76. 0906 Smart Guides And The Pen Tool
+5:23
+77. 0907 Reshaping Objects
+5:54
+78. 0908 Project: Creating A Telephone From Basic Shapes
+11:30
+Section: 10
+0 / 11
+Adobe Illustrator And Type
+79. 1001 Introduction to Type
+1:09
+80. 1002 Container And Point Type
+11:10
+81. 1003 Creating Custom Type Containers
+7:14
+82. 1004 Working With Straight And Curved Text
+4:22
+83. 1005 The Character And Paragraph Panels
+9:02
+84. 1006 Creating Character And Paragraph Styles
+7:42
+85. 1007 Text Threading
+3:19
+86. 1008 Text And The Eyedropper Tool
+5:18
+87. 1009 Adding Text To A Circle
+6:52
+88. 1010 Converting Type To Outlines
+6:28
+89. 1011 Adding Fonts With TypeKit
+4:54
+Section: 11
+0 / 7
+Effects And The Appearance Panel
+90. 1101 Introduction To Effects And The Appearance Panel
+1:01
+91. 1102 Controlling Effects With Options
+6:38
+92. 1103 Transferring Effects To Multiple Objects
+7:02
+93. 1104 The Appearance Panel
+5:09
+94. 1105 Rasterizing Vector Objects
+5:51
+95. 1106 Moving Into The World Of 3D
+9:03
+96. 1107 Project: Creating Faux Neon
+5:58
+Section: 12
+0 / 7
+Layers 101
+97. 1201 Introduction To Layers
+0:51
+98. 1202 Layer Basics
+4:31
+99. 1203 Generating Layers And Moving Objects
+5:34
+100. 1204 Layer Panel Options
+4:26
+101. 1205 Managing Layer Panel Options
+10:23
+102. 1206 Enhancements To The Layers Panel
+2:24
+103. 1207 Project: Working With Opacity And Blending Modes
+4:05
+Section: 13
+0 / 8
+Working With Images And Masks
+104. 1301 Introduction To Images And Masks
+0:59
+105. 1302 Linking And Embedding Placed Images
+4:50
+106. 1303 The Links Panel
+5:57
+107. 1304 Non-Destructive Photoshop Editing In Illustrator
+4:16
+108. 1305 Generating A Basic Clipping Mask
+3:47
+109. 1306 Creating A Clipping Mask From A Raster Image
+6:33
+110. 1307 Working With Opacity Masks
+7:47
+111. 1308 Project: Creating A Complex Clipping Mask
+4:10
+Section: 14
+0 / 7
+Tips, Tricks And Techniques
+112. 1401 Introduction to Tips, Tricks And Techniques
+0:54
+113. 1402 Working With Envelope Distort
+9:05
+114. 1403 Creating An Animation In Illustrator
+6:12
+115. 1404 Generating Customized Brushes
+10:57
+116. 1405 Creative Blending Options
+4:20
+117. 1406 Project: Growing A Gradient Mesh Tomato
+9:09
+118. 1407 Using Auto Generated Corners
+2:09
+Section: 15
+0 / 7
+Moving From Raster To Vector
+119. 1501 Introduction To Raster And Vector
+1:28
+120. 1502 Understanding Image Trace
+7:48
+121. 1503 Tracing Line Art
+3:13
+122. 1504 Working Through Image Trace Options
+7:30
+123. 1505 Understanding Live Paint
+7:49
+124. 1506 Colorizing Artwork With Live Paint
+4:20
+125. 1507 Working With Live Paint Gap Detection
+4:37
+Section: 16
+0 / 7
+Saving And Printing Based On Intent
+126. 1601 Introduction To Saving And Printing
+1:10
+127. 1602 Saving For The Web And Beyond
+10:14
+128. 1603 Tweaking The Final Product
+10:48
+129. 1604 Saving An Illustrator Document
+4:29
+130. 1605 Outputting Directly To Print
+7:57
+131. 1606 Generating A Document Package
+2:40
+132. 1607 Final Thoughts
+2:51
+15
+15
+Playback Rate
+1x
+Questions
+
+Search for a question
+1 question in this lecture
+
+Ask a new question
+
+What is MAF states for?
+What is MAF states for?
+Question Details
+About Us
+Udemy for Business
+Become an Instructor
+Affiliates
+Blog
+Topics
+Mobile Apps
+Support
+Careers
+ English
+Copyright © 2016 Udemy, Inc.
+Terms
+Privacy Policy
+Intellectual Property
