@@ -1,0 +1,39 @@
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil prop:nil
+#+CATEGORY: Article
+#+TAGS: Adobe, Illustrator, Vector graphics, Udemy, adobe-illustrator-cc-tutorial
+
+* 8. 0204 The Illustrator User Interface 5:28
+:PROPERTIES:
+:TITLE:    AICCT: Lecture 8
+:ID:       o2b:9EF2D4C4-62B1-40D5-9323-9325002AC09E
+:POST_DATE: [2016-10-08 Sat 20:08]
+:POSTID:   10408
+:BLOG:     wisdomandwonder
+:END:
+
+- All about the user interface
+- Menubar: Pulldown menus
+  - Click-and-do
+- Top
+  - Bridge management
+  - Arrange files differently
+  - Workspaces: Pre-set screen configurations of Panels
+- Below-Top: Options Bar, for what you are doing
+  - Configuration for the tool that you are using
+  - Options bar: Possible things that can be on the bar
+- Left: Tools
+  - Hover over a tool to get a popup with the keyboard shortcut for the tool
+  - Arrow on lower right corners means that there is more to do
+    - Access via
+      - Click and hold
+      - Option-Click cycles through the options
+    - Can rip that off into its own menu to be positioned anywhere
+- Objects are composed of fills and strokes, that is the box and donut
+- Screen modes controls full-screen-ness
+- Panels
+  - Pre-configured via Workspace
+  - On the right side
+- Bottom: Artboard
+  - Select them
+  - Shows type tool
+  - Customizable by clicking on arrow in the bar for each section
