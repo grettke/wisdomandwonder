@@ -223,7 +223,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Select them
   - Shows type tool
   - Customizable by clicking on arrow in the bar for each section
-** TODO 9. 0205 The Illustrator Control Panel 3:29
+** DONE 9. 0205 The Illustrator Control Panel 3:29
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 9
 :ID:       o2b:26785440-D2B8-41A8-9F9A-7B54DE1BB6C1
