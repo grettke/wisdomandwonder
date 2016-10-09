@@ -111,11 +111,18 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 ** 5. 0201 Introduction 1:20
 :PROPERTIES:
 :BLOG:     wisdomandwonder
-:POSTID:   paste-here
-:POST_DATE: paste-here
+:POSTID:   10406
+:POST_DATE: [2016-10-08 Sat 18:18]
 :TITLE:    AICCT: Lecture 5
+:ID:       o2b:3281ECDA-9A57-4F0B-B568-85FF33057159
 :END:
 
+- Vector graphics are resolution independent
+- AI and Adobe Photoshop (AP) work well together
+- Preferences rock, they make you rock
+- Nearly everything is configurable
+- Goal of configuration is to create an environment where creativity can
+  blossom efficiently by learning the program
 
 ** 6. 0202 Illustrator Versus Photoshop 5:55
 :PROPERTIES:
