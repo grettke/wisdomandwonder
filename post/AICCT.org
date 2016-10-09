@@ -5,28 +5,28 @@
 * Section: 1, Getting Started
 ** 1. Important - Working Files - Download These First 0:00
 :PROPERTIES:
-:TITLE:    AICCT: Lecture X
+:TITLE:    AICCT: Lecture 1
 :POST_DATE: paste-here
 :END:
 
 
 ** 2. 0101 Introduction 1:36
 :PROPERTIES:
-:TITLE:    AICCT: Lecture X
+:TITLE:    AICCT: Lecture 2
 :POST_DATE: paste-here
 :END:
 
 
 ** 3. 0103 How You Will Learn And Working Files 3:53
 :PROPERTIES:
-:TITLE:    AICCT: Lecture X
+:TITLE:    AICCT: Lecture 3
 :POST_DATE: paste-here
 :END:
 
 
 ** 4. 0104 Top Ten Hits From Andy 7:49
 :PROPERTIES:
-:TITLE:    AICCT: Lecture X
+:TITLE:    AICCT: Lecture 4
 :POST_DATE: paste-here
 :END:
 
@@ -34,14 +34,14 @@
 * Section: 2, The First Step
 ** 5. 0201 Introduction 1:20
 :PROPERTIES:
-:TITLE:    AICCT: Lecture X
+:TITLE:    AICCT: Lecture 5
 :POST_DATE: paste-here
 :END:
 
 
 ** 6. 0202 Illustrator Versus Photoshop 5:55
 :PROPERTIES:
-:TITLE:    AICCT: Lecture X
+:TITLE:    AICCT: Lecture 6
 :POST_DATE: paste-here
 :END:
 
