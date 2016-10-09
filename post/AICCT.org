@@ -5,10 +5,19 @@
 * Section: 1, Getting Started
 ** 1. Important - Working Files - Download These First 0:00
 :PROPERTIES:
-:TITLE:    AICCT: Lecture 1
-:POST_DATE: paste-here
+:BLOG:     wisdomandwonder
+:POSTID:   10402
+:TITLE:    Adobe Illustrator CC Tutorial (AICCT): Lecture 1
+:POST_DATE: [2016-10-08 Sat 15:01]
+:ID:       o2b:58AFD12A-4935-4B7D-BA8D-3F68D4DFBD68
 :END:
 
+Personal notes from [[https://www.udemy.com/adobe-illustrator-cc-tutorial/learn/v4/overview][Adobe Illustrator CC Tutorial - Training Taught By Experts]]
+start here:
+
+#+HTML: <!--more-->
+
+Downloaded and verified the integrity of 212.4 MB of supplementary material.
 
 ** 2. 0101 Introduction 1:36
 :PROPERTIES:
