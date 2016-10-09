@@ -227,509 +227,757 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 9
 :END:
+
+
 ** TODO 10. 0206 Generating User-Defined Workspaces 5:54
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 10
 :END:
+
+
 * TODO Section: 3, Controlling Adobe Illustrator
 ** TODO 11. 0301 Introduction 1:07
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 11
 :END:
+
+
 ** TODO 12. 0302 Working Toward Printing 4:42
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 12
 :END:
+
+
 ** TODO 13. 0303 Working Toward The Web 3:07
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 13
 :END:
+
+
 ** TODO 14. 0304 Controlling Multiple Documents 2:49
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 14
 :END:
+
+
 ** TODO 15. 0305 Using View And Navigation Features 7:46
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 15
 :END:
+
+
 ** TODO 16. 0306 Object Control With Grids And Guides 10:59
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 16
 :END:
+
+
 ** TODO 17. 0307 Controlling What You See 4:48
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 17
 :END:
+
+
 ** TODO 18. 0308 Defining Default Measuring Systems 4:09
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 18
 :END:
+
+
 ** TODO 19. 0309 Creating Multiple Views 3:34
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 19
 :END:
+
+
 ** TODO 20. 0310 Hiding And Locking Illustrator Objects 3:12
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 20
 :END:
+
+
 ** TODO 21. 0311 Generating Multiple Illustrator Art-boards 5:31
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 21
 :END:
+
+
 ** TODO 22. 0312 Resizing An Art-Board From Center 3:56
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 22
 :END:
+
+
 ** TODO 23. 0313 New Tricks With Guides 3:42
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 23
 :END:
+
+
 ** TODO 24. 0314 Generating A Customized Tool Panel 4:12
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 24
 :END:
+
+
 * TODO Section: 4, Selecting And Manipulating Illustrator Objects
 ** TODO 25. 0401 Introduction To Selection 0:57
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 25
 :END:
+
+
 ** TODO 26. 0402 Controlling Selection With Preferences 5:49
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 26
 :END:
+
+
 ** TODO 27. 0403 Group And Direct Selection Tips 6:48
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 27
 :END:
+
+
 ** TODO 28. 0404 Using The Lasso Tool 2:52
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 28
 :END:
+
+
 ** TODO 29. 0405 Selection With The Magic Wand Tool 4:10
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 29
 :END:
+
+
 ** TODO 30. 0406 Selection Via Attributes 3:57
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 30
 :END:
+
+
 ** TODO 31. 0407 Working In Isolation Mode 4:32
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 31
 :END:
+
+
 ** TODO 32. 0408 Resizing Tricks 5:51
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 32
 :END:
+
+
 ** TODO 33. 0409 Object Rotation And Smart Guides 5:16
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 33
 :END:
+
+
 ** TODO 34. 0410 Working With Distort Tools 7:04
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 34
 :END:
+
+
 ** TODO 35. 0411 Creative Uses Of Duplicate Options 4:38
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 35
 :END:
+
+
 * TODO Section: 5, Adobe Illustrator And Color Management
 ** TODO 36. 0501 Introduction To Color Management 1:08
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 36
 :END:
+
+
 ** TODO 37. 0502 Designing With The End In Mind 6:10
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 37
 :END:
+
+
 ** TODO 38. 0503 Managing ColorSync Settings 6:10
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 38
 :END:
+
+
 ** TODO 39. 0504 The Improved Illustrator Swatches Panel 2:03
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 39
 :END:
+
+
 ** TODO 40. 0505 Creating Process And Global Colors 6:59
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 40
 :END:
+
+
 ** TODO 41. 0506 Defining Spot Colors 3:27
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 41
 :END:
+
+
 ** TODO 42. 0507 Organizing Colors Using Groups 3:08
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 42
 :END:
+
+
 ** TODO 43. 0508 Using Illustrator Color Libraries 3:29
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 43
 :END:
+
+
 ** TODO 44. 0509 Saving Custom Color Libraries 4:25
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 44
 :END:
+
+
 ** TODO 45. 0510 Getting Inspiration With Color Guide And Kuler 6:07
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 45
 :END:
+
+
 * TODO Section: 6, Working With Shapes, Fills, And Strokes
 ** TODO 46. 0601 Introduction To Shapes, Fills, And Strokes 0:55
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 46
 :END:
+
+
 ** TODO 47. 0602 Creating Basic Shapes 10:42
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 47
 :END:
+
+
 ** TODO 48. 0603 More On Basic Shapes 8:15
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 48
 :END:
+
+
 ** TODO 49. 0604 It Is All In The Math 3:57
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 49
 :END:
+
+
 ** TODO 50. 0605 Working With Object Fills 6:07
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 50
 :END:
+
+
 ** TODO 51. 0606 The Basics Of Object Strokes 8:17
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 51
 :END:
+
+
 ** TODO 52. 0607 Converting Strokes To Objects 3:44
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 52
 :END:
+
+
 ** TODO 53. 0608 Working With Gradient Fills 7:02
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 53
 :END:
+
+
 ** TODO 54. 0609 Modifying And Creating Patterns 6:44
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 54
 :END:
+
+
 * TODO Section: 7, Working With Anchors And Paths
 ** TODO 55. 0701 Introduction To Anchors And Paths 0:52
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 55
 :END:
+
+
 ** TODO 56. 0702 Paths Versus Strokes 5:02
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 56
 :END:
+
+
 ** TODO 57. 0703 Controlling Paths With Anchors 6:25
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 57
 :END:
+
+
 ** TODO 58. 0704 Open Versus Closed Paths 4:18
 :PROPERTIES: [[60]]
 :TITLE:     AICCT: Lecture 58
 :END:
+
+
 ** TODO 59. 0705 Using Join And Average On Open Paths 5:57
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 59
 :END:
+
+
 ** TODO 60. 0706 Getting Creative With The Scissors And Knife Tools 8:39
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 60
 :END:
+
+
 * TODO Section: 8, Creating And Managing Vector Shapes
 ** TODO 61. 0801 Introduction To Vector Shapes 0:54
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 61
 :END:
+
+
 ** TODO 62. 0802 Switching Drawing Modes 8:46
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 62
 :END:
+
+
 ** TODO 63. 0803 Working With Pathfinder Tools 10:05
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 63
 :END:
+
+
 ** TODO 64. 0804 Using Shape Mode Tools 5:20
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 64
 :END:
+
+
 ** TODO 65. 0805 Working With The New Live Corners 4:37
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 65
 :END:
+
+
 ** TODO 66. 0806 Understanding The Shape Builder Tool 3:12
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 66
 :END:
+
+
 ** TODO 67. 0807 Using The Symbol Sprayer 7:37
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 67
 :END:
+
+
 ** TODO 68. 0808 Creating Custom Symbols 5:08
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 68
 :END:
+
+
 ** TODO 69. 0809 Using The Blob, Paintbrush And Pencil Tools 8:52
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 69
 :END:
+
+
 ** TODO 70. 0810 Touch Type And Free Transform 5:16
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 70
 :END:
+
+
 * TODO Section: 9, The Illustrator Pen Tool
 ** TODO 71. 0901 Introduction To The Pen Tool 1:43
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 71
 :END:
+
+
 ** TODO 72. 0902 Pen Tool Basics 6:26
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 72
 :END:
+
+
 ** TODO 73. 0903 Generating Simple Paths 7:23
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 73
 :END:
+
+
 ** TODO 74. 0904 Adding, Deleting, And Converting Anchor Points 4:48
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 74
 :END:
+
+
 ** TODO 75. 0905 Gaining Control 5:33
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 75
 :END:
+
+
 ** TODO 76. 0906 Smart Guides And The Pen Tool 5:23
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 76
 :END:
+
+
 ** TODO 77. 0907 Reshaping Objects 5:54
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 77
 :END:
+
+
 ** TODO 78. 0908 Project: Creating A Telephone From Basic Shapes 11:30
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 78
 :END:
+
+
 * TODO Section: 10, Adobe Illustrator And Type
 ** TODO 79. 1001 Introduction to Type 1:09
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 79
 :END:
+
+
 ** TODO 80. 1002 Container And Point Type 11:10
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 80
 :END:
+
+
 ** TODO 81. 1003 Creating Custom Type Containers 7:14
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 81
 :END:
+
+
 ** TODO 82. 1004 Working With Straight And Curved Text 4:22
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 82
 :END:
+
+
 ** TODO 83. 1005 The Character And Paragraph Panels 9:02
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 83
 :END:
+
+
 ** TODO 84. 1006 Creating Character And Paragraph Styles 7:42
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 84
 :END:
+
+
 ** TODO 85. 1007 Text Threading 3:19
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 85
 :END:
+
+
 ** TODO 86. 1008 Text And The Eyedropper Tool 5:18
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 86
 :END:
+
+
 ** TODO 87. 1009 Adding Text To A Circle 6:52
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 87
 :END:
+
+
 ** TODO 88. 1010 Converting Type To Outlines 6:28
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 88
 :END:
+
+
 ** TODO 89. 1011 Adding Fonts With TypeKit 4:54
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 89
 :END:
+
+
 * TODO Section: 11, Effects And The Appearance Panel
 ** TODO 90. 1101 Introduction To Effects And The Appearance Panel 1:01
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 90
 :END:
+
+
 ** TODO 91. 1102 Controlling Effects With Options 6:38
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 91
 :END:
+
+
 ** TODO 92. 1103 Transferring Effects To Multiple Objects 7:02
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 92
 :END:
+
+
 ** TODO 93. 1104 The Appearance Panel 5:09
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 93
 :END:
+
+
 ** TODO 94. 1105 Rasterizing Vector Objects 5:51
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 94
 :END:
+
+
 ** TODO 95. 1106 Moving Into The World Of 3D 9:03
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 95
 :END:
+
+
 ** TODO 96. 1107 Project: Creating Faux Neon 5:58
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 96
 :END:
+
+
 * TODO Section: 12, Layers 101
 ** TODO 97. 1201 Introduction To Layers 0:51
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 97
 :END:
+
+
 ** TODO 98. 1202 Layer Basics 4:31
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 98
 :END:
+
+
 ** TODO 99. 1203 Generating Layers And Moving Objects 5:34
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 99
 :END:
+
+
 ** TODO 100. 1204 Layer Panel Options 4:26
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 100
 :END:
+
+
 ** TODO 101. 1205 Managing Layer Panel Options 10:23
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 101
 :END:
+
+
 ** TODO 102. 1206 Enhancements To The Layers Panel 2:24
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 102
 :END:
+
+
 ** TODO 103. 1207 Project: Working With Opacity And Blending Modes 4:05
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 103
 :END:
+
+
 * TODO Section: 13, Working With Images And Masks
 ** TODO 104. 1301 Introduction To Images And Masks 0:59
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 104
 :END:
+
+
 ** TODO 105. 1302 Linking And Embedding Placed Images 4:50
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 105
 :END:
+
+
 ** TODO 106. 1303 The Links Panel 5:57
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 106
 :END:
+
+
 ** TODO 107. 1304 Non-Destructive Photoshop Editing In Illustrator 4:16
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 107
 :END:
+
+
 ** TODO 108. 1305 Generating A Basic Clipping Mask 3:47
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 108
 :END:
+
+
 ** TODO 109. 1306 Creating A Clipping Mask From A Raster Image 6:33
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 109
 :END:
+
+
 ** TODO 110. 1307 Working With Opacity Masks 7:47
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 110
 :END:
+
+
 ** TODO 111. 1308 Project: Creating A Complex Clipping Mask 4:10
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 111
 :END:
+
+
 * TODO Section: 14, Tips, Tricks And Techniques
 ** TODO 112. 1401 Introduction to Tips, Tricks And Techniques 0:54
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 112
 :END:
+
+
 ** TODO 113. 1402 Working With Envelope Distort 9:05
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 113
 :END:
+
+
 ** TODO 114. 1403 Creating An Animation In Illustrator 6:12
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 114
 :END:
+
+
 ** TODO 115. 1404 Generating Customized Brushes 10:57
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 115
 :END:
+
+
 ** TODO 116. 1405 Creative Blending Options 4:20
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 116
 :END:
+
+
 ** TODO 117. 1406 Project: Growing A Gradient Mesh Tomato 9:09
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 117
 :END:
+
+
 ** TODO 118. 1407 Using Auto Generated Corners 2:09
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 118
 :END:
+
+
 * TODO Section: 15, Moving From Raster To Vector
 ** TODO 119. 1501 Introduction To Raster And Vector 1:28
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 119
 :END:
+
+
 ** TODO 120. 1502 Understanding Image Trace 7:48
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 120
 :END:
+
+
 ** TODO 121. 1503 Tracing Line Art 3:13
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 121
 :END:
+
+
 ** TODO 122. 1504 Working Through Image Trace Options 7:30
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 122
 :END:
+
+
 ** TODO 123. 1505 Understanding Live Paint 7:49
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 123
 :END:
+
+
 ** TODO 124. 1506 Colorizing Artwork With Live Paint 4:20
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 124
 :END:
+
+
 ** TODO 125. 1507 Working With Live Paint Gap Detection 4:37
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 125
 :END:
+
+
 * TODO Section: 16, Saving And Printing Based On Intent
 ** TODO 126. 1601 Introduction To Saving And Printing 1:10
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 126
 :END:
+
+
 ** TODO 127. 1602 Saving For The Web And Beyond 10:14
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 127
 :END:
+
+
 ** TODO 128. 1603 Tweaking The Final Product 10:48
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 128
 :END:
+
+
 ** TODO 129. 1604 Saving An Illustrator Document 4:29
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 129
 :END:
+
+
 ** TODO 130. 1605 Outputting Directly To Print 7:57
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 130
 :END:
+
+
 ** TODO 131. 1606 Generating A Document Package 2:40
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 131
 :END:
+
+
 ** TODO 132. 1607 Final Thoughts 2:51
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 132
 :END:
+
+
