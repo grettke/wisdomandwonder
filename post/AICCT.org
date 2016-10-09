@@ -244,12 +244,25 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   mapping one color to another
 - Can add and remove controls from the control panel
 - Master this!
-** TODO 10. 0206 Generating User-Defined Workspaces 5:54
+** DONE 10. 0206 Generating User-Defined Workspaces 5:54
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 10
+:ID:       o2b:04D42E2C-A328-4BD1-BCC2-7C49AA325AD5
+:POST_DATE: [2016-10-09 Sun 15:26]
+:POSTID:   10412
+:BLOG:     wisdomandwonder
 :END:
 
-
+- The workspace is the layout of panels in your application
+- Add, remove, drag off, tab together, stack and dock them in, next to, and on
+  top of each other
+- Save your workspace with a name
+  - Easily restore it
+  - Love it
+- Implement your personal workflow here
+  - Can't wait for setting up a keycap workspace
+- Menubar lists all panels available
+- AI is so easy and nice to use
 * TODO Section: 3, Controlling Adobe Illustrator
 ** TODO 11. 0301 Introduction 1:07
 :PROPERTIES:
