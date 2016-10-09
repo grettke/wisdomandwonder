@@ -263,19 +263,35 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Can't wait for setting up a keycap workspace
 - Menubar lists all panels available
 - AI is so easy and nice to use
-* TODO Section: 3, Controlling Adobe Illustrator
-** TODO 11. 0301 Introduction 1:07
+* IN-PROGRESS Section: 3, Controlling Adobe Illustrator
+** DONE 11. 0301 Introduction 1:07
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 11
+:ID:       o2b:A3119AC5-1212-48CA-8314-3EBF7DFDF2C1
+:POST_DATE: [2016-10-09 Sun 15:29]
+:POSTID:   10413
+:BLOG:     wisdomandwonder
 :END:
 
-
-** TODO 12. 0302 Working Toward Printing 4:42
+- Control reduces implementation speed and increases code
+- Begin with the end in mind
+- Will cover twelve features in the context of control
+- Control is efficiency
+** DONE 12. 0302 Working Toward Printing 4:42
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 12
+:ID:       o2b:A4A96395-0731-48F5-905D-148831F86C20
+:POST_DATE: [2016-10-09 Sun 15:40]
+:POSTID:   10414
+:BLOG:     wisdomandwonder
 :END:
 
-
+- Create documents with their intended destination
+- When your destination is a printing-press if you want graphics printed up to
+  the edge of the final size of the paper you need to consider that printing
+  presses can't press up to the edge so you print to a larger sheet of paper
+  that is cut down to the desired size. The bleed is the addition to the page
+  size that will be cut down from.
 ** TODO 13. 0303 Working Toward The Web 3:07
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 13
