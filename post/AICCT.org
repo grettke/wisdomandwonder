@@ -2,13 +2,15 @@
 #+CATEGORY: Article
 #+TAGS: Adobe, Illustrator, Vector graphics, Udemy, adobe-illustrator-cc-tutorial
 
-* 1. Important - Working Files - Download These First 0:00
-* 2. 0101 Introduction 1:36
-* 3. 0103 How You Will Learn And Working Files 3:53
-* 4. 0104 Top Ten Hits From Andy 7:49
-* 5. 0201 Introduction 1:20
-* 6. 0202 Illustrator Versus Photoshop 5:55
-* 7. 0203 Controlling Illustrator Through Preferences 11:03
+* Section: 1, Getting Started
+** 1. Important - Working Files - Download These First 0:00
+** 2. 0101 Introduction 1:36
+** 3. 0103 How You Will Learn And Working Files 3:53
+** 4. 0104 Top Ten Hits From Andy 7:49
+* Section: 2, The First Step
+** 5. 0201 Introduction 1:20
+** 6. 0202 Illustrator Versus Photoshop 5:55
+** 7. 0203 Controlling Illustrator Through Preferences 11:03
 :PROPERTIES:
 :TITLE:    AICCT: Lecture 7
 :ID:       o2b:BAAC145D-079D-4C62-8044-4834E12C8C31
@@ -59,7 +61,7 @@
   - Custom: 64%
   - Tabs and not-auto collapse are good
 
-* 8. 0204 The Illustrator User Interface 5:28
+** 8. 0204 The Illustrator User Interface 5:28
 :PROPERTIES:
 :TITLE:    AICCT: Lecture 8
 :ID:       o2b:9EF2D4C4-62B1-40D5-9323-9325002AC09E
