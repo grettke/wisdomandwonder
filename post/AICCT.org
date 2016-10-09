@@ -2,6 +2,57 @@
 #+CATEGORY: Article
 #+TAGS: Adobe, Illustrator, Vector graphics, Udemy, adobe-illustrator-cc-tutorial
 
+* 7. 0203 Controlling Illustrator Through Preferences 11:03
+:PROPERTIES:
+:TITLE:    AICCT: Lecture 7
+:ID:       o2b:BAAC145D-079D-4C62-8044-4834E12C8C31
+:POST_DATE: [2016-10-08 Sat 18:49]
+:POSTID:   10410
+:BLOG:     wisdomandwonder
+:END:
+
+- Preferences make the program yours
+  - More efficient
+  - Faster because of hardware
+  - Perfect your workflow
+  - Change per workflow
+- Random valuable settings follow
+- Preferences key: Command-K
+- General
+  - Keyboard increment
+    - Arrow key moves by one increment
+    - Shift-arrow moves by ten increments
+      - Important for symbol placement on keycaps
+    - Set to 0.1mm
+  - Constraint angle sets the axis on which your tools draw
+  - Precise Cursors sets default between gross and fine selection cursor
+    - Hold caps-lock to access tool via hold-and-release
+  - Scale Stroke and Effects controls whether or not effects resized when you
+    resize the object with drag-and-resize
+- Sync Settings
+  - Not on my box
+  - Synchronizes between multiple boxes
+  - Settings
+    - How do we reset all of them?
+      - [[https://helpx.adobe.com/illustrator/using/setting-preferences.html][Via here]]
+      - Delete the Adobe Illustrator Prefs file, it will be regenerated on
+        startup
+    - Can we define different settings profiles?
+      - Seemingly not
+      - Could use Git
+- Units
+  - Configured with: Millimeters
+  - For everything
+  - Identify Objects By: XML ID
+    - Might make it easier to work with Inkscape/XML tools?
+- Plug-Ins & Scratch Disks
+  - Can speed up image manipulation by dividing load between disks
+  - Depends on disk speed
+- User Interface
+  - Brightness themes
+  - Custom: 64%
+  - Tabs and not-auto collapse are good
+
 * 8. 0204 The Illustrator User Interface 5:28
 :PROPERTIES:
 :TITLE:    AICCT: Lecture 8
