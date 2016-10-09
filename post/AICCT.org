@@ -2,8 +2,8 @@
 #+CATEGORY: Article
 #+TAGS: Adobe, Illustrator, Vector graphics, Udemy, adobe-illustrator-cc-tutorial
 
-* Section: 1, Getting Started
-** 1. Important - Working Files - Download These First 0:00
+* DONE Section: 1, Getting Started
+** DONE 1. Important - Working Files - Download These First 0:00
 :PROPERTIES:
 :BLOG:     wisdomandwonder
 :POSTID:   10402
@@ -19,7 +19,7 @@ start here:
 
 Downloaded and verified the integrity of 212.4 MB of supplementary material.
 
-** 2. 0101 Introduction 1:36
+** DONE 2. 0101 Introduction 1:36
 :PROPERTIES:
 :BLOG:     wisdomandwonder
 :POSTID:   10403
@@ -39,7 +39,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Course on *essentials*
   - "Get you running, have fun, and do creative stuff"
 
-** 3. 0103 How You Will Learn And Working Files 3:53
+** DONE 3. 0103 How You Will Learn And Working Files 3:53
 :PROPERTIES:
 :BLOG:     wisdomandwonder
 :POSTID:   10404
@@ -62,7 +62,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Bring your own goals into the training
   - Great reminder!
 
-** 4. 0104 Top Ten Hits From Andy 7:49
+** DONE 4. 0104 Top Ten Hits From Andy 7:49
 :PROPERTIES:
 :BLOG:     wisdomandwonder
 :POSTID:   10405
@@ -107,8 +107,8 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Bucket fill for objects?
 - Look forward to my top-ten
 
-* Section: 2, The First Step
-** 5. 0201 Introduction 1:20
+* DONE Section: 2, The First Step
+** DONE 5. 0201 Introduction 1:20
 :PROPERTIES:
 :BLOG:     wisdomandwonder
 :POSTID:   10406
@@ -124,7 +124,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Goal of configuration is to create an environment where creativity can
   blossom efficiently by learning the program
 
-** 6. 0202 Illustrator Versus Photoshop 5:55
+** DONE 6. 0202 Illustrator Versus Photoshop 5:55
 :PROPERTIES:
 :BLOG:     wisdomandwonder
 :POSTID:   10407
@@ -137,7 +137,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - AP is for raster graphics
 - Raster files are much bigger than vector files
 
-** 7. 0203 Controlling Illustrator Through Preferences 11:03
+** DONE 7. 0203 Controlling Illustrator Through Preferences 11:03
 :PROPERTIES:
 :TITLE:    AICCT: Lecture 7
 :ID:       o2b:BAAC145D-079D-4C62-8044-4834E12C8C31
@@ -188,7 +188,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Custom: 64%
   - Tabs and not-auto collapse are good
 
-** 8. 0204 The Illustrator User Interface 5:28
+** DONE 8. 0204 The Illustrator User Interface 5:28
 :PROPERTIES:
 :TITLE:    AICCT: Lecture 8
 :ID:       o2b:9EF2D4C4-62B1-40D5-9323-9325002AC09E
