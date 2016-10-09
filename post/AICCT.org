@@ -226,9 +226,24 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 ** TODO 9. 0205 The Illustrator Control Panel 3:29
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 9
+:ID:       o2b:26785440-D2B8-41A8-9F9A-7B54DE1BB6C1
+:POST_DATE: [2016-10-09 Sun 15:12]
+:POSTID:   10411
+:BLOG:     wisdomandwonder
 :END:
 
-
+- That bar between the top section and the main area is called the control
+  panel
+  - Andy called it the control panel
+- You can let it float or drag it to the top or bottom
+- Provides context-sensitive information and control on the selected object
+- First part of the area remains the same
+- Second part of the area changes per-tool
+- Anything colored orange pops up a panel right there instead of on the right side
+- When you do a select all you can bulk transform all object fills and strokes
+  mapping one color to another
+- Can add and remove controls from the control panel
+- Master this!
 ** TODO 10. 0206 Generating User-Defined Workspaces 5:54
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 10
