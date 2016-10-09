@@ -41,30 +41,38 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 
 ** 3. 0103 How You Will Learn And Working Files 3:53
 :PROPERTIES:
-:TITLE:    AICCT: Lecture 3
+:BLOG:     wisdomandwonder
+:POSTID:   paste-here
 :POST_DATE: paste-here
+:TITLE:    AICCT: Lecture 3
 :END:
 
 
 ** 4. 0104 Top Ten Hits From Andy 7:49
 :PROPERTIES:
-:TITLE:    AICCT: Lecture 4
+:BLOG:     wisdomandwonder
+:POSTID:   paste-here
 :POST_DATE: paste-here
+:TITLE:    AICCT: Lecture 4
 :END:
 
 
 * Section: 2, The First Step
 ** 5. 0201 Introduction 1:20
 :PROPERTIES:
-:TITLE:    AICCT: Lecture 5
+:BLOG:     wisdomandwonder
+:POSTID:   paste-here
 :POST_DATE: paste-here
+:TITLE:    AICCT: Lecture 5
 :END:
 
 
 ** 6. 0202 Illustrator Versus Photoshop 5:55
 :PROPERTIES:
-:TITLE:    AICCT: Lecture 6
+:BLOG:     wisdomandwonder
+:POSTID:   paste-here
 :POST_DATE: paste-here
+:TITLE:    AICCT: Lecture 6
 :END:
 
 
