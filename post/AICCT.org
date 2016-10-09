@@ -21,10 +21,23 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 
 ** 2. 0101 Introduction 1:36
 :PROPERTIES:
+:BLOG:     wisdomandwonder
+:POSTID:   10403
+:POST_DATE: [2016-10-08 Sat 15:19]
 :TITLE:    AICCT: Lecture 2
-:POST_DATE: paste-here
+:ID:       o2b:313D26F2-DD76-4E2F-A9C6-BA7A2E0290CA
 :END:
 
+- Creative Cloud (CC) is the new release model
+  - No Suite with versions
+- Monthly subscription
+- Benefits
+  - Costs less
+  - More frequent releases
+- This course
+  - Only Adobe Illustrator (AI)
+  - Course on *essentials*
+  - "Get you running, have fun, and do creative stuff"
 
 ** 3. 0103 How You Will Learn And Working Files 3:53
 :PROPERTIES:
