@@ -347,6 +347,10 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 ** REVIEW 16. 0306 Object Control With Grids And Guides 10:59
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 16
+:ID:       o2b:46DEB092-C47C-4B6A-AA57-1733FDF27F2C
+:POST_DATE: [2016-10-11 Tue 20:58]
+:POSTID:   10418
+:BLOG:     wisdomandwonder
 :END:
 
 - Option-Drag an object to create a copy
@@ -361,6 +365,19 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Shift-Options changes orientation of guide
   - Are guides for lining up symbols per keycap?
   - Can put them all in one layer
+  - Can turn objects into guides
+  - Strategy: Easily split objects using a guide
+    - Drag down a guide
+    - Position it
+    - Turn the guide into a line via =Release Guide=
+    - Keep the object selected
+    - Object \rarr Path \rarr Divide Objects Below
+    - Creates two new objects
+    - Easily cut via any guide anywhere
+  - Guides are more than aligning
+    - Cutting
+    - Maneuvering
+    - Angling
 - Right click just about anything to find out what you can do with it
   - Sometimes stuff in lecture isn't there in current AI
 ** TODO 17. 0307 Controlling What You See 4:48
