@@ -344,12 +344,25 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Box color is configurable
   - Art-boards are introduced in context of the panel
 - Getting where you want to go quickly and automatically is a big deal
-** TODO 16. 0306 Object Control With Grids And Guides 10:59
+** REVIEW 16. 0306 Object Control With Grids And Guides 10:59
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 16
 :END:
 
-
+- Option-Drag an object to create a copy
+- Grid
+  - Configure line separation in pixels
+  - Can snap to them
+- Guides
+  - Use Rulers
+  - Command R
+  - Click-and-Drag from a ruler pulls out a guide
+  - They are objects that you can delete
+  - Shift-Options changes orientation of guide
+  - Are guides for lining up symbols per keycap?
+  - Can put them all in one layer
+- Right click just about anything to find out what you can do with it
+  - Sometimes stuff in lecture isn't there in current AI
 ** TODO 17. 0307 Controlling What You See 4:48
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 17
