@@ -304,12 +304,23 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - When you =Align New Object to Pixel Grid= all objects align to an invisible
   grid that helps prevent visual pixelation of an image on a monitor
 - Command-R shows the rulers in your workspace
-** TODO 14. 0304 Controlling Multiple Documents 2:49
+** DONE 14. 0304 Controlling Multiple Documents 2:49
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 14
+:ID:       o2b:AB24D52B-FC3D-4737-93D6-9AE76305ECE7
+:POST_DATE: [2016-10-11 Tue 19:51]
+:POSTID:   10416
+:BLOG:     wisdomandwonder
 :END:
 
-
+- Files are opened in tabs that display information on
+  - Name
+  - View
+  - Color-space
+  - Mode
+- Hover over a tap and a tool-tip will show you all information if the tab is
+  squashed
+- Arrange documents button in top position lets you display multiple documents
 ** TODO 15. 0305 Using View And Navigation Features 7:46
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 15
