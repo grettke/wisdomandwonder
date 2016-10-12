@@ -137,7 +137,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - AP is for raster graphics
 - Raster files are much bigger than vector files
 
-** DONE 7. 0203 Controlling Illustrator Through Preferences 11:03
+** REVIEW 7. 0203 Controlling Illustrator Through Preferences 11:03
 :PROPERTIES:
 :TITLE:    AICCT: Lecture 7
 :ID:       o2b:BAAC145D-079D-4C62-8044-4834E12C8C31
@@ -188,7 +188,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Custom: 64%
   - Tabs and not-auto collapse are good
 
-** DONE 8. 0204 The Illustrator User Interface 5:28
+** REVIEW 8. 0204 The Illustrator User Interface 5:28
 :PROPERTIES:
 :TITLE:    AICCT: Lecture 8
 :ID:       o2b:9EF2D4C4-62B1-40D5-9323-9325002AC09E
@@ -223,7 +223,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Select them
   - Shows type tool
   - Customizable by clicking on arrow in the bar for each section
-** DONE 9. 0205 The Illustrator Control Panel 3:29
+** REVIEW 9. 0205 The Illustrator Control Panel 3:29
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 9
 :ID:       o2b:26785440-D2B8-41A8-9F9A-7B54DE1BB6C1
@@ -244,7 +244,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   mapping one color to another
 - Can add and remove controls from the control panel
 - Master this!
-** DONE 10. 0206 Generating User-Defined Workspaces 5:54
+** REVIEW 10. 0206 Generating User-Defined Workspaces 5:54
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 10
 :ID:       o2b:04D42E2C-A328-4BD1-BCC2-7C49AA325AD5
@@ -263,8 +263,8 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Can't wait for setting up a keycap workspace
 - Menubar lists all panels available
 - AI is so easy and nice to use
-* IN-PROGRESS Section: 3, Controlling Adobe Illustrator
-** DONE 11. 0301 Introduction 1:07
+* REVIEW Section: 3, Controlling Adobe Illustrator
+** REVIEW 11. 0301 Introduction 1:07
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 11
 :ID:       o2b:A3119AC5-1212-48CA-8314-3EBF7DFDF2C1
@@ -277,7 +277,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Begin with the end in mind
 - Will cover twelve features in the context of control
 - Control is efficiency
-** DONE 12. 0302 Working Toward Printing 4:42
+** REVIEW 12. 0302 Working Toward Printing 4:42
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 12
 :ID:       o2b:A4A96395-0731-48F5-905D-148831F86C20
@@ -292,7 +292,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   presses can't press up to the edge so you print to a larger sheet of paper
   that is cut down to the desired size. The bleed is the addition to the page
   size that will be cut down from.
-** DONE 13. 0303 Working Toward The Web 3:07
+** REVIEW 13. 0303 Working Toward The Web 3:07
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 13
 :ID:       o2b:DB5789AB-79CD-40F3-9637-C8474392A390
@@ -304,7 +304,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - When you =Align New Object to Pixel Grid= all objects align to an invisible
   grid that helps prevent visual pixelation of an image on a monitor
 - Command-R shows the rulers in your workspace
-** DONE 14. 0304 Controlling Multiple Documents 2:49
+** REVIEW 14. 0304 Controlling Multiple Documents 2:49
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 14
 :ID:       o2b:AB24D52B-FC3D-4737-93D6-9AE76305ECE7
@@ -321,7 +321,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Hover over a tap and a tool-tip will show you all information if the tab is
   squashed
 - Arrange documents button in top position lets you display multiple documents
-** DONE 15. 0305 Using View And Navigation Features 7:46
+** REVIEW 15. 0305 Using View And Navigation Features 7:46
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 15
 :ID:       o2b:84CC0715-A205-4CF9-89A4-D17D1013159A
