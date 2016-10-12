@@ -321,12 +321,29 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Hover over a tap and a tool-tip will show you all information if the tab is
   squashed
 - Arrange documents button in top position lets you display multiple documents
-** TODO 15. 0305 Using View And Navigation Features 7:46
+** DONE 15. 0305 Using View And Navigation Features 7:46
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 15
+:ID:       o2b:84CC0715-A205-4CF9-89A4-D17D1013159A
+:POST_DATE: [2016-10-11 Tue 20:05]
+:POSTID:   10417
+:BLOG:     wisdomandwonder
 :END:
 
-
+- Had been watching every video twice just be sure. Switched to once otherwise
+  this will take forever
+- Mastering AI is about making navigation muscle memory
+- Access tools via their single-key shortcuts
+- Option modifies the tool actions in an expected way
+- Double-clicking using the cursor will reset to the default =state= of the
+  document
+- Additionally learn the shortcuts for menu-bar items
+  - Zoom in and out Control plus and minus
+- Navigator panel rocks!
+  - Helpful for navigating a keyboard template!
+  - Box color is configurable
+  - Art-boards are introduced in context of the panel
+- Getting where you want to go quickly and automatically is a big deal
 ** TODO 16. 0306 Object Control With Grids And Guides 10:59
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 16
