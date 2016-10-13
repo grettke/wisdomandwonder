@@ -7,9 +7,8 @@
 :PROPERTIES:
 :BLOG:     wisdomandwonder
 :POSTID:   10402
-:TITLE:    Adobe Illustrator CC Tutorial (AICCT): Section: 1, Getting Started: Chapter 1. Important - Working Files - Download These First 0:00
 :POST_DATE: [2016-10-08 Sat 15:01]
-:ID:       o2b:6893C015-954B-4FDD-BBE8-EE5EDDCBAA90
+:ID:       o2b:2246995F-3BFF-48E7-933D-552928F93211
 :END:
 
 Personal notes from [[https://www.udemy.com/adobe-illustrator-cc-tutorial/learn/v4/overview][Adobe Illustrator CC Tutorial - Training Taught By Experts]]
