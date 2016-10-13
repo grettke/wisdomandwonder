@@ -104,12 +104,12 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Look forward to my top-ten
 
 * REVIEW Section: 2, The First Step
-** DONE 5. 0201 Introduction 1:20
+** DONE Chapter 5. 0201 Introduction 1:20
 :PROPERTIES:
 :BLOG:     wisdomandwonder
 :POSTID:   10406
 :POST_DATE: [2016-10-08 Sat 18:18]
-:ID:       o2b:7510A3A5-6B4E-4319-AFCC-92562CA4A077
+:ID:       o2b:1D292566-D241-4BBD-A150-21DF750304A2
 :END:
 
 - Vector graphics are resolution independent
