@@ -464,12 +464,26 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Show and hide layers and groups
   - Even though you have everything in one layer, you can still do what you
     want in your workflow
-** TODO 21. 0311 Generating Multiple Illustrator Art-boards 5:31
+** REVIEW 21. 0311 Generating Multiple Illustrator Art-boards 5:31
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 21
+:ID:       o2b:DFBE44D8-9CD1-4C7B-866F-CBAFB2F9F88B
+:POST_DATE: [2016-10-12 Wed 22:03]
+:POSTID:   10424
+:BLOG:     wisdomandwonder
 :END:
 
-
+- Author is an illustrator by trade
+  - Did everything by hand before AI
+  - Now does it all in AI
+- For Techne or Tekne or Texni
+  - Use for Keycap layout
+  - Use for shield lettering
+  - Use for keyboard printing
+  - Use for website
+  - Use for business cards
+  - Use for logo
+- Artboards are artboards, not pages, InDesign is for that
 ** TODO 22. 0312 Resizing An Art-Board From Center 3:56
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 22
