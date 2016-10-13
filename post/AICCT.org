@@ -519,11 +519,16 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - When you hold shift to work with a guide it always snaps to the whole location
 - Command-rag from origin brings two guides
 - Guides are indispensable
-** TODO 24. 0314 Generating A Customized Tool Panel 4:12
+** REVIEW 24. 0314 Generating A Customized Tool Panel 4:12
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 24
+:ID:       o2b:3DB67179-2854-43DD-B729-1FF640232449
+:POST_DATE: [2016-10-13 Thu 00:33]
+:POSTID:   10427
+:BLOG:     wisdomandwonder
 :END:
-
+- "Liquid Creativity"
+- Easily create your own custom panel
 * TODO Section: 4, Selecting And Manipulating Illustrator Objects
 ** TODO 25. 0401 Introduction To Selection 0:57
 :PROPERTIES:
