@@ -64,8 +64,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :BLOG:     wisdomandwonder
 :POSTID:   10405
 :POST_DATE: [2016-10-08 Sat 15:32]
-:TITLE:    AICCT: Lecture 4
-:ID:       o2b:DAE3303D-7332-40E1-B11E-92F2548ECD89
+:ID:       o2b:81A05464-8817-456B-BA01-84EBB2EB5457
 :END:
 
 - Presenter's name is Andy
@@ -110,8 +109,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :BLOG:     wisdomandwonder
 :POSTID:   10406
 :POST_DATE: [2016-10-08 Sat 18:18]
-:TITLE:    AICCT: Lecture 5
-:ID:       o2b:3281ECDA-9A57-4F0B-B568-85FF33057159
+:ID:       o2b:7510A3A5-6B4E-4319-AFCC-92562CA4A077
 :END:
 
 - Vector graphics are resolution independent
