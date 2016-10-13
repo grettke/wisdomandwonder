@@ -59,12 +59,12 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Bring your own goals into the training
   - Great reminder!
 
-** DONE 4. 0104 Top Ten Hits From Andy 7:49
+** DONE Chapter 4. 0104 Top Ten Hits From Andy 7:49
 :PROPERTIES:
 :BLOG:     wisdomandwonder
 :POSTID:   10405
 :POST_DATE: [2016-10-08 Sat 15:32]
-:ID:       o2b:81A05464-8817-456B-BA01-84EBB2EB5457
+:ID:       o2b:6A54193B-1A95-4FF1-B71F-542C7DCBFE83
 :END:
 
 - Presenter's name is Andy
