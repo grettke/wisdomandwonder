@@ -263,7 +263,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Can't wait for setting up a keycap workspace
 - Menubar lists all panels available
 - AI is so easy and nice to use
-* REVIEW Section: 3, Controlling Adobe Illustrator
+* IN-PROGRESS Section: 3, Controlling Adobe Illustrator
 ** REVIEW 11. 0301 Introduction 1:07
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 11
@@ -501,12 +501,24 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Manually selecting center vertical and horizontal
   - Shift-Option and resize on the corner of the artboard keeps the object centered
   - This will take some examples
-** TODO 23. 0313 New Tricks With Guides 3:42
+** REVIEW 23. 0313 New Tricks With Guides 3:42
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 23
+:ID:       o2b:BB707568-C2A1-4E16-88F3-40338D5052BF
+:POST_DATE: [2016-10-13 Thu 00:25]
+:POSTID:   10426
+:BLOG:     wisdomandwonder
 :END:
 
-
+- When you set the origin point you are setting that position on the ruler to
+  0,0
+- When you snap the origin to an object you can use the ruler to position a
+  guide exactly =N= units away from that object
+  - Double click the genesis point to reset it to the default position
+  - You are left with a guide so you know where to place the new object
+- When you hold shift to work with a guide it always snaps to the whole location
+- Command-rag from origin brings two guides
+- Guides are indispensable
 ** TODO 24. 0314 Generating A Customized Tool Panel 4:12
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 24
