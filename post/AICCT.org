@@ -183,7 +183,6 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 
 ** REVIEW Chapter 8. 0204 The Illustrator User Interface 5:28
 :PROPERTIES:
-:TITLE:    AICCT: Lecture 8
 :ID:       o2b:9EF2D4C4-62B1-40D5-9323-9325002AC09E
 :POST_DATE: [2016-10-08 Sat 20:08]
 :POSTID:   10408
@@ -218,7 +217,6 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Customizable by clicking on arrow in the bar for each section
 ** REVIEW Chapter 9. 0205 The Illustrator Control Panel 3:29
 :PROPERTIES:
-:TITLE:     AICCT: Lecture 9
 :ID:       o2b:26785440-D2B8-41A8-9F9A-7B54DE1BB6C1
 :POST_DATE: [2016-10-09 Sun 15:12]
 :POSTID:   10411
@@ -239,7 +237,6 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Master this!
 ** REVIEW Chapter 10. 0206 Generating User-Defined Workspaces 5:54
 :PROPERTIES:
-:TITLE:     AICCT: Lecture 10
 :ID:       o2b:04D42E2C-A328-4BD1-BCC2-7C49AA325AD5
 :POST_DATE: [2016-10-09 Sun 15:26]
 :POSTID:   10412
@@ -259,7 +256,6 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 * REVIEW Section: 3, Controlling Adobe Illustrator
 ** REVIEW Chapter 11. 0301 Introduction 1:07
 :PROPERTIES:
-:TITLE:     AICCT: Lecture 11
 :ID:       o2b:A3119AC5-1212-48CA-8314-3EBF7DFDF2C1
 :POST_DATE: [2016-10-09 Sun 15:29]
 :POSTID:   10413
@@ -272,7 +268,6 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Control is efficiency
 ** REVIEW Chapter 12. 0302 Working Toward Printing 4:42
 :PROPERTIES:
-:TITLE:     AICCT: Lecture 12
 :ID:       o2b:A4A96395-0731-48F5-905D-148831F86C20
 :POST_DATE: [2016-10-09 Sun 15:40]
 :POSTID:   10414
@@ -287,7 +282,6 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   size that will be cut down from.
 ** REVIEW Chapter 13. 0303 Working Toward The Web 3:07
 :PROPERTIES:
-:TITLE:     AICCT: Lecture 13
 :ID:       o2b:DB5789AB-79CD-40F3-9637-C8474392A390
 :POST_DATE: [2016-10-09 Sun 15:47]
 :POSTID:   10415
@@ -299,7 +293,6 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Command-R shows the rulers in your workspace
 ** REVIEW Chapter 14. 0304 Controlling Multiple Documents 2:49
 :PROPERTIES:
-:TITLE:     AICCT: Lecture 14
 :ID:       o2b:AB24D52B-FC3D-4737-93D6-9AE76305ECE7
 :POST_DATE: [2016-10-11 Tue 19:51]
 :POSTID:   10416
@@ -316,7 +309,6 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Arrange documents button in top position lets you display multiple documents
 ** REVIEW Chapter 15. 0305 Using View And Navigation Features 7:46
 :PROPERTIES:
-:TITLE:     AICCT: Lecture 15
 :ID:       o2b:84CC0715-A205-4CF9-89A4-D17D1013159A
 :POST_DATE: [2016-10-11 Tue 20:05]
 :POSTID:   10417
@@ -339,7 +331,6 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Getting where you want to go quickly and automatically is a big deal
 ** REVIEW Chapter 16. 0306 Object Control With Grids And Guides 10:59
 :PROPERTIES:
-:TITLE:     AICCT: Lecture 16
 :ID:       o2b:46DEB092-C47C-4B6A-AA57-1733FDF27F2C
 :POST_DATE: [2016-10-11 Tue 20:58]
 :POSTID:   10418
@@ -375,7 +366,6 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Sometimes stuff in lecture isn't there in current AI
 ** REVIEW Chapter 17. 0307 Controlling What You See 4:48
 :PROPERTIES:
-:TITLE:     AICCT: Lecture 17
 :ID:       o2b:28902F11-A735-4879-A18D-5717AF54147E
 :POST_DATE: [2016-10-12 Wed 21:32]
 :POSTID:   10420
@@ -398,7 +388,6 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Fun to swatch Color panel change as you switch between Proofs
 ** REVIEW Chapter 18. 0308 Defining Default Measuring Systems 4:09
 :PROPERTIES:
-:TITLE:     AICCT: Lecture 18
 :ID:       o2b:4D68B55B-943A-4774-B033-C65C91BADAEF
 :POST_DATE: [2016-10-12 Wed 21:39]
 :POSTID:   10421
@@ -414,7 +403,6 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Unsure how to relate/use the object location to this point
 ** REVIEW Chapter 19. 0309 Creating Multiple Views 3:34
 :PROPERTIES:
-:TITLE:     AICCT: Lecture 19
 :ID:       o2b:78F7C64D-A17C-47A1-B9F4-AB13556D4FD1
 :POST_DATE: [2016-10-12 Wed 21:47]
 :POSTID:   10422
@@ -431,7 +419,6 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Panel for them? Hassle to go up to the menubar
 ** REVIEW Chapter 20. 0310 Hiding And Locking Illustrator Objects 3:12
 :PROPERTIES:
-:TITLE:     AICCT: Lecture 20
 :ID:       o2b:3FC871B5-0187-4ACF-852B-E6D0993DFD78
 :POST_DATE: [2016-10-12 Wed 21:54]
 :POSTID:   10423
@@ -459,7 +446,6 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
     want in your workflow
 ** REVIEW Chapter 21. 0311 Generating Multiple Illustrator Art-boards 5:31
 :PROPERTIES:
-:TITLE:     AICCT: Lecture 21
 :ID:       o2b:DFBE44D8-9CD1-4C7B-866F-CBAFB2F9F88B
 :POST_DATE: [2016-10-12 Wed 22:03]
 :POSTID:   10424
@@ -479,7 +465,6 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Artboards are artboards, not pages, InDesign is for that
 ** REVIEW Chapter 22. 0312 Resizing An Art-Board From Center 3:56
 :PROPERTIES:
-:TITLE:     AICCT: Lecture 22
 :ID:       o2b:21F1425A-54B1-430E-9326-8066F4905810
 :POST_DATE: [2016-10-13 Thu 00:16]
 :POSTID:   10425
@@ -496,7 +481,6 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - This will take some examples
 ** REVIEW Chapter 23. 0313 New Tricks With Guides 3:42
 :PROPERTIES:
-:TITLE:     AICCT: Lecture 23
 :ID:       o2b:BB707568-C2A1-4E16-88F3-40338D5052BF
 :POST_DATE: [2016-10-13 Thu 00:25]
 :POSTID:   10426
@@ -514,7 +498,6 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Guides are indispensable
 ** REVIEW Chapter 24. 0314 Generating A Customized Tool Panel 4:12
 :PROPERTIES:
-:TITLE:     AICCT: Lecture 24
 :ID:       o2b:3DB67179-2854-43DD-B729-1FF640232449
 :POST_DATE: [2016-10-13 Thu 00:33]
 :POSTID:   10427
