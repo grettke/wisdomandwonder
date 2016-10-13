@@ -1,0 +1,38 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10419
+#+DATE: [2016-10-12 Wed 20:25]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Emacs: The Infinite Program or The Ultimate Interview
+
+An Emacs' configuration is an Emacs Lisp (Elisp) program. Whether you write it
+by hand or using the [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Easy-Customization.html][Easy Customization GUI]] it is still a program. Some of us
+write it once and never touch it for years. I've [[https://github.com/grettke/home][done that]] and it works well.
+Some of us make changes daily, even hourly. I've [[https://github.com/grettke/help][done that]] too and it works
+well. When non Emacsers hear stories about this never ending program they
+shudder in horror and I don't blame them. Configuring a text editor for
+multiple years does sound horrible! What is really happening here though, are
+all Emacsers sadists?
+
+No, not really. Instead they are creators, makers, writers, and weavers of
+that which can be easily represented as plain text. They are programmers, too.
+Of course, that is the easy one! Unfortunately, that is the one that instantly
+kills any conversation (in some contexts). What people miss out on though is
+that its not just programmers who use Emacs. So do [[http://lilypond.org/][composers]]. So do [[https://www.latex-project.org/][publishers]].
+So do [[https://www.emacswiki.org/emacs/AnsysMode][finite element analysts]]. So do [[http://emacsrocks.com/e15.html][pen testers]]. So do [[http://emacsrocks.com/e15.html][screenwriters]]. So do
+[[https://github.com/veripool/verilog-mode][hardware designers]]. Every Emacs configuration is an opportunity to learn
+something about something totally new to you! What comes to mind here is where
+Emacs configurations might play a role in interviews.
+
+One of the stories going around is that during job interviews you should be
+able to cite an open source project so your interviewers can review it. Great
+idea. Does it ever really happen? (I'm looking for your feedback here). My
+Emacs' configuration is a labor of love. It contains perfection, neglect, and
+horror. It is all a trade-off. Every single line means something to me and I'd
+love to share with anyone interested why I did what I did there. It is fun to
+share because you always learn something new. Every single time you learn
+something new when you mutually share.
+
+This is my story why Emacs's is an infinite program that would reveal more
+during a job interview than any personality profiling test out there.
