@@ -23,8 +23,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :BLOG:     wisdomandwonder
 :POSTID:   10403
 :POST_DATE: [2016-10-08 Sat 15:19]
-:TITLE:    AICCT: Lecture 2
-:ID:       o2b:313D26F2-DD76-4E2F-A9C6-BA7A2E0290CA
+:ID:       o2b:1ED3706A-74FB-4657-85C3-8AE33F9A56F4
 :END:
 
 - Creative Cloud (CC) is the new release model
