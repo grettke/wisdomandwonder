@@ -3,12 +3,12 @@
 #+TAGS: Adobe, Illustrator, Vector graphics, Udemy, adobe-illustrator-cc-tutorial
 
 * DONE Section: 1, Getting Started
-** DONE 1. Important - Working Files - Download These First 0:00
+** DONE Chapter 1. Important - Working Files - Download These First 0:00
 :PROPERTIES:
 :BLOG:     wisdomandwonder
 :POSTID:   10402
 :POST_DATE: [2016-10-08 Sat 15:01]
-:ID:       o2b:2246995F-3BFF-48E7-933D-552928F93211
+:ID:       o2b:AA1771D7-C04E-4D9D-9CF7-B3D0726E32DF
 :END:
 
 Personal notes from [[https://www.udemy.com/adobe-illustrator-cc-tutorial/learn/v4/overview][Adobe Illustrator CC Tutorial - Training Taught By Experts]]
