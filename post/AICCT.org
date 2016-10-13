@@ -263,7 +263,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Can't wait for setting up a keycap workspace
 - Menubar lists all panels available
 - AI is so easy and nice to use
-* IN-PROGRESS Section: 3, Controlling Adobe Illustrator
+* REVIEW Section: 3, Controlling Adobe Illustrator
 ** REVIEW 11. 0301 Introduction 1:07
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 11
