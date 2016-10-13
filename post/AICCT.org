@@ -529,7 +529,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :END:
 - "Liquid Creativity"
 - Easily create your own custom panel
-* TODO Section: 4, Selecting And Manipulating Illustrator Objects
+* IN-PROGRESS Section: 4, Selecting And Manipulating Illustrator Objects
 ** TODO 25. 0401 Introduction To Selection 0:57
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 25
