@@ -217,10 +217,10 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Customizable by clicking on arrow in the bar for each section
 ** REVIEW Chapter 9. 0205 The Illustrator Control Panel 3:29
 :PROPERTIES:
-:ID:       o2b:26785440-D2B8-41A8-9F9A-7B54DE1BB6C1
 :POST_DATE: [2016-10-09 Sun 15:12]
 :POSTID:   10411
 :BLOG:     wisdomandwonder
+:ID:       o2b:A44981C2-8E4A-4918-A32D-07814C661D9B
 :END:
 
 - That bar between the top section and the main area is called the control
@@ -505,7 +505,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :END:
 - "Liquid Creativity"
 - Easily create your own custom panel
-* IN-PROGRESS Section: 4, Selecting And Manipulating Illustrator Objects
+* TODO Section: 4, Selecting And Manipulating Illustrator Objects
 ** TODO Chapter 25. 0401 Introduction To Selection 0:57
 :PROPERTIES:
 :END:
