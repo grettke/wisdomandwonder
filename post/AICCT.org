@@ -380,12 +380,28 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
     - Angling
 - Right click just about anything to find out what you can do with it
   - Sometimes stuff in lecture isn't there in current AI
-** TODO 17. 0307 Controlling What You See 4:48
+** REVIEW 17. 0307 Controlling What You See 4:48
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 17
+:ID:       o2b:28902F11-A735-4879-A18D-5717AF54147E
+:POST_DATE: [2016-10-12 Wed 21:32]
+:POSTID:   10420
+:BLOG:     wisdomandwonder
 :END:
 
-
+- AI's default setup is for print, not web or digital
+  - Print is CMYK
+  - Most other things are RGB
+- WYSIWIG, is not. There are too many variables.
+- View outlines rocks
+  - See the paths
+  - Not the fill
+- Pixel Preview shows what an object will look like rasterized
+  - So cool!
+  - For online icons and application icons
+- Over Print Preview shows how the object will look on a printing press
+- Proof Setup is fun to play with to see how each works
+- Begin with the end in mind and choose a proof view for the destination
 ** TODO 18. 0308 Defining Default Measuring Systems 4:09
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 18
