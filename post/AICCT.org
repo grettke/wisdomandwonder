@@ -119,13 +119,12 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Goal of configuration is to create an environment where creativity can
   blossom efficiently by learning the program
 
-** DONE 6. 0202 Illustrator Versus Photoshop 5:55
+** DONE Chapter 6. 0202 Illustrator Versus Photoshop 5:55
 :PROPERTIES:
 :BLOG:     wisdomandwonder
 :POSTID:   10407
 :POST_DATE: [2016-10-08 Sat 18:47]
-:TITLE:    AICCT: Lecture 6
-:ID:       o2b:19DBD60B-610D-41E2-974A-9809807234B0
+:ID:       o2b:8BAC505C-55FD-471D-B75B-902C9B2C216E
 :END:
 
 - AI is for vector graphics
