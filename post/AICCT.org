@@ -427,7 +427,6 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :TITLE:     AICCT: Lecture 24
 :END:
 
-
 * TODO Section: 4, Selecting And Manipulating Illustrator Objects
 ** TODO 25. 0401 Introduction To Selection 0:57
 :PROPERTIES:
@@ -494,7 +493,6 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :TITLE:     AICCT: Lecture 35
 :END:
 
-
 * TODO Section: 5, Adobe Illustrator And Color Management
 ** TODO 36. 0501 Introduction To Color Management 1:08
 :PROPERTIES:
@@ -555,7 +553,6 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :TITLE:     AICCT: Lecture 45
 :END:
 
-
 * TODO Section: 6, Working With Shapes, Fills, And Strokes
 ** TODO 46. 0601 Introduction To Shapes, Fills, And Strokes 0:55
 :PROPERTIES:
@@ -610,7 +607,6 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :TITLE:     AICCT: Lecture 54
 :END:
 
-
 * TODO Section: 7, Working With Anchors And Paths
 ** TODO 55. 0701 Introduction To Anchors And Paths 0:52
 :PROPERTIES:
@@ -646,7 +642,6 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 60
 :END:
-
 
 * TODO Section: 8, Creating And Managing Vector Shapes
 ** TODO 61. 0801 Introduction To Vector Shapes 0:54
@@ -708,7 +703,6 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :TITLE:     AICCT: Lecture 70
 :END:
 
-
 * TODO Section: 9, The Illustrator Pen Tool
 ** TODO 71. 0901 Introduction To The Pen Tool 1:43
 :PROPERTIES:
@@ -756,7 +750,6 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 78
 :END:
-
 
 * TODO Section: 10, Adobe Illustrator And Type
 ** TODO 79. 1001 Introduction to Type 1:09
@@ -824,7 +817,6 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :TITLE:     AICCT: Lecture 89
 :END:
 
-
 * TODO Section: 11, Effects And The Appearance Panel
 ** TODO 90. 1101 Introduction To Effects And The Appearance Panel 1:01
 :PROPERTIES:
@@ -867,7 +859,6 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :TITLE:     AICCT: Lecture 96
 :END:
 
-
 * TODO Section: 12, Layers 101
 ** TODO 97. 1201 Introduction To Layers 0:51
 :PROPERTIES:
@@ -909,7 +900,6 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 103
 :END:
-
 
 * TODO Section: 13, Working With Images And Masks
 ** TODO 104. 1301 Introduction To Images And Masks 0:59
@@ -959,7 +949,6 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :TITLE:     AICCT: Lecture 111
 :END:
 
-
 * TODO Section: 14, Tips, Tricks And Techniques
 ** TODO 112. 1401 Introduction to Tips, Tricks And Techniques 0:54
 :PROPERTIES:
@@ -1002,7 +991,6 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :TITLE:     AICCT: Lecture 118
 :END:
 
-
 * TODO Section: 15, Moving From Raster To Vector
 ** TODO 119. 1501 Introduction To Raster And Vector 1:28
 :PROPERTIES:
@@ -1044,7 +1032,6 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 125
 :END:
-
 
 * TODO Section: 16, Saving And Printing Based On Intent
 ** TODO 126. 1601 Introduction To Saving And Printing 1:10
