@@ -103,7 +103,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Bucket fill for objects?
 - Look forward to my top-ten
 
-* REVIEW Section: 2, The First Step
+* DONE Section: 2, The First Step
 ** DONE Chapter 5. Introduction 1:20
 :PROPERTIES:
 :BLOG:     wisdomandwonder
@@ -131,7 +131,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - AP is for raster graphics
 - Raster files are much bigger than vector files
 
-** REVIEW Chapter 7. Controlling Illustrator Through Preferences 11:03
+** DONE Chapter 7. Controlling Illustrator Through Preferences 11:03
 :PROPERTIES:
 :POST_DATE: [2016-10-08 Sat 18:49]
 :POSTID:   10410
@@ -181,7 +181,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Custom: 64%
   - Tabs and not-auto collapse are good
 
-** REVIEW Chapter 8. The Illustrator User Interface 5:28
+** DONE Chapter 8. The Illustrator User Interface 5:28
 :PROPERTIES:
 :ID:       o2b:9EF2D4C4-62B1-40D5-9323-9325002AC09E
 :POST_DATE: [2016-10-08 Sat 20:08]
@@ -215,7 +215,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Select them
   - Shows type tool
   - Customizable by clicking on arrow in the bar for each section
-** REVIEW Chapter 9. The Illustrator Control Panel 3:29
+** DONE Chapter 9. The Illustrator Control Panel 3:29
 :PROPERTIES:
 :POST_DATE: [2016-10-09 Sun 15:12]
 :POSTID:   10411
@@ -235,7 +235,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   mapping one color to another
 - Can add and remove controls from the control panel
 - Master this!
-** REVIEW Chapter 10. Generating User-Defined Workspaces 5:54
+** DONE Chapter 10. Generating User-Defined Workspaces 5:54
 :PROPERTIES:
 :ID:       o2b:04D42E2C-A328-4BD1-BCC2-7C49AA325AD5
 :POST_DATE: [2016-10-09 Sun 15:26]
@@ -253,8 +253,8 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Can't wait for setting up a keycap workspace
 - Menubar lists all panels available
 - AI is so easy and nice to use
-* REVIEW Section: 3, Controlling Adobe Illustrator
-** REVIEW Chapter 11. Introduction 1:07
+* DONE Section: 3, Controlling Adobe Illustrator
+** DONE Chapter 11. Introduction 1:07
 :PROPERTIES:
 :ID:       o2b:A3119AC5-1212-48CA-8314-3EBF7DFDF2C1
 :POST_DATE: [2016-10-09 Sun 15:29]
@@ -266,7 +266,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Begin with the end in mind
 - Will cover twelve features in the context of control
 - Control is efficiency
-** REVIEW Chapter 12. Working Toward Printing 4:42
+** DONE Chapter 12. Working Toward Printing 4:42
 :PROPERTIES:
 :ID:       o2b:A4A96395-0731-48F5-905D-148831F86C20
 :POST_DATE: [2016-10-09 Sun 15:40]
@@ -280,7 +280,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   presses can't press up to the edge so you print to a larger sheet of paper
   that is cut down to the desired size. The bleed is the addition to the page
   size that will be cut down from.
-** REVIEW Chapter 13. Working Toward The Web 3:07
+** DONE Chapter 13. Working Toward The Web 3:07
 :PROPERTIES:
 :ID:       o2b:DB5789AB-79CD-40F3-9637-C8474392A390
 :POST_DATE: [2016-10-09 Sun 15:47]
@@ -291,7 +291,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - When you =Align New Object to Pixel Grid= all objects align to an invisible
   grid that helps prevent visual pixelation of an image on a monitor
 - Command-R shows the rulers in your workspace
-** REVIEW Chapter 14. Controlling Multiple Documents 2:49
+** DONE Chapter 14. Controlling Multiple Documents 2:49
 :PROPERTIES:
 :ID:       o2b:AB24D52B-FC3D-4737-93D6-9AE76305ECE7
 :POST_DATE: [2016-10-11 Tue 19:51]
@@ -307,7 +307,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Hover over a tap and a tool-tip will show you all information if the tab is
   squashed
 - Arrange documents button in top position lets you display multiple documents
-** REVIEW Chapter 15. Using View And Navigation Features 7:46
+** DONE Chapter 15. Using View And Navigation Features 7:46
 :PROPERTIES:
 :ID:       o2b:84CC0715-A205-4CF9-89A4-D17D1013159A
 :POST_DATE: [2016-10-11 Tue 20:05]
@@ -329,7 +329,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Box color is configurable
   - Art-boards are introduced in context of the panel
 - Getting where you want to go quickly and automatically is a big deal
-** REVIEW Chapter 16. Object Control With Grids And Guides 10:59
+** DONE Chapter 16. Object Control With Grids And Guides 10:59
 :PROPERTIES:
 :ID:       o2b:46DEB092-C47C-4B6A-AA57-1733FDF27F2C
 :POST_DATE: [2016-10-11 Tue 20:58]
@@ -364,7 +364,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
     - Angling
 - Right click just about anything to find out what you can do with it
   - Sometimes stuff in lecture isn't there in current AI
-** REVIEW Chapter 17. Controlling What You See 4:48
+** DONE Chapter 17. Controlling What You See 4:48
 :PROPERTIES:
 :ID:       o2b:28902F11-A735-4879-A18D-5717AF54147E
 :POST_DATE: [2016-10-12 Wed 21:32]
@@ -386,7 +386,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Proof Setup is fun to play with to see how each works
 - Begin with the end in mind and choose a proof view for the destination
 - Fun to swatch Color panel change as you switch between Proofs
-** REVIEW Chapter 18. Defining Default Measuring Systems 4:09
+** DONE Chapter 18. Defining Default Measuring Systems 4:09
 :PROPERTIES:
 :ID:       o2b:4D68B55B-943A-4774-B033-C65C91BADAEF
 :POST_DATE: [2016-10-12 Wed 21:39]
@@ -401,7 +401,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Per document
 - The genesis point of the measuring system 0,0
   - Unsure how to relate/use the object location to this point
-** REVIEW Chapter 19. Creating Multiple Views 3:34
+** DONE Chapter 19. Creating Multiple Views 3:34
 :PROPERTIES:
 :ID:       o2b:78F7C64D-A17C-47A1-B9F4-AB13556D4FD1
 :POST_DATE: [2016-10-12 Wed 21:47]
@@ -417,7 +417,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Per file?
   - Share-able?
   - Panel for them? Hassle to go up to the menubar
-** REVIEW Chapter 20. Hiding And Locking Illustrator Objects 3:12
+** DONE Chapter 20. Hiding And Locking Illustrator Objects 3:12
 :PROPERTIES:
 :ID:       o2b:3FC871B5-0187-4ACF-852B-E6D0993DFD78
 :POST_DATE: [2016-10-12 Wed 21:54]
@@ -444,7 +444,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Show and hide layers and groups
   - Even though you have everything in one layer, you can still do what you
     want in your workflow
-** REVIEW Chapter 21. Generating Multiple Illustrator Art-boards 5:31
+** DONE Chapter 21. Generating Multiple Illustrator Art-boards 5:31
 :PROPERTIES:
 :ID:       o2b:DFBE44D8-9CD1-4C7B-866F-CBAFB2F9F88B
 :POST_DATE: [2016-10-12 Wed 22:03]
@@ -463,7 +463,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Use for business cards
   - Use for logo
 - Artboards are artboards, not pages, InDesign is for that
-** REVIEW Chapter 22. Resizing An Art-Board From Center 3:56
+** DONE Chapter 22. Resizing An Art-Board From Center 3:56
 :PROPERTIES:
 :ID:       o2b:21F1425A-54B1-430E-9326-8066F4905810
 :POST_DATE: [2016-10-13 Thu 00:16]
@@ -479,7 +479,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Manually selecting center vertical and horizontal
   - Shift-Option and resize on the corner of the artboard keeps the object centered
   - This will take some examples
-** REVIEW Chapter 23. New Tricks With Guides 3:42
+** DONE Chapter 23. New Tricks With Guides 3:42
 :PROPERTIES:
 :ID:       o2b:BB707568-C2A1-4E16-88F3-40338D5052BF
 :POST_DATE: [2016-10-13 Thu 00:25]
@@ -496,7 +496,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - When you hold shift to work with a guide it always snaps to the whole location
 - Command-rag from origin brings two guides
 - Guides are indispensable
-** REVIEW Chapter 24. Generating A Customized Tool Panel 4:12
+** DONE Chapter 24. Generating A Customized Tool Panel 4:12
 :PROPERTIES:
 :ID:       o2b:3DB67179-2854-43DD-B729-1FF640232449
 :POST_DATE: [2016-10-13 Thu 00:33]
