@@ -418,12 +418,23 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Per document
 - The genesis point of the measuring system 0,0
   - Unsure how to relate/use the object location to this point
-** TODO 19. 0309 Creating Multiple Views 3:34
+** REVIEW 19. 0309 Creating Multiple Views 3:34
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 19
+:ID:       o2b:78F7C64D-A17C-47A1-B9F4-AB13556D4FD1
+:POST_DATE: [2016-10-12 Wed 21:47]
+:POSTID:   10422
+:BLOG:     wisdomandwonder
 :END:
 
-
+- Be sure to develop the habit for using this by using it a lot!
+- Store any configuration aspects of that view
+- Are what they sound like
+  - Good for editing individual keycap objects
+- Questions
+  - Per file?
+  - Share-able?
+  - Panel for them? Hassle to go up to the menubar
 ** TODO 20. 0310 Hiding And Locking Illustrator Objects 3:12
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 20
