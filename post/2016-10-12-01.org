@@ -20,7 +20,7 @@ that which can be easily represented as plain text. They are programmers, too.
 Of course, that is the easy one! Unfortunately, that is the one that instantly
 kills any conversation (in some contexts). What people miss out on though is
 that its not just programmers who use Emacs. So do [[http://lilypond.org/][composers]]. So do [[https://www.latex-project.org/][publishers]].
-So do [[https://www.emacswiki.org/emacs/AnsysMode][finite element analysts]]. So do [[http://emacsrocks.com/e15.html][pen testers]]. So do [[http://emacsrocks.com/e15.html][screenwriters]]. So do
+So do [[https://www.emacswiki.org/emacs/AnsysMode][finite element analysts]]. So do [[http://emacsrocks.com/e15.html][pen testers]]. So do [[https://github.com/rnkn/fountain-mode][screenwriters]]. So do
 [[https://github.com/veripool/verilog-mode][hardware designers]]. Every Emacs configuration is an opportunity to learn
 something about something totally new to you! What comes to mind here is where
 Emacs configurations might play a role in interviews.
