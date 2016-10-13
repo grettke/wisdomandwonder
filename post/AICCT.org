@@ -37,12 +37,12 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Course on *essentials*
   - "Get you running, have fun, and do creative stuff"
 
-** DONE 3. 0103 How You Will Learn And Working Files 3:53
+** DONE Chapter 3. 0103 How You Will Learn And Working Files 3:53
 :PROPERTIES:
 :BLOG:     wisdomandwonder
 :POSTID:   10404
 :POST_DATE: [2016-10-08 Sat 15:23]
-:ID:       o2b:36F9A1F1-203B-49BB-BD97-22B65070B99A
+:ID:       o2b:233F2A0F-F536-45EE-8923-1D73C4A254EB
 :END:
 
 - Teacher shares his philosophy+strategy for learning followed by detailed
