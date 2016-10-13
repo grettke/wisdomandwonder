@@ -18,12 +18,12 @@ start here:
 
 Downloaded and verified the integrity of 212.4 MB of supplementary material.
 
-** DONE 2. 0101 Introduction 1:36
+** DONE Chapter 2. 0101 Introduction 1:36
 :PROPERTIES:
 :BLOG:     wisdomandwonder
 :POSTID:   10403
 :POST_DATE: [2016-10-08 Sat 15:19]
-:ID:       o2b:1ED3706A-74FB-4657-85C3-8AE33F9A56F4
+:ID:       o2b:04399DBE-FDA6-49BE-91A3-77BAD29EEE3A
 :END:
 
 - Creative Cloud (CC) is the new release model
