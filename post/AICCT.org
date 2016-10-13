@@ -7,9 +7,9 @@
 :PROPERTIES:
 :BLOG:     wisdomandwonder
 :POSTID:   10402
-:TITLE:    Adobe Illustrator CC Tutorial (AICCT): Lecture 1
+:TITLE:    Adobe Illustrator CC Tutorial (AICCT): Section: 1, Getting Started: Chapter 1. Important - Working Files - Download These First 0:00
 :POST_DATE: [2016-10-08 Sat 15:01]
-:ID:       o2b:58AFD12A-4935-4B7D-BA8D-3F68D4DFBD68
+:ID:       o2b:6893C015-954B-4FDD-BBE8-EE5EDDCBAA90
 :END:
 
 Personal notes from [[https://www.udemy.com/adobe-illustrator-cc-tutorial/learn/v4/overview][Adobe Illustrator CC Tutorial - Training Taught By Experts]]
@@ -535,7 +535,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :TITLE:     AICCT: Lecture 25
 :END:
 
-
+-
 ** TODO 26. 0402 Controlling Selection With Preferences 5:49
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 26
