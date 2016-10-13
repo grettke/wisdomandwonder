@@ -439,14 +439,31 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 ** REVIEW 20. 0310 Hiding And Locking Illustrator Objects 3:12
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 20
+:ID:       o2b:3FC871B5-0187-4ACF-852B-E6D0993DFD78
+:POST_DATE: [2016-10-12 Wed 21:54]
+:POSTID:   10423
+:BLOG:     wisdomandwonder
 :END:
 
 - Teacher
   - Great sound
   - Uses examples and repetition
-  - Combination of casual conversation light-heartedness and serious philosphy
+  - Combination of casual conversation light-heartedness and serious philosophy
     about workflow and cognitive space
--
+- Goal: Only work on the butterfly
+  - Accidentally select something else, move the wrong thing, undo it
+  - Instead lock the background to avoid the accident
+- Approaches
+  - Background is in a group, so select it, and lock it
+  - You can manipulate every other object
+  - Unlock when done
+- Easier way
+  - Everything is in one layer right now, wrong approach, should use separate layers
+  - In this example you open the layer and lock the individual groups
+  - Can also hide them
+  - Show and hide layers and groups
+  - Even though you have everything in one layer, you can still do what you
+    want in your workflow
 ** TODO 21. 0311 Generating Multiple Illustrator Art-boards 5:31
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 21
