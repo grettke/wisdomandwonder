@@ -484,12 +484,23 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Use for business cards
   - Use for logo
 - Artboards are artboards, not pages, InDesign is for that
-** TODO 22. 0312 Resizing An Art-Board From Center 3:56
+** REVIEW 22. 0312 Resizing An Art-Board From Center 3:56
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 22
+:ID:       o2b:21F1425A-54B1-430E-9326-8066F4905810
+:POST_DATE: [2016-10-13 Thu 00:16]
+:POSTID:   10425
+:BLOG:     wisdomandwonder
 :END:
 
-
+- You can automatically resize an artboard by centering it and shrinking it on
+  an object
+- You can also manually do it by
+  - Selecting the object on which to center
+  - Selecting the dropdown of the align tool to choose =Align To Artboard=
+  - Manually selecting center vertical and horizontal
+  - Shift-Option and resize on the corner of the artboard keeps the object centered
+  - This will take some examples
 ** TODO 23. 0313 New Tricks With Guides 3:42
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 23
