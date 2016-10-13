@@ -402,12 +402,22 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Over Print Preview shows how the object will look on a printing press
 - Proof Setup is fun to play with to see how each works
 - Begin with the end in mind and choose a proof view for the destination
-** TODO 18. 0308 Defining Default Measuring Systems 4:09
+** REVIEW 18. 0308 Defining Default Measuring Systems 4:09
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 18
+:ID:       o2b:4D68B55B-943A-4774-B033-C65C91BADAEF
+:POST_DATE: [2016-10-12 Wed 21:39]
+:POSTID:   10421
+:BLOG:     wisdomandwonder
 :END:
 
-
+- Be sure to open each new AI file each new lesson
+- File \rarr Document Setup or menu up in top area or right click on ruler
+- Settings locations
+  - For all documents via preferences
+  - Per document
+- The genesis point of the measuring system 0,0
+  - Unsure how to relate/use the object location to this point
 ** TODO 19. 0309 Creating Multiple Views 3:34
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 19
