@@ -42,8 +42,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :BLOG:     wisdomandwonder
 :POSTID:   10404
 :POST_DATE: [2016-10-08 Sat 15:23]
-:TITLE:    AICCT: Lecture 3
-:ID:       o2b:D78664EF-5E78-4438-B40E-2AF99B2ADD77
+:ID:       o2b:36F9A1F1-203B-49BB-BD97-22B65070B99A
 :END:
 
 - Teacher shares his philosophy+strategy for learning followed by detailed
