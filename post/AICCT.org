@@ -131,13 +131,12 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - AP is for raster graphics
 - Raster files are much bigger than vector files
 
-** REVIEW 7. 0203 Controlling Illustrator Through Preferences 11:03
+** REVIEW Chapter 7. 0203 Controlling Illustrator Through Preferences 11:03
 :PROPERTIES:
-:TITLE:    AICCT: Lecture 7
-:ID:       o2b:BAAC145D-079D-4C62-8044-4834E12C8C31
 :POST_DATE: [2016-10-08 Sat 18:49]
 :POSTID:   10410
 :BLOG:     wisdomandwonder
+:ID:       o2b:7F8FD18B-3E61-411D-9B2A-3B9553E40995
 :END:
 
 - Preferences make the program yours
