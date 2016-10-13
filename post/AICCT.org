@@ -18,7 +18,7 @@ start here:
 
 Downloaded and verified the integrity of 212.4 MB of supplementary material.
 
-** DONE Chapter 2. 0101 Introduction 1:36
+** DONE Chapter 2. Introduction 1:36
 :PROPERTIES:
 :BLOG:     wisdomandwonder
 :POSTID:   10403
@@ -37,7 +37,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Course on *essentials*
   - "Get you running, have fun, and do creative stuff"
 
-** DONE Chapter 3. 0103 How You Will Learn And Working Files 3:53
+** DONE Chapter 3. How You Will Learn And Working Files 3:53
 :PROPERTIES:
 :BLOG:     wisdomandwonder
 :POSTID:   10404
@@ -59,7 +59,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Bring your own goals into the training
   - Great reminder!
 
-** DONE Chapter 4. 0104 Top Ten Hits From Andy 7:49
+** DONE Chapter 4. Top Ten Hits From Andy 7:49
 :PROPERTIES:
 :BLOG:     wisdomandwonder
 :POSTID:   10405
@@ -104,7 +104,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Look forward to my top-ten
 
 * REVIEW Section: 2, The First Step
-** DONE Chapter 5. 0201 Introduction 1:20
+** DONE Chapter 5. Introduction 1:20
 :PROPERTIES:
 :BLOG:     wisdomandwonder
 :POSTID:   10406
@@ -119,7 +119,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Goal of configuration is to create an environment where creativity can
   blossom efficiently by learning the program
 
-** DONE Chapter 6. 0202 Illustrator Versus Photoshop 5:55
+** DONE Chapter 6. Illustrator Versus Photoshop 5:55
 :PROPERTIES:
 :BLOG:     wisdomandwonder
 :POSTID:   10407
@@ -131,7 +131,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - AP is for raster graphics
 - Raster files are much bigger than vector files
 
-** REVIEW Chapter 7. 0203 Controlling Illustrator Through Preferences 11:03
+** REVIEW Chapter 7. Controlling Illustrator Through Preferences 11:03
 :PROPERTIES:
 :POST_DATE: [2016-10-08 Sat 18:49]
 :POSTID:   10410
@@ -181,7 +181,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Custom: 64%
   - Tabs and not-auto collapse are good
 
-** REVIEW Chapter 8. 0204 The Illustrator User Interface 5:28
+** REVIEW Chapter 8. The Illustrator User Interface 5:28
 :PROPERTIES:
 :ID:       o2b:9EF2D4C4-62B1-40D5-9323-9325002AC09E
 :POST_DATE: [2016-10-08 Sat 20:08]
@@ -215,7 +215,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Select them
   - Shows type tool
   - Customizable by clicking on arrow in the bar for each section
-** REVIEW Chapter 9. 0205 The Illustrator Control Panel 3:29
+** REVIEW Chapter 9. The Illustrator Control Panel 3:29
 :PROPERTIES:
 :POST_DATE: [2016-10-09 Sun 15:12]
 :POSTID:   10411
@@ -235,7 +235,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   mapping one color to another
 - Can add and remove controls from the control panel
 - Master this!
-** REVIEW Chapter 10. 0206 Generating User-Defined Workspaces 5:54
+** REVIEW Chapter 10. Generating User-Defined Workspaces 5:54
 :PROPERTIES:
 :ID:       o2b:04D42E2C-A328-4BD1-BCC2-7C49AA325AD5
 :POST_DATE: [2016-10-09 Sun 15:26]
@@ -254,7 +254,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Menubar lists all panels available
 - AI is so easy and nice to use
 * REVIEW Section: 3, Controlling Adobe Illustrator
-** REVIEW Chapter 11. 0301 Introduction 1:07
+** REVIEW Chapter 11. Introduction 1:07
 :PROPERTIES:
 :ID:       o2b:A3119AC5-1212-48CA-8314-3EBF7DFDF2C1
 :POST_DATE: [2016-10-09 Sun 15:29]
@@ -266,7 +266,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Begin with the end in mind
 - Will cover twelve features in the context of control
 - Control is efficiency
-** REVIEW Chapter 12. 0302 Working Toward Printing 4:42
+** REVIEW Chapter 12. Working Toward Printing 4:42
 :PROPERTIES:
 :ID:       o2b:A4A96395-0731-48F5-905D-148831F86C20
 :POST_DATE: [2016-10-09 Sun 15:40]
@@ -280,7 +280,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   presses can't press up to the edge so you print to a larger sheet of paper
   that is cut down to the desired size. The bleed is the addition to the page
   size that will be cut down from.
-** REVIEW Chapter 13. 0303 Working Toward The Web 3:07
+** REVIEW Chapter 13. Working Toward The Web 3:07
 :PROPERTIES:
 :ID:       o2b:DB5789AB-79CD-40F3-9637-C8474392A390
 :POST_DATE: [2016-10-09 Sun 15:47]
@@ -291,7 +291,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - When you =Align New Object to Pixel Grid= all objects align to an invisible
   grid that helps prevent visual pixelation of an image on a monitor
 - Command-R shows the rulers in your workspace
-** REVIEW Chapter 14. 0304 Controlling Multiple Documents 2:49
+** REVIEW Chapter 14. Controlling Multiple Documents 2:49
 :PROPERTIES:
 :ID:       o2b:AB24D52B-FC3D-4737-93D6-9AE76305ECE7
 :POST_DATE: [2016-10-11 Tue 19:51]
@@ -307,7 +307,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Hover over a tap and a tool-tip will show you all information if the tab is
   squashed
 - Arrange documents button in top position lets you display multiple documents
-** REVIEW Chapter 15. 0305 Using View And Navigation Features 7:46
+** REVIEW Chapter 15. Using View And Navigation Features 7:46
 :PROPERTIES:
 :ID:       o2b:84CC0715-A205-4CF9-89A4-D17D1013159A
 :POST_DATE: [2016-10-11 Tue 20:05]
@@ -329,7 +329,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Box color is configurable
   - Art-boards are introduced in context of the panel
 - Getting where you want to go quickly and automatically is a big deal
-** REVIEW Chapter 16. 0306 Object Control With Grids And Guides 10:59
+** REVIEW Chapter 16. Object Control With Grids And Guides 10:59
 :PROPERTIES:
 :ID:       o2b:46DEB092-C47C-4B6A-AA57-1733FDF27F2C
 :POST_DATE: [2016-10-11 Tue 20:58]
@@ -364,7 +364,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
     - Angling
 - Right click just about anything to find out what you can do with it
   - Sometimes stuff in lecture isn't there in current AI
-** REVIEW Chapter 17. 0307 Controlling What You See 4:48
+** REVIEW Chapter 17. Controlling What You See 4:48
 :PROPERTIES:
 :ID:       o2b:28902F11-A735-4879-A18D-5717AF54147E
 :POST_DATE: [2016-10-12 Wed 21:32]
@@ -386,7 +386,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Proof Setup is fun to play with to see how each works
 - Begin with the end in mind and choose a proof view for the destination
 - Fun to swatch Color panel change as you switch between Proofs
-** REVIEW Chapter 18. 0308 Defining Default Measuring Systems 4:09
+** REVIEW Chapter 18. Defining Default Measuring Systems 4:09
 :PROPERTIES:
 :ID:       o2b:4D68B55B-943A-4774-B033-C65C91BADAEF
 :POST_DATE: [2016-10-12 Wed 21:39]
@@ -401,7 +401,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Per document
 - The genesis point of the measuring system 0,0
   - Unsure how to relate/use the object location to this point
-** REVIEW Chapter 19. 0309 Creating Multiple Views 3:34
+** REVIEW Chapter 19. Creating Multiple Views 3:34
 :PROPERTIES:
 :ID:       o2b:78F7C64D-A17C-47A1-B9F4-AB13556D4FD1
 :POST_DATE: [2016-10-12 Wed 21:47]
@@ -417,7 +417,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Per file?
   - Share-able?
   - Panel for them? Hassle to go up to the menubar
-** REVIEW Chapter 20. 0310 Hiding And Locking Illustrator Objects 3:12
+** REVIEW Chapter 20. Hiding And Locking Illustrator Objects 3:12
 :PROPERTIES:
 :ID:       o2b:3FC871B5-0187-4ACF-852B-E6D0993DFD78
 :POST_DATE: [2016-10-12 Wed 21:54]
@@ -444,7 +444,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Show and hide layers and groups
   - Even though you have everything in one layer, you can still do what you
     want in your workflow
-** REVIEW Chapter 21. 0311 Generating Multiple Illustrator Art-boards 5:31
+** REVIEW Chapter 21. Generating Multiple Illustrator Art-boards 5:31
 :PROPERTIES:
 :ID:       o2b:DFBE44D8-9CD1-4C7B-866F-CBAFB2F9F88B
 :POST_DATE: [2016-10-12 Wed 22:03]
@@ -463,7 +463,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Use for business cards
   - Use for logo
 - Artboards are artboards, not pages, InDesign is for that
-** REVIEW Chapter 22. 0312 Resizing An Art-Board From Center 3:56
+** REVIEW Chapter 22. Resizing An Art-Board From Center 3:56
 :PROPERTIES:
 :ID:       o2b:21F1425A-54B1-430E-9326-8066F4905810
 :POST_DATE: [2016-10-13 Thu 00:16]
@@ -479,7 +479,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Manually selecting center vertical and horizontal
   - Shift-Option and resize on the corner of the artboard keeps the object centered
   - This will take some examples
-** REVIEW Chapter 23. 0313 New Tricks With Guides 3:42
+** REVIEW Chapter 23. New Tricks With Guides 3:42
 :PROPERTIES:
 :ID:       o2b:BB707568-C2A1-4E16-88F3-40338D5052BF
 :POST_DATE: [2016-10-13 Thu 00:25]
@@ -496,7 +496,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - When you hold shift to work with a guide it always snaps to the whole location
 - Command-rag from origin brings two guides
 - Guides are indispensable
-** REVIEW Chapter 24. 0314 Generating A Customized Tool Panel 4:12
+** REVIEW Chapter 24. Generating A Customized Tool Panel 4:12
 :PROPERTIES:
 :ID:       o2b:3DB67179-2854-43DD-B729-1FF640232449
 :POST_DATE: [2016-10-13 Thu 00:33]
@@ -506,541 +506,446 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - "Liquid Creativity"
 - Easily create your own custom panel
 * TODO Section: 4, Selecting And Manipulating Illustrator Objects
-** TODO Chapter 25. 0401 Introduction To Selection 0:57
+** TODO Chapter 25. Introduction To Selection 0:57
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 26. 0402 Controlling Selection With Preferences 5:49
+** TODO Chapter 26. Controlling Selection With Preferences 5:49
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 27. 0403 Group And Direct Selection Tips 6:48
+** TODO Chapter 27. Group And Direct Selection Tips 6:48
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 28. 0404 Using The Lasso Tool 2:52
+** TODO Chapter 28. Using The Lasso Tool 2:52
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 29. 0405 Selection With The Magic Wand Tool 4:10
+** TODO Chapter 29. Selection With The Magic Wand Tool 4:10
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 30. 0406 Selection Via Attributes 3:57
+** TODO Chapter 30. Selection Via Attributes 3:57
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 31. 0407 Working In Isolation Mode 4:32
+** TODO Chapter 31. Working In Isolation Mode 4:32
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 32. 0408 Resizing Tricks 5:51
+** TODO Chapter 32. Resizing Tricks 5:51
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 33. 0409 Object Rotation And Smart Guides 5:16
+** TODO Chapter 33. Object Rotation And Smart Guides 5:16
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 34. 0410 Working With Distort Tools 7:04
+** TODO Chapter 34. Working With Distort Tools 7:04
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 35. 0411 Creative Uses Of Duplicate Options 4:38
+** TODO Chapter 35. Creative Uses Of Duplicate Options 4:38
 :PROPERTIES:
 :END:
 
 * TODO Section: 5, Adobe Illustrator And Color Management
-** TODO Chapter 36. 0501 Introduction To Color Management 1:08
+** TODO Chapter 36. Introduction To Color Management 1:08
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 37. 0502 Designing With The End In Mind 6:10
+** TODO Chapter 37. Designing With The End In Mind 6:10
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 38. 0503 Managing ColorSync Settings 6:10
+** TODO Chapter 38. Managing ColorSync Settings 6:10
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 39. 0504 The Improved Illustrator Swatches Panel 2:03
+** TODO Chapter 39. The Improved Illustrator Swatches Panel 2:03
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 40. 0505 Creating Process And Global Colors 6:59
+** TODO Chapter 40. Creating Process And Global Colors 6:59
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 41. 0506 Defining Spot Colors 3:27
+** TODO Chapter 41. Defining Spot Colors 3:27
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 42. 0507 Organizing Colors Using Groups 3:08
+** TODO Chapter 42. Organizing Colors Using Groups 3:08
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 43. 0508 Using Illustrator Color Libraries 3:29
+** TODO Chapter 43. Using Illustrator Color Libraries 3:29
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 44. 0509 Saving Custom Color Libraries 4:25
+** TODO Chapter 44. Saving Custom Color Libraries 4:25
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 45. 0510 Getting Inspiration With Color Guide And Kuler 6:07
+** TODO Chapter 45. Getting Inspiration With Color Guide And Kuler 6:07
 :PROPERTIES:
 :END:
 
 * TODO Section: 6, Working With Shapes, Fills, And Strokes
-** TODO Chapter 46. 0601 Introduction To Shapes, Fills, And Strokes 0:55
+** TODO Chapter 46. Introduction To Shapes, Fills, And Strokes 0:55
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 47. 0602 Creating Basic Shapes 10:42
+** TODO Chapter 47. Creating Basic Shapes 10:42
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 48. 0603 More On Basic Shapes 8:15
+** TODO Chapter 48. More On Basic Shapes 8:15
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 49. 0604 It Is All In The Math 3:57
+** TODO Chapter 49. It Is All In The Math 3:57
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 50. 0605 Working With Object Fills 6:07
+** TODO Chapter 50. Working With Object Fills 6:07
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 51. 0606 The Basics Of Object Strokes 8:17
+** TODO Chapter 51. The Basics Of Object Strokes 8:17
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 52. 0607 Converting Strokes To Objects 3:44
+** TODO Chapter 52. Converting Strokes To Objects 3:44
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 53. 0608 Working With Gradient Fills 7:02
+** TODO Chapter 53. Working With Gradient Fills 7:02
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 54. 0609 Modifying And Creating Patterns 6:44
+** TODO Chapter 54. Modifying And Creating Patterns 6:44
 :PROPERTIES:
 :END:
 
 * TODO Section: 7, Working With Anchors And Paths
-** TODO Chapter 55. 0701 Introduction To Anchors And Paths 0:52
+** TODO Chapter 55. Introduction To Anchors And Paths 0:52
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 56. 0702 Paths Versus Strokes 5:02
+** TODO Chapter 56. Paths Versus Strokes 5:02
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 57. 0703 Controlling Paths With Anchors 6:25
+** TODO Chapter 57. Controlling Paths With Anchors 6:25
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 58. 0704 Open Versus Closed Paths 4:18
+** TODO Chapter 58. Open Versus Closed Paths 4:18
 :PROPERTIES: [[60]]
 :END:
 
-
-** TODO Chapter 59. 0705 Using Join And Average On Open Paths 5:57
+** TODO Chapter 59. Using Join And Average On Open Paths 5:57
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 60. 0706 Getting Creative With The Scissors And Knife Tools 8:39
+** TODO Chapter 60. Getting Creative With The Scissors And Knife Tools 8:39
 :PROPERTIES:
 :END:
 
 * TODO Section: 8, Creating And Managing Vector Shapes
-** TODO Chapter 61. 0801 Introduction To Vector Shapes 0:54
+** TODO Chapter 61. Introduction To Vector Shapes 0:54
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 62. 0802 Switching Drawing Modes 8:46
+** TODO Chapter 62. Switching Drawing Modes 8:46
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 63. 0803 Working With Pathfinder Tools 10:05
+** TODO Chapter 63. Working With Pathfinder Tools 10:05
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 64. 0804 Using Shape Mode Tools 5:20
+** TODO Chapter 64. Using Shape Mode Tools 5:20
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 65. 0805 Working With The New Live Corners 4:37
+** TODO Chapter 65. Working With The New Live Corners 4:37
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 66. 0806 Understanding The Shape Builder Tool 3:12
+** TODO Chapter 66. Understanding The Shape Builder Tool 3:12
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 67. 0807 Using The Symbol Sprayer 7:37
+** TODO Chapter 67. Using The Symbol Sprayer 7:37
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 68. 0808 Creating Custom Symbols 5:08
+** TODO Chapter 68. Creating Custom Symbols 5:08
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 69. 0809 Using The Blob, Paintbrush And Pencil Tools 8:52
+** TODO Chapter 69. Using The Blob, Paintbrush And Pencil Tools 8:52
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 70. 0810 Touch Type And Free Transform 5:16
+** TODO Chapter 70. Touch Type And Free Transform 5:16
 :PROPERTIES:
 :END:
 
 * TODO Section: 9, The Illustrator Pen Tool
-** TODO Chapter 71. 0901 Introduction To The Pen Tool 1:43
+** TODO Chapter 71. Introduction To The Pen Tool 1:43
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 72. 0902 Pen Tool Basics 6:26
+** TODO Chapter 72. Pen Tool Basics 6:26
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 73. 0903 Generating Simple Paths 7:23
+** TODO Chapter 73. Generating Simple Paths 7:23
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 74. 0904 Adding, Deleting, And Converting Anchor Points 4:48
+** TODO Chapter 74. Adding, Deleting, And Converting Anchor Points 4:48
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 75. 0905 Gaining Control 5:33
+** TODO Chapter 75. Gaining Control 5:33
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 76. 0906 Smart Guides And The Pen Tool 5:23
+** TODO Chapter 76. Smart Guides And The Pen Tool 5:23
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 77. 0907 Reshaping Objects 5:54
+** TODO Chapter 77. Reshaping Objects 5:54
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 78. 0908 Project: Creating A Telephone From Basic Shapes 11:30
+** TODO Chapter 78. Project: Creating A Telephone From Basic Shapes 11:30
 :PROPERTIES:
 :END:
 
 * TODO Section: 10, Adobe Illustrator And Type
-** TODO Chapter 79. 1001 Introduction to Type 1:09
+** TODO Chapter 79. Introduction to Type 1:09
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 80. 1002 Container And Point Type 11:10
+** TODO Chapter 80. Container And Point Type 11:10
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 81. 1003 Creating Custom Type Containers 7:14
+** TODO Chapter 81. Creating Custom Type Containers 7:14
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 82. 1004 Working With Straight And Curved Text 4:22
+** TODO Chapter 82. Working With Straight And Curved Text 4:22
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 83. 1005 The Character And Paragraph Panels 9:02
+** TODO Chapter 83. The Character And Paragraph Panels 9:02
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 84. 1006 Creating Character And Paragraph Styles 7:42
+** TODO Chapter 84. Creating Character And Paragraph Styles 7:42
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 85. 1007 Text Threading 3:19
+** TODO Chapter 85. Text Threading 3:19
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 86. 1008 Text And The Eyedropper Tool 5:18
+** TODO Chapter 86. Text And The Eyedropper Tool 5:18
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 87. 1009 Adding Text To A Circle 6:52
+** TODO Chapter 87. Adding Text To A Circle 6:52
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 88. 1010 Converting Type To Outlines 6:28
+** TODO Chapter 88. Converting Type To Outlines 6:28
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 89. 1011 Adding Fonts With TypeKit 4:54
+** TODO Chapter 89. Adding Fonts With TypeKit 4:54
 :PROPERTIES:
 :END:
 
 * TODO Section: 11, Effects And The Appearance Panel
-** TODO Chapter 90. 1101 Introduction To Effects And The Appearance Panel 1:01
+** TODO Chapter 90. Introduction To Effects And The Appearance Panel 1:01
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 91. 1102 Controlling Effects With Options 6:38
+** TODO Chapter 91. Controlling Effects With Options 6:38
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 92. 1103 Transferring Effects To Multiple Objects 7:02
+** TODO Chapter 92. Transferring Effects To Multiple Objects 7:02
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 93. 1104 The Appearance Panel 5:09
+** TODO Chapter 93. The Appearance Panel 5:09
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 94. 1105 Rasterizing Vector Objects 5:51
+** TODO Chapter 94. Rasterizing Vector Objects 5:51
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 95. 1106 Moving Into The World Of 3D 9:03
+** TODO Chapter 95. Moving Into The World Of 3D 9:03
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 96. 1107 Project: Creating Faux Neon 5:58
+** TODO Chapter 96. Project: Creating Faux Neon 5:58
 :PROPERTIES:
 :END:
 
 * TODO Section: 12, Layers 101
-** TODO Chapter 97. 1201 Introduction To Layers 0:51
+** TODO Chapter 97. Introduction To Layers 0:51
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 98. 1202 Layer Basics 4:31
+** TODO Chapter 98. Layer Basics 4:31
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 99. 1203 Generating Layers And Moving Objects 5:34
+** TODO Chapter 99. Generating Layers And Moving Objects 5:34
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 100. 1204 Layer Panel Options 4:26
+** TODO Chapter 100. Layer Panel Options 4:26
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 101. 1205 Managing Layer Panel Options 10:23
+** TODO Chapter 101. Managing Layer Panel Options 10:23
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 102. 1206 Enhancements To The Layers Panel 2:24
+** TODO Chapter 102. Enhancements To The Layers Panel 2:24
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 103. 1207 Project: Working With Opacity And Blending Modes 4:05
+** TODO Chapter 103. Project: Working With Opacity And Blending Modes 4:05
 :PROPERTIES:
 :END:
 
 * TODO Section: 13, Working With Images And Masks
-** TODO Chapter 104. 1301 Introduction To Images And Masks 0:59
+** TODO Chapter 104. Introduction To Images And Masks 0:59
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 105. 1302 Linking And Embedding Placed Images 4:50
+** TODO Chapter 105. Linking And Embedding Placed Images 4:50
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 106. 1303 The Links Panel 5:57
+** TODO Chapter 106. The Links Panel 5:57
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 107. 1304 Non-Destructive Photoshop Editing In Illustrator 4:16
+** TODO Chapter 107. Non-Destructive Photoshop Editing In Illustrator 4:16
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 108. 1305 Generating A Basic Clipping Mask 3:47
+** TODO Chapter 108. Generating A Basic Clipping Mask 3:47
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 109. 1306 Creating A Clipping Mask From A Raster Image 6:33
+** TODO Chapter 109. Creating A Clipping Mask From A Raster Image 6:33
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 110. 1307 Working With Opacity Masks 7:47
+** TODO Chapter 110. Working With Opacity Masks 7:47
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 111. 1308 Project: Creating A Complex Clipping Mask 4:10
+** TODO Chapter 111. Project: Creating A Complex Clipping Mask 4:10
 :PROPERTIES:
 :END:
 
 * TODO Section: 14, Tips, Tricks And Techniques
-** TODO Chapter 112. 1401 Introduction to Tips, Tricks And Techniques 0:54
+** TODO Chapter 112. Introduction to Tips, Tricks And Techniques 0:54
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 113. 1402 Working With Envelope Distort 9:05
+** TODO Chapter 113. Working With Envelope Distort 9:05
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 114. 1403 Creating An Animation In Illustrator 6:12
+** TODO Chapter 114. Creating An Animation In Illustrator 6:12
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 115. 1404 Generating Customized Brushes 10:57
+** TODO Chapter 115. Generating Customized Brushes 10:57
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 116. 1405 Creative Blending Options 4:20
+** TODO Chapter 116. Creative Blending Options 4:20
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 117. 1406 Project: Growing A Gradient Mesh Tomato 9:09
+** TODO Chapter 117. Project: Growing A Gradient Mesh Tomato 9:09
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 118. 1407 Using Auto Generated Corners 2:09
+** TODO Chapter 118. Using Auto Generated Corners 2:09
 :PROPERTIES:
 :END:
 
 * TODO Section: 15, Moving From Raster To Vector
-** TODO Chapter 119. 1501 Introduction To Raster And Vector 1:28
+** TODO Chapter 119. Introduction To Raster And Vector 1:28
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 120. 1502 Understanding Image Trace 7:48
+** TODO Chapter 120. Understanding Image Trace 7:48
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 121. 1503 Tracing Line Art 3:13
+** TODO Chapter 121. Tracing Line Art 3:13
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 122. 1504 Working Through Image Trace Options 7:30
+** TODO Chapter 122. Working Through Image Trace Options 7:30
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 123. 1505 Understanding Live Paint 7:49
+** TODO Chapter 123. Understanding Live Paint 7:49
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 124. 1506 Colorizing Artwork With Live Paint 4:20
+** TODO Chapter 124. Colorizing Artwork With Live Paint 4:20
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 125. 1507 Working With Live Paint Gap Detection 4:37
+** TODO Chapter 125. Working With Live Paint Gap Detection 4:37
 :PROPERTIES:
 :END:
 
 * TODO Section: 16, Saving And Printing Based On Intent
-** TODO Chapter 126. 1601 Introduction To Saving And Printing 1:10
+** TODO Chapter 126. Introduction To Saving And Printing 1:10
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 127. 1602 Saving For The Web And Beyond 10:14
+** TODO Chapter 127. Saving For The Web And Beyond 10:14
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 128. 1603 Tweaking The Final Product 10:48
+** TODO Chapter 128. Tweaking The Final Product 10:48
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 129. 1604 Saving An Illustrator Document 4:29
+** TODO Chapter 129. Saving An Illustrator Document 4:29
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 130. 1605 Outputting Directly To Print 7:57
+** TODO Chapter 130. Outputting Directly To Print 7:57
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 131. 1606 Generating A Document Package 2:40
+** TODO Chapter 131. Generating A Document Package 2:40
 :PROPERTIES:
 :END:
 
-
-** TODO Chapter 132. 1607 Final Thoughts 2:51
+** TODO Chapter 132. Final Thoughts 2:51
 :PROPERTIES:
 :END:
