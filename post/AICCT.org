@@ -402,6 +402,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Over Print Preview shows how the object will look on a printing press
 - Proof Setup is fun to play with to see how each works
 - Begin with the end in mind and choose a proof view for the destination
+- Fun to swatch Color panel change as you switch between Proofs
 ** REVIEW 18. 0308 Defining Default Measuring Systems 4:09
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 18
@@ -435,12 +436,17 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Per file?
   - Share-able?
   - Panel for them? Hassle to go up to the menubar
-** TODO 20. 0310 Hiding And Locking Illustrator Objects 3:12
+** REVIEW 20. 0310 Hiding And Locking Illustrator Objects 3:12
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 20
 :END:
 
-
+- Teacher
+  - Great sound
+  - Uses examples and repetition
+  - Combination of casual conversation light-heartedness and serious philosphy
+    about workflow and cognitive space
+-
 ** TODO 21. 0311 Generating Multiple Illustrator Art-boards 5:31
 :PROPERTIES:
 :TITLE:     AICCT: Lecture 21
