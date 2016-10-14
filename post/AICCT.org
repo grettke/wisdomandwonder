@@ -543,10 +543,42 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
     - Nice to set it to one so that you are operating precisely
 - Shift-Click to select multiple objects
 - Command-Drag on an object to move all of them
-** TODO Chapter 27. Group And Direct Selection Tips 6:48
+** DONE Chapter 27. Group And Direct Selection Tips 6:48
 :PROPERTIES:
+:ID:       o2b:DFAF174E-C02C-4DCC-8F46-E52EF835D9A3
+:POST_DATE: [2016-10-13 Thu 21:28]
+:POSTID:   10433
+:BLOG:     wisdomandwonder
 :END:
 
+- Will cover
+  - Selection Tool
+  - Group Selection Tool
+  - Magic Wand Tool
+  - Lasso Tool
+- Select multiple objects with the Selection Tool
+  - Object \rarr Group
+  - Make them into a group
+  - Can un-group them
+- Group Selection Tool
+  - Get into a group and select a piece of the group without un-grouping it
+    - Key cap configure perhaps is made of groups?
+    - How to deal with each logical keycap layer having it's own font?
+  - Lets you move individual objects keeping them in their group
+- A group of groups of objects is a nest
+- Select one group, shift-click another group, now you can group those two groups
+- This seems to be one way to keep everything positioned correctly
+- Each time you click a nest it cycles through selecting all of the groups
+  - Group logically related features as their own groups so that you can dig
+    deeper and deeper as you would expect
+- Double-clicking objects in a nest access isolation groups which cycles
+  through the nested groups
+- Either way when you are in a particular group, the edit menu operates on the
+  objects in that group. So Edit \rarr Select All selects everything in that
+  group. Obvious but news to me.
+- Just noticed in the top area that it also shows the groups including the one
+  that you are in right now
+- How long do groups live?
 ** TODO Chapter 28. Using The Lasso Tool 2:52
 :PROPERTIES:
 :END:
