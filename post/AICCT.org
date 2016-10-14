@@ -813,15 +813,27 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :PROPERTIES:
 :END:
 
-* TODO Section: 7, Working With Anchors And Paths
-** TODO Chapter 55. Introduction To Anchors And Paths 0:52
+* IN-PROGRESS Section: 7, Working With Anchors And Paths
+** REVIEW Chapter 55. Introduction To Anchors And Paths 0:52
 :PROPERTIES:
 :END:
 
-** TODO Chapter 56. Paths Versus Strokes 5:02
+- Basic working components of vector shapes
+  - Core are paths and strokes
+  - Control paths with anchors
+    - Nails in the board for anchoring
+** REVIEW Chapter 56. Paths Versus Strokes 5:02
 :PROPERTIES:
 :END:
 
+- Every tools creates Anchors
+- The Pen tool is the main tools
+- Pen creates Anchors
+- Anchors are connected by Paths
+- Paths are the home for Strokes
+- =None= bottom for Strokes
+- Paths control shape
+- Anchors control Paths
 ** TODO Chapter 57. Controlling Paths With Anchors 6:25
 :PROPERTIES:
 :END:
