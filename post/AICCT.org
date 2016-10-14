@@ -506,7 +506,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :END:
 - "Liquid Creativity"
 - Easily create your own custom panel
-* IN-PROGRESS Section: 4, Selecting And Manipulating Illustrator Objects
+* DONE Section: 4, Selecting And Manipulating Illustrator Objects
 ** DONE Chapter 25. Introduction To Selection 0:57
 :PROPERTIES:
 :ID:       o2b:185F2366-9AD7-4E03-9DAB-2A092B65EEF2
