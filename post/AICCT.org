@@ -1,7 +1,7 @@
 #+DATE: [2016-10-13 Thu 21:02]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil prop:nil
 #+CATEGORY: Article
-#+TAGS: Adobe, Illustrator, Vector graphics, Udemy, adobe-illustrator-cc-tutorial
+#+FILETAGS: Adobe, Illustrator, Vector graphics, Udemy, adobe-illustrator-cc-tutorial
 
 * DONE Section: 1, Getting Started
 ** DONE Chapter 1. Important - Working Files - Download These First 0:00
@@ -636,6 +636,10 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Selection by attribute lets you make global modifications
 ** DONE Chapter 31. Working In Isolation Mode 4:32
 :PROPERTIES:
+:ID:       o2b:5AA509EC-E8FD-4C4B-9E73-EAAC71BB20F9
+:POST_DATE: [2016-10-14 Fri 15:30]
+:POSTID:   10444
+:BLOG:     wisdomandwonder
 :END:
 
 - Way to get to individual pieces in groups
