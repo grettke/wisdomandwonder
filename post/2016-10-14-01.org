@@ -1,0 +1,15 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10443
+#+DATE: [2016-10-14 Fri 15:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Adobe, Illustrator, Vector graphics, Udemy, adobe-illustrator-cc-tutorial
+#+TITLE: Repeat Last Action Practice Sunflower
+
+Bound to Command-D.
+
+Practice sunflower:
+
+[[file:image/16-10-14_01-Sunflower.png]]
+
+# image/16-10-14_01-Sunflower.png https://www.wisdomandwonder.com/wp-content/uploads/2016/10/16-10-14_01-Sunflower.png
