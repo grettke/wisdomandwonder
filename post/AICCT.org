@@ -591,14 +591,49 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Draw around multiple objects to select them all
 - Shift-Click is often easier
 - Easily select an object by drawing a circle in/through it
-** TODO Chapter 29. Selection With The Magic Wand Tool 4:10
+** DONE Chapter 29. Selection With The Magic Wand Tool 4:10
 :PROPERTIES:
+:ID:       o2b:3174DBF5-FDA7-425C-9331-7766248C394D
+:POST_DATE: [2016-10-13 Thu 21:37]
+:POSTID:   10435
+:BLOG:     wisdomandwonder
 :END:
 
-** TODO Chapter 30. Selection Via Attributes 3:57
+- Tolerance controls selection
+- Select by
+  - Fill color
+  - Stroke color
+  - Stroke weight
+  - Opacity
+  - Blending mode
+- The menu for the panel lets you reset everything
+- Locked layers aren't used in the selection process
+- Magic Want came from Photoshop
+** DONE Chapter 30. Selection Via Attributes 3:57
 :PROPERTIES:
+:ID:       o2b:9BCFC490-5166-41BC-98C1-CF165664358F
+:POST_DATE: [2016-10-13 Thu 21:43]
+:POSTID:   10436
+:BLOG:     wisdomandwonder
 :END:
 
+- Say that you have the same logo color in everything
+  - You gotta change it
+  - Select it everywhere
+  - By some criteria
+  - And change it
+- Multiple selection lets you do bulk changes by some criteria
+- Also lets you search for and discover things
+- Tons of features
+  - Layer
+- Select \rarr Objects \rarr Stray Points
+  - You can accidentally leave stray objects in places
+  - This shows them
+  - Then you can delete them
+- Select \rarr Objects \rarr Not Aligned To Pixel Grid
+  - Means it will look bad rasterized
+    - Doesn't show fix yet
+- Selection by attribute lets you make global modifications
 ** TODO Chapter 31. Working In Isolation Mode 4:32
 :PROPERTIES:
 :END:
