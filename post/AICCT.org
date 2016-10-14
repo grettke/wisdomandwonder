@@ -579,10 +579,18 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Just noticed in the top area that it also shows the groups including the one
   that you are in right now
 - How long do groups live?
-** TODO Chapter 28. Using The Lasso Tool 2:52
+** DONE Chapter 28. Using The Lasso Tool 2:52
 :PROPERTIES:
+:ID:       o2b:E42BB7E4-751B-4DAB-8A87-BFA3622FDD9E
+:POST_DATE: [2016-10-13 Thu 21:32]
+:POSTID:   10434
+:BLOG:     wisdomandwonder
 :END:
 
+- Lasso Tool =Q=
+- Draw around multiple objects to select them all
+- Shift-Click is often easier
+- Easily select an object by drawing a circle in/through it
 ** TODO Chapter 29. Selection With The Magic Wand Tool 4:10
 :PROPERTIES:
 :END:
