@@ -1,3 +1,4 @@
+#+DATE: [2016-10-13 Thu 21:02]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil prop:nil
 #+CATEGORY: Article
 #+TAGS: Adobe, Illustrator, Vector graphics, Udemy, adobe-illustrator-cc-tutorial
@@ -506,10 +507,20 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - "Liquid Creativity"
 - Easily create your own custom panel
 * IN-PROGRESS Section: 4, Selecting And Manipulating Illustrator Objects
-** TODO Chapter 25. Introduction To Selection 0:57
+** DONE Chapter 25. Introduction To Selection 0:57
 :PROPERTIES:
+:ID:       o2b:185F2366-9AD7-4E03-9DAB-2A092B65EEF2
+:POST_DATE: [2016-10-13 Thu 21:02]
+:POSTID:   10431
+:BLOG:     wisdomandwonder
 :END:
 
+- Selection is configurable!
+- How are groups defined?
+- Select on attributes
+  - Select all objects with one pixel stroke!
+- Work on an individual piece in a group
+- Smart guides
 ** TODO Chapter 26. Controlling Selection With Preferences 5:49
 :PROPERTIES:
 :END:
