@@ -634,10 +634,20 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Means it will look bad rasterized
     - Doesn't show fix yet
 - Selection by attribute lets you make global modifications
-** TODO Chapter 31. Working In Isolation Mode 4:32
+** DONE Chapter 31. Working In Isolation Mode 4:32
 :PROPERTIES:
 :END:
 
+- Way to get to individual pieces in groups
+- Find a group, Double click on it
+  - Top area shows that you are in that group
+  - Rest of screen greys out
+- The greyed out areas are isolated from everything that you are doing
+- Double click again on an object and everything else greys out
+- Top area left arrow or escape-key lets you get out
+- Selection Tool \rarr Option-Double-Click progressively selects
+  - By double clicking on object in a group progressively selects all objects
+    in inclosing groups
 ** TODO Chapter 32. Resizing Tricks 5:51
 :PROPERTIES:
 :END:
