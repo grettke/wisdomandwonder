@@ -648,10 +648,46 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Selection Tool \rarr Option-Double-Click progressively selects
   - By double clicking on object in a group progressively selects all objects
     in inclosing groups
-** TODO Chapter 32. Resizing Tricks 5:51
+** DONE Chapter 32. Resizing Tricks 5:51
 :PROPERTIES:
+:ID:       o2b:2414B408-55BE-4C67-8671-41A8BE3F4CC1
+:POST_DATE: [2016-10-13 Thu 22:18]
+:POSTID:   10438
+:BLOG:     wisdomandwonder
 :END:
 
+- Won't be resizing keycaps or symbols on them
+  - Probably just font sizes
+  - Might skips to chapter on text
+- Preferences \rarr General \rarr Scale Strokes & Effects
+  - When you make something bigger the strokes and effects will get bigger
+- We tend to be creatures of comfort when it comes to workflow configuration
+  - Every once in a while go into a pulldown and explore something new
+    - Go to Help and type it in
+    - It is possible that you need to know that
+  - Get to know these program!
+- Select an entire groups
+  - Command-Click it to select it all showing the bounding box
+  - Keep holding Command
+  - Resize it however you want
+  - Hold Command-Shift to keep it in proportion
+  - Hold Command-Option-Shift to resize it in proportion staying centered
+    - Remove the Shift key and it will still remain centered
+  - Holding Shift on rotation gives you 45\deg and 90\deg shifts
+- If you either have the bounding box of or want more precision you can do the
+  same thing with the Scale Tool
+  - Select the object (or group)
+  - Select Scale Tool =S=
+  - Click the point where you want to lock the object and a crosshairs will
+    appear there
+    - Hold Alt and click to show the Scale modifier panel with detailed options
+  - Select the object/group with no modifier and now you will resize it
+    relative to that point
+    - Unsure how to rotate it
+  - =X=, =Y=, and =W= in the top-middle section also bring up the Transform panel
+- The transform panel is where you would do precise transformations like
+  - Change the width and hide by specific percentages
+  - Rotate it by specific degrees
 ** TODO Chapter 33. Object Rotation And Smart Guides 5:16
 :PROPERTIES:
 :END:
