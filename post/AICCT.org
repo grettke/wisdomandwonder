@@ -521,10 +521,28 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Select all objects with one pixel stroke!
 - Work on an individual piece in a group
 - Smart guides
-** TODO Chapter 26. Controlling Selection With Preferences 5:49
+** DONE Chapter 26. Controlling Selection With Preferences 5:49
 :PROPERTIES:
+:ID:       o2b:6B3DA8EC-CA06-4FC6-AF2A-BF5D747B114D
+:POST_DATE: [2016-10-13 Thu 21:16]
+:POSTID:   10432
+:BLOG:     wisdomandwonder
 :END:
 
+- A whole chapter on selection, got my attention!
+- Andy says that it is one of most important skills
+  - Vector programs are called object-oriented
+- This lesson is all about the Selection Tool (=V=)
+- You can hide the bounding box of an object
+  - How do you reshape the object?
+    - Use the tools from the toolbar
+- Preferences \rarr Selection & Anchor Display
+  - Tolerance
+    - How close you are to an anchor point before AI informs you that you are
+      there
+    - Nice to set it to one so that you are operating precisely
+- Shift-Click to select multiple objects
+- Command-Drag on an object to move all of them
 ** TODO Chapter 27. Group And Direct Selection Tips 6:48
 :PROPERTIES:
 :END:
