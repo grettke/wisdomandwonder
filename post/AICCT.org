@@ -721,10 +721,16 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Double impact
   - Word has meaning
   - Image reinforces meaning
-** TODO Chapter 35. Creative Uses Of Duplicate Options 4:38
+** DONE Chapter 35. Creative Uses Of Duplicate Options 4:38
 :PROPERTIES:
+:ID:       o2b:8FD59DFA-B976-49E5-9A87-58D5CFE6244D
+:POST_DATE: [2016-10-14 Fri 15:07]
+:POSTID:   10441
+:BLOG:     wisdomandwonder
 :END:
 
+- Practice making a flower
+- Added =Rougen= to make it look more real
 * TODO Section: 5, Adobe Illustrator And Color Management
 ** TODO Chapter 36. Introduction To Color Management 1:08
 :PROPERTIES:
