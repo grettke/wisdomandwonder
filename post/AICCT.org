@@ -709,10 +709,18 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Remember that =X=, =Y=, and =W= are the transform panel
     - You can do the same thing there
 - Is it safe to align everything to pixel grid at the very end?
-** TODO Chapter 34. Working With Distort Tools 7:04
+** DONE Chapter 34. Working With Distort Tools 7:04
 :PROPERTIES:
+:ID:       o2b:7F5F9B78-06EA-48A0-B3D1-62CBFDA37EE2
+:POST_DATE: [2016-10-14 Fri 14:45]
+:POSTID:   10440
+:BLOG:     wisdomandwonder
 :END:
 
+- Transforming is Fun With Shapes
+- Double impact
+  - Word has meaning
+  - Image reinforces meaning
 ** TODO Chapter 35. Creative Uses Of Duplicate Options 4:38
 :PROPERTIES:
 :END:
