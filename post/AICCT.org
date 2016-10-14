@@ -688,10 +688,27 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - The transform panel is where you would do precise transformations like
   - Change the width and hide by specific percentages
   - Rotate it by specific degrees
-** TODO Chapter 33. Object Rotation And Smart Guides 5:16
+** DONE Chapter 33. Object Rotation And Smart Guides 5:16
 :PROPERTIES:
+:ID:       o2b:70F89970-6E0A-400C-92D0-626B3F0D489A
+:POST_DATE: [2016-10-14 Fri 14:34]
+:POSTID:   10439
+:BLOG:     wisdomandwonder
 :END:
 
+- Smart Guides shows useful information about context on artboard
+- Rotation tool
+  - Set anchor
+  - Drag to rotate
+  - Alt-Drag to put a copy at the new location
+- Operate upon multiple objects
+  - Select all objects
+  - Click Rotate tool
+  - Object \rarr Transform \rarr Transform Reach
+  - Enable =Preview=
+  - Remember that =X=, =Y=, and =W= are the transform panel
+    - You can do the same thing there
+- Is it safe to align everything to pixel grid at the very end?
 ** TODO Chapter 34. Working With Distort Tools 7:04
 :PROPERTIES:
 :END:
