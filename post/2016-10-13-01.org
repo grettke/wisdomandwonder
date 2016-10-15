@@ -2,7 +2,7 @@
 #+POSTID: 10430
 #+DATE: [2016-10-13 Thu 20:57]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Article, Link
+#+CATEGORY: Article
 #+TAGS: Yoga, philosophy, Health, Sense, Happiness
 #+TITLE: Tonights Notes
 
