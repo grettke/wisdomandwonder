@@ -1000,7 +1000,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :PROPERTIES:
 :END:
 
-* IN-PROGRESS Section: 10, Adobe Illustrator And Type
+* DONE Section: 10, Adobe Illustrator And Type
 ** DONE Chapter 79. Introduction to Type 1:09
 :PROPERTIES:
 :ID:       o2b:CFED6C8B-E3FC-4710-B684-58312A4594EB
@@ -1221,10 +1221,24 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Type \rarr Create Outlines : Turns anything into an outline
 - You can do a lot of things on text without converting it to an outline
   - But if you are going to press you gotta convert it to outline
-** TODO Chapter 89. Adding Fonts With TypeKit 4:54
+** DONE Chapter 89. Adding Fonts With TypeKit 4:54
 :PROPERTIES:
+:ID:       o2b:38A6CFE0-86B1-4820-A3A3-38B348750505
+:POST_DATE: [2016-10-16 Sun 14:13]
+:POSTID:   10463
+:BLOG:     wisdomandwonder
 :END:
 
+- TypeKit Fonts
+- Fonts create the mood for the word
+- There are thousands of fonts and yet people are always looking for more
+- New feature of AI is to access the TypeKit Fonts (TKF)
+- Adobe Garamond is based on Garamond
+  - Adobe Garamond Premier Pro is based on Robert Slimbach visited a museum,
+    looked at Garamond's metal punches and type designed, and based on that
+    refined the existing Garamond. That is the difference.
+- TypeKit gives you access to all Adobe fonts. *Wow*.
+- Inexhaustible source of fonts for any medium
 * TODO Section: 11, Effects And The Appearance Panel
 ** TODO Chapter 90. Introduction To Effects And The Appearance Panel 1:01
 :PROPERTIES:
