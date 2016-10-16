@@ -813,19 +813,23 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :PROPERTIES:
 :END:
 
-* IN-PROGRESS Section: 7, Working With Anchors And Paths
-** REVIEW Chapter 55. Introduction To Anchors And Paths 0:52
+* DONE Section: 7, Working With Anchors And Paths
+** DONE Chapter 55. Introduction To Anchors And Paths 0:52
 :PROPERTIES:
+:ID:       o2b:20A9D99F-7032-4276-B770-FDC24D7DCE51
+:POST_DATE: [2016-10-15 Sat 19:09]
+:POSTID:   10447
+:BLOG:     wisdomandwonder
 :END:
 
 - Basic working components of vector shapes
   - Core are paths and strokes
   - Control paths with anchors
     - Nails in the board for anchoring
-** REVIEW Chapter 56. Paths Versus Strokes 5:02
+** DONE Chapter 56. Paths Versus Strokes 5:02
 :PROPERTIES:
 :ID:       o2b:4BB9A6EA-3ADC-42A5-B887-CA6745AE5A50
-:POST_DATE: [2016-10-15 Sat 19:09]
+:POST_DATE: [2016-10-15 Sat 20:02]
 :POSTID:   10446
 :BLOG:     wisdomandwonder
 :END:
@@ -838,8 +842,12 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - =None= bottom for Strokes
 - Paths control shape
 - Anchors control Paths
-** REVIEW Chapter 57. Controlling Paths With Anchors 6:25
+** DONE Chapter 57. Controlling Paths With Anchors 6:25
 :PROPERTIES:
+:ID:       o2b:95314449-3981-4F8A-97ED-24AC37B568BD
+:POST_DATE: [2016-10-15 Sat 20:04]
+:POSTID:   10448
+:BLOG:     wisdomandwonder
 :END:
 
 - Anchors are connected by Paths which hold Strokes
@@ -858,14 +866,24 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Drag the Anchors around to reshape the object
   - Select as many anchors that you want
   - Bendy lines get reshaped too
-** REVIEW Chapter 58. Open Versus Closed Paths 4:18
-:PROPERTIES: [[60]]
+** DONE Chapter 58. Open Versus Closed Paths 4:18
+:PROPERTIES:
+:ID:       o2b:5CCAD011-F8F8-4D2C-8BB2-E65EA8FF6929
+:POST_DATE: [2016-10-15 Sat 20:05]
+:POSTID:   10449
+:BLOG:     wisdomandwonder
+:END:
+:PROPERTIES:
 :END:
 
 - The predictibiily of filling open or closed shapes
 - You can fill everything but a straight line
-** REVIEW Chapter 59. Using Join And Average On Open Paths 5:57
+** DONE Chapter 59. Using Join And Average On Open Paths 5:57
 :PROPERTIES:
+:ID:       o2b:15BF775B-F170-4824-9CD9-5F75215876B1
+:POST_DATE: [2016-10-15 Sat 20:06]
+:POSTID:   10450
+:BLOG:     wisdomandwonder
 :END:
 
 - Simple shapes can be made into complex objects
@@ -887,8 +905,12 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - =Both= is cool
   - =Join= helps, too
 - Easily make complex shapes out of simple objects
-** REVIEW Chapter 60. Getting Creative With The Scissors And Knife Tools 8:39
+** DONE Chapter 60. Getting Creative With The Scissors And Knife Tools 8:39
 :PROPERTIES:
+:ID:       o2b:FD098F41-0EAA-4776-980B-69FBCE43B61E
+:POST_DATE: [2016-10-15 Sat 20:07]
+:POSTID:   10451
+:BLOG:     wisdomandwonder
 :END:
 
 - Looking at more maker tools Scissors and Knife
