@@ -1078,10 +1078,41 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Type on Path around things
   - Start by creating a path
 - Can overflow into different places
-** TODO Chapter 83. The Character And Paragraph Panels 9:02
+** DONE Chapter 83. The Character And Paragraph Panels 9:02
 :PROPERTIES:
+:ID:       o2b:0F69E09C-9CD5-4E84-BA08-D592969A5A48
+:POST_DATE: [2016-10-15 Sat 21:34]
+:POSTID:   10456
+:BLOG:     wisdomandwonder
 :END:
 
+- Always show options
+  - Access in a panel the more thing and you see everything
+  - Do this for all Typography stuff
+- [[https://www.extensis.com/font-management/suitcase-fusion/][Suitcase]] lets you only show fonts that you are working with per app
+  - Helpful because in my keycaps I only use a few
+  - $120USD
+  - [[https://rightfontapp.com/][RightFont]] seems to do the same thing for $50USD
+  - Emailed both to see if they have the right tool for what I want
+- What style should I use for the keycaps?
+  - Is Bold easier to read?
+- Leading is the amount of the space between lines of text
+- New reading size for fonts is 11
+- Kearning is the space between individual letters V/A<-
+- Tracking is the spae between whole words <-VA->
+- T: Vertical scale
+- T: Horizontal scale
+- Baseline shift: raise up the word higher or lower
+  - Super and subscript?
+  - There is a setting for that
+- Rotate character
+  - Thinking of rotating the Ekeman faces
+  - Thinking of rotating the Emacs meta keys to make them clearly something new
+- Small bold and everything
+- Paragraph settings
+  - Just have to be in the paragraph to change its attributes
+- Styles let you automate all of the customization that you made in one
+  paragraph so you can do the same thing to another
 ** TODO Chapter 84. Creating Character And Paragraph Styles 7:42
 :PROPERTIES:
 :END:
