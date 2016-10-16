@@ -887,10 +887,23 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - =Both= is cool
   - =Join= helps, too
 - Easily make complex shapes out of simple objects
-** TODO Chapter 60. Getting Creative With The Scissors And Knife Tools 8:39
+** REVIEW Chapter 60. Getting Creative With The Scissors And Knife Tools 8:39
 :PROPERTIES:
 :END:
 
+- Looking at more maker tools Scissors and Knife
+  - Under the Eraser
+- Both work on a selected Object
+- Hold while either is selected hold down Command to get the Selection tool
+- Knife creates closed dynamic shapes
+- Scissors cuts a path that opens it up
+- Hold Shift when dragging Anchors to go straight
+- Scissors lets you chop apart ellipses into halve parts
+- Option-Drag objects creates a duplicate
+- Below the left bar color thing are
+  - Set path and stroke to black and white
+  - White box with red slash through it is "nothing"
+- Fun lesson!
 * TODO Section: 8, Creating And Managing Vector Shapes
 ** TODO Chapter 61. Introduction To Vector Shapes 0:54
 :PROPERTIES:
