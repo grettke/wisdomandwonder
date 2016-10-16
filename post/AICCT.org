@@ -1278,10 +1278,22 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :END:
 
 - Layers are important for control
-** TODO Chapter 98. Layer Basics 4:31
+** DONE Chapter 98. Layer Basics 4:31
 :PROPERTIES:
+:ID:       o2b:05AEDA26-ED8D-4B04-8C03-75AF477524FF
+:POST_DATE: [2016-10-16 Sun 14:24]
+:POSTID:   10465
+:BLOG:     wisdomandwonder
 :END:
 
+- Layers useful but more critical for raster programs
+- Layers are for control
+- Visibility shows and hides objects
+- Locks enable and disable ability to select objects in layer
+- Objects have stacking order
+  - Object \rarr Arrange \rarr Send to Back
+  - Control Z-Order in layer itself
+- Next order is panel itself: panel stacking order in layers Panel
 ** TODO Chapter 99. Generating Layers And Moving Objects 5:34
 :PROPERTIES:
 :END:
