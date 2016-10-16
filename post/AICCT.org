@@ -858,10 +858,12 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Drag the Anchors around to reshape the object
   - Select as many anchors that you want
   - Bendy lines get reshaped too
-** TODO Chapter 58. Open Versus Closed Paths 4:18
+** REVIEW Chapter 58. Open Versus Closed Paths 4:18
 :PROPERTIES: [[60]]
 :END:
 
+- The predictibiily of filling open or closed shapes
+- You can fill everything but a straight line
 ** TODO Chapter 59. Using Join And Average On Open Paths 5:57
 :PROPERTIES:
 :END:
