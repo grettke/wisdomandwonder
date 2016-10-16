@@ -1268,7 +1268,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :PROPERTIES:
 :END:
 
-* IN-PROGRESS Section: 12, Layers 101
+* DONE Section: 12, Layers 101
 ** DONE Chapter 97. Introduction To Layers 0:51
 :PROPERTIES:
 :ID:       o2b:6C9DA181-73CC-4FD7-A9C0-770FA9626B4C
@@ -1389,10 +1389,15 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Paths, too
 - The state of expanded layers in a file is retained across file-saves and
   file-opens
-** TODO Chapter 103. Project: Working With Opacity And Blending Modes 4:05
+** DONE Chapter 103. Project: Working With Opacity And Blending Modes 4:05
 :PROPERTIES:
+:ID:       o2b:136749C6-7949-4685-BAD8-5195D8019BA0
+:POST_DATE: [2016-10-16 Sun 18:11]
+:POSTID:   10470
+:BLOG:     wisdomandwonder
 :END:
 
+- Introducing transparency idea for the next chapter
 * TODO Section: 13, Working With Images And Masks
 ** TODO Chapter 104. Introduction To Images And Masks 0:59
 :PROPERTIES:
