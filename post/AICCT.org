@@ -864,10 +864,29 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 
 - The predictibiily of filling open or closed shapes
 - You can fill everything but a straight line
-** TODO Chapter 59. Using Join And Average On Open Paths 5:57
+** REVIEW Chapter 59. Using Join And Average On Open Paths 5:57
 :PROPERTIES:
 :END:
 
+- Simple shapes can be made into complex objects
+- Andy started with AI in '87
+  - Was already in natural media industry all his life
+  - Wanted to get into new computer media
+  - First attempts were frustrating but learned that
+    - Practice makes perfect
+    - You don't have to draw the Mona Lisa
+      - Instead draw simple shapes that can be /made into/ the Mona Lisa
+- Double-Clicking the hand tool, not the zoom tool, returns the zoom to 100%
+- You can =weld= two Anchor points
+  - *Only two*
+  - This is Marqueeing that area
+  - Use the Direct Selection Tool =A=
+  - Be sure you only got two
+- Sometimes you want to consider the curvature of the two lines
+  - This is the =Average= operation
+  - =Both= is cool
+  - =Join= helps, too
+- Easily make complex shapes out of simple objects
 ** TODO Chapter 60. Getting Creative With The Scissors And Knife Tools 8:39
 :PROPERTIES:
 :END:
