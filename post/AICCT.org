@@ -1113,10 +1113,31 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Just have to be in the paragraph to change its attributes
 - Styles let you automate all of the customization that you made in one
   paragraph so you can do the same thing to another
-** TODO Chapter 84. Creating Character And Paragraph Styles 7:42
+** DONE Chapter 84. Creating Character And Paragraph Styles 7:42
 :PROPERTIES:
+:ID:       o2b:142FA44A-0AE4-4A6F-9C8A-50E14025A9F5
+:POST_DATE: [2016-10-15 Sat 21:50]
+:POSTID:   10457
+:BLOG:     wisdomandwonder
 :END:
 
+- DRY
+- Perhaps
+  - Can I automate the insertion of all the character pretty close to where
+    they should be on their own layers
+  - Apply a character style to everything on that layers
+    Have all of the work done automatically?
+- Create a paragraph style based on the formatting that you performed on a paragraph
+  - Same for characters
+  - Extracting types from selected text
+  - Develop styles that mean something to you
+- Do I configure text via style or via the entire layer?
+  - Put in KQS
+- Can Load (Import) Character styles from another document
+  - Perhaps create a document just to store all of those Styles for use by
+    other files?
+- Can change styles globally
+  - As you would expect
 ** TODO Chapter 85. Text Threading 3:19
 :PROPERTIES:
 :END:
