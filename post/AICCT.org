@@ -1344,10 +1344,39 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Instructions on how to do something
 - Preview a whole layer
 - Dim images
-** TODO Chapter 101. Managing Layer Panel Options 10:23
+** DONE Chapter 101. Managing Layer Panel Options 10:23
 :PROPERTIES:
+:ID:       o2b:CAD6F342-0AFD-425A-B7C1-8B5D08E11508
+:POST_DATE: [2016-10-16 Sun 15:14]
+:POSTID:   10468
+:BLOG:     wisdomandwonder
 :END:
 
+- Isolation mode will be useful for working with individual keyboard-layers
+  while still being able to see how things look overall
+- Double-click on an object to go into isolation mode automatically
+  - Use that back arrow in the top-middle thing
+  - Exit by double-clicking on the artboard
+- Select an object with the Direct Selection tool and search for it in a layer
+  and it will list all instances it can find
+- Merge selection layers
+- Flatten every layer into a single layer
+- Select N things and collect in a new layer
+- Release to layers
+  - Sequence: NA
+  - Build: NA
+- Make the layer a template
+- Option-Show/Hide will hide/show everything but that layer
+- Out line others: WOW
+  - Option-command click to do it too
+  - Preview all layers to show them again
+- Lock Others
+  - Option-Click
+- Paste Remembers Layers: Neat
+- There are general options for the layer panel itself
+  - Show Layers Only
+  - Make layers big
+  - Do I need sub-layers shown?
 ** TODO Chapter 102. Enhancements To The Layers Panel 2:24
 :PROPERTIES:
 :END:
