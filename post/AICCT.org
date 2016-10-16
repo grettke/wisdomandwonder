@@ -824,6 +824,10 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
     - Nails in the board for anchoring
 ** REVIEW Chapter 56. Paths Versus Strokes 5:02
 :PROPERTIES:
+:ID:       o2b:4BB9A6EA-3ADC-42A5-B887-CA6745AE5A50
+:POST_DATE: [2016-10-15 Sat 19:09]
+:POSTID:   10446
+:BLOG:     wisdomandwonder
 :END:
 
 - Every tools creates Anchors
@@ -838,7 +842,22 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :PROPERTIES:
 :END:
 
--
+- Anchors are connected by Paths which hold Strokes
+- Anchors control the path
+- When the Pen tool has an asterisk next to it, it is telling that you are
+  creating a new shape. You are not connecting it to anything. It is bran new.
+- When you hover an Pen that is creating Anchors over another Anchor and an
+  open circle appears it means that you are going to "close the object"
+- How to create an open shape: A straight line for example
+  - Couple ways
+  - Go pick up another tool and switch back, never do this
+  - Click to drop first Anchor, then second Anchor, then hit enter
+- If you Click-And-Drag to drop an Anchor, you can make non-straight lines
+- If you select the Direct Selection Tool and hover over an Anchor, it makes
+  the anchor really big
+  - Drag the Anchors around to reshape the object
+  - Select as many anchors that you want
+  - Bendy lines get reshaped too
 ** TODO Chapter 58. Open Versus Closed Paths 4:18
 :PROPERTIES: [[60]]
 :END:
