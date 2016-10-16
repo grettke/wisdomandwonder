@@ -1138,14 +1138,45 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
     other files?
 - Can change styles globally
   - As you would expect
-** TODO Chapter 85. Text Threading 3:19
+** DONE Chapter 85. Text Threading 3:19
 :PROPERTIES:
+:ID:       o2b:33B80F96-D9FB-4497-838F-E84A7D0B48D4
+:POST_DATE: [2016-10-16 Sun 11:42]
+:POSTID:   10458
+:BLOG:     wisdomandwonder
 :END:
 
-** TODO Chapter 86. Text And The Eyedropper Tool 5:18
+- Threading text between separate containers
+- See the offset text plus sign: you can't print the amount of text in there
+- Couple ways to handle this
+  - Easiest click on the plus in the overflow flag and draw another text
+    container into which overflow will occur
+- You can flow text through threading any way you want as you thread together
+  text boxes. You easily layout text to different parts of the page say if you
+  want to include an image on that location of the Artboard.
+- Can thread the text into any shape
+** DONE Chapter 86. Text And The Eyedropper Tool 5:18
 :PROPERTIES:
+:ID:       o2b:8D6D612E-B106-4FD4-AAB5-AEAC7AA02C4E
+:POST_DATE: [2016-10-16 Sun 11:53]
+:POSTID:   10459
+:BLOG:     wisdomandwonder
 :END:
 
+- When an Object is selected and you click something with the Eye Dropper tool
+  you will change the strong of the selected object
+- Many tools show their options you double click them
+  - You can configure it to copy or not and apply or not both Character Style
+    and Paragraph Style
+- Command turns the pointer into Selection Tool so you can use it to select
+  stuff and then release it to return to the selected tool. This is helpful
+  for using the Eye Dropper tool.
+- Option-Eye-Dropper change's it's behavior
+  - No-Option-Eye-Dropper is =PULL IN= from object
+  - Option-Eye-Dropper is =PUSH OUT= to object
+    - In other words you don't have to select something to perform that modification
+    - T-Over-Eyedropper
+      - Can reproduce this with text
 ** TODO Chapter 87. Adding Text To A Circle 6:52
 :PROPERTIES:
 :END:
