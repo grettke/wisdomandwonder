@@ -1000,11 +1000,22 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :PROPERTIES:
 :END:
 
-* TODO Section: 10, Adobe Illustrator And Type
-** TODO Chapter 79. Introduction to Type 1:09
+* IN-PROGRESS Section: 10, Adobe Illustrator And Type
+** DONE Chapter 79. Introduction to Type 1:09
 :PROPERTIES:
+:ID:       o2b:CFED6C8B-E3FC-4710-B684-58312A4594EB
+:POST_DATE: [2016-10-15 Sat 20:13]
+:POSTID:   10452
+:BLOG:     wisdomandwonder
 :END:
 
+- All about Type and relationship to Adobe Illustrator
+  - Type == Text?
+- Difference between Container and Point type
+- Put text along curves and circles
+- Save reusable styles
+- Copy attributes from some text to other
+- Convert text to outlines
 ** TODO Chapter 80. Container And Point Type 11:10
 :PROPERTIES:
 :END:
