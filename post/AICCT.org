@@ -1268,7 +1268,7 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :PROPERTIES:
 :END:
 
-* TODO Section: 12, Layers 101
+* IN-PROGRESS Section: 12, Layers 101
 ** TODO Chapter 97. Introduction To Layers 0:51
 :PROPERTIES:
 :END:
