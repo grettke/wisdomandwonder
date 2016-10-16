@@ -1067,10 +1067,17 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Draw a line through objects that you want to join
 - Paste In Place
 - Demo simple way to put text into a shape by using a copy of the shape
-** TODO Chapter 82. Working With Straight And Curved Text 4:22
+** DONE Chapter 82. Working With Straight And Curved Text 4:22
 :PROPERTIES:
+:ID:       o2b:050A03F3-ECA0-41C7-ABE0-1AFC37CBFEEE
+:POST_DATE: [2016-10-15 Sat 20:56]
+:POSTID:   10455
+:BLOG:     wisdomandwonder
 :END:
 
+- Type on Path around things
+  - Start by creating a path
+- Can overflow into different places
 ** TODO Chapter 83. The Character And Paragraph Panels 9:02
 :PROPERTIES:
 :END:
