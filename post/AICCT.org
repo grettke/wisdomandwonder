@@ -1177,10 +1177,23 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
     - In other words you don't have to select something to perform that modification
     - T-Over-Eyedropper
       - Can reproduce this with text
-** TODO Chapter 87. Adding Text To A Circle 6:52
+** DONE Chapter 87. Adding Text To A Circle 6:52
 :PROPERTIES:
+:ID:       o2b:DBFD0BDE-F5D6-416E-8ABE-7DEE362D055E
+:POST_DATE: [2016-10-16 Sun 12:20]
+:POSTID:   10460
+:BLOG:     wisdomandwonder
 :END:
 
+- Doing two things
+  - Put text on circle
+  - How in AI do you put two different kinds of text going in two directions
+    on the same physical path?
+- One way is to use two circle, simple
+- Split the circle, add text, center it, click on the handle and center it for
+  real
+- Pull up on the handle to put the text on the opposite side of the path
+- Great demo of baseline shifting
 ** TODO Chapter 88. Converting Type To Outlines 6:28
 :PROPERTIES:
 :END:
