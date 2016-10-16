@@ -1016,14 +1016,57 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Save reusable styles
 - Copy attributes from some text to other
 - Convert text to outlines
-** TODO Chapter 80. Container And Point Type 11:10
+** DONE Chapter 80. Container And Point Type 11:10
 :PROPERTIES:
+:ID:       o2b:77C3CA7D-85ED-4080-8CCF-91BE98B1DFE3
+:POST_DATE: [2016-10-15 Sat 20:35]
+:POSTID:   10453
+:BLOG:     wisdomandwonder
 :END:
 
-** TODO Chapter 81. Creating Custom Type Containers 7:14
+- Text
+  - Ain't boring
+  - Can do *anything* to Text
+- Use the Typography workspace
+- AI falls into the category of Typesetter
+  - Like LaTeX?
+- Use InDesign (ID) for writing
+- Point text ignores the right margin
+  - You gotta hit Enter to get a new line
+- If a Text object has focus and you want to insert text somewhere else
+  - Command-Click then release and the cursor changes to a box so you can
+    insert a Text
+- Drag a giant Text area
+  - Soft-returns happen automatically in here
+  - This is Container Text
+- Twist Text
+  - Container; text remains vertical and fills bounds
+  - Point: text rotates
+- Ditto for resizing box
+- Double-click the bar-thing to switch between Point and Container text
+-
+** DONE Chapter 81. Creating Custom Type Containers 7:14
 :PROPERTIES:
+:ID:       o2b:153E48AB-BB9C-45D8-A19E-1D89B6387775
+:POST_DATE: [2016-10-15 Sat 20:50]
+:POSTID:   10454
+:BLOG:     wisdomandwonder
 :END:
 
+- Type Tool vs Area Text Tool
+  - Former is always rectangle or square
+  - Latter lets you convert an area into a writable area
+- Option-Actions operates from center, keep forgetting
+- When you convert a Path to be a Area Text Tool it becomes invisible because
+  it is just a place to hold Text
+- Shift-Click selects multiple objects
+- Align is always relative to something
+- Shape Builder Tool
+  - Select multiple objects
+  - Click this tool
+  - Draw a line through objects that you want to join
+- Paste In Place
+- Demo simple way to put text into a shape by using a copy of the shape
 ** TODO Chapter 82. Working With Straight And Curved Text 4:22
 :PROPERTIES:
 :END:
