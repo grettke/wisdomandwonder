@@ -1377,10 +1377,18 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Show Layers Only
   - Make layers big
   - Do I need sub-layers shown?
-** TODO Chapter 102. Enhancements To The Layers Panel 2:24
+** DONE Chapter 102. Enhancements To The Layers Panel 2:24
 :PROPERTIES:
+:ID:       o2b:78D95A75-5DD7-4977-9DBF-84C90347A83C
+:POST_DATE: [2016-10-16 Sun 17:46]
+:POSTID:   10469
+:BLOG:     wisdomandwonder
 :END:
 
+- You can lock and show/hide all of the sub-layers, too
+  - Paths, too
+- The state of expanded layers in a file is retained across file-saves and
+  file-opens
 ** TODO Chapter 103. Project: Working With Opacity And Blending Modes 4:05
 :PROPERTIES:
 :END:
