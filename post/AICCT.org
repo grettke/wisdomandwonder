@@ -827,17 +827,18 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :END:
 
 - Every tools creates Anchors
-- The Pen tool is the main tools
+- The Pen tool is the main tool
 - Pen creates Anchors
 - Anchors are connected by Paths
 - Paths are the home for Strokes
 - =None= bottom for Strokes
 - Paths control shape
 - Anchors control Paths
-** TODO Chapter 57. Controlling Paths With Anchors 6:25
+** REVIEW Chapter 57. Controlling Paths With Anchors 6:25
 :PROPERTIES:
 :END:
 
+-
 ** TODO Chapter 58. Open Versus Closed Paths 4:18
 :PROPERTIES: [[60]]
 :END:
