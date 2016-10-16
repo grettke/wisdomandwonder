@@ -1326,10 +1326,24 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   move those objects into that layer.
 - Paste-in-place \rarr many uses
 - Cannot wait to set up the keyboard using AI
-** TODO Chapter 100. Layer Panel Options 4:26
+** DONE Chapter 100. Layer Panel Options 4:26
 :PROPERTIES:
+:ID:       o2b:1A2F45AF-F59C-4B4A-9FB0-FC7641A8F8E7
+:POST_DATE: [2016-10-16 Sun 14:53]
+:POSTID:   10467
+:BLOG:     wisdomandwonder
 :END:
 
+- Double-click layer name to change it
+- Each layer's options are configured individually
+- Template Layer
+  - Not designed to print
+  - Designed to guide you
+- You can disable a layer from printing
+  - Make it easy to read on a computer and also printed
+  - Instructions on how to do something
+- Preview a whole layer
+- Dim images
 ** TODO Chapter 101. Managing Layer Panel Options 10:23
 :PROPERTIES:
 :END:
