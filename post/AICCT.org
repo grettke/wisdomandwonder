@@ -1194,10 +1194,33 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   real
 - Pull up on the handle to put the text on the opposite side of the path
 - Great demo of baseline shifting
-** TODO Chapter 88. Converting Type To Outlines 6:28
+** DONE Chapter 88. Converting Type To Outlines 6:28
 :PROPERTIES:
+:ID:       o2b:96E3F032-8C56-4136-AA93-0300A2CE41AD
+:POST_DATE: [2016-10-16 Sun 12:40]
+:POSTID:   10461
+:BLOG:     wisdomandwonder
 :END:
 
+- When you convert text to outline you lose control of it as a font but gain
+  more features
+- Envelope Distort
+  - V
+  - Select Text
+  - Option-Shift-Command-W
+  - Preview On
+- Now that you converted the text to an outline and modified it with envelope
+  distort you can't modify it as text but you can modify it using the envelope
+  distort tool itself
+  - Object \rarr Envelope Distort \rarr Edit Contents
+  - Envelope Release shows you the mask because it separates the path and the
+    Text
+  - Say you can't print to a four color press so you select the object and
+    Expand it. Now as press can handle it. Is this an issue for keycaps?
+    - Now it is no longer text, can't fix any of it.
+- Type \rarr Create Outlines : Turns anything into an outline
+- You can do a lot of things on text without converting it to an outline
+  - But if you are going to press you gotta convert it to outline
 ** TODO Chapter 89. Adding Fonts With TypeKit 4:54
 :PROPERTIES:
 :END:
