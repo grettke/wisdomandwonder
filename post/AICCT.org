@@ -1294,10 +1294,38 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Object \rarr Arrange \rarr Send to Back
   - Control Z-Order in layer itself
 - Next order is panel itself: panel stacking order in layers Panel
-** TODO Chapter 99. Generating Layers And Moving Objects 5:34
+** DONE Chapter 99. Generating Layers And Moving Objects 5:34
 :PROPERTIES:
+:ID:       o2b:4E313440-CA91-4006-8C5F-30E1966B6377
+:POST_DATE: [2016-10-16 Sun 14:47]
+:POSTID:   10466
+:BLOG:     wisdomandwonder
 :END:
 
+- Two workflows in AI
+  - Path of logic and order
+    - Watch what you are doing
+    - Organize the document up front
+  - Having fun with the journey
+    - Don't watch what you are doing logically
+    - End up with complicated document in one layer
+- Layers \rarr Properties \rarr Flatten Artwork
+  - Flatten all layers
+  - Cool!
+- In the Layer panel you can expand that layer to show all of the objects that
+  live inside of it
+  - Groups are containers so they are expandable
+- If you aggressively utilize Groups for all of you Objects then even if you
+  did place everything in one layer you can easily pull out group(s) of
+  objects into a new layer.
+- For each layer you choose a color of the bounding box for when you select
+  something in that layer
+  - This helps you make sense of making selections in a multi-layer document
+- When you make selections in one layer a little filled square appears on the
+  right side of the layer. If you drag that box into a another layer that will
+  move those objects into that layer.
+- Paste-in-place \rarr many uses
+- Cannot wait to set up the keyboard using AI
 ** TODO Chapter 100. Layer Panel Options 4:26
 :PROPERTIES:
 :END:
