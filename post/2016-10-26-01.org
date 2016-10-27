@@ -1,0 +1,35 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10474
+#+DATE: [2016-10-26 Wed 21:03]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Keyboard, MechanicalKeyboard
+#+TITLE: Techne (Emacs Friendly Keyboard): Operations Keys
+
+The most important keys on any keyboard for an Emacs user are the /Operation
+Keys/ (I made up that term). Without them Emacs would be useless. For Techne
+(the new name for my Emacs keyboard project) I decided to use symbols instead
+of letters for them.
+
+The operations cluster is on both the left and right side of the keyboard.
+Yes, that is a full twenty keys just to make life happier in Emacs! I love
+keyboards so dedicating twenty keys to a critical task is perfect for me. These
+sections live on a eight row by sixteen column layout so there is plenty of
+room. It's bottom left corner is position (1,1) (Row, Column) increasing as
+you go up and to the right (ala Cartesian coordinates). In the table I wrote
+the key name and then the symbol. The picture only includes the symbol.
+
+Legend: C# (column number)
+
+| Row | Four  | Five  | Six   | Seven   | Eight |
+|-----+-------+-------+-------+---------+-------|
+| Two | Hyper | Super | Meta  | Control | Space |
+| One | Alt   | GUI   | Ultra | Shift   | Enter |
+
+[[file:image/16-10-26-01_Left_Operations.png]]
+
+Ultra is: =C-m-S-H=. Emacs can [[https://www.wisdomandwonder.com/article/10197/bind-to-control-meta-super-hyper-in-emacs][handle that]] including the =Shift= modifier along
+with it. In case you haven't encountered it yet, [[https://www.wisdomandwonder.com/article/10146/every-emacser-can-use-hyper-on-every-usb-hid-keyboard][here]] is how to get all of the
+Emacs modifiers on a /modern/ USB keyboard.
+
+# image/16-10-26-01_Left_Operations.png https://www.wisdomandwonder.com/wp-content/uploads/2016/10/16-10-26-01_Left_Operations.png
