@@ -27,7 +27,7 @@ what I want to have happen:
 - Alt is for the OS
   - Change windows
   - Take screenshots
-- GUI is for the OS
+- =Gui= is for the OS
   - Show run dialogs
   - Insert characters
 - Control is for both the OS and Emacs
