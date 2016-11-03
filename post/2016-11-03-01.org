@@ -1,0 +1,16 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10475
+#+DATE: [2016-11-03 Thu 04:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Org Mode 9.0 is Released
+
+[[http://lists.gnu.org/archive/html/emacs-orgmode/2016-11/msg00028.html][Announcement]].
+
+[[http://orgmode.org/Changes.html][Changes]].
+
+- Interesting additions (that you may have already seen in development)
+  - Linter
+  - Choose latex compiler keyword
+  - PlantUML convenience
