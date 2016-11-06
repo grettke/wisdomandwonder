@@ -877,41 +877,95 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Kuler: online free color profile sharing site by Adobe
 
 * TODO Section: 6, Working With Shapes, Fills, And Strokes
-** TODO Chapter 46. Introduction To Shapes, Fills, And Strokes 0:55
+** WAIT Chapter 46. Introduction To Shapes, Fills, And Strokes 0:55
 :PROPERTIES:
+:END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-05 Sat 20:30] \\
+  Watched. Notes taken. Won't yet post.
 :END:
 
-** TODO Chapter 47. Creating Basic Shapes 10:42
+- Creating complex and really cool looking shapes using simple shapes
+- Can do it mathematically
+- Strokes \rarr Objects
+- Make \rarr Modify \rarr Patterns
+
+** WAIT Chapter 47. Creating Basic Shapes 10:42
 :PROPERTIES:
+:END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-05 Sat 20:42] \\
+  Watched. Notes taken. Won't yet post.
 :END:
 
-** TODO Chapter 48. More On Basic Shapes 8:15
+- Object drawing 101
+- Nice to see the "basics"
+
+** WAIT Chapter 48. More On Basic Shapes 8:15
 :PROPERTIES:
+:END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-05 Sat 21:03] \\
+  Watched. Notes taken. Won't yet post.
 :END:
 
-** TODO Chapter 49. It Is All In The Math 3:57
+- Did lines and stuff
+- Introduced the Stroke panel again (revisited?)
+
+** WAIT Chapter 49. It Is All In The Math 3:57
 :PROPERTIES:
+:END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-05 Sat 21:08] \\
+  Watched. Notes taken. Won't yet post.
 :END:
 
-** TODO Chapter 50. Working With Object Fills 6:07
+- The dimensions of the last object that you created are in the buffer when
+  you create new objects
+- Input fields can do math
+
+** WAIT Chapter 50. Working With Object Fills 6:07
 :PROPERTIES:
+:END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-05 Sat 21:15] \\
+  Watched. Notes taken. Won't yet post.
 :END:
 
-** TODO Chapter 51. The Basics Of Object Strokes 8:17
+- Filling helps choose those areas later
+
+** WAIT Chapter 51. The Basics Of Object Strokes 8:17
 :PROPERTIES:
 :END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-05 Sat 21:30] \\
+  Watched. Notes taken. Won't yet post.
+:END:
+
+- Objects can have
+  - Fill and stroke
+  - Fill no stroke
+  - No fill and stroke
+  - No fill and no stroke
+- Stroke details totally change the look of things
 
 ** TODO Chapter 52. Converting Strokes To Objects 3:44
 :PROPERTIES:
 :END:
 
+-
+
 ** TODO Chapter 53. Working With Gradient Fills 7:02
 :PROPERTIES:
 :END:
 
+-
+
 ** TODO Chapter 54. Modifying And Creating Patterns 6:44
 :PROPERTIES:
 :END:
+
+-
 
 * DONE Section: 7, Working With Anchors And Paths
 ** DONE Chapter 55. Introduction To Anchors And Paths 0:52
