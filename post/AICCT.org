@@ -735,46 +735,146 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 
 - Practice making a flower
 - Added =Rougen= to make it look more real
-* TODO Section: 5, Adobe Illustrator And Color Management
-** TODO Chapter 36. Introduction To Color Management 1:08
+* WAIT Section: 5, Adobe Illustrator And Color Management
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-05 Sat 19:34] \\
+  Watched. Minimal review. Not yet posted.
+:END:
+** WAIT Chapter 36. Introduction To Color Management 1:08
 :PROPERTIES:
+:END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-05 Sat 18:07] \\
+  Watched. Minimal review. Won't yet post.
 :END:
 
-** TODO Chapter 37. Designing With The End In Mind 6:10
+- Always consider the destination
+- Management tools
+- Using existing
+- Creating your own
+** WAIT Chapter 37. Designing With The End In Mind 6:10
 :PROPERTIES:
+:END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-05 Sat 18:15] \\
+  Watched. Minimal review. Won't yet post.
 :END:
 
-** TODO Chapter 38. Managing ColorSync Settings 6:10
+- Out of the box you've got two color spaces
+  - RGB Additive (Red, Green, Blue): Painting with Light
+    - Monitors, televisions, smartphones
+  - CMYK Subtractive (Cyan, Magenta, Yellow, Black): World of Absorption
+    - Print, Paper
+- 16 million colors
+- Color Gamut: Size of spectrum aka color range
+  - Monitor can do things that CMYK can't
+- The colors that you see are not absorbed by the destination of the light
+- Intent
+  - Paper, Print \rarr CMYK
+  - Monitor, Television, Smartphone \rarr RGB Additive
+
+** WAIT Chapter 38. Managing ColorSync Settings 6:10
 :PROPERTIES:
+:END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-05 Sat 18:25] \\
+  Watched. Minimal review. Won't yet post.
 :END:
 
-** TODO Chapter 39. The Improved Illustrator Swatches Panel 2:03
+- Color Profiles
+- Color Sync
+
+** WAIT Chapter 39. The Improved Illustrator Swatches Panel 2:03
 :PROPERTIES:
+:END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-05 Sat 18:27] \\
+  Watched. Minimal review. Won't yet post.
 :END:
 
-** TODO Chapter 40. Creating Process And Global Colors 6:59
+- Dragging out swatches don't divert your eyes and it enhances your workflow
+
+** WAIT Chapter 40. Creating Process And Global Colors 6:59
 :PROPERTIES:
+:END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-05 Sat 18:35] \\
+  Watched. Minimal review. Won't yet post.
 :END:
 
-** TODO Chapter 41. Defining Spot Colors 3:27
+- AI is a document-specific program
+  - Everything is saved with the document
+  - Can be a hassle
+  - Can be a strength
+- EG: Only include desired colors
+- If you have an object selected when you select a color it changes the color
+  of the object
+  - You can drag that selected color into the tear off
+  - You can also click the new button
+  - Box warns of web-unsafe. Yield warns of press-unsafe.
+  - Globals are redefinable
+- Can manage colors per global color and layer
+
+** WAIT Chapter 41. Defining Spot Colors 3:27
 :PROPERTIES:
+:END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-05 Sat 18:39] \\
+  Watched. Minimal review. Not yet posted.
 :END:
 
-** TODO Chapter 42. Organizing Colors Using Groups 3:08
+- Used by 4-color presses
+  - Separate plates
+  - not mixed with CMYK
+- Swatches: Create a custom groups for your stuff
+
+** WAIT Chapter 42. Organizing Colors Using Groups 3:08
 :PROPERTIES:
+:END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-05 Sat 18:42] \\
+  Watched. Minimal review. Not yet posted.
 :END:
 
-** TODO Chapter 43. Using Illustrator Color Libraries 3:29
+- Everything in your toolbox should be exactly where you expect it to be
+  - In terms of colors
+  - Using groups
+
+** WAIT Chapter 43. Using Illustrator Color Libraries 3:29
 :PROPERTIES:
+:END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-05 Sat 18:46] \\
+  Watched. Minimal review. Not yet posted.
 :END:
 
-** TODO Chapter 44. Saving Custom Color Libraries 4:25
+- Filter group search by color percentage
+
+** WAIT Chapter 44. Saving Custom Color Libraries 4:25
 :PROPERTIES:
+:END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-05 Sat 19:28] \\
+  Watched. Minimal review. Not yet posted.
 :END:
 
-** TODO Chapter 45. Getting Inspiration With Color Guide And Kuler 6:07
+- Share swatch libraries by saving them
+- Delete what you don't want to save
+- Bulk add by selecting all objects
+  - New Color Group
+  - From Selected Artwork
+- ASE swatch files let you share between apps in the Adobe suite
+
+** WAIT Chapter 45. Getting Inspiration With Color Guide And Kuler 6:07
 :PROPERTIES:
 :END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-05 Sat 19:34] \\
+  Watched. Minimal review. Not yet posted.
+:END:
+
+- Pre-defined logically related for inspiration
+- Kuler: online free color profile sharing site by Adobe
 
 * TODO Section: 6, Working With Shapes, Fills, And Strokes
 ** TODO Chapter 46. Introduction To Shapes, Fills, And Strokes 0:55
