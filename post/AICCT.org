@@ -949,23 +949,38 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - No fill and no stroke
 - Stroke details totally change the look of things
 
-** TODO Chapter 52. Converting Strokes To Objects 3:44
+** WAIT Chapter 52. Converting Strokes To Objects 3:44
 :PROPERTIES:
 :END:
-
--
-
-** TODO Chapter 53. Working With Gradient Fills 7:02
-:PROPERTIES:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-07 Mon 20:28] \\
+  Read
 :END:
 
--
+- Wild
 
-** TODO Chapter 54. Modifying And Creating Patterns 6:44
+** WAIT Chapter 53. Working With Gradient Fills 7:02
 :PROPERTIES:
 :END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-07 Mon 20:36] \\
+  Watched.
+:END:
 
--
+- Gradients \rarr Fun
+- Opacity
+- Drag modifications
+- Drag custom gradients to swatches
+
+** WAIT Chapter 54. Modifying And Creating Patterns 6:44
+:PROPERTIES:
+:END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-07 Mon 20:43] \\
+  Watched
+:END:
+
+- Patterns \rarr Easy
 
 * DONE Section: 7, Working With Anchors And Paths
 ** DONE Chapter 55. Introduction To Anchors And Paths 0:52
