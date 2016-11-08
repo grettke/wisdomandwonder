@@ -876,7 +876,11 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 - Pre-defined logically related for inspiration
 - Kuler: online free color profile sharing site by Adobe
 
-* TODO Section: 6, Working With Shapes, Fills, And Strokes
+* WAIT Section: 6, Working With Shapes, Fills, And Strokes
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-07 Mon 20:44] \\
+  Done
+:END:
 ** WAIT Chapter 46. Introduction To Shapes, Fills, And Strokes 0:55
 :PROPERTIES:
 :END:
@@ -1095,46 +1099,154 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - Set path and stroke to black and white
   - White box with red slash through it is "nothing"
 - Fun lesson!
-* TODO Section: 8, Creating And Managing Vector Shapes
-** TODO Chapter 61. Introduction To Vector Shapes 0:54
+* WAIT Section: 8, Creating And Managing Vector Shapes
+:LOGBOOK:
+- State "GO"         from "TODO"       [2016-11-07 Mon 22:08] \\
+  Started
+- State "WAIT"       from "GO"         [2016-11-07 Mon 22:08] \\
+  Done for now.
+:END:
+** WAIT Chapter 61. Introduction To Vector Shapes 0:54
 :PROPERTIES:
+:END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-07 Mon 20:54] \\
+  Watched.
 :END:
 
-** TODO Chapter 62. Switching Drawing Modes 8:46
+- Managing and building shapes
+- Symbol creation and management
+
+** WAIT Chapter 62. Switching Drawing Modes 8:46
 :PROPERTIES:
+:END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-07 Mon 21:03] \\
+  Watched.
 :END:
 
-** TODO Chapter 63. Working With Pathfinder Tools 10:05
+- Stacking order
+- /Can/ used layers to define z-order
+- Object \rarr Arrange \rarr Send to [front, back]
+  - Define Z-order
+  - On leftmost panel
+- Draw inside!
+- Fascinating
+
+** WAIT Chapter 63. Working With Pathfinder Tools 10:05
 :PROPERTIES:
+:END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-07 Mon 21:20] \\
+  Watched.
 :END:
 
-** TODO Chapter 64. Using Shape Mode Tools 5:20
+- Pathfinders critically important
+- Divide
+  - Looks at one object
+  - Have to be objects
+  - Looks at an object underneath it at any depth
+  - Cuts at intersection if any
+- Trim
+  - Object top is the trimmer
+  - Object on bottom is the trimmee
+  - Select both
+- Merge
+  - Merge merges same fill colors together
+  - If they are different they are separated
+- Crop
+  - Keeps the intersection from the bottom
+  - Works for two shapes: top and bottom
+    - Only works well with two
+- Outline
+  - Create the outline of any object easily
+  - Can modify the stroke
+  - Stroke is based on original colors
+- Minus Back
+  - Keep only the top with intersections bit off
+
+** WAIT Chapter 64. Using Shape Mode Tools 5:20
 :PROPERTIES:
+:END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-07 Mon 21:27] \\
+  Watched.
 :END:
 
-** TODO Chapter 65. Working With The New Live Corners 4:37
+- Unite
+  - Makes multiple selected objects into one
+  - Shape that is on top influences everything else
+    - Fill color fills everything else
+- Minus Front
+  - Cuts top out of bottom
+- Intersection
+  - Include the AND of both of them
+- Exclude
+  - Remove any AND
+    - Neat effect
+- Wild
+
+** WAIT Chapter 65. Working With The New Live Corners 4:37
 :PROPERTIES:
+:END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-07 Mon 21:34] \\
+  Watched.
 :END:
 
-** TODO Chapter 66. Understanding The Shape Builder Tool 3:12
+- Visually modify corners
+- Select individual corners to modify them using the direct select and live corner
+- Organic live involvement WYSIWYG
+
+** WAIT Chapter 66. Understanding The Shape Builder Tool 3:12
 :PROPERTIES:
+:END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-07 Mon 21:38] \\
+  Watched.
 :END:
 
-** TODO Chapter 67. Using The Symbol Sprayer 7:37
+- Add things together or remove parts without using the Pathfinder
+  - Gives more control
+  - Though Pathfinder is pretty precise
+- Manual uniting
+  - Precise control of which objects
+- Awesome tool
+
+** WAIT Chapter 67. Using The Symbol Sprayer 7:37
 :PROPERTIES:
+:END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-07 Mon 21:46] \\
+  Watched.
 :END:
 
-** TODO Chapter 68. Creating Custom Symbols 5:08
+- Good to know
+
+** WAIT Chapter 68. Creating Custom Symbols 5:08
 :PROPERTIES:
 :END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-07 Mon 22:08] \\
+  Watched.
+:END:
+
+- Symbols are per document
+- This lesson shows how to create them
+- One way: draw it on the screen and save it as a symbol
+- Another way: start with a symbol that you like and modify it
 
 ** TODO Chapter 69. Using The Blob, Paintbrush And Pencil Tools 8:52
 :PROPERTIES:
 :END:
 
+-
+
 ** TODO Chapter 70. Touch Type And Free Transform 5:16
 :PROPERTIES:
 :END:
+
+-
 
 * TODO Section: 9, The Illustrator Pen Tool
 ** TODO Chapter 71. Introduction To The Pen Tool 1:43
