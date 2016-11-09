@@ -1,0 +1,167 @@
+#+DATE: [2016-11-08 Tue 20:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Adobe, Illustrator, Vector graphics
+#+TITLE: Simplest Document Setup for a Logo
+
+My goal is to create a logo. It doesn't have to be a [[http://www.logodesignlove.com/next-logo-paul-rand][Paul Rand]] quality logo.
+Instead, /I just gotta like it/. Adobe Illustrator (AI) is a fine tool for the
+job.
+
+AI is flexible. Working in it feels more to me like programming than
+illustration. Don't get me wrong though, it is a tool for designers, and, I
+am not. Although *every* Adobe Creative Cloud (CC) application includes at least
+one built in JavaScript interpreter, I am not talking about programming here.
+Instead the similarities between programming and illustrating are that
+
+- You are working in your cognitive space with the computer as the meta-medium
+- Creativity ebbs and flows, it is critical
+- So too having a plan is critical
+
+My plan follows.
+
+#+HTML: <!--more-->
+
+This is my first attempt. It will be wrong in most ways and right in some.
+
+As I learn more I will revise this document.
+
+* Desire
+
+- The /destination/ (artifacts)
+  - Create a logo
+  - Use it for
+    - Website favicon
+    - Wordpress
+    - Social sites
+    - Letterhead
+    - Business cards
+    - Signs
+    - Posters
+    - Smartphones (Android and iOS)
+
+- The means (attributes of the process of reaching the destination)
+  - Version control: branching and tagging
+  - Keeping AI quick: font manager?
+  - Training: more required?
+  - Re-use: utilize dynamic symbols to use logo across destinations
+    - Artboards too
+  - Leverage all of AI's placement tools
+
+Where do I begin?
+
+* Training
+
+[[https://www.udemy.com/adobe-illustrator-cc-tutorial/learn/v4/overview][Adobe Illustrator CC Tutorial - Training Taught By Experts]] rocks. It
+demonstrates how to do tons of stuff. Although zero coding is involved,
+programmers will find the cognitive and technical flow familiar and fun. This
+was enough to get producing /something/ versus /nothing/. More though it prepared
+me for taking advantage of the great AI resources on the AI website. That
+website also rocks. The rest of the blogosphere also became my trawling site
+
+What do I plan to do with this desire and training?
+
+* Decisions
+
+- Reference
+  - [[https://99designs.com/blog/tips/correct-file-formats-rgb-and-cmyk/][Correct file formats: RGB and CMYK]]
+  - [[https://www.bignerdranch.com/blog/designing-with-illustrator-tips-and-tricks-part-1/][Designing with Illustrator: Tips and Tricks, Part I]]
+  - [[https://helpx.adobe.com/illustrator/how-to/dynamic-symbols.html][Design more efficiently with Dynamic Symbols]]
+  - [[https://www.overnightprints.com/quick-specs][OvernightPrints Quick Specs]]
+  - [[https://99designs.com/blog/tips/ppi-vs-dpi-whats-the-difference/][PPI vs. DPI: what’s the difference?]]
+  - [[https://helpx.adobe.com/illustrator/how-to/pixel-perfect.html][Create pixel-perfect designs]]
+  - [[https://helpx.adobe.com/illustrator/using/pixel-perfect.html][Draw pixel-perfect art]]
+  - [[https://designmodo.com/pixel-perfect-illustrator/][Tips and Tricks to Design with Pixel Perfection in Adobe Illustrator]]
+
+- RGB va CMYK
+  - Destinations are both screen and print
+  - \rarr CMYK
+- PPI
+  - AI complains if it is too low for PDF export
+  - Vendors require high resolution
+  - We need high resolution to support any destinatino
+  - 1 dot = 1 pixel
+  - \rarr 300
+- Align New Objects to Pixel Grid
+  - Destinations are both screen and print
+  - \rarr Yes
+
+* Implementation
+
+** File
+
+- Start AI
+- File \rarr New
+- Name: =TBD=
+- Profile: Print
+- Number of Artboards: 4
+  - Because
+    - Logo
+    - Banner
+    - Banner with Slogan
+    - Business Card
+    - Do I need a 16x16 Artboard for the Favicon or do I just create it on
+      export?
+  - Arranged by: Column
+- Units: Pixels
+- Width and Height: full numbers, pixels cannot be fractional
+- Color Mode: CMYK
+- Raster Effects: High (300ppi)
+  - "printers need at least 300 pixels for each inch"
+  - "Note: you don’t have to worry about DPI for vector objects created in
+    Illustrator or CorelDRAW — they print well at any size. The DPI relates
+    only to bitmap images traditionally handled by Photoshop."
+    - So why are we worrying about this?
+    - We aren't worryig. We are just planning on making the document "Pixel
+      Perfect" so that when it is send to "Web" media it will minimize
+      anti-aliasing. That is why we're using Pixels everywhere.
+- Preview Mode: Pixel
+- Align New Objects to Pixel Grid: TRUE
+- OK
+- Verify the Artboards are positioned correcly
+  - Go into Pixel Preview mode
+  - Verify the Artboard is aligned
+  - If not, align it with the Artboard Tool
+    - It should snap into place
+
+*** Effects
+
+- Document Raster Effects Settings \rarr High (300 ppi)
+  - *Should already be set*
+
+*** Preferences
+
+- General
+  - Keyboard Increment \rarr 1px
+- Selection & Anchor Display
+  - Snap to Point: 8px
+- Units
+  - General: Pixels
+    - *Should already be set*
+  - Stroke: Pixels
+    - *Should already be set*
+  - Type: Pixels
+    - *Should already be set*
+- Guides and Grid
+  - Gridline every: 64px
+  - Subdivisions: 8px
+  - Note: Try 1 and 1 for ultimate control
+
+*** Transformation (Scaling)
+
+- Check "Align to Pixel Grid" if it is not already checked
+
+*** View (Moving)
+
+- Snap to Pixel \rarr True
+- Snap to Point \rarr True
+
+** Logo
+
+
+
+* Saving
+
+- Accept the defaults
+  - No personal experience with deviating
+- Verify warnings are acceptable
