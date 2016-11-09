@@ -158,7 +158,18 @@ What do I plan to do with this desire and training?
 
 ** Logo
 
+*** Artboard
 
+- Open Logo
+- 5"x5"
+- Width: 2400px
+- Height: 2400px
+- Unsure what the last two do because the Artboard is *not* configured with those
+  dimensions
+- Constrain proportions: true
+- To set the Artboard dimensions correctly
+  - File \rarr Document Setup \rarr Edit Artboards
+- Panel Menu \rarr Rearrange Artboards
 
 * Saving
 
