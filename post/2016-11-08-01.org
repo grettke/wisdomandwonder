@@ -1,3 +1,5 @@
+n#+BLOG: wisdomandwonder
+#+POSTID: 10476
 #+DATE: [2016-11-08 Tue 20:33]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
@@ -79,7 +81,7 @@ What do I plan to do with this desire and training?
 - PPI
   - AI complains if it is too low for PDF export
   - Vendors require high resolution
-  - We need high resolution to support any destinatino
+  - We need high resolution to support any destination
   - 1 dot = 1 pixel
   - \rarr 300
 - Align New Objects to Pixel Grid
@@ -112,13 +114,13 @@ What do I plan to do with this desire and training?
     Illustrator or CorelDRAW — they print well at any size. The DPI relates
     only to bitmap images traditionally handled by Photoshop."
     - So why are we worrying about this?
-    - We aren't worryig. We are just planning on making the document "Pixel
+    - We aren't worrying. We are just planning on making the document "Pixel
       Perfect" so that when it is send to "Web" media it will minimize
       anti-aliasing. That is why we're using Pixels everywhere.
 - Preview Mode: Pixel
 - Align New Objects to Pixel Grid: TRUE
 - OK
-- Verify the Artboards are positioned correcly
+- Verify the Artboards are positioned correctly
   - Go into Pixel Preview mode
   - Verify the Artboard is aligned
   - If not, align it with the Artboard Tool
@@ -170,6 +172,22 @@ What do I plan to do with this desire and training?
 - To set the Artboard dimensions correctly
   - File \rarr Document Setup \rarr Edit Artboards
 - Panel Menu \rarr Rearrange Artboards
+
+*** Dynamic Symbol
+
+- Draw the parts
+- Select all of them
+- Symbol Panel Menu \rarr New Symbol
+  - Name: =TBD=
+  - Export Type: Graphic
+  - Symbol Type: Dynamic
+  - Enable guide for 9-Slice Scaling: No
+  - Align to Pixel Grid: YES
+- Delete it and place it again
+
+*** Logo
+
+- Begin implementation
 
 * Saving
 
