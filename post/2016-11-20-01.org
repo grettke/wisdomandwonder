@@ -1,0 +1,17 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10481
+#+DATE: [2016-11-20 Sun 21:05]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Emacs, Keyboard, MechanicalKeyboard
+#+TITLE: Mystery Maltron
+
+[[./image/mystry-maltron-1.jpg]]
+
+[[./image/mystry-maltron-2.jpg]]
+
+[[./image/mystry-maltron-3.jpg]]
+
+# ./image/mystry-maltron-1.jpg https://www.wisdomandwonder.com/wp-content/uploads/2016/11/mystry-maltron-1.jpg
+# ./image/mystry-maltron-2.jpg https://www.wisdomandwonder.com/wp-content/uploads/2016/11/mystry-maltron-2.jpg
+# ./image/mystry-maltron-3.jpg https://www.wisdomandwonder.com/wp-content/uploads/2016/11/mystry-maltron-3.jpg
