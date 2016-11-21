@@ -6,12 +6,12 @@
 #+TAGS: Emacs, Keyboard, MechanicalKeyboard
 #+TITLE: Mystery Maltron
 
-[[./image/mystry-maltron-1.jpg]]
+[[./image/mystery-maltron-1.jpg]]
 
-[[./image/mystry-maltron-2.jpg]]
+[[./image/mystery-maltron-2.jpg]]
 
-[[./image/mystry-maltron-3.jpg]]
+[[./image/mystery-maltron-3.jpg]]
 
-# ./image/mystry-maltron-1.jpg https://www.wisdomandwonder.com/wp-content/uploads/2016/11/mystry-maltron-1.jpg
-# ./image/mystry-maltron-2.jpg https://www.wisdomandwonder.com/wp-content/uploads/2016/11/mystry-maltron-2.jpg
-# ./image/mystry-maltron-3.jpg https://www.wisdomandwonder.com/wp-content/uploads/2016/11/mystry-maltron-3.jpg
+# ./image/mystery-maltron-1.jpg https://www.wisdomandwonder.com/wp-content/uploads/2016/11/mystery-maltron-1.jpg
+# ./image/mystery-maltron-2.jpg https://www.wisdomandwonder.com/wp-content/uploads/2016/11/mystery-maltron-2.jpg
+# ./image/mystery-maltron-3.jpg https://www.wisdomandwonder.com/wp-content/uploads/2016/11/mystery-maltron-3.jpg
