@@ -1771,30 +1771,85 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
 :END:
 
 * TODO Section: 16, Saving And Printing Based On Intent
-** TODO Chapter 126. Introduction To Saving And Printing 1:10
+** WAIT Chapter 126. Introduction To Saving And Printing 1:10
 :PROPERTIES:
+:END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-07 Mon 22:18] \\
+  Watched.
 :END:
 
-** TODO Chapter 127. Saving For The Web And Beyond 10:14
+- Tweaking for output
+- Saving approaches
+- Print options
+- Creating a document package
+
+** WAIT Chapter 127. Saving For The Web And Beyond 10:14
 :PROPERTIES:
+:END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-07 Mon 22:31] \\
+  Watched.
 :END:
 
-** TODO Chapter 128. Tweaking The Final Product 10:48
+- Save for Web is now legacy
+- Use Save for Screens instead
+
+** WAIT Chapter 128. Tweaking The Final Product 10:48
 :PROPERTIES:
+:END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-07 Mon 22:52] \\
+  Watched.
 :END:
 
-** TODO Chapter 129. Saving An Illustrator Document 4:29
+- More options
+
+** WAIT Chapter 129. Saving An Illustrator Document 4:29
 :PROPERTIES:
+:END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-07 Mon 22:56] \\
+  Watched.
 :END:
 
-** TODO Chapter 130. Outputting Directly To Print 7:57
+- Four color presses like Illustrator EPS
+- Illustrator Template if you want to use a document over and over again
+  - Is this a re-use thing? What problem does this solve?
+- Specify document raster effect (DRE) settings for press quality
+  - Avoid warnings for too small DPI
+
+** WAIT Chapter 130. Outputting Directly To Print 7:57
 :PROPERTIES:
+:END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-07 Mon 23:05] \\
+  Watched.
 :END:
 
-** TODO Chapter 131. Generating A Document Package 2:40
+- DRE settings are important
+- Andy uses
+  - Printer profile: ProPhoto RBG
+  - Rendering Intent: Relative Colormetric
+- Explained a lot about printing
+
+** WAIT Chapter 131. Generating A Document Package 2:40
 :PROPERTIES:
+:END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-07 Mon 23:14] \\
+  Watched.
 :END:
 
-** TODO Chapter 132. Final Thoughts 2:51
+- Can't export TypeKit fonts
+
+** WAIT Chapter 132. Final Thoughts 2:51
 :PROPERTIES:
 :END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2016-11-07 Mon 23:15] \\
+  Watched.
+:END:
+
+- Nice wrapup
+- Nice lighting, video, rhythm, meter, voice, approach and class
