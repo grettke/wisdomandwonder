@@ -6,6 +6,9 @@
 #+TAGS: Emacs, Keyboard, MechanicalKeyboard
 #+TITLE: Mystery Maltron
 
+- *Addendum: <2016-11-21 Mon>*
+  - Roman provided the [[http://www.mkprosopsis.com/Hardware/MouthHeadStickKeyboard.htm][link]] for this product
+
 [[./image/mystery-maltron-1.jpg]]
 
 [[./image/mystery-maltron-2.jpg]]
