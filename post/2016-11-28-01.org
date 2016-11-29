@@ -1,0 +1,13 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10485
+#+DATE: [2016-11-28 Mon 20:41]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Yoga, philosophy, Sense, Happiness
+#+TITLE: The First Twenty Four Hours of Recovery
+
+#+BEGIN_QUOTE
+Did you know you can use the first 24 hours after a traumatic or disturbing
+event to mitigate its long term effects on your mind and body?
+[[http://aliveandhealthy.com/audio-podcasts/first-24-hours-podcast-45/][Here’s how to begin.]]
+#+END_QUOTE
