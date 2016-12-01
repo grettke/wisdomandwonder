@@ -1,0 +1,18 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10486
+#+DATE: [2016-12-01 Thu 16:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: APL, Array programming, Programming Language
+#+TITLE: 50 Years of APL
+
+Via [[https://www.linkedin.com/groups/1805002/1805002-6208645842744676354][LinkedIn APL Group]] via [[http://www.dyalog.com/50-years-of-apl.htm][Dyalog]] via [[http://www.jsoftware.com/papers/APLQA.htm#APL_birthday][Jsoftware]]:
+
+APL's birthday was fifty years ago:
+
+#+BEGIN_EXAMPLE
+       )load 1 cleanspace
+SAVED 1966-11-27 15.53.59 (GMT-7)
+#+END_EXAMPLE
+
+Happy belated birthday APL.
