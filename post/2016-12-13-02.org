@@ -1,0 +1,17 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10492
+#+DATE: [2016-12-13 Tue 19:41]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Learning, Writing
+#+TITLE: On Writing: A Memoir of the Craft
+
+From Stephen King's [[http://amzn.to/2huJw1f][On Writing: A Memoir of the Craft]]:
+
+#+BEGIN_QUOTE
+Tell the truth.
+#+END_QUOTE
+
+King tells the truth. With ease and wit.
+
+Part biography. Part lecture. All sharing.
