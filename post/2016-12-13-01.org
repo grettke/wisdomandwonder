@@ -1,0 +1,16 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10491
+#+DATE: [2016-12-13 Tue 19:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: mathematics, fun
+#+TITLE: About Magic Squares
+
+#+BEGIN_QUOTE
+In recreational mathematics, a [[https://en.wikipedia.org/wiki/Magic_square][magic square]] is a square grid (equal number of
+rows and columns) filled with distinct numbers such that the numbers in each
+row, and in each column, as well as the numbers in the main and secondary
+diagonals, all add up to the same value, called the magic constant.
+#+END_QUOTE
+
+You gotta see this fun!
