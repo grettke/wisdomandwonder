@@ -1,0 +1,23 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10494
+#+DATE: [2016-12-13 Tue 19:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Learning, Writing
+#+TITLE: On Writing Well
+
+William Zinsser's [[http://amzn.to/2gJcTxY][On Writing Well]].
+
+On story telling well? He does it.
+
+On training well? He does it.
+
+Do yourself a favor and buy a new copy because it is maddening to see
+foreign notes scribbled fervently throughout its pages. How are these people
+tarnishing this sacred soil of your and Zinsser's intersection? Horribly is
+how.
+
+Your first read through will leave you /dying/ for the second time that you read
+it.
+
+Surprisingly the book is appropriate for computers programmer of any flavor.
