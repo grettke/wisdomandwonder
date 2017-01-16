@@ -1,4 +1,5 @@
-#+POSTID: 10500
+#+BLOG: wisdomandwonder
+#+POSTID: 10502
 #+DATE: [2017-01-16 Mon 14:07]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
@@ -11,7 +12,7 @@ Fisherman Pants.
 
 Do Thai fisherman really wear these or not. It doesn't matter because they
 work. They work fine for me. I can do Hatha in them. My test subjects:  [[http://amzn.to/2iEURhv][these]]
-and [[http://amzn.to/2jRD04q][these]]. Not the worlds thickets material but it is still cotton and you
+and [[http://amzn.to/2jRD04q][these]]. Not the worlds thickest material but it is still cotton and you
 can't see through any of the areas that count. Good for you and everyone else
 in class.
 
