@@ -15,8 +15,8 @@ American _S_ervice Mark
 _J_apanese Industrial Standard
 _K_orean Standard
 "
-  ("R" (lambda () (interactive) (insert "™")))
-  ("U" (lambda () (interactive) (insert "®")))
+  ("R" (lambda () (interactive) (insert "®")))
+  ("U" (lambda () (interactive) (insert "™")))
   ("S" (lambda () (interactive) (insert "℠")))
   ("J" (lambda () (interactive) (insert "〄")))
   ("K" (lambda () (interactive) (insert "㉿"))))
