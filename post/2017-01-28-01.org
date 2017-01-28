@@ -1,0 +1,31 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10505
+#+DATE: [2017-01-28 Sat 13:45]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Calculator
+#+TITLE: The Perfect "Little" Calculator
+
+The [[http://amzn.to/2jhdl9R][Texas Instruments TI-30X IIS 2-Line Scientific Calculator]] is perfect
+because
+
+- It is /scientific/ so it does just about everything you would ever want in
+  addition to the basics so it includes
+  - A 2-line display
+  - Statistics on [[https://www.youtube.com/watch?v=lmViWI3x6LI][one and two variables]]
+  - Degrees, radians and grads
+  - Scientific and engineering notation
+  - Fractions
+  - Conversion
+  - Copy and paste with multiple storage cells
+- It is little
+- It has a sliding protective computer
+- It works both off battery and solar energy
+- It less than a new air filter
+
+You can buy a science and math friendly calculator that costs next to nothing,
+can take anywhere without worrying about powering /or/ dropping it, to easily
+work on just about any /real word/ calculation that you find yourself doing
+every day.
+
+This calculator rocks!
