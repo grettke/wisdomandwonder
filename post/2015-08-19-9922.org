@@ -7,16 +7,53 @@
 
 [[https://lists.gnu.org/archive/html/emacs-orgmode/2015-06/msg00246.html][Via]]:
 
-=Original: Your Org source
+#+BEGIN_EXAMPLE
+From:   Ken Mankoff
+Subject:  Re: [O] Organizing and taming hectic Academia work (faculty   viewpoint)? Tips or a good guides sought after :)
+Date:   Fri, 12 Jun 2015 10:02:50 -0400
+Hi Julian,
+
+On 2015-06-10 at 10:16, Julian Burgos <address@hidden> wrote:
+> a) I first write in org-mode. Export to Word, either exporting first
+> to ODT and then to Word, or to LaTex and then use pandoc to convert
+> LaTex to Word. My coauthor can edit the document as he wishes, using
+> the "Track changes" option. Then, I transcribe their edits back into
+> the org-mode document. Advantage of this approach: your coauthor
+> receives a clean word file, that could include figures, references,
+> etc., and he/she uses the tools she likes to edit the file.
+> Disadvantage: you have to manually incorporate the changes to the
+> org-mode file each time there are edits.
+>
+> b) I write the manuscript in org-mode. Then I send the org-mode file
+> to my coauthor. Because the org-mode file is just a text file, my
+> coauthor can use Word to edit it. I ask him/her *not* to use "track
+> changes" and to save the edited version also as a text file. Then,
+> when I receive it I use ediff in emacs to compare both documents and
+> incorporate the edits I want. Advantage of this approach: the merging
+> of the documents is easy using ediff. Disadvantage: your coauthor has
+> to edit a weird-looking document, with markup, code blocks, etc.
+
+It seems like with a bit of extra (scriptable?) work you could remove both
+disadvantages.
+
+Why can't you use method (a) above, and then DOCX -> Org via pandoc (with
+--accept-all option)?
+
+I know pandoc introduce some of its own changes to the Org syntax but not the
+document itself. You can get around this. You can remove the pandoc-generated
+changes automagically so that only co-author changes appear in Org format,
+which you can then use with your (b) above and emacs ediff.
+
+Original: Your Org source
 A: Org -> DOCX for co-authors (using pandoc)
 B: Org -> DOCX -> Org (using pandoc).
 C: A -> Org (using pandoc and --accept-all-changes)
 D: B-Original
 
-The difference between B and Original are pandoc-introduced changes that you do 
-not want. Ignore/remove these changes from C, call it D and then the difference 
-between D and the Original are your co-author comments. Now your authors can 
-edit DOCX with Track Changes and you can work on those edits with Emacs ediff.=
+The difference between B and Original are pandoc-introduced changes that you do
+not want. Ignore/remove these changes from C, call it D and then the difference
+between D and the Original are your co-author comments. Now your authors can
+edit DOCX with Track Changes and you can work on those edits with Emacs ediff.
 
-
-
+  -k.
+#+END_EXAMPLE
