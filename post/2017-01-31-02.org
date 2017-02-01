@@ -1,0 +1,13 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10507
+#+DATE: [2017-01-31 Tue 20:14]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Radio, Amateur, Ham, APRS
+#+TITLE: Shockingly Inexpensive Mobilinkd APRS Bluetooth TNC
+
+The [[http://www.mobilinkd.com/][Mobilinkd]] bluetooth APRS TNC is only $65USD and works from both APRSdroid
+on Android, Xastir on Linux and APRSCE/32 on Windows.
+
+Even better [[http://www.mobilinkd.com/2014/09/11/arduino-kiss-tnc/][they show you how to build one]] and put all of the code
+[[https://github.com/mobilinkd/tnc1][out on Github]]!
