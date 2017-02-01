@@ -1,0 +1,16 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10506
+#+DATE: [2017-01-31 Tue 19:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Radio, Amateur, Ham
+#+TITLE: Easily Program Your Amateur Radio
+
+It is more fun to use a handheld ham radio when you can tell it to scan
+different frequencies and stop there if it hears anyone. Whatever your
+location there are places to hang out on certain frequencies. For example here
+are some of them [[https://www.repeaterbook.com/repeaters/prox_result.php?city=Milwaukee%252C+WI&distance=25&Dunit=m&band=%2525&freq=&call=&features=&status_id=%2525&use=%2525&order=%2560state_id%2560%252C+%2560loc%2560%252C+%2560call%2560+ASC][around Milwaukee Wisconsin]]. The trouble is that wherever you
+go those places will change and it is hassle to program your handheld to know
+about them. Fortunately it can be done easily:
+
+[[http://chirp.danplanet.com/projects/chirp/wiki/Home][CHIRP]] makes it easy to program your handheld radios.
