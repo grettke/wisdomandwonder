@@ -1,0 +1,11 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10508
+#+DATE: [2017-01-31 Tue 20:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Radio, Amateur, Ham, APRS, AFSK
+#+TITLE: MicroModem: A 1200 Baud AFSK Radio Modem
+
+[[https://github.com/markqvist/MicroModem][The MicroModem]] looks like [[https://www.youtube.com/watch?v=L-LeizF6ixY][a lot of fun]]. The specs are free [[https://github.com/markqvist/MicroModem][online]] so you can
+build it yourself or you can buy one from [[http://unsigned.io/product/micromodem-r23b/][his store]]. There is even an [[https://github.com/markqvist/MicroAPRS][APRS]]
+specific version that looks fun to hack with.
