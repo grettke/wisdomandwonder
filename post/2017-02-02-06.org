@@ -1,0 +1,9 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10514
+#+DATE: [2017-02-02 Thu 06:35]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Finance
+#+TITLE: The Snowball: Warren Buffett and the Business of Life
+
+[[https://www.amazon.com/Snowball-Warren-Buffett-Business-Life-ebook/dp/B009MYD9F8/ref=sr_1_1?ie=UTF8&qid=1486038966&sr=8-1&keywords=warren+buffet+snowball][Looks like]] near mandatory reading.
