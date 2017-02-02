@@ -1,0 +1,9 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10512
+#+DATE: [2017-02-02 Thu 06:17]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Yoga, philosophy, Sense, Happiness
+#+TITLE: ESV Bible Large Print
+
+[[https://www.amazon.com/Large-Print-Bible-TruTone-Black/dp/1433551780/ref=sr_1_2?ie=UTF8&qid=1486037517&sr=8-2&keywords=esv+bible+large+print][This large print]] version looks easier to read.
