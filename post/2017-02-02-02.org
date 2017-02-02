@@ -3,7 +3,7 @@
 #+DATE: [2017-02-02 Thu 05:58]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
-#+TAGS: Book, Science, philosophy
+#+TAGS: Science, Yoga, philosophy
 #+TITLE: Blueprints for Awakening: Wisdom of the Masters
 
 [[http://amzn.to/2kVb5pa][Blueprints for Awakening: Wisdom of the Masters]] looks interesting.
