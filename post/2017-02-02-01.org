@@ -1,0 +1,16 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10509
+#+DATE: [2017-02-02 Thu 05:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: APL, Array programming, Programming Language
+#+TITLE: Dyalog Version 15.0 Announcement Notes
+
+[[http://www.dyalog.com/news/108/420/Dyalog-Ltd-Announces-Dyalog-Version-15-0.htm][Via]]
+
+- Faster
+- Easier development for 3rd party editors
+  - Like Emacs
+- First-class Unicode file support
+- First-class file-based code support
+  - Instead of living inside of a binary environment
