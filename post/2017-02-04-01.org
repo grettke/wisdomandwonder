@@ -1,0 +1,18 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10518
+#+DATE: [2017-02-04 Sat 14:36]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Radio, Amateur, Ham
+#+TITLE: Review of the The ARRL Ham Radio License Manual
+
+The material follows a "flow of consciousness" writing style that is informal
+and wordy instead of concise and to the point, at times making the reading
+tedious. The order of topics covered mirrors the order of topics in the exam
+itself, instead of following the logical order, at times leaving the reader
+confused and frustrated. Because my "non-techie" friends don't have the
+background they are probably unwilling to deal with it. My "techie" friends
+might be willing to put up with it but I wasn't. So for both of them I would
+cautiously recommend it with the caveat that they need to be open to reading
+the book more than a few times, put up with its deficits and willing to take
+the exam as many times as required to pass.
