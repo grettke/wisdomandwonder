@@ -1421,9 +1421,9 @@ Downloaded and verified the integrity of 212.4 MB of supplementary material.
   - As you would expect
 ** DONE Chapter 85. Text Threading 3:19
 :PROPERTIES:
-:ID:       o2b:33B80F96-D9FB-4497-838F-E84A7D0B48D4
-:POST_DATE: [2016-10-16 Sun 11:42]
-:POSTID:   10458
+:ID:       o2b:B30DCD1D-667E-49BE-99D7-D0BF1B96FD52
+:POST_DATE: [2017-02-04 Sat 14:33]
+:POSTID:   10517
 :BLOG:     wisdomandwonder
 :END:
 
