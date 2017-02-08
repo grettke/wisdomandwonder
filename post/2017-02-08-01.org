@@ -9,7 +9,7 @@
 Facebook and Instagram are better than television and like any /good thing/ it
 is nice to have a break. Real televisions have an on/off switch but computers
 don't really. Technical folks: here is one way to make it easy to give your OS
-X macOS box and on/off switch for your social sites:
+X macOS box an on/off switch for your social sites:
 
 #+NAME: orgmode:gcr:2017-02-05:mara:C0F0B558-EE8E-49E3-8A8F-D9A7A2A7BF6D
 #+BEGIN_SRC sh
