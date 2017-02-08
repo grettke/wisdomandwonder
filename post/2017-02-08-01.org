@@ -1,0 +1,26 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10519
+#+DATE: [2017-02-08 Wed 10:14]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Yoga, philosophy, Health, Happiness, Programming Language, Shell
+#+TITLE: Easily Allowing and Forbidding Distractions on OS X macOS
+
+Facebook and Instagram are better than television and like any /good thing/ it
+is nice to have a break. Real televisions have an on/off switch but computers
+don't really. Technical folks: here is one way to make it easy to give your OS
+X macOS box and on/off switch for your social sites:
+
+#+NAME: orgmode:gcr:2017-02-05:mara:C0F0B558-EE8E-49E3-8A8F-D9A7A2A7BF6D
+#+BEGIN_SRC sh
+#!/usr/bin/env bash
+# -*- mode: sh; -*-
+
+if [ $# -eq 0 ]; then
+    sudo cp /etc/hosts.distractions /etc/hosts
+    printf "...forbidding distractions.\n"
+else
+    sudo cp /etc/hosts.org /etc/hosts
+    printf "...allowing distractions.\n"
+fi
+#+END_SRC
