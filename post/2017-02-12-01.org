@@ -1,0 +1,23 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10520
+#+DATE: [2017-02-12 Sun 13:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Radio, Amateur, Ham
+#+TITLE: How To Get A Vanity Ham Radio Call-sign
+
+- Read [[http://www.ae7q.com/query/text/Vanity.php][this]] and [[http://www.arrl.org/applying-for-a-vanity-call][this]] for an overview with relevant links
+- Read [[http://wireless.fcc.gov/services/index.htm?id=amateur&job=call_signs_1][this]] to try to come up with a call-sign that sticks to the rules
+  (coffee may be required)
+- [[http://wireless2.fcc.gov/UlsApp/UlsSearch/searchLicense.jsp][Search]] for the call sign you want. If you find it already taken you can
+  search for variations you might like. When you submit your application you
+  can submit up to twenty-five new call-signs in order of priority for the
+  administrators to use if your first choice is not available.
+- As of 2017-02-12 the application is free (a fee of zero dollars)
+- Go back [[http://www.arrl.org/applying-for-a-vanity-call][here]] to walk through the electronic process of applying and wait for
+  your application to start being processed
+- Check [[http://www.ae7q.com/query/][here]] to see how the application is proceeding
+  - Check [[http://www.ae7q.com/query/list/Prediction.php?PREDICT=Assignment][here]] for call-signs that are /predicted/ to be approved
+- Find your new call-sign in the [[http://wireless2.fcc.gov/UlsApp/UlsSearch/searchLicense.jsp][license search]]
+- /Wait/ for your official paperwork confirming your new call sign
+- Enjoy your new vanity call-sign
