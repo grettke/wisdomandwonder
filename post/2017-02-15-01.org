@@ -1,0 +1,15 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10522
+#+DATE: [2017-02-15 Wed 12:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Asynchronous src_block Execution For Org-Babel
+
+Via [[https://www.reddit.com/r/orgmode/comments/5u8z2e/obasync_asynchronous_srcblock_execution_for/][here]]:
+
+#+BEGIN_QUOTE
+[[https://github.com/astahlman/ob-async][ob-async]] enables asynchronous execution of org-babel src blocks
+#+END_QUOTE
+
+It works for *any* language.
