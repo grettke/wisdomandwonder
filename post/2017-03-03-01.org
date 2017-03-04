@@ -1,0 +1,29 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10523
+#+DATE: [2017-03-03 Fri 21:48]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Radio, Amateur, Ham
+#+TITLE: BaoFeng UV-82WP Micro Review
+
+The [[http://amzn.to/2mPGqan][BaoFeng UV-82WP]] is a great first radio. It is /my/ first radio. So my
+expectations are probably low. But I am pretty happy.
+
+It does everything that it says it will do but I did not test it's water-proof
+claims. And I won't. It's drop-ability is what I wanted, not sink-ability, and
+I have only tipped it over on my desk so far. It feels right, though.
+
+It doesn't creak when you squeeze it. It feels good in your hand; nothing
+fragile about it. Why spend a little more on basically a disposable radio?
+Because if it lasts then /it doesn't need to be disposable/.
+
+From what I /read/, its software seems to be like every other BaoFeng UV-82.
+CHIRP works with it. Upload, modify, and download work fine. You will be
+scanning repeaters in less than five minutes. It is that easy to use.
+
+From what I /see/, the accessory attachment is *completely different* from every
+other UV-82 so you *can not* share accessories between them. [[https://www.radioddity.com/us/][Radioddity]] has
+accessories for it. They also seem to have everything else that looks fun, too.
+
+For the price you can probably try out a few BaoFeng handhelds to see what you
+like. However, if you are only buying one, then this is a great start.
