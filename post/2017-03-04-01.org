@@ -1,0 +1,9 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10525
+#+DATE: [2017-03-04 Sat 08:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Pip, Python
+#+TITLE: Excellent introduction to Python's Pip
+
+[[https://www.dabapps.com/blog/introduction-to-pip-and-virtualenv-python/][Excellent introduction to Python's Pip.]]
