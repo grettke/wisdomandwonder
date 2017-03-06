@@ -1,0 +1,19 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10526
+#+DATE: [2017-03-05 Sun 20:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Git, Version Control, Utility
+#+TITLE: Making Sense of git-flow
+
+[[http://nvie.com/posts/a-successful-git-branching-model/][Vincent's]] Git workflow is powerful and simple. So it is the best one for most
+of us. When you tell somebody that you /aren't/ using it then they expect a
+pretty convincing explanation why not. There isn't much to make sense of
+really.
+
+[[https://github.com/petervanderdoes/gitflow-avh][gitflow-avh]] is the easiest way to use it. I tried doing it manually but it is
+easier to use the plugin. [[https://gist.github.com/JamesMGreene/cdd0ac49f90c987e45ac][Here]] are some of the differences if you want
+compare the plugin with doing it manually. It is worth trying out manually if
+you want to appreciate the plugin, maybe.
+
+[[https://github.com/danielkummer/git-flow-cheatsheet][This]] and [[https://danielkummer.github.io/git-flow-cheatsheet/][this]] cheat-sheet aren't all you need to know but they are a fine start.
