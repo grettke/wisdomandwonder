@@ -1,0 +1,17 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10527
+#+DATE: [2017-03-11 Sat 06:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Hardware, Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: The System That Inspired All Of Use Through Emacs
+
+They say that Emacs was inspired by real LISP machines from Symbolics and
+more. Here are two of those Symbolics machines for sale on eBay:
+
+- [[http://www.ebay.com/itm/-/112325366421?][Symbolics XL1201 no FPA, 4 MW memory, 18 GB SCSI disk, 19 in. monochrome
+  console ]]
+- [[http://www.ebay.com/itm/-/112327679049?][Symbolics MacIvory model 2 workstation in an Apple Quadra 650 with Mac O/S
+  8.0]]
+
+A Mac with a LISP machine inside of it is pretty cool.
