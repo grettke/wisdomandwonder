@@ -4,7 +4,7 @@
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
 #+TAGS: Hardware, Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
-#+TITLE: The System That Inspired All Of Use Through Emacs
+#+TITLE: The System That Inspired All Of Us Through Emacs
 
 They say that Emacs was inspired by real LISP machines from Symbolics and
 more. Here are two of those Symbolics machines for sale on eBay:
