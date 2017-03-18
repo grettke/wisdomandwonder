@@ -1,0 +1,9 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10528
+#+DATE: [2017-03-18 Sat 17:21]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Reading, List
+#+TITLE: ReMembering Osiris
+
+Looks interesting: [[http://www.sup.org/books/title/?id=860][ReMembering Osiris]]
