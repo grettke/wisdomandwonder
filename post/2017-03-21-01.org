@@ -1,0 +1,75 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10532
+#+DATE: [2017-03-21 Tue 23:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Radio, Amateur, Ham
+#+TITLE: Review of the HamTestOnline (HTO) Ham Radio Exam Courses
+
+HamTestOnline (HTO) helps you learn more than required to earn your licenses
+in less time than every other method. HTO does it by maximizing your learning.
+That unique feature defines its super-power differentiating itself from every
+other approach.
+
+#+HTML: <!--more-->
+
+After completing both the Technician and General exam you will find yourself
+staring at Amateur Extra (Extra) and it is scary and intimidating. Unlike the
+first two exams now you must understand the concepts completely. You will
+never pass Extra using memorization, or any other "cheater" methods. You must
+understand the concepts, their implementation and consequences, or you will
+never pass.
+
+For example consider the section on semiconductors. You must understand the
+pros and cons of using them, their construction and their operation at the
+atomic level.
+
+If you understand all three, then it is possible to pass the exam. If you fail
+to understand just one of them, then the questions are too difficult. In fact,
+you will probably get most of them wrong because they are strung together.
+Nearly all of the questions are like that. You fail on one aspect of a single
+topic and next thing you know, you've got seven wrong answers in a row. If
+you want to learn everything and more required to pass the exam then you
+must study using HTO because it works. There is no magic with HTO.
+
+HTO's method is to study each subject's topics in their logical order. This
+feature alone sets it apart from other study methods which follow the question
+pool which at times includes items that are wildly out of order. Then as
+you work through questions from the question pool it takes note of both your
+strengths and weaknesses. Based on what it learns about you, it starts
+choosing areas from the question pool that help solidify your strong areas and
+strengthen your weak areas. It helps you learn exactly what you need to get
+confident and stay confident. There is no magic with HTO. HTO provides
+something even better, true learning.
+
+HTO helps you learn. Learning makes you feel good. HTO doesn't force you to
+learn though. Your effort is required. Your time is required. Nobody ever
+failed their licensing exam because they studied too much, right? Is HTO some
+kind of weird magical cheating approach? No, but you should still be a skeptic
+because passing the Extra costs you a lot of time, effort and dedication and
+you should get the most out of every single minute doing it. Your time is valuable
+and I don't want you to waste it, and neither do you!
+
+Don't take my word for it. You can try it out now for free (it is all online).
+Find out for yourself if you enjoy and value this approach. When you study for
+your Technician license using HTO, you get a 100% money back guarantee if you
+fail the test. Then again if you use HTO and you put in the time and get your
+score up to the passing level, then you will pass. It is entirely up to you.
+
+All three exams combined are so difficult, that passing them requires weeks
+and weeks of study). It brings to mind the famous Abe Lincoln quote about
+facing challenges, exemplified by his story about chomping down a monstrous
+cherry tree:
+
+#+BEGIN_QUOTE
+Give me six hours to chop down a tree and I will spend the first four
+sharpening the axe.
+#+END_QUOTE
+
+HTO is the sharpening wheel. You are the axe.
+
+Sharpen it well, and you will chop down that tree faster, more easily and
+learning more than you could have ever imagined.
+
+#  LocalWords:  HamTestOnline HTO HTO's
+
