@@ -1,0 +1,11 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10533
+#+DATE: [2017-03-23 Thu 15:38]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: OSX, Utility, Shell, Bash
+#+TITLE: Bash 4.4 Is Released
+
+See [[https://lists.gnu.org/archive/html/bug-bash/2016-09/msg00018.html][here]].
+
+OSX people maybe update now.
