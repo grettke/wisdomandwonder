@@ -2,7 +2,7 @@
 #+DATE: [2014-06-21 Sat 17:38]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
 #+CATEGORY: Link
-#+TAGS: OSX, Utility
+#+TAGS: OSX, Utility, Shell, Bash
 #+TITLE: Update OSX 10.9 to use bash4
 
 [[http://buddylindsey.com/upgrade-bash-to-4-on-os-x/][Source]].
