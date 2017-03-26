@@ -9,6 +9,8 @@
 The [[http://amzn.to/2mPGqan][BaoFeng UV-82WP]] is a great first radio. It is /my/ first radio. So my
 expectations are probably low. But I am pretty happy.
 
+#+HTML: <!--more-->
+
 It does everything that it says it will do but I did not test it's water-proof
 claims. And I won't. It's drop-ability is what I wanted, not sink-ability, and
 I have only tipped it over on my desk so far. It feels right, though.
