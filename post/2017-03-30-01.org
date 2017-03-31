@@ -1,0 +1,12 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10540
+#+DATE: [2017-03-30 Thu 22:28]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Radio, Amateur, Ham
+#+TITLE: Replace Your Stock Baofeng Antenna With This Right Now
+
+The Baofeng handhelds are great but the antennas are not useful.
+
+I bought [[http://amzn.to/2nQT9ML][this one]] and it works *great* picking up both the 2M and 70cm repeaters
+around town. The stock antenna couldn't pick up either of them!
