@@ -69,7 +69,7 @@
 - I'm not responsible for republished content from this blog on other blogs or
   websites without my permission.
 - This privacy policy is subject to change without notice and was last updated
-  on <2016-09-10 Sat 13:09>. If you have any questions feel free to contact me
+  on <2017-04-12 Wed 15:59>. If you have any questions feel free to contact me
   directly here: gcr@wisdomandwonder.com.
 
 ** California Online Privacy Protection Act
@@ -141,17 +141,6 @@ Users may opt out of the use of the DoubleClick cookie for interest-based advert
 - You can opt-out from cookie-based advertisements either on the individual
   vendor website or if the advertiser is a member of the Digital Advertising
   Alliance via [[https://www.aboutads.info/][their website]]
-
-*** I Use ScreenFlow Affiliate Links Here
-
-- [[https://store.telestream.net/order/checkout.php?PRODS=4674839&QTY=1&AFFILIATE=88784&CART=1][ScreenFlow]] is the easiest and most-fun way to screencast
-
-*** I Use SiteGround Affiliate Links Here
-
-- Your blog's gotta live somewhere; and [[https://www.siteground.com/go/wisdomandwonderblog][SiteGround]] a perfect new home for it
-- It's fast, secure and modern
-- They are my professional blog-hosting friends
-- However you like to blog, they make it easy and fun
 
 *** I Use Amazon Affiliate Links Here
 
