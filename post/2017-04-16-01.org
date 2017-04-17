@@ -1,0 +1,11 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10546
+#+DATE: [2017-04-16 Sun 22:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Org Mode EPUB Export
+
+[[https://github.com/ofosos/ox-epub][ox-epub]] let's you export Org-Mode documents to [[https://en.wikipedia.org/wiki/EPUB][EPUB]].
+
+Link via [[https://lists.gnu.org/archive/html/emacs-orgmode/2017-04/msg00140.html][Org-Mode mailing list.]]
