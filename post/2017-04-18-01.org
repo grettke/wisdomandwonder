@@ -1,0 +1,15 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10547
+#+DATE: [2017-04-18 Tue 07:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Yoga, philosophy, Health, Happiness,
+#+TITLE: Making Friends With Both The Intuitive And Rational Mind
+
+#+BEGIN_QUOTE
+The intuitive mind is a sacred gift and the rational mind is a faithful
+servant. We have created a society that honors the servant and has forgotten
+the gift.
+-- Albert Einstein
+#+END_QUOTE
+
