@@ -1,0 +1,13 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10549
+#+DATE: [2017-04-24 Mon 10:42]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Radio, Amateur, Ham
+#+TITLE: @IcomAmericaInc Sending One Ham On Vacation To Japan
+
+[[http://www.icomamerica.com/en/amateur/][Icom America]] is sending one American Ham to Japan for the [[https://en.wikipedia.org/wiki/Japan_Amateur_Radio_League][JARL]] Ham Fair 2017.
+[[http://www.icomamerica.com/en/amateur/h2ja/default.aspx][Here]] is the entry page and you can submit a new one every week.
+
+Seems like a fine vacation probably concluding with a fine new rig and maybe a
+visit to [[https://youtu.be/LMEmBp9MnIY][Okunoshima AKA "Bunny Island"]] maybe with a new D-STAR handheld.
