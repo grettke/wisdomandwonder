@@ -1,0 +1,33 @@
+#+DATE: [2017-04-23 Sun 20:21]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Scientific Communication As Sequential Art
+
+In [[https://www.mail-archive.com/emacs-orgmode@gnu.org/msg108831.html][this discussion]] Chathi clarified the topic at hand: whether or not TeX
+provided the necessary structure to support Lamport's ideas. Chathi then went
+on to provide an interesting example of another style of scientific
+communication that may interest Org-Mode Literate Programmers:
+
+#+HTML: <!--more-->
+
+#+BEGIN_QUOTE
+[[http://worrydream.com/#!/ScientificCommunicationAsSequentialArt][Scientific Communication As Sequential Art]]
+
+This page presents a scientific paper that has been redesigned as a sequence
+of illustrations with captions. This comic-like format, with tightly-coupled
+pictures and prose, allows the author to depict and describe simultaneously —
+show and tell.
+
+It is based on Watts and Strogatz's seminal [[http://worrydream.com/#!/ScientificCommunicationAsSequentialArt][Nature]] paper on network theory,
+shown to the right. This paper was chosen because it's accessible to a broad
+audience, and it's very well-written — already near the limit of clarity for
+just prose.
+
+Try actually reading this design instead of skimming it (it's quicker than it
+looks!) and consider how the illustrations make abstract descriptions more
+concrete, and help you maintain the "picture in your head".
+#+END_QUOTE
+
+If that example doesn't capture your interest then [[http://worrydream.com/#!/KillMath][Kill Math]] might.
+And there [[http://worrydream.com/#][are more]].
