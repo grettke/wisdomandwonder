@@ -1,0 +1,34 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10553
+#+DATE: [2017-05-04 Thu 16:03]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: How To Keep Emacs Healthy And Happy on macOS
+
+Here is how to keep Emacs healthy and happy on macOS on my machine.
+
+#+HTML: <!--more-->
+
+* Daily
+
+- Update macOS daily to get security fixes
+- Update Brew software packages
+  - ~brew update && brew upgrade~
+  - Emacs 25.2 for example updated on the day of its release
+- Update Emacs packages
+  - Steps
+    - ~list-packages~
+    - ~U~
+    - ~x~
+    - ~package-autoremove~
+  - If you are worried about breaking your packages then initialize a Git repo
+    in your ~elpa~ or even your entire ~.emacs.d~ directory before the update and
+    restore the last version
+- Update Org-Mode and Magit
+  - Steps
+    - ~cd ~/src/org-mode/ && git pull && make clean && make~
+    - ~cd ~/src/magit/ && git pull && make clean && make~
+  - Why
+    - Get best new features immediately
+    - If you don't like the update then undo the pull: ~git reset HEAD@{1}~
