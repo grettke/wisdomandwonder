@@ -1,0 +1,29 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10554
+#+DATE: [2017-05-07 Sun 20:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Org-Mode's Two Most Useful Data Table Functions That You Probably Never Used
+
+It might be hard to admit it for us Emacsers but most of us are pretty
+comfortable using Excel (or its clones) for data management. Maybe the fun
+stops there but it doesn't have to.
+
+Here are the two most important functions for getting the most out of working
+together with Org-Mode data tables and Excel (without having to use literate
+programming):
+
+#+HTML: <!--more-->
+
+- Do your work in Excel
+- Export it to a tab separated (TSV) file
+- Import that into Org with ~org-table-import~
+- Do you work
+  - Work with it manually
+  - Do simple sorting with ~org-table-sort-lines~
+  - Handle copy pasted tabular data from wherever with ~org-table-convert-region~
+- Export that back to a Excel TSV with ~org-table-export~
+
+It might seem pretty simple but this is a great foot in the door to start
+integrating Org-Mode into your data workflow.
