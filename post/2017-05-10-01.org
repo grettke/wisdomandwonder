@@ -18,3 +18,7 @@ I do.
 But here is [[https://www.youtube.com/watch?v=jkaWYKlnli0][another explanation]].
 
 I dare you to watch all eleven minutes.
+
+*Addendum* <2017-05-10 Wed 18:39>
+
+Alternate title: "Emacs: You Came For A Bargain And Left With A Treasure"
