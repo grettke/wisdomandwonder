@@ -1,0 +1,20 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10555
+#+DATE: [2017-05-10 Wed 18:13]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: You Love Emacs And IKEA Is To Blame
+
+Have you spent hundreds of hours configuring and thinking about Emacs?
+
+And despite that your fondness for it only continues to grow?
+
+And when you can't explain to your friends why you love Emacs you chalk it up
+to your own poor communication skills.
+
+I do.
+
+But here is [[https://www.youtube.com/watch?v=jkaWYKlnli0][another explanation]].
+
+I dare you to watch all eleven minutes.
