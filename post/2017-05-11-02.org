@@ -1,0 +1,18 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10561
+#+DATE: [2017-05-11 Thu 17:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Start An Emacs Configuration Startup Debugging Instance Like This
+
+Whether you use Org-Mode Literate Programming to manage your Emacs startup or
+not, you will enjoy testing your configuration files changes in /another/ Emacs
+instance:
+
+#+BEGIN_EXAMPLE
+alias ets="emacs --debug-init --no-init-file --no-splash --background-color white --foreground-color black --vertical-scroll-bars --eval '(switch-to-buffer \"*Messages*\")' --name TEST --title TEST --load ~/src/help/.emacs.el &"
+#+END_EXAMPLE
+
+For Sun workstation bootup nostalgia the buffer has black text on a white
+background.
