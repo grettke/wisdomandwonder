@@ -1,0 +1,95 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10557
+#+DATE: [2017-05-10 Wed 18:45]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Emacs' Buffer: The Ultimate Idea
+
+Do you ever struggle to explain Emacs' astounding power to other
+non-Emacsers?
+
+Usually I do, but in this post is the first time that I ever felt that I did
+it some justice. But that is just a feeling and I want to know /your/ take on it.
+
+It is raw and unrefined, but, if you can read it just from one Emacser to
+another Emacser then want to hear your take on it, too. Your time is precious
+and this is something near and dear to my heart so I appreciate you spending
+your time to share your feedback and ideas.
+
+Here is my response to the question [[https://www.reddit.com/r/emacs/comments/5tqtog/what_are_the_pros_and_cons_of_emacs_everything_is/][What are the pros and cons of Emacs'
+everything is a buffer approach and how does Atom compare in this regard?]]
+
+#+HTML: <!--more-->
+
+* Emacs' Buffer: The Ultimate Idea
+
+Buffers are the graphical-user-interface-abstraction for every single thing
+that you would ever want to do in an editor. They are backed by powerful
+libraries for managing buffers, a powerful programming language Emacs Lisp and
+the entire operating environment of your personally customized Emacs instance.
+Once you learn how and your personal workflow for operating upon a buffer then
+you can enjoy operating upon anything that can be abstracted by a buffer.
+Buffers make things convenient for operating on text abstractions.
+
+** PROS
+Some of the pros of the buffer approach...
+
+Use a buffer for editing the contents of every kind of file ASCII, extended
+ASCII, Unicode, binary, compressed, delimited, locally and remotely. It is
+convenient because you only learn how to operate upon the buffer text-based
+abstraction once then you can do it anywhere for anything.
+
+Use a buffer for implementing a user interface for text-completion, searching
+for things, configuring things, input forms and dialogues, popup messages, file
+system explorer and showing messages and warnings. It is convenient because
+you only learn how to operate upon the buffer text-based abstraction once then
+you can do it anywhere for anything.
+
+Combine those two abstractions and you get all sorts of convenient stuff.
+Search across multiple files, either from a command for a GUI, list the
+results in one buffer, make changes to that search result buffer to make
+changes to all of the search results backing files or buffers. Interact with
+every kind of external process from a buffer. Chain outputs and inputs of
+buffers to each other maybe to from and two external processes
+interchangeably. Debugger and linters live in a buffer. Once you learn the
+abstraction you can do anything with it. At the flick of a switch go between a
+rich editor performing spell checking and reporting quality issues and
+highlighting changes since our last commit; and back to a writing environment
+that minimizes distractions and helps with your personal flow. It is your
+personal text based programmatic workflow. All of the software packages and
+APIs are built around buffers so it is easy to personalize what you want to
+accomplish and it is all in Lisp so it is easy to to make those changes and
+MELPA makes it easy to share the. It is your email client. It is your IRC
+client. It is your USENET client. It is your Git client. It is your software
+package manager like apt-get or yum on Linux or Brew on OS-X or Chocolatey on
+Windows. Assimilate the best features from every other editor and IDE out
+there. Make Emacs work completely differently like VIM instead. Or Visual
+Studio. Or Eclipse. It is convenient because you only learn how to operate
+upon the buffer text-based abstraction once then you can do it anywhere for
+anything.
+
+People often come to Emacs because it is convenient to do just about anything
+easily without having to learn about buffers and all that other stuff and
+everyone else has already provided all of those great features.
+
+People often stay with Emacs because they can easily create and share those
+new to the world features themselves.
+
+These are some of the pros of the buffer model.
+
+** CONS
+
+Some of the cons of the buffer model...
+
+It takes too much time to learn and that is inconvenient. It is weird. The
+documentation is too long. Nobody can really explain why the buffer model is
+so great. The same thing that makes the abstraction simple and powerful takes
+too much time to learn about why it is so simple and powerful. When you tell
+people that you use it they roll their eyes and sigh. It requires learning
+LISP aka "Lots of Irritating Stupid Parentheses". Also people write too much
+and too long about it which can be a poor use of your time to read it.
+
+It can all be very inconvenient.
+
+These are some of the cons of the buffer model.
