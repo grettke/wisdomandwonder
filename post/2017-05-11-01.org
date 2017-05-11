@@ -1,0 +1,21 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10559
+#+DATE: [2017-05-11 Thu 14:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Maybe Include This Info With Your Org-Mode ECM
+
+#+NAME: orgmode:gcr:2017-05-11:mara:D44023E1-2CD4-4313-A405-390F5E4E4DF8
+#+BEGIN_SRC emacs-lisp :results output silent
+(message "ECM Information Follows")
+(message "Org-Version:")
+(message (org-version))
+(message "Org-Git-Version:")
+(message (org-git-version))
+(message "Emacs-Version:")
+(message (emacs-version))
+(message "org-babel-default-header-args")
+(princ org-babel-default-header-args)
+#+END_SRC
