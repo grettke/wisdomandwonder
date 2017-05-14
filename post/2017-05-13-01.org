@@ -1,0 +1,9 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10562
+#+DATE: [2017-05-13 Sat 19:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Yoga, philosophy, Health, Happiness,
+#+TITLE: Why Persistence Matters And The Stages Of Change
+
+*Persistence matters*. See [[http://socialworktech.com/2012/01/09/stages-of-change-prochaska-diclemente/][here.]]
