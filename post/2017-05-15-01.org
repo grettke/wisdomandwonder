@@ -1,0 +1,9 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10564
+#+DATE: [2017-05-15 Mon 13:48]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: OS X, macOS, Security
+#+TITLE: OS X/macOS Security Updates Out Today
+
+Be sure to install them.
