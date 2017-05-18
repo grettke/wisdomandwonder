@@ -34,7 +34,7 @@ git commit -m "Automated versioning"
     restore the last version
 - Update Org-Mode and Magit
   - Steps
-    - ~cd ~/src/org-mode/ && git pull && make clean && make~
+    - ~cd ~/src/org-mode/ && make update~
     - ~cd ~/src/magit/ && git pull && make clean && make~
   - Why
     - Get best new features immediately
