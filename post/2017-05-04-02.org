@@ -16,6 +16,13 @@ Here is how to keep Emacs healthy and happy on macOS on my machine.
 - Update Brew software packages
   - ~brew update && brew upgrade~
   - Emacs 25.2 for example updated on the day of its release
+- Snapshot Emacs' packages
+  #+NAME: org_gcr_2017-05-17_mara_DB6DD96D-AD69-44AB-97C1-1310C67E11EF
+  #+BEGIN_SRC sh
+cd ~/.emacs.d
+git add .
+git commit -m "Automated versioning"
+  #+END_SRC
 - Update Emacs packages
   - Steps
     - ~list-packages~
