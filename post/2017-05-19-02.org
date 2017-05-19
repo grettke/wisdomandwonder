@@ -1,0 +1,12 @@
+* Publish Subtree 2BECF76B                                             :Test:
+:PROPERTIES:
+:BLOG:     wisdomandwonder
+:OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+:CATEGORY: Article
+:TITLE: Publish Subtree 2BECF76B
+:ID:       o2b:98C4A1CF-D73A-4248-98E3-6C7A70CEED26
+:POST_DATE: [2017-05-19 Fri 12:32]
+:POSTID:   10570
+:END:
+
+Testing post ~org2blog/wp-post-subtree-and-publish~.
