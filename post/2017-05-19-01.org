@@ -1,0 +1,12 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10568
+#+DATE: [2017-05-19 Fri 11:50]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: If You Run Org-Mode From Git Update It Faster
+
+#+NAME: org_gcr_2017-05-18_mara_9C4E66EF-6946-40ED-B44C-9D02861DE9AE
+#+BEGIN_SRC sh
+cd ~/src/org-mode/ && make update
+#+END_SRC
