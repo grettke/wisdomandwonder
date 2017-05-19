@@ -1,8 +1,10 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10567
 #+DATE: [2017-05-16 Tue 07:02]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
 #+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
-#+TITLE:
+#+TITLE: Send Line To Any REPL
 
 Send the current line to the REPL, evaluate it and move to the next line.
 Works for lots of languages and does the /right thing/ navigating to the next
@@ -10,6 +12,8 @@ line.
 
 If you learned this in ESS then you already love it. If you didn't then you
 probably will now
+
+#+HTML: <!--more-->
 
 #+NAME: org_gcr_2017-05-12_mara_0DE4A73B-54B3-41AA-8744-98D7B34D159B
 #+BEGIN_SRC emacs-lisp :results output silent
