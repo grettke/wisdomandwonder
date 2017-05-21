@@ -1,0 +1,30 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10571
+#+DATE: [2017-05-21 Sun 09:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Keybinding To The Same Letter Both Lowercase And Uppercase
+
+[[http://stackoverflow.com/a/22155466][This post]] explains how to keybind to the same letter both lowercase and
+uppercase. But I missed the detail that you *must* use the same syntax for *both*
+keybindings.
+
+#+HTML: <!--more-->
+
+This works.
+
+#+NAME: org_gcr_2017-05-21_mara_1463FF56-EF7D-4AF5-8DB5-2ABFD29406E3
+#+BEGIN_SRC emacs-lisp
+(global-set-key [(control meta ?p)] #'help/insert-datestamp)
+(global-set-key [(control meta shift ?p)] #'help/insert-timestamp*-no-colons)
+#+END_SRC
+
+On my box, /sometimes/ this fails and /sometimes/ it works so I stick with the
+previous syntax all of the time now.
+
+#+NAME: org_gcr_2017-05-21_mara_EE442253-01FA-43FA-AB9A-9B15E16BE675
+#+BEGIN_SRC emacs-lisp
+(global-set-key (kbd "C-M-p") #'help/insert-datestamp)
+(global-set-key [(control meta shift ?p)] #'help/insert-timestamp*-no-colons)
+#+END_SRC
