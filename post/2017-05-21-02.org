@@ -1,0 +1,9 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10572
+#+DATE: [2017-05-21 Sun 11:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Test
+#+TITLE: Testing autoloaded post buffer and post buffer and publish
+
+Content here.
