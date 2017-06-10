@@ -33,7 +33,7 @@ you can enjoy operating upon anything that can be abstracted by a buffer.
 Buffers make things convenient for operating on text abstractions.
 
 ** PROS
-Some of the pros of the buffer approach...
+Some of the pros of the buffer approach follow.
 
 Use a buffer for editing the contents of every kind of file ASCII, extended
 ASCII, Unicode, binary, compressed, delimited, locally and remotely. It is
@@ -80,7 +80,7 @@ These are some of the pros of the buffer model.
 
 ** CONS
 
-Some of the cons of the buffer model...
+Some of the cons of the buffer model follow.
 
 It takes too much time to learn and that is inconvenient. It is weird. The
 documentation is too long. Nobody can really explain why the buffer model is
