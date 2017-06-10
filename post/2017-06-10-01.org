@@ -1,0 +1,11 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10576
+#+DATE: [2017-06-10 Sat 12:07]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: ReRSSOf: Emacs' Buffer: The Ultimate Idea
+
+Here is the real post [[https://www.wisdomandwonder.com/article/10557/emacs-buffer-the-ultimate-idea][Emacs' Buffer: The Ultimate Idea]].
+
+This is the first post that failed to propagate over RSS.
