@@ -1,6 +1,6 @@
 #+BLOG: wisdomandwonder
 #+POSTID: 10557
-#+DATE: [2017-05-10 Wed 18:45]
+#+DATE: [2017-06-10 Sat 00:10]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
 #+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
