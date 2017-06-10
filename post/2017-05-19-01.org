@@ -8,5 +8,9 @@
 
 #+NAME: org_gcr_2017-05-18_mara_9C4E66EF-6946-40ED-B44C-9D02861DE9AE
 #+BEGIN_SRC sh
-cd ~/src/org-mode/ && make update
+cd ~/src/org-mode/ && git ls-remote && make update
 #+END_SRC
+
+*Addendum*: <2017-06-09 Fri 23:42>
+
+First check if you can reach the remote repo.
