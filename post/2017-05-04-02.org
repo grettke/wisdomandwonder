@@ -34,8 +34,12 @@ git commit -m "Automated versioning"
     restore the last version
 - Update Org-Mode and Magit
   - Steps
-    - ~cd ~/src/org-mode/ && make update~
-    - ~cd ~/src/magit/ && git pull && make clean && make~
+    - ~cd ~/src/org-mode/ && git ls-remote && make update~
+    - ~cd ~/src/magit/ && git ls-remote && git pull && make clean && make~
   - Why
     - Get best new features immediately
     - If you don't like the update then undo the pull: ~git reset HEAD@{1}~
+
+*Addendum:* <2017-06-07 Wed 16:02>
+
+Only clean the working copy if Git can reach remote repo!
