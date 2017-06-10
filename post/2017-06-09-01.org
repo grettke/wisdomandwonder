@@ -1,0 +1,38 @@
+#+DATE: [2017-06-09 Fri 23:46]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Make Org-Mode Source Block Navigation Fast, Easy and Fun
+
+With the right keybindings Source Block navigation can be fast, easy and fun!
+
+#+HTML: <!--more-->
+
+The dream of literate program is to easily work both in the human-facing parts
+of the document and the computer-facing parts. Org-Mode provider the former with
+Emacs' text buffer and the latter with Source-Blocks. My favorite way to write
+a document like this to have text interspersed with code. [[https://github.com/grettke/help/blob/master/help.org#font][Here]] is an example
+that you'll instantly recognize as pretty common. This approach results in four
+major problems though:
+- It is a hassle to navigate between the next and previous source blocks like
+  you would with lines of code. It feels unnatural.
+  - So you don't even use literate programming anymore or you use it in a
+    unpleasant rudimentary manner.
+- It is difficult to enter and leave the source block with the default bindings.
+  - So you make changes to the source block directly in the text usually
+    resulting in easy to avoid problems like un-balanced parentheses in Lisp modes
+
+There is an easy solution though and it /already comes with Org-Mode/!
+
+Bind it to the already familiar ~VI~ keys and you are all set:
+
+#+NAME: org_gcr_2017-06-06_mara_18FA389E-91DB-4DBD-BC39-DDABE313EB7F
+#+BEGIN_SRC emacs-lisp
+(define-key org-mode-map (kbd "s-j") #'org-babel-next-src-block)
+(define-key org-mode-map (kbd "s-k") #'org-babel-previous-src-block)
+(define-key org-mode-map (kbd "s-l") #'org-edit-src-code)
+(define-key org-src-mode-map (kbd "s-l") #'org-edit-src-exit)
+#+END_SRC
+
+Try it. *Just try it*. It will totally change your experience of literate
+programming with Org-Mode!
