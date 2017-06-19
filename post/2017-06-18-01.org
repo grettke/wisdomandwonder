@@ -1,0 +1,30 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10579
+#+ORG2BLOG:
+#+DATE: [2017-06-18 Sun 21:47]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Auto-Loading Org2Blog Mode
+
+[[https://github.com/punchagan/org2blog#auto-loading-org2blog-mode][Org2Blog]] enables you to blog from an Org-Mode document straight into a
+WordPress post or page. My blog has an individual file for every post or page
+for example. You can also keep them all in a single file if you like.
+Everybody uses Org2Blog differently.
+
+Some people like to use ~org2blog/wp-mode~ when they are working on their posts.
+The trouble is that they have got to start the mode manually every time. That
+is because Org2Blog files are plain old Org-Mode files. So there is no obvious
+way to automatically enable ~org2blog/wp-mode~. There are [[https://github.com/punchagan/org2blog/issues/140][a lot]] of ideas on how
+to automatically enable it and [[https://github.com/punchagan/org2blog#auto-loading-org2blog-mode][this]] is the one that got implemented. Here is
+how it works:
+
+- Add ~org2blog/wp-org-mode-hook-fn~ to ~org-mode-hook~
+- So that ~org2blog/wp-mode~ is automatically enabled when ~#+ORG2BLOG:~ is
+  present
+- Add code like this somewhere after you load Org-Mode and org2blog
+  #+BEGIN_SRC emacs-lisp :results output silent
+(add-hook 'org-mode-hook #'org2blog/wp-org-mode-hook-fn)
+  #+END_SRC
+- Add ~#+ORG2BLOG:~ to your file
+  - When you create a new entry it is automatically created
