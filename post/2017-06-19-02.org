@@ -1,0 +1,24 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10581
+#+ORG2BLOG:
+#+DATE: [2017-06-19 Mon 19:36]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Maybe The Four Most Important Key-Bindings For High-Speed Org-Mode Literate Programming
+
+Ever watched an Org-Mode Literate Programming program at all? How about progam
+quickly? I have. I mean I have done both, myself. Can you believe that you can
+navigate the document, all of its source blocks and fly between editing
+the source buffer and returning to the host buffer /just as fast/ as a working
+within a /normal/ code file? You should. Some day I'll make a screencast proving
+it. Until then try out these bindings and you will see how quickly you can do
+Literate Programming fast while having fun:
+
+#+NAME: org_gcr_2017-06-19_mara_66DC47BC-96D5-4860-84CA-0312C32B44DF
+#+BEGIN_SRC emacs-lisp
+(define-key org-mode-map (kbd "s-j") #'org-babel-next-src-block)
+(define-key org-mode-map (kbd "s-k") #'org-babel-previous-src-block)
+(define-key org-mode-map (kbd "s-l") #'org-edit-src-code)
+(define-key org-src-mode-map (kbd "s-l") #'org-edit-src-exit)
+#+END_SRC
