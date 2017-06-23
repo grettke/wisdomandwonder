@@ -7,14 +7,14 @@
 #+TAGS: Blogging, Web, WordPress, Vlogging, Screencasting
 #+TITLE: Please Help Me Get A Custom YouTube URL
 
-My YouTube channel has a un-memorable URL =UCqAqX-rsICAoaIUsmVtGL6A=. It is not
-as cool as my branded URL =WisdomAndWonder=. But it is confusing having two
-YouTube accounts. It causes all sorts of trouble because WisdomAndWonder is
-not a brand. Rather I accidentally created it and didn't know that I did it.
-In order to simplify things I want to move everything from that account into
-my personal account. However I can't do that until my personal YouTube account
-has a nice looking URL, like =GrantRettke= maybe. However, YouTube will only
-give me a pretty URL if I have 100 subscribers. And I don't.
++My YouTube channel has a un-memorable URL =UCqAqX-rsICAoaIUsmVtGL6A=. It is not+
++as cool as my branded URL =WisdomAndWonder=. But it is confusing having two+
++YouTube accounts. It causes all sorts of trouble because WisdomAndWonder is+
++not a brand. Rather I accidentally created it and didn't know that I did it.+
++In order to simplify things I want to move everything from that account into+
++my personal account. However I can't do that until my personal YouTube account+
++has a nice looking URL, like =GrantRettke= maybe. However, YouTube will only+
++give me a pretty URL if I have 100 subscribers. And I don't.+
 
 Probably I don't even know 100 people. However, whoever you are, can you
-please help me out and subscribe to [[https://www.youtube.com/channel/UCqAqX-rsICAoaIUsmVtGL6A][my channel]]?
+please help me out and subscribe to [[https://www.youtube.com/+WisdomAndWonder][my channel]]?
