@@ -1,0 +1,24 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10584
+#+ORG2BLOG:
+#+DATE: [2017-06-27 Tue 19:57]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Blogging, Web, WordPress, Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Org2Blog v1.0.0 Released!
+
+Seven years ago today @punchagan made the first commit 4f41f5c on [[https://github.com/org2blog/org2blog][Org2Blog]]. He
+started what has grown to be a loved and adored Emacs package. Combining the
+power of Org-Mode with the gargantuan wealth of WordPress, Org2Blog unites the
+two creating one of the worlds most elegant blogging systems ever. Thousands
+of users around the world use it daily with big smiles on their faces.
+
+Thank you @punchagan, contributors, issue and feature reporters, Org-Mode team,
+Emacs team and the Philosophy of the GNU Project for sharing this gift with
+the world.
+
+After seven years of development, maintenance, support and new features along
+with years of stable use, Org2Blog is ready for a major release at v1.0.0.
+
+By the way, it is exactly seven years *today* and I absolutely did not plan this
+timing at all!
