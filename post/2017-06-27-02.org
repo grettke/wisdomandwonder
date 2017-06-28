@@ -1,0 +1,36 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10585
+#+ORG2BLOG:
+#+DATE: [2017-06-27 Tue 20:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Easily Avoid Using The Word Easily In Your Emacs Configuration
+
+My [[https://github.com/grettke/help][Emacs configuration]] contains over one hundred uses of the "easy" word
+form. Lines and lines of code explain how to /easily/ do something. I even
+put together [[https://github.com/grettke/fraktur-mode][a package]] to /easily/ do something. Each begging a question or two.
+
+Why would I ever put something in my configuration to make a task /strenuous/?
+Would would I ever write code to make doing things /difficult/? But it is
+revealing.
+
+#+HTML: <!--more-->
+
+For most of us, configuring Emacs is unlike configuring every other piece of
+software, ever. Yes we have configured things to make our lives easier. But
+never before have we configured something specifically to serve us and how /we/
+think. For most of us that is a new idea because our only experience has been
+using pre-packaged software that worked how it's authors think and don't let
+you think any other way than that. Emacs' does let you think any other way
+though. That is the new part.
+
+That results in the "easily do such and such" notes /not/ because we are
+reminding ourselves that we are going to do something easily but rather we are
+surprised that we can so easily translate how we think in our inner world to a
+tool that helps make that process easier in our outer world.
+
+And that is how we can easily express that so we don't need to mention
+"easily" ever again. Simply act and do knowing that the freedom to use Emacs
+is freeing in every sense of the word. Thank goodness.
