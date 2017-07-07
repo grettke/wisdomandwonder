@@ -6,7 +6,6 @@
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
 #+TAGS: Yoga, philosophy, Health, Happiness,
-#+TITLE: Another Question About Chai
+#+TITLE: When is the worst time to have chai?
 
-- Q. When is the worst time to have chai?
-- A. It is a trick question. Every time is good for having chai.
+It is a trick question. Every time is good for having chai.
