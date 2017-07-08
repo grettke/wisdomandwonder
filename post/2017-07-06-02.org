@@ -5,7 +5,6 @@
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
 #+TAGS: Yoga, philosophy, Health, Happiness,
-#+TITLE: Another Question About Chai
+#+TITLE: How much ginger is too much for your chai?
 
-- Q. How much ginger is too much for your chai?
-- A. It is a trick question. You can never add too much ginger to your chai.
+It is a trick question. You can never add too much ginger to your chai.
