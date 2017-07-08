@@ -1,0 +1,21 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10588
+#+ORG2BLOG:
+#+DATE: [2017-07-08 Sat 13:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Yoga, philosophy, Health, Happiness,
+#+TITLE: Mitochondria May Be the Missing Link in Understanding Stress Response
+
+From [[http://mentalfloss.com/article/72761/mitochondria-may-be-missing-link-understanding-stress-response][Mitochondria May Be the Missing Link in Understanding Stress Response]]
+
+#+BEGIN_QUOTE
+ a pioneering study, recently published in Proceedings of the National Academy
+ of Sciences, suggests that mitochondria—the tiny energy centers inside our
+ cells, which convert food into ATP, the crucial molecule that stores the
+ energy humans need to do pretty much everything—may play a more significant
+ role in the stress responses of mammals than previously understood, and even
+ in understanding psychiatric and neurologic diseases.
+#+END_QUOTE
+
+The [[http://cmem.research.chop.edu/][Center for Mitochondrial and Epigenomic Medicine]] is spectacular.
