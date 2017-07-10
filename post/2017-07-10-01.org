@@ -1,0 +1,18 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10590
+#+ORG2BLOG:
+#+DATE: [2017-07-10 Mon 01:38]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Looking For Tips On Making Emacs Screencasts
+
+When I produce an Emacs screencast it takes four or five hours. That is after
+producing a handful that I've published and a few that I threw away. Over time
+I expect the process to get shorter but it is still pretty long.
+
+There are a [[https://www.emacswiki.org/emacs/EmacsScreencasts][lot of Emacs screencasters]] out there. In addition to the tips
+there:
+
+How long do you spend producing your screencasts and what are you tips and
+tricks to get the most production value in the least time?
