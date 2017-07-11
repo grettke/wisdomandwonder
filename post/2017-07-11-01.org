@@ -15,6 +15,7 @@ wanted to evaluate in the first place:
 
 #+NAME: org_gcr_2017-07-11_mara_BF803F0B-4A53-4822-85D4-5F512DDA1527
 #+BEGIN_SRC emacs-lisp
+(defconst help/org-special-pre "^\s*#[+]")
 (defun help/org-2every-src-block (fn)
   "Visit every Source-Block and evaluate `FN'."
   (interactive)
