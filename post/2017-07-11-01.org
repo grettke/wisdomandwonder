@@ -1,0 +1,32 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10597
+#+ORG2BLOG:
+#+DATE: [2017-07-11 Tue 00:39]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Remove Every Source Block Results
+
+Sometimes you accidentally evaluate your entire Org-Mode document resulting in
+result blocks everywhere. Maybe you /can't/ easily revert the change so you are
+stuck with a ton of code you don't need. Here is a function to remove all of
+your result blocks. It is pretty good for documents that you probably never
+wanted to evaluate in the first place:
+
+#+NAME: org_gcr_2017-07-11_mara_BF803F0B-4A53-4822-85D4-5F512DDA1527
+#+BEGIN_SRC emacs-lisp
+(defun help/org-2every-src-block (fn)
+  "Visit every Source-Block and evaluate `FN'."
+  (interactive)
+  (save-excursion
+    (goto-char (point-min))
+    (let ((case-fold-search t))
+      (while (re-search-forward (concat help/org-special-pre "BEGIN_SRC") nil t)
+        (let ((element (org-element-at-point)))
+          (when (eq (org-element-type element) 'src-block)
+            (funcall fn element)))))
+    (save-buffer)))
+(define-key org-mode-map (kbd "s-]") (lambda () (interactive)
+                                       (help/org-2every-src-block
+                                        'org-babel-remove-result)))
+#+END_SRC
