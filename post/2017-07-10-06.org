@@ -1,0 +1,12 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10591
+#+ORG2BLOG:
+#+DATE: [2017-07-10 Mon 19:08]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Org-Mode Has a New Google Plus URL: +OrgModeForEmacs
+
+When you share the [[https://plus.google.com/+OrgModeForEmacs][Org-Mode Google Plus URL]]
+with your friends, try out the new easier to remember URL
+https://plus.google.com/+OrgModeForEmacs .
