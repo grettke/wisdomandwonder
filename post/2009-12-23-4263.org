@@ -2,7 +2,7 @@
 #+DATE: [2009-12-23 Wed 02:08]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
 #+CATEGORY: Link
-#+TAGS: BitC, Programming Language
+#+TAGS: Programming Language
 #+TITLE: The BitC Programming Language
 
 Via [[http://www.bitc-lang.org/][bitc-lang.org]]:
