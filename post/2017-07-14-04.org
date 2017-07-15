@@ -1,0 +1,26 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10602
+#+ORG2BLOG:
+#+DATE: [2017-07-14 Fri 21:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Yoga, philosophy, Health, Happiness,
+#+TITLE: The Narmada River: From East To West
+
+Via [[https://en.wikipedia.org/wiki/Narmada_River][Wikipedia]]:
+
+#+BEGIN_QUOTE
+The Narmada, also called the Rewa, is a river in central India and the fifth
+longest river in the Indian subcontinent. It is the third longest river that
+flows entirely within India, after the Godavari, and the Krishna. It is also
+known as "Life Line of Madhya Pradesh" for its huge contribution to the state
+of Madhya Pradesh in many ways. It forms the traditional boundary between
+North India and South India and flows westwards over a length of 1,312 km
+(815.2 mi) before draining through the Gulf of Khambhat into the Arabian Sea,
+30 km (18.6 mi) west of Bharuch city of Gujarat.[3]
+
+It is one of only three major rivers in peninsular India that run from east to
+west (longest west flowing river), along with the Tapti River and the Mahi
+River. It is one of the rivers in India that flows in a rift valley, flowing
+west between the Satpura and Vindhya ranges.
+#+END_QUOTE
