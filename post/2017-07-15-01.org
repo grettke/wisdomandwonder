@@ -1,0 +1,29 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10604
+#+ORG2BLOG:
+#+DATE: [2017-07-15 Sat 14:46]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Inviting Non Programmers To Emacs: (A) Super Text Editor
+
+When my friends look at my computer screen I want to invite them to use Emacs.
+But the name "Emacs", like Honda or Maserati tells them nothing. Honda and
+Maserati have advertising everywhere though! So I set a frame title that tells
+them /something/ about this program! Well, they probably have to like text
+editors already. And if they do, then they might be interested in a /Super/ text
+editor.
+
+BTW: I am totally serious about this. I want to invite my friends to use this.
+Programmers or not, Emacs is still /Free Software/ and that matters for everyone.
+And I find Emacs to be super. It is super. You and I know that it's power
+comes from Lisp and buffers but "Super Text Editor" also works for me.
+
+#+NAME: org_gcr_2017-07-15_mara_9DCD6855-C846-450C-8D4C-6CAFFAFE8EF3
+#+BEGIN_SRC emacs-lisp
+(setq frame-title-format '("" "%b - Super Text Editor "))
+#+END_SRC
+
+[[file:image/Super-Text-Editor.png][Super Text Editor Screenshot]]
+
+# image/Super-Text-Editor.png https://www.wisdomandwonder.com/wp-content/uploads/2017/07/Super-Text-Editor.png
