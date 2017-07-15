@@ -1,0 +1,109 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10603
+#+ORG2BLOG:
+#+DATE: [2017-07-14 Fri 22:42]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Two Ways To Share Static Key Pair Values Across Different Tangled Source Files With Org-Mode Literate Programming
+
+[[https://www.reddit.com/r/emacs/comments/6mzgkg/how_can_orgbabel_be_configured_to_set_variables/][This post]] asks about how you can share static key pair values across different
+tangled source files. The following are my two tries.
+
+#+HTML: <!--more-->
+
+These examples
+- Use Emacs Lisp because it is easier for me
+- Use the configuration at the bottom
+- Define a collection to store the key pair values but you could use anything
+  anywhere you wanted
+- At the bottom I included the expanded source blocks for each approach and
+  they are identical
+
+* Using Variables
+Use ~var~ statements. This has the benefit of source blocks that look like "real
+code".
+
+#+BEGIN_SRC org
+,#+PROPERTY: header-args :comments no
+
+,#+NAME: org_gcr_2017-07-13_mara_EB157A25-740C-48B5-B950-0CE6AF564C98
+,#+BEGIN_SRC emacs-lisp :results none
+(setq myvars (make-hash-table :test 'equal))
+(puthash "a" "17" myvars)
+(puthash "b" "84" myvars)
+(puthash "default" "no match found" myvars)
+,#+END_SRC
+
+,#+NAME: org_gcr_2017-07-13_mara_E0B9AA8C-42B1-4982-954F-1CADAF977116
+,#+BEGIN_SRC sh :tangle test.sh :var a=(gethash "a" myvars) :tangle test.sh
+echo a
+,#+END_SRC
+
+,#+NAME: org_gcr_2017-07-13_mara_57BEEA3A-ED9C-4042-955B-AF6CA8385AE0
+,#+BEGIN_SRC emacs-lisp :var b=(gethash "b" myvars) :tangle test.el
+(message b)
+,#+END_SRC
+#+END_SRC
+* Using Noweb Calls
+Use noweb calls. This has the benefit of super flexibility (noweb ref calls
+are just plain old function calls really). It looks more dramatic. The calls
+really stand out unlike the ~var~ approach.
+
+#+NAME: org_gcr_2017-07-14_mara_13AA581B-CF83-4044-AE96-B94DEA65FC8C
+#+BEGIN_SRC org
+,#+PROPERTY: header-args :comments no
+
+,#+NAME: org_gcr_2017-07-13_mara_EB157A25-740C-48B5-B950-0CE6AF564C98
+,#+BEGIN_SRC emacs-lisp :results none
+(setq myvars (make-hash-table :test 'equal))
+(puthash "a" "17" myvars)
+(puthash "b" "84" myvars)
+(puthash "default" "no match found" myvars)
+,#+END_SRC
+
+,#+name: myx
+,#+BEGIN_SRC emacs-lisp :results value scalar :noweb-ref myvar :var key="default"
+(gethash key myvars)
+,#+END_SRC
+
+,#+NAME: org_gcr_2017-07-13_mara_E0B9AA8C-42B1-4982-954F-1CADAF977116
+,#+BEGIN_SRC sh :tangle test.sh
+echo <<myx(key="a")>>
+,#+END_SRC
+
+,#+NAME: org_gcr_2017-07-13_mara_57BEEA3A-ED9C-4042-955B-AF6CA8385AE0
+,#+BEGIN_SRC emacs-lisp :tangle test.el
+(message <<myx(key="b")>>)
+,#+END_SRC
+#+END_SRC
+* Expanded Source Blocks
+- Call ~org-babel-expand-src-block~ to see how the source block expands. This is
+  a lot faster than tangling the source to see the resulting code or
+  evaluating the source block to see if it works right.
+- Expansion of the source blocks: they are identical in each of them
+  - The shell script
+    - ~echo "17"~
+  - The Emacs Lisp script
+    - ~(message "84")~
+* My Configuration
+#+BEGIN_EXAMPLE
+Name: org_gcr_2017-07-14_mara_13AA581B-CF83-4044-AE96-B94DEA65FC8C
+Lang: org
+Properties:
+  :header-args    nil
+  :header-args:org    nil
+Header Arguments:
+  :cache    no
+  :comments   noweb
+  :eval     never-export
+  :exports  code
+  :hlines     no
+  :mkdirp     yes
+  :noweb    no-export
+  :padline  yes
+  :results  silent raw value table
+  :session  none
+  :tangle     no
+  :wrap     EXAMPLE
+#+END_EXAMPLE
