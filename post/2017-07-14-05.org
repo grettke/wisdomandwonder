@@ -18,7 +18,7 @@ These examples
 - Define a collection to store the key pair values but you could use anything
   anywhere you wanted
 - At the bottom I included the expanded source blocks for each approach and
-  they are identical
+  they are /identical in what they do/ but /different in their generated code/
 
 * Using Variables
 Use ~var~ statements. This has the benefit of source blocks that look like "real
@@ -36,12 +36,12 @@ code".
 ,#+END_SRC
 
 ,#+NAME: org_gcr_2017-07-13_mara_E0B9AA8C-42B1-4982-954F-1CADAF977116
-,#+BEGIN_SRC sh :tangle test.sh :var a=(gethash "a" myvars) :tangle test.sh
+,#+BEGIN_SRC sh :tangle test1.sh :var a=(gethash "a" myvars) :tangle test.sh
 echo a
 ,#+END_SRC
 
 ,#+NAME: org_gcr_2017-07-13_mara_57BEEA3A-ED9C-4042-955B-AF6CA8385AE0
-,#+BEGIN_SRC emacs-lisp :var b=(gethash "b" myvars) :tangle test.el
+,#+BEGIN_SRC emacs-lisp :var b=(gethash "b" myvars) :tangle test1.el
 (message b)
 ,#+END_SRC
 #+END_SRC
@@ -68,12 +68,12 @@ really stand out unlike the ~var~ approach.
 ,#+END_SRC
 
 ,#+NAME: org_gcr_2017-07-13_mara_E0B9AA8C-42B1-4982-954F-1CADAF977116
-,#+BEGIN_SRC sh :tangle test.sh
+,#+BEGIN_SRC sh :tangle test2.sh
 echo <<myx(key="a")>>
 ,#+END_SRC
 
 ,#+NAME: org_gcr_2017-07-13_mara_57BEEA3A-ED9C-4042-955B-AF6CA8385AE0
-,#+BEGIN_SRC emacs-lisp :tangle test.el
+,#+BEGIN_SRC emacs-lisp :tangle test2.el
 (message <<myx(key="b")>>)
 ,#+END_SRC
 #+END_SRC
@@ -81,11 +81,28 @@ echo <<myx(key="a")>>
 - Call ~org-babel-expand-src-block~ to see how the source block expands. This is
   a lot faster than tangling the source to see the resulting code or
   evaluating the source block to see if it works right.
-- Expansion of the source blocks: they are identical in each of them
-  - The shell script
-    - ~echo "17"~
-  - The Emacs Lisp script
-    - ~(message "84")~
+- Expansion of the source blocks: they are identical in operation
+  - Using variables
+    - test1.sh
+      #+BEGIN_EXAMPLE
+a='17'
+echo a
+      #+END_EXAMPLE
+    - test1.el
+      #+BEGIN_EXAMPLE
+(let ((b (quote "84")))
+  (message b)
+  )
+      #+END_EXAMPLE
+  - Using Noweb
+    - test2.sh
+      #+BEGIN_EXAMPLE
+echo "17"
+      #+END_EXAMPLE
+    - test2.el
+      #+BEGIN_EXAMPLE
+(message "84")
+      #+END_EXAMPLE
 * My Configuration
 #+BEGIN_EXAMPLE
 Name: org_gcr_2017-07-14_mara_13AA581B-CF83-4044-AE96-B94DEA65FC8C
