@@ -1,0 +1,98 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10607
+#+ORG2BLOG:
+#+DATE: [2017-07-18 Tue 11:36]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Can Run Emacs But Can't Compile Org-Mode After Upgrading ImageMagick With Solution
+
+Today on my box I upgraded ImageMagick and now I can't compile Org-Mode but I can run
+Emacs. Here is what I did to make Org-Mode build again on my box.
+
+#+HTML: <!--more-->
+
+Every day I update Org-Mode from Git and rebuild it with
+
+#+NAME: org_gcr_2017-07-17_mara_590500FA-A8AE-4FC0-BF83-2A76237B8822
+#+BEGIN_SRC sh
+cd ~/src/org-mode/ && git ls-remote && make update
+#+END_SRC
+
+Today it failed with the error
+
+#+NAME: org_gcr_2017-07-17_mara_0A6349BF-3870-4297-9509-78C909491726
+#+BEGIN_SRC sh
+make[1]: Nothing to be done for `all'.
+rm -f org-version.el org-loaddefs.el org-version.elc org-loaddefs.elc org-install.elc
+org-version: 9.0.9 (release_9.0.9-654-g421421)
+dyld: Library not loaded: /usr/local/opt/imagemagick@6/lib/libMagickWand-6.Q16.4.dylib
+  Referenced from: /usr/local/Cellar/emacs-plus/25.2/Emacs.app/Contents/MacOS/Emacs
+  Reason: image not found
+make[1]: *** [org-version.el] Trace/BPT trap: 5
+make: *** [all] Error 2
+#+END_SRC
+
+Figured that /can't/ be related to Org-Mode though I saw today after updating
+~brew~ that a new ImageMagick got installed so I rebuilt Emacs (it takes
+minutes) because maybe it had to do with the new ImageMagick library
+
+#+NAME: org_gcr_2017-07-17_mara_CFEE66A6-471C-4718-AC8F-7EB8D0EA1667
+#+BEGIN_SRC sh
+brew remove emacs-mac
+brew install emacs-mac \
+     --with-dbus \
+     --with-gnutls \
+     --with-imagemagick \
+     --with-modules \
+     --with-natural-title-bar \
+     --with-official-icon \
+     --with-xml2
+#+END_SRC
+
+But the error didn't go away so this time /I read the error message/ and started
+searching the Internet to find out if it is normal for the directory to change
+and found [[https://stackoverflow.com/questions/19040932/rmagick-complaining-about-libmagickcore-5-dylib-not-found-in-osx/19040933#19040933][this]] discussion that confirms that it /it is normal for the directory
+to change/ so just like author of the post did I found it
+
+#+NAME: org_gcr_2017-07-17_mara_E6AE0644-1246-47EC-82AC-47032887A5B7
+#+BEGIN_SRC sh
+sudo find / -name "libMagickWand-6.Q16.4.dylib" -print
+#+END_SRC
+
+#+RESULTS: org_gcr_2017-07-17_mara_E6AE0644-1246-47EC-82AC-47032887A5B7
+#+BEGIN_EXAMPLE
+find: /dev/fd/3: Not a directory
+find: /dev/fd/4: Not a directory
+/usr/local/Cellar/imagemagick@6/6.9.8-10/lib/libMagickWand-6.Q16.4.dylib
+/usr/local/Cellar/imagemagick@6/6.9.8-3/lib/libMagickWand-6.Q16.4.dylib
+/usr/local/Cellar/imagemagick@6/6.9.8-4/lib/libMagickWand-6.Q16.4.dylib
+/usr/local/Cellar/imagemagick@6/6.9.8-5/lib/libMagickWand-6.Q16.4.dylib
+/usr/local/Cellar/imagemagick@6/6.9.8-6/lib/libMagickWand-6.Q16.4.dylib
+/usr/local/Cellar/imagemagick@6/6.9.8-8/lib/libMagickWand-6.Q16.4.dylib
+#+END_EXAMPLE
+
+And linked it
+
+#+NAME: org_gcr_2017-07-17_mara_63197BB0-7B16-487D-9CE7-C95C22A7B564
+#+BEGIN_SRC sh
+ln -s /usr/local/Cellar/imagemagick@6/6.9.8-10/lib/libMagickWand-6.Q16.4.dylib /usr/local/opt/imagemagick@6/lib/libMagickWand-6.Q16.4.dylib
+#+END_SRC
+
+Then when I rebuild Org-Mode I got another error
+
+#+NAME: org_gcr_2017-07-17_mara_B50BAE83-CC52-41C8-AE4B-0B22BDFFD1AF
+#+BEGIN_SRC sh
+dyld: Library not loaded: /usr/local/opt/imagemagick@6/lib/libMagickCore-6.Q16.4.dylib
+Referenced from: /usr/local/Cellar/emacs-plus/25.2/Emacs.app/Contents/MacOS/Emacs
+Reason: image not found
+#+END_SRC
+
+So I'll keep linking them until it works
+
+#+NAME: org_gcr_2017-07-17_mara_F7A3FDA2-88D9-4AA3-B47B-FA9B8539DD09
+#+BEGIN_SRC sh
+ln -s /usr/local/Cellar/imagemagick@6/6.9.8-10/lib/libMagickCore-6.Q16.4.dylib /usr/local/opt/imagemagick@6/lib/libMagickCore-6.Q16.4.dylib
+#+END_SRC
+
+That is all it took. Now it builds for me.
