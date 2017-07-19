@@ -1,0 +1,30 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10608
+#+ORG2BLOG:
+#+DATE: [2017-07-19 Wed 11:39]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: OSX, Utility, Shell, Bash
+#+TITLE: Fix For When Bash Can't Find Its Debugger On macOS
+
+Sometimes Bash needs its debugger but it can't find it. It looks like this:
+
+#+BEGIN_EXAMPLE
+/usr/share/bashdb/bashdb-main.inc: No such file or directory
+-bash: warning: cannot start debugger
+#+END_EXAMPLE
+
+For example when you start ~bashdb~ yourself with ~bash --debugger~ or
+set ~shopt -s extdebug~. Another example is when your [[https://gitlab.com/gnachman/iterm2/issues/4160][terminal turns it on]].
+
+Here is the fix that worked on my box:
+
+#+NAME: org_gcr_2017-07-18_mara_6E52FCE7-8639-40A3-AD11-AC37D3D87AE3
+#+BEGIN_SRC sh
+brew install bashdb
+bashhome=$(brew --prefix bash)
+bdbhome=$(brew --prefix bashdb)
+ln -s $bdbhome/share/bashdb $bashhome/share/bashdb
+unset bashhome
+unset bdbhome
+#+END_SRC
