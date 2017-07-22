@@ -5,15 +5,16 @@
 #+TAGS: Emacs, Fun, Ide, Lisp, Programming, creativity, elisp, philosophy
 #+TITLE: (use-package smartparens-config :ensure smartparens)
 
-If you utilize =use-package= to install =smartparens= and require =smartparens-config= then do it like this:
+<2017-07-21 Fri>
 
-=(use-package smartparens-config :ensure smartparens)=
+Here is the correct way to load it:
 
-This week I migrated to use-package and configured it incorrectly with something like this:
-
-=(use-package smartparens :ensure t :config (require 'smartparens-config))=
-
-Big giveaway: single-quote and backtick don't work correctly in strict mode! There are a lot of explanations of how to "fix this issue". It isn't an issue with smartparens. This is how I got it wrong; very easy mistake to make.
-
-
-
+#+NAME: org_gcr_2017-07-21_mara_E65B7A9A-D148-48E5-ACDE-57F29A511C73
+#+BEGIN_SRC emacs-lisp
+(use-package smartparens
+  :ensure t
+  :config
+  (setq sp-show-pair-from-inside nil)
+  (require 'smartparens-config)
+  :diminish smartparens-mode)
+#+END_SRC
