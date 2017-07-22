@@ -1,0 +1,14 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10614
+#+ORG2BLOG:
+#+DATE: [2017-07-21 Fri 21:09]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Using Org-Mode For Disqus Comments
+
+The Disqus commenting system is used on 2/5 blogs out there today. So I was
+pretty happy to discover today that
+[[https://help.disqus.com/customer/portal/articles/466253-what-html-tags-are-allowed-within-comments-][Disqus allows tags within comments]]. The cool thing is that for Org-Mode users
+to post rich Disqus comments it probably just means doing an
+=Export to HTML as HTML buffer= and pasting the results into the comment box.
