@@ -1,0 +1,14 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10622
+#+ORG2BLOG:
+#+DATE: [2017-07-25 Tue 18:29]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: org2blog, Blogging, Web, WordPress
+#+TITLE: org2blog issue 80 test upload
+
+Posting a 1.9M test file to [[https://github.com/org2blog/org2blog/issues/80][confirm]]:
+
+[[file:image/test001.jpg]]
+
+# image/test001.jpg https://www.wisdomandwonder.com/wp-content/uploads/2017/07/test001.jpg
