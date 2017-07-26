@@ -1,0 +1,40 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10623
+#+ORG2BLOG:
+#+DATE: [2017-07-26 Wed 15:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Yet Another Ag Hydra
+
+#+NAME: org_gcr_2017-07-26_mara_663A4A24-A308-4EDA-B151-341EA044DBC3
+#+BEGIN_SRC emacs-lisp
+(defhydra help/hydra/ag (:color blue
+                                :hint nil)
+  "
+`ag', The Silver Searcher:
+  Present in window:
+    Search in folder:
+      _j_ limit search by file type _k_ search in everything
+    Search in project:
+      _l_ limit search by file type _;_ search in everything
+  Present in dired:
+    Search in folder:
+      _u_ limit search by file type _i_ search in everything
+    Search in project:
+      _o_ limit search by file type _p_ search in everything
+  Other:
+    _n_ close every other buffer _m_ close every buffer _q_ quit
+"
+  ("u" ag-dired-regexp)
+  ("i" ag-dired)
+  ("o" ag-project-dired-regexp)
+  ("p" ag-project-dired)
+  ("j" ag-files)
+  ("k" ag)
+  ("l" ag-project-files)
+  (";" ag-project)
+  ("n" ag-kill-other-buffers)
+  ("m" ag-kill-buffers)
+  ("q" nil))
+#+END_SRC
