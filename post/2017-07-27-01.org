@@ -1,0 +1,18 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10626
+#+ORG2BLOG:
+#+DATE: [2017-07-27 Thu 20:31]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Yoga, philosophy, Health, Happiness,
+#+TITLE: Somatic Experiencing Therapy
+
+From [[https://en.wikipedia.org/wiki/Somatic_experiencing][Wikipedia]]:
+
+#+BEGIN_EXAMPLE
+Somatic experiencing is a form of alternative therapy aimed at relieving the
+symptoms of post-traumatic stress disorder (PTSD) and other mental and
+physical trauma-related health problems by focusing on the client's perceived
+body sensations (or somatic experiences). It was created by trauma therapist
+Peter A. Levine.
+#+END_EXAMPLE
