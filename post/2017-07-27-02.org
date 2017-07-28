@@ -1,0 +1,43 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10627
+#+ORG2BLOG:
+#+DATE: [2017-07-27 Thu 20:41]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: APL, Array programming, Programming Language
+#+TITLE: How To Choose Betwen APL And J
+
+Where is the better place to start APL or J?
+
+Raw notes follow.
+
+#+HTML: <!--more-->
+
+- Comments (some summarized) from the references
+  - J's biggest feature over APL is =tacit form= which addressed Iverson's
+    biggest issues with APL
+  - APL's distinctive syntax
+  - J is now GPL3
+  - J is fuly fledged Function and Object-Oriented
+  - J's great documentation, forum and community
+  - "J, added a plethora (called adverbs and conjunctions), but removed
+    brackets (both axis and indexing), the each operator (in favor of the more
+    general rank operator), and last-axis (cumulative) reduction."
+  - "If the [J] had been designed in a way that made it easy to use it
+    probably would have been one of the most wildly successful languages in
+    history."
+  - "A line of J could replace a page of just about anything else. In any other
+    language, your brain ain’t working half the time; instantiating things,
+    making iterators go, building brain dead switch statements, dealing with
+    preposterous function call overhead or declarations, writing dumb helper
+    patterns that are a tiny variation on something you have done 100 times
+    before."
+  - J should be considered a language completely unrelated to APL
+
+Resources
+- [[https://stackoverflow.com/questions/3887521/apl-versus-a-versus-j-versus-k][APL versus A versus J versus K?]]
+- [[http://crypto.stanford.edu/~blynn/c/apl.html][APL and J]]
+- [[http://cs.ecs.baylor.edu/~maurer/SieveE/apl.htm][(A Different Post Titled) APL and J]]
+- [[https://scottlocklin.wordpress.com/2012/09/18/a-look-at-the-j-language-the-fine-line-between-genius-and-insanity/][A look at the J language: the fine line between genius and insanity]]
+- [[https://www.quora.com/How-similar-are-J-and-APL][How similar are J and APL?]]
+- [[http://www.jsoftware.com/papers/j4apl.htm][J for the APL Programmer]]
