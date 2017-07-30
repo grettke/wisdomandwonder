@@ -1,0 +1,34 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10630
+#+ORG2BLOG:
+#+DATE: [2017-07-30 Sun 16:05]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: How Fast Can You Tangle In Org-Mode?
+
+Last year I converted my Emacs [[https://github.com/grettke/help][Literate Configuration File]] from a complicated
+document full of out-of-order =noweb= objects to a simple sequential document
+that took the tangle times down from 3-10 minutes (*because of how I set up my
+document not because of Org-Mode itself!!!*) down to 30-90 seconds. But who
+doesn't want more speed? I didn't at least until I read [[https://bling.github.io/blog/2016/01/18/why-are-you-changing-gc-cons-threshold/][this article]] which led
+me to reading [[https://github.com/nilcons/emacs-use-package-fast/blob/master/README.md][this article]] and this [[https://www.gnu.org/software/emacs/manual/html_node/elisp/Garbage-Collection.html][page on garbage collection]].
+
+I tangle my config files what feels like every few minutes at least when I am
+playing around with stuff. So here is some code to effectively avoid garbage
+collection when tangling. It speeds up tangling on my computer when I tangle
+the same document in a row five or ten times so I'm happy but that clearly
+isn't a detailed analysis.
+
+Here is the code:
+
+#+NAME: org_gcr_2017-07-30_mara_B8D16E11-F542-4116-AF03-79FC13F790F8
+#+BEGIN_SRC emacs-lisp
+(setq help/default-gc-cons-threshold gc-cons-threshold)
+(defun help/set-mem-max ()
+  (setq gc-cons-threshold most-positive-fixnum))
+(defun help/set-mem-default ()
+  (setq gc-cons-threshold help/default-gc-cons-threshold))
+(add-hook 'org-babel-pre-tangle-hook #'help/set-mem-max)
+(add-hook 'org-babel-post-tangle-hook #'help/set-mem-default)
+#+END_SRC
