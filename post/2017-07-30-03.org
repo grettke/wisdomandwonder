@@ -25,10 +25,16 @@ Here is the code:
 #+NAME: org_gcr_2017-07-30_mara_B8D16E11-F542-4116-AF03-79FC13F790F8
 #+BEGIN_SRC emacs-lisp
 (setq help/default-gc-cons-threshold gc-cons-threshold)
-(defun help/set-mem-max ()
-  (setq gc-cons-threshold most-positive-fixnum))
-(defun help/set-mem-default ()
-  (setq gc-cons-threshold help/default-gc-cons-threshold))
-(add-hook 'org-babel-pre-tangle-hook #'help/set-mem-max)
-(add-hook 'org-babel-post-tangle-hook #'help/set-mem-default)
+(defun help/set-gc-cons-threshold (&optional multiplier notify)
+  "Set `gc-cons-threshold' either to its default value or a
+   `multiplier' thereof."
+  (let* ((new-multiplier (or multiplier 1))
+         (new-threshold (* help/default-gc-cons-threshold
+                           new-multiplier)))
+    (setq gc-cons-threshold new-threshold)
+    (when notify (message "Setting `gc-cons-threshold' to %s"
+                          new-threshold))))
+(defun help/double-gc-cons-threshold () "Double `gc-cons-threshold'." (help/set-gc-cons-threshold 2))
+(add-hook 'org-babel-pre-tangle-hook #'help/double-gc-cons-threshold)
+(add-hook 'org-babel-post-tangle-hook #'help/set-gc-cons-threshold)
 #+END_SRC
