@@ -8,6 +8,6 @@
 Go is a very enticing language. Not having taken more than a light jump into
 it, it has all the brevity of what I remember as a student learning C combined
 with the modern library support of Python today. Wanting to find the Go
-equivelant of [[http://www.amazon.com/The-Java-Developers-Almanac-1999/dp/0201432986][The Java Developers Almanac]], I ended up at [[https://www.socketloop.com/][socketloop.com]]. It
+equivalent of [[http://www.amazon.com/The-Java-Developers-Almanac-1999/dp/0201432986][The Java Developers Almanac]], I ended up at [[https://www.socketloop.com/][socketloop.com]]. It
 has short and sweet articles, just like the language, and just like the
 author.
