@@ -3,7 +3,7 @@
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
 #+CATEGORY: Link
 #+TAGS: Go Lang, Learning, Programming, Programming Language, Teaching
-#+TITLE: The Go Developers Almanac
+#+TITLE: (Go Lang) The Go Developers Almanac
 
 Go is a very enticing language. Not having taken more than a light jump into
 it, it has all the brevity of what I remember as a student learning C combined
