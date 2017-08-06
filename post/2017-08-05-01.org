@@ -1,0 +1,11 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10647
+#+ORG2BLOG:
+#+DATE: [2017-08-05 Sat 19:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Go Lang
+#+TITLE: (Go Lang) On YouTube: Why Go is a good programming language to learn
+
+[[https://www.youtube.com/watch?v=5D-ukp5gIwM][Why Go is a good programming language to learn]] talks about how Go has the
+library support and programming conveniences of Python with the speed of C.
