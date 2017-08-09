@@ -104,6 +104,24 @@ echo "17"
 (message "84")
       #+END_EXAMPLE
 * My Configuration
+** System
+#+BEGIN_EXAMPLE
+Org-Version: 9.0.9
+Org-Git-Version:release_9.0.9-737-g7e46af
+Emacs-Version: GNU Emacs 25.2.1 (x86_64-apple-darwin15.6.0, Carbon Version 157 AppKit 1404.47)
+ of 2017-07-28
+Noweb wrap start and stop delimeters: ’<<’ and ’>>’
+org-babel-default-header-args:
+
+((:session . "none")
+ (:results . "replace")
+ (:exports . "code")
+ (:cache . "no")
+ (:noweb . "no")
+ (:hlines . "no")
+ (:tangle . "no"))
+#+END_EXAMPLE
+** Block
 #+BEGIN_EXAMPLE
 Name: org_gcr_2017-07-14_mara_13AA581B-CF83-4044-AE96-B94DEA65FC8C
 Lang: org
