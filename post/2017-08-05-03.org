@@ -1,0 +1,64 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10649
+#+ORG2BLOG:
+#+DATE: [2017-08-05 Sat 20:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Org2Blog: Access Post Metadata After Publishing
+
+Via [[https://github.com/org2blog/org2blog#after-publishing-access-the-metadata][here]]:
+
+Now your post or page exists both in your Org-Mode file on your computer, and
+also in WordPress itself. That page or post inside of WordPress contains a lot
+of metadata and you might be interested in some of it. [[https://codex.wordpress.org/XML-RPC_MetaWeblog_API][Here]] is documentation
+covering all of the fields. You can easily access that data using a hook function.
+
+#+HTML: <!--more-->
+
+After publishing your post or page, Org2Blog calls the functions in
+~org2blog/wp-after-new-post-or-page-functions~ passing them the post or page
+metadata. Maybe you've never seen a hook function like this before because it
+takes an argument. They are still just plain old functions. Here they need to
+accept one argument so that Org2Blog can give you that metadata. It is pretty
+simple.
+
+Here is an example that displays your post or page information in the
+=*Messages*= buffer:
+
+#+BEGIN_SRC emacs-lisp
+(add-hook 'org2blog/wp-after-new-post-or-page-functions (lambda (p) (pp p)))
+#+END_SRC
+
+#+BEGIN_EXAMPLE
+(("dateCreated" :datetime
+  (22918 5912))
+ ("userid" . "1")
+ ("postid" . 10648)
+ ("description" . "<p> Glad to know that Go has a <a href=\"http://snowsyn.net/2016/09/01/introducing-planet-golang/\">Planet</a> feed. </p>")
+ ("title" . "(Go Lang) Introducing Planet Golang")
+ ("link" . "https://www.wisdomandwonder.com/article/10648/go-lang-introducing-planet-golang")
+ ("permaLink" . "https://www.wisdomandwonder.com/article/10648/go-lang-introducing-planet-golang")
+ ("categories" "Article")
+ ("mt_excerpt")
+ ("mt_text_more")
+ ("wp_more_text")
+ ("mt_allow_comments" . 1)
+ ("mt_allow_pings" . 1)
+ ("mt_keywords" . "Go Lang, Programming Language")
+ ("wp_slug" . "go-lang-introducing-planet-golang")
+ ("wp_password")
+ ("wp_author_id" . "1")
+ ("wp_author_display_name" . "Grant")
+ ("date_created_gmt" :datetime
+  (22918 27512))
+ ("post_status" . "publish")
+ ("custom_fields")
+ ("wp_post_format" . "standard")
+ ("sticky")
+ ("date_modified" :datetime
+  (22918 6039))
+ ("date_modified_gmt" :datetime
+  (22918 27639))
+ ("wp_post_thumbnail"))
+#+END_EXAMPLE
