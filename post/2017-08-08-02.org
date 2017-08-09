@@ -1,0 +1,87 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10652
+#+ORG2BLOG:
+#+DATE: [2017-08-08 Tue 20:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Go Lang, GBEN
+#+TITLE: (Go Lang) GBEN: Hello World
+
+[[https://gobyexample.com/hello-world][Go by Example: Hello World]]
+
+* Example
+:PROPERTIES:
+:ID:       org_gcr_2017-08-08_mara:33B2158C-BC69-4D0B-9853-C0284A0EC605
+:END:
+Go has first class Unicode support. What do upper-case and lower-case mean
+when there is no such thing for the character? Does it fail with an error or
+not? How do you compare the size or length of Unicode characters?
+
+#+NAME: hello-world
+#+BEGIN_SRC go :imports '("fmt")
+fmt.Println("🐃 Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo ")
+#+END_SRC
+
+#+RESULTS: hello-world
+#+BEGIN_EXAMPLE
+🐃 Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo
+#+END_EXAMPLE
+
+[[https://www.wisdomandwonder.com/article/10651/go-lang-go-by-example-notes-gben][Attribution]]
+* Configuration
+:PROPERTIES:
+:ID:       org_gcr_2017-08-08_mara:C327B697-D6B7-42BA-B0D3-0C8613CBB58E
+:END:
+#+HTML: <!--more-->
+How to setup [[https://www.gnu.org/software/emacs/][Emacs]] and [[http://orgmode.org/][Org-Mode]] for [[https://www.wisdomandwonder.com/article/10651/go-lang-go-by-example-notes-gben][GBEN]]:
+- Set up Emacs to your liking
+- Set Org-Mode version 9 or greater
+  - Here is the base configuration
+    #+BEGIN_EXAMPLE
+<<<ECM Information>>>
+As Of: 2017-08-08T20-51-57
+Org-Version: 9.0.9
+Org-Git-Version:release_9.0.9-737-g7e46af
+Emacs-Version: GNU Emacs 25.2.1 (x86_64-apple-darwin15.6.0, Carbon Version 157 AppKit 1404.47)
+ of 2017-07-28
+Noweb wrap start and stop delimeters: ’«’ and ’»’
+org-babel-default-header-args:
+
+((:session . "none")
+ (:results . "replace")
+ (:exports . "code")
+ (:cache . "no")
+ (:noweb . "no")
+ (:hlines . "no")
+ (:tangle . "no"))
+    #+END_EXAMPLE
+  - Here is the configuration for the source blocks
+    #+BEGIN_EXAMPLE
+    Name: org_gcr_2017-08-08_mara_B27781B4-01DB-4FB7-A591-08EFCEB8C206
+Lang: go
+Properties:
+  :header-args    nil
+  :header-args:go   nil
+Header Arguments:
+  :cache    no
+  :comments   noweb
+  :eval     never-export
+  :exports  both
+  :hlines     no
+  :imports
+  :mkdirp     yes
+  :noweb    no-export
+  :padline  yes
+  :results  replace drawer scalar value
+  :session  none
+  :tangle     no
+  :wrap     EXAMPLE
+    #+END_EXAMPLE
+- Set up Go, [[https://raw.githubusercontent.com/grettke/help/master/help-go-components.sh][Required Components]], [[https://github.com/pope/ob-go][ob-go]] and copy as much of [[https://github.com/grettke/help/blob/master/.emacs.el#L3021-L3088][my Go config]] as
+  you like. For example it includes a Hydra for compiling and more
+- Download this post from [[https://github.com/grettke/wisdomandwonder][GitHub]] to see the configuration of the source block
+  - If you want full source code you can
+    - Expand the source block with ~org-babel-expand-src-block~ for your inspection
+    - I tried expanding the source block into an example and didn't figure it
+      out. When I do I will update these examples. However, it is probably OK
+      if I don't because I have the source code.
