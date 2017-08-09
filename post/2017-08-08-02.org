@@ -24,7 +24,7 @@ fmt.Println("🐃 Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffal
 
 #+RESULTS: hello-world
 #+BEGIN_EXAMPLE
-🐃 Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo
+"(🐃) Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo (🐃)"
 #+END_EXAMPLE
 
 [[https://www.wisdomandwonder.com/article/10651/go-lang-go-by-example-notes-gben][Attribution]]
