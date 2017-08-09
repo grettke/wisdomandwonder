@@ -1,0 +1,13 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10650
+#+ORG2BLOG:
+#+DATE: [2017-08-07 Mon 22:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Leave ~C-M-s~ Bindings For The Operating System
+
+macOS used ~Meta~ and ~Super~ for a lot of it's own bindings. That ties up
+valuable Emacs key-space. Tonight I moved all of those meddling bindings into
+~C-M-s~. macOS get that all to itself making it happy. And it made me happy.
+Maybe it will make you happy.
