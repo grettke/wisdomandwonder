@@ -49,7 +49,9 @@ org-babel-default-header-args:
  (:hlines . "no")
  (:tangle . "no"))
     #+END_EXAMPLE
-  - Here is the configuration for the source blocks
+  - Here is the configuration for the source blocks however I will be using
+    ~output~ for nearly all of the examples despite my default configuration
+    being ~scalar~!
     #+BEGIN_EXAMPLE
     Name: org_gcr_2017-08-08_mara_B27781B4-01DB-4FB7-A591-08EFCEB8C206
 Lang: go
