@@ -4,8 +4,8 @@
 #+DATE: [2017-08-08 Tue 20:07]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
-#+TAGS: Programming Language, Go Lang, GBEN
-#+TITLE: (Go Lang) Go by Example Notes (GBEN)
+#+TAGS: Programming Language, Go Lang, GBEN, Emacs
+#+TITLE: (Go Lang) Go by Example Notes (GBEN) Emacs Setup
 
 * Goal
 [[https://gobyexample.com/][Go by Example]] is [[https://twitter.com/mmcgrana][Mark McGranaghan]]'s "hands-on introduction to Go using
