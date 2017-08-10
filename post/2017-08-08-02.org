@@ -18,13 +18,13 @@ when there is no such thing for the character? Does it fail with an error or
 not? How do you compare the size or length of Unicode characters?
 
 #+NAME: hello-world
-#+BEGIN_SRC go :imports '("fmt")
+#+BEGIN_SRC go :imports '("fmt") :results output
 fmt.Println("🐃 Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo ")
 #+END_SRC
 
 #+RESULTS: hello-world
 #+BEGIN_EXAMPLE
-"(🐃) Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo (🐃)"
+🐃 Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo
 #+END_EXAMPLE
 
 [[https://www.wisdomandwonder.com/article/10651/go-lang-go-by-example-notes-gben][Attribution]]
