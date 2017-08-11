@@ -1,0 +1,38 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10654
+#+ORG2BLOG:
+#+DATE: [2017-08-10 Thu 20:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Go Lang, GBEN
+#+TITLE: (Go Lang) Values (GBEN)
+
+[[https://gobyexample.com/values][Go by Example: Values]]
+* Example
+Numeric and logical operations seem to work as you would expect.
+
+The =,= format for joining values is nice.
+
+#+NAME: org_gcr_2017-08-10_mara_816EAAB6-03EF-4F7C-BC0C-6AE2578B4ABA
+#+BEGIN_SRC go :imports '("fmt") :results output
+fmt.Println("go" + "lang")
+
+fmt.Println("1+1 =", 1+1)
+fmt.Println("7.0/3.0 =", 7.0/3.0)
+
+fmt.Println(true && false)
+fmt.Println(true || false)
+fmt.Println(!true)
+#+END_SRC
+
+#+RESULTS: org_gcr_2017-08-10_mara_816EAAB6-03EF-4F7C-BC0C-6AE2578B4ABA
+#+BEGIN_EXAMPLE
+golang
+1+1 = 2
+7.0/3.0 = 2.3333333333333335
+false
+true
+false
+#+END_EXAMPLE
+
+[[https://www.wisdomandwonder.com/article/10651/go-lang-go-by-example-notes-gben][Attribution]]
