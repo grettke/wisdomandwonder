@@ -2,16 +2,16 @@
 #+DATE: [2007-12-14 Fri 03:24]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
 #+CATEGORY: Article
-#+TAGS: .NET, F Sharp, Programming Language
-#+TITLE: An implementation of the map function in F Sharp
+#+TAGS: F Sharp, Programming Language, .NET
+#+TITLE: (F Sharp) An Implementation Of The `Map' Function In F Sharp (.NET)
 
-Here is how map may be implemented in F Sharp. (At the very least, it is my attempt at implementing it!)
+Here is how map may be implemented in F Sharp. (At the very least, it is my
+attempt at implementing it!)
 
 You can run this in the interactive shell.
 
-
-#+BEGIN_EXAMPLE
-    
+#+NAME: org_gcr_2017-08-10_mara_62F3E782-0E26-4F17-9319-C8B6554F0353
+#+BEGIN_SRC fsharp
 #light;;
 
 let rec my_map fn xs =
@@ -21,8 +21,9 @@ let rec my_map fn xs =
 ;;
 
 my_map (fun x -> x + 1) [1; 2; 3; 4; 5;];;
+#+END_SRC
 
+#+RESULTS: org_gcr_2017-08-10_mara_62F3E782-0E26-4F17-9319-C8B6554F0353
+#+BEGIN_EXAMPLE
+val it : int list = [2; 3; 4; 5; 6]
 #+END_EXAMPLE
-
-
-
