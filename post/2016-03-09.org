@@ -3,8 +3,7 @@
 #+DATE: [2016-03-09 Wed 20:30]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
-#+TAGS: Blogging, Web, WordPress
-#+DESCRIPTION:
+#+TAGS: org2blog, Blogging, Web, WordPress, Test
 #+TITLE: Test Post
 
 This is a test post to help evaluate the system.
