@@ -25,4 +25,4 @@
 
 The test succeeded by turning off thumbnail images.
 
-# ./image/0AE23A91-0184-4D16-93F8-8A7D73A6B3E2.png http://www.wisdomandwonder.com/wordpress/wp-content/uploads/2015/08/wpid-0AE23A91-0184-4D16-93F8-8A7D73A6B3E2.png
+# ./image/0AE23A91-0184-4D16-93F8-8A7D73A6B3E2.png https://www.wisdomandwonder.com/wp-content/uploads/2015/08/wpid-0AE23A91-0184-4D16-93F8-8A7D73A6B3E2.png
