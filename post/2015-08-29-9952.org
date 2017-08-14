@@ -1,11 +1,9 @@
 #+BLOG: wisdomandwonder
 #+POSTID: 9952
-#+BLOG: wisdomandwonder
 #+DATE: [2015-08-29 Sat 21:39]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Article, Link
 #+CATEGORY: Article
-#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode, philosophy
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode, philosophy, org2blog, Blogging, Web, WordPress, Test
 #+TITLE: Org2Blog DITAA Test
 
 
