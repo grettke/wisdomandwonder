@@ -1,4 +1,7 @@
-* Publish Subtree 2BECF76B                                             :Test:
+#+BLOG: wisdomandwonder
+#+POSTID: 10656
+#+DATE: [2017-08-14 Mon 18:20]
+* Publish Subtree 2BECF76B             :org2blog:Blogging:Web:WordPress:Test:
 :PROPERTIES:
 :BLOG:     wisdomandwonder
 :OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
