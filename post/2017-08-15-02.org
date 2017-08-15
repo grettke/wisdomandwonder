@@ -1,0 +1,35 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10663
+#+ORG2BLOG:
+#+DATE: [2017-08-15 Tue 18:07]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Go Lang, GBEN
+#+TITLE: (Go Lang) Constants (GBEN)
+
+[[https://gobyexample.com/constants][Go by Example]]
+* Example
+- Typical constants
+- ~const~ keyword can appear anywhere, maybe declaring a type
+- Type given by explicit cast or use in context
+
+#+NAME: org_gcr_2017-08-15_mara_E7AE9AB4-038D-45FB-B2F2-D05C148032C9
+#+BEGIN_SRC go :imports '("fmt" "math") :results output
+const s string = "constant"
+fmt.Println(s)
+const n = 500000000
+const d = 3e20 / n
+fmt.Println(d)
+fmt.Println(int64(d))
+fmt.Println(math.Sin(n))
+#+END_SRC
+
+#+RESULTS: org_gcr_2017-08-15_mara_E7AE9AB4-038D-45FB-B2F2-D05C148032C9
+#+BEGIN_EXAMPLE
+constant
+6e+11
+600000000000
+-0.28470407323754404
+#+END_EXAMPLE
+
+[[https://www.wisdomandwonder.com/article/10651/go-lang-go-by-example-notes-gben][Attribution]]
