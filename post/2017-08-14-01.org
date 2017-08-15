@@ -1,0 +1,23 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10660
+#+ORG2BLOG:
+#+DATE: [2017-08-14 Mon 21:29]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode, Blogging, Web, WordPress, Test
+#+TITLE: MathJax Support In Org2Blog
+
+[[https://github.com/org2blog/org2blog#mathjax-support][Use MathJax]] with Org2Blog.
+
+Thank you Jon for showing how to [[http://irreal.org/blog/?p=3018][set this up]].
+
+The only addition is that [[https://github.com/org2blog/org2blog#mathjax-support][these instructions]] uses a more
+actively maintained plugin.
+
+Finally $\LaTeX$.
+
+- Test it out using these ([[https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference][and more]]) examples
+  - Inline
+    - $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
+  - Equation
+    - $$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
