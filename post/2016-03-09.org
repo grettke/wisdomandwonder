@@ -5,5 +5,14 @@
 #+CATEGORY: Article
 #+TAGS: org2blog, Blogging, Web, WordPress, Test
 #+TITLE: Test Post
+#+HTML_HEAD: <script type="text/javascript"
+#+HTML_HEAD:   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js">
+#+HTML_HEAD: </script>
 
 This is a test post to help evaluate the system.
+* MathJax
+- Examples copied from [[https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference][here]]
+  - Inline
+    - $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
+  - Equation
+    - $$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
