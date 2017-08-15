@@ -1,0 +1,54 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10664
+#+ORG2BLOG:
+#+DATE: [2017-08-15 Tue 18:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Go Lang, GBEN
+#+TITLE: (Go Lang) For (GBEN)
+
+[[https://gobyexample.com/for][Go by Example]]
+* Example
+- Only looping construct
+- Same as in ~C~
+
+#+NAME: org_gcr_2017-08-15_mara_F05E4776-4A06-4FCA-98A5-F22CD5B061DC
+#+BEGIN_SRC go :imports '("fmt")
+i := 1
+    for i <= 3 {
+        fmt.Println(i)
+        i = i + 1
+    }
+
+for j := 7; j <= 9; j++ {
+   fmt.Println(j)
+    }
+
+for {
+  fmt.Println("loop")
+  break
+}
+
+for n := 0; n <= 5; n++ {
+  if n%2 == 0 {
+    continue
+  }
+  fmt.Println(n)
+}
+#+END_SRC
+
+#+RESULTS: org_gcr_2017-08-15_mara_F05E4776-4A06-4FCA-98A5-F22CD5B061DC
+#+BEGIN_EXAMPLE
+1
+2
+3
+7
+8
+9
+loop
+1
+3
+5
+#+END_EXAMPLE
+
+[[https://www.wisdomandwonder.com/article/10651/go-lang-go-by-example-notes-gben][Attribution]]
