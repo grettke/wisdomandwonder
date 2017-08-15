@@ -1,0 +1,47 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10667
+#+ORG2BLOG:
+#+DATE: [2017-08-15 Tue 18:35]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Go Lang, GBEN
+#+TITLE: (Go Lang) Arrays (GBEN)
+
+[[https://gobyexample.com/arrays][Go by Example]]
+* Example
+- Like ~C~ declaration and index referencing and default values and ~len~ and
+  multi-dimensional
+- declaration of, inference and assignment to
+  - ~b := [5]int{1, 2, 3, 4, 5}~
+- Not used much because yet to be explained =slices= are better
+
+#+NAME: org_gcr_2017-08-15_mara_D3501A85-D609-44E4-B282-199DAC09FD13
+#+BEGIN_SRC go :imports '("fmt") :results output
+var a [5]int
+fmt.Println("emp:", a)
+a[4] = 100
+fmt.Println("set:", a)
+fmt.Println("get:", a[4])
+fmt.Println("len:", len(a))
+b := [5]int{1, 2, 3, 4, 5}
+fmt.Println("dcl:", b)
+var twoD [2][3]int
+for i := 0; i < 2; i++ {
+  for j := 0; j < 3; j++ {
+    twoD[i][j] = i + j
+  }
+}
+fmt.Println("2d: ", twoD)
+#+END_SRC
+
+#+RESULTS: org_gcr_2017-08-15_mara_D3501A85-D609-44E4-B282-199DAC09FD13
+#+BEGIN_EXAMPLE
+emp: [0 0 0 0 0]
+set: [0 0 0 0 100]
+get: 100
+len: 5
+dcl: [1 2 3 4 5]
+2d:  [[0 1 2] [1 2 3]]
+#+END_EXAMPLE
+
+[[https://www.wisdomandwonder.com/article/10651/go-lang-go-by-example-notes-gben][Attribution]]
