@@ -12,15 +12,20 @@
 - Typical constants
 - ~const~ keyword can appear anywhere, maybe declaring a type
 - Type given by explicit cast or use in context
-
+#+HTML: <!--more-->
 #+NAME: org_gcr_2017-08-15_mara_E7AE9AB4-038D-45FB-B2F2-D05C148032C9
 #+BEGIN_SRC go :imports '("fmt" "math") :results output
+// const declares a constant value.
 const s string = "constant"
 fmt.Println(s)
+// A const statement can appear anywhere a var statement can.
 const n = 500000000
+// Constant expressions perform arithmetic with arbitrary precision.
 const d = 3e20 / n
 fmt.Println(d)
+// A numeric constant has no type until it’s given one, such as by an explicit cast.
 fmt.Println(int64(d))
+// A number can be given a type by using it in a context that requires one, such as a variable assignment or function call. For example, here math.Sin expects a float64.
 fmt.Println(math.Sin(n))
 #+END_SRC
 
