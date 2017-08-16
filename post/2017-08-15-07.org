@@ -1,0 +1,47 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10670
+#+ORG2BLOG:
+#+DATE: [2017-08-15 Tue 21:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Go Lang, GBEN
+#+TITLE: (Go Lang) Range (GBEN)
+
+[[https://gobyexample.com/range][Go by Example]]
+* Example
+- Iterate over things and do something
+#+HTML: <!--more-->
+#+NAME: org_gcr_2017-08-15_mara_D26603B0-B70F-4BB0-92C7-7AE5450DF7E3
+#+BEGIN_SRC go :imports '("fmt") :results output
+// Here we use range to sum the numbers in a slice. Arrays work like this too.
+nums := []int{2, 3, 4}
+sum := 0
+for _, num := range nums {
+  sum += num
+}
+fmt.Println("sum:", sum)
+// range on arrays and slices provides both the index and value for each
+// entry. Above we didn’t need the index, so we ignored it with the blank
+// identifier _. Sometimes we actually want the indexes though.
+for i, num := range nums {
+  if num == 3 {
+    fmt.Println("index:", i)
+  }
+}
+// range on map iterates over key/value pairs.
+kvs := map[string]string{"a": "apple", "b": "banana"}
+for k, v := range kvs {
+  fmt.Printf("%s -> %s\n", k, v)
+}
+// range can also iterate over just the keys of a map.
+for k := range kvs {
+  fmt.Println("key:", k)
+}
+// range on strings iterates over Unicode code points. The first value is the
+// starting byte index of the rune and the second the rune itself.
+for i, c := range "go" {
+  fmt.Println(i, c)
+}
+#+END_SRC
+[[https://www.wisdomandwonder.com/article/10651/go-lang-go-by-example-notes-gben][Attribution]]
