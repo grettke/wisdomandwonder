@@ -1,0 +1,46 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10671
+#+ORG2BLOG:
+#+DATE: [2017-08-15 Tue 21:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Go Lang, GBEN
+#+TITLE: (Go Lang) Functions (GBEN)
+
+[[https://gobyexample.com/functions][Go by Example]]
+* Example
+- Like ~C~ with some type inference
+- Ignore the lambda expression usage, this is just so I can run the code
+  easily in a single source block
+#+HTML: <!--more-->
+#+NAME: org_gcr_2017-08-15_mara_0A70E50B-E4DE-4DC3-B44D-22D112351EF0
+#+BEGIN_SRC go :imports '("fmt") :results output
+// Here’s a function that takes two ints and returns their sum as an int.
+plus := func(a int, b int) int {
+  // Go requires explicit returns, i.e. it won’t automatically return the
+  // value of the last expression.
+  return a + b
+}
+
+// When you have multiple consecutive parameters of the same type, you may
+// omit the type name for the like-typed parameters up to the final parameter
+// that declares the type.
+plusPlus := func(a, b, c int) int {
+  return a + b + c
+}
+
+// Call a function just as you’d expect, with name(args).
+res := plus(1, 2)
+fmt.Println("1+2 =", res)
+res = plusPlus(1, 2, 3)
+fmt.Println("1+2+3 =", res)
+#+END_SRC
+
+#+RESULTS: org_gcr_2017-08-15_mara_0A70E50B-E4DE-4DC3-B44D-22D112351EF0
+#+BEGIN_EXAMPLE
+1+2 = 3
+1+2+3 = 6
+#+END_EXAMPLE
+
+[[https://www.wisdomandwonder.com/article/10651/go-lang-go-by-example-notes-gben][Attribution]]
