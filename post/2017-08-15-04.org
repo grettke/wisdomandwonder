@@ -14,7 +14,7 @@
 - declaration of, inference and assignment to
   - ~b := [5]int{1, 2, 3, 4, 5}~
 - Not used much because yet to be explained =slices= are better
-
+#+HTML: <!--more-->
 #+NAME: org_gcr_2017-08-15_mara_D3501A85-D609-44E4-B282-199DAC09FD13
 #+BEGIN_SRC go :imports '("fmt") :results output
 // Here we create an array a that will hold exactly 5 ints. The type of

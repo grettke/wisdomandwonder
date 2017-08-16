@@ -11,7 +11,7 @@
 * Example
 - Maps are maps
 - Getter returns a second result, a boolean, telling of the key was present
-
+#+HTML: <!--more-->
 #+NAME: org_gcr_2017-08-15_mara_779A0030-5AD9-4C66-ADC3-ADA931E3225E
 #+BEGIN_SRC go :imports '("fmt") :results output
 // To create an empty map, use the builtin make: make(map[key-type]val-type).
