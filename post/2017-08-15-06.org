@@ -7,7 +7,7 @@
 #+TAGS: Programming Language, Go Lang, GBEN
 #+TITLE: (Go Lang) Maps (GBEN)
 
-[[https://gobyexample.com/constants][Go by Example]]
+[[https://gobyexample.com/maps][Go by Example]]
 * Example
 - Maps are maps
 - Getter returns a second result, a boolean, telling of the key was present
