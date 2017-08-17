@@ -1,0 +1,10 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10674
+#+ORG2BLOG:
+#+DATE: [2017-08-16 Wed 21:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Yoga, philosophy, Health, Happiness, mathematics
+#+TITLE: Causality Is The Mother Of Mathematics
+
+Causality's expression as Space-time gave birth to all of Mathematics.
