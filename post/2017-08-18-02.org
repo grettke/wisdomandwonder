@@ -10,6 +10,7 @@
 [[https://gobyexample.com/closures][Go by Example]]
 * Example
 - Like in Lisp
+- Don't allow recursion against themselves
 #+HTML: <!--more-->
 #+NAME: org_gcr_2017-08-18_mara_C4CBCD26-CAA5-41FB-8AB6-46A1113711B6
 #+BEGIN_SRC go :imports '("fmt") :results output
