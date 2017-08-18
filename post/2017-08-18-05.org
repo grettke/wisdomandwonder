@@ -9,7 +9,7 @@
 
 [[https://gobyexample.com/structs][Go by Example]]
 * Example
-- It has it
+- Like in ~C~
 #+HTML: <!--more-->
 #+NAME: org_gcr_2017-08-18_mara_900BEAAF-59EE-4365-B326-7975EED5AB3D
 #+BEGIN_SRC go :results output
