@@ -1,0 +1,40 @@
+#+ORG2BLOG:
+#+POSTID: 10672
+#+DATE: [2017-08-18 Fri 17:58]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Go Lang, GBEN
+#+TITLE: (Go Lang) Multiple Return Values (GBEN)
+
+
+[[https://gobyexample.com/multiple-return-values][Go by Example]]
+* Example
+- They are idiomatic
+#+HTML: <!--more-->
+#+NAME: org_gcr_2017-08-18_mara_F7A940B1-A84F-4695-B640-4A3F8C7E0660
+#+BEGIN_SRC go :imports '("fmt") :results output
+// The (int, int) in this function signature shows that the function returns 2
+// ints.
+vals := func()(int, int) {
+  return 3, 7
+}
+
+// Here we use the 2 different return values from the call with multiple
+// assignment.
+a, b := vals()
+fmt.Println(a)
+fmt.Println(b)
+// If you only want a subset of the returned values, use the blank identifier
+// _.
+_, c := vals()
+fmt.Println(c)
+#+END_SRC
+
+#+RESULTS: org_gcr_2017-08-18_mara_F7A940B1-A84F-4695-B640-4A3F8C7E0660
+#+BEGIN_EXAMPLE
+3
+7
+7
+#+END_EXAMPLE
+
+[[https://www.wisdomandwonder.com/article/10651/go-lang-go-by-example-notes-gben][Attribution]]
