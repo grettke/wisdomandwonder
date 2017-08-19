@@ -5,7 +5,7 @@
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
 #+TAGS: Programming Language, Go Lang, GBEN
-#+TITLE: (Go Lang) Structs (GBEN)
+#+TITLE: (Go Lang) Methods (GBEN)
 
 [[https://gobyexample.com/structs][Go by Example]]
 * Example
