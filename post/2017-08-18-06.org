@@ -7,7 +7,7 @@
 #+TAGS: Programming Language, Go Lang, GBEN
 #+TITLE: (Go Lang) Methods (GBEN)
 
-[[https://gobyexample.com/structs][Go by Example]]
+[[https://gobyexample.com/methods][Go by Example]]
 * Example
 - It has it
 #+HTML: <!--more-->
