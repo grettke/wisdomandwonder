@@ -1,0 +1,16 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10682
+#+ORG2BLOG:
+#+DATE: [2017-08-20 Sun 16:38]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Never Too Late To Learn `multi-occur-in-matching-buffers'
+
+Ever wanted to search all of your buffers limited by their backing file type?
+Surprisingly I never did very much. ~ag~ and ~grep~ worked fine for me. Then I
+started leaving buffers open, with everything that I cared about, all the
+time. Then I joined the "Emacs 100+ Buffer Club".
+
+[[https://www.gnu.org/software/emacs/manual/html_node/emacs/Other-Repeating-Search.html#index-multi_002doccur_002din_002dmatching_002dbuffers-873][multi-occur-in-matching-buffers]] is helpful when you watch to use ~occur~
+in some of those buffers.
