@@ -1,0 +1,54 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10684
+#+ORG2BLOG:
+#+DATE: [2017-08-21 Mon 20:07]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: Exporting Tables With Borders
+
+[[http://orgmode.org/manual/Tables-in-HTML-export.html#Tables-in-HTML-export][This]] page explains how to configure exported tables either with the variable
+~org-html-table-default-attributes~, which is ignored with HTML5 export, or
+properties.
+
+The default able export looks like this:
+
+| Alpha   | Bravo    |
+|---------+----------|
+| Charlie | December |
+|         |          |
+
+declared by
+
+#+NAME: org_gcr_2017-08-21_mara_F6FE5114-3A41-4999-8F20-5743374415DA
+#+BEGIN_SRC org
+| Alpha   | Bravo    |
+|---------+----------|
+| Charlie | December |
+|         |          |
+#+END_SRC
+
+But if you add some attributes they look like this
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Alpha   | Bravo    |
+|---------+----------|
+| Charlie | December |
+|         |          |
+
+#+NAME: org_gcr_2017-08-21_mara_7FAC9D5E-364B-4811-99F0-D756F3E23B6D
+#+BEGIN_SRC org
+,#+ATTR_HTML: :border 2 :rules all :frame border
+| Alpha   | Bravo    |
+|---------+----------|
+| Charlie | December |
+|         |          |
+
+#+END_SRC
+
+Here is a snippet to make it easier to remember.
+
+#+NAME: org_gcr_2017-08-21_mara_470C57B3-D427-4A31-98C2-B81C57078671
+#+BEGIN_SRC emacs-lisp
+(lambda () (interactive) (insert "#+ATTR_HTML: :border 2 :rules all :frame border"))
+#+END_SRC
