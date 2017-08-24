@@ -7,13 +7,24 @@
 #+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
 #+TITLE: Exporting Tables With Borders
 
-[[http://orgmode.org/manual/Tables-in-HTML-export.html#Tables-in-HTML-export][This]] page explains how to configure exported tables either with the variable
-~org-html-table-default-attributes~, which is ignored with HTML5 export, or
-properties.
+[[http://orgmode.org/manual/Tables-in-HTML-export.html#Tables-in-HTML-export][This]] page explains how to configure exported tables borders either with the
+variable ~org-html-table-default-attributes~, which is ignored with HTML5
+export, or properties.
 
-The default table export looks like this:
+The default table export doesn't include borders and it is difficult to read.
 
 #+HTML: <!--more-->
+
+WordPress seems to render table borders automatically, so here is an example
+of the raw HTML instead. It doesn't set borders.
+
+#+NAME: org_gcr_2017-08-21_mara_F6FE5114-3A41-4999-8F20-5743374415DA
+#+BEGIN_SRC org
+| Alpha   | Bravo    |
+|---------+----------|
+| Charlie | December |
+|         |          |
+#+END_SRC
 
 #+NAME: org_gcr_2017-08-23_mara_573CA389-0BE6-4460-AA9B-854720EDF62B
 #+BEGIN_SRC html
@@ -37,17 +48,17 @@ The default table export looks like this:
 </table>
 #+END_SRC
 
-declared by
+But if you add some attributes they look like this
 
-#+NAME: org_gcr_2017-08-21_mara_F6FE5114-3A41-4999-8F20-5743374415DA
+#+NAME: org_gcr_2017-08-21_mara_7FAC9D5E-364B-4811-99F0-D756F3E23B6D
 #+BEGIN_SRC org
+,#+ATTR_HTML: :border 2 :rules all :frame border
 | Alpha   | Bravo    |
 |---------+----------|
 | Charlie | December |
 |         |          |
-#+END_SRC
 
-But if you add some attributes they look like this
+#+END_SRC
 
 #+NAME: org_gcr_2017-08-23_mara_3859E67C-2ED7-4A20-9E04-751716BAFABD
 #+BEGIN_SRC html
@@ -73,16 +84,6 @@ But if you add some attributes they look like this
 </tr>
 </tbody>
 </table>
-#+END_SRC
-
-#+NAME: org_gcr_2017-08-21_mara_7FAC9D5E-364B-4811-99F0-D756F3E23B6D
-#+BEGIN_SRC org
-,#+ATTR_HTML: :border 2 :rules all :frame border
-| Alpha   | Bravo    |
-|---------+----------|
-| Charlie | December |
-|         |          |
-
 #+END_SRC
 
 Here is a snippet to make it easier to remember.
