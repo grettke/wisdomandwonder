@@ -11,12 +11,31 @@
 ~org-html-table-default-attributes~, which is ignored with HTML5 export, or
 properties.
 
-The default able export looks like this:
+The default table export looks like this:
 
-| Alpha   | Bravo    |
-|---------+----------|
-| Charlie | December |
-|         |          |
+#+HTML: <!--more-->
+
+#+NAME: org_gcr_2017-08-23_mara_573CA389-0BE6-4460-AA9B-854720EDF62B
+#+BEGIN_SRC html
+<table>
+<colgroup>
+<col  class="org-left">
+<col  class="org-left">
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Alpha</th>
+<th scope="col" class="org-left">Bravo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Charlie</td>
+<td class="org-left">December</td>
+</tr>
+</tbody>
+</table>
+#+END_SRC
 
 declared by
 
@@ -30,11 +49,31 @@ declared by
 
 But if you add some attributes they look like this
 
-#+ATTR_HTML: :border 2 :rules all :frame border
-| Alpha   | Bravo    |
-|---------+----------|
-| Charlie | December |
-|         |          |
+#+NAME: org_gcr_2017-08-23_mara_3859E67C-2ED7-4A20-9E04-751716BAFABD
+#+BEGIN_SRC html
+<table border="2" rules="all" frame="border">
+<colgroup>
+<col  class="org-left">
+<col  class="org-left">
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Alpha</th>
+<th scope="col" class="org-left">Bravo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Charlie</td>
+<td class="org-left">December</td>
+</tr>
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+#+END_SRC
 
 #+NAME: org_gcr_2017-08-21_mara_7FAC9D5E-364B-4811-99F0-D756F3E23B6D
 #+BEGIN_SRC org
