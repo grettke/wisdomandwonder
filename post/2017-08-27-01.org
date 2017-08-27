@@ -1,0 +1,21 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10690
+#+ORG2BLOG:
+#+DATE: [2017-08-27 Sun 15:01]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: If You Have An Org-Mode Problem Then You've Probably Got It Installed Twice
+
+If you have an org-mode problem then you've probably got it installed twice.
+Here are two examples where I always get into trouble:
+
+- I run from source, this is impossible
+  - It is possible because some package listed Org-Mode as a dependency
+- I run only from the Org-Mode package
+  - It is possible because some other package listed Org-Mode as a dependency
+- Sometimes a reference to org-plus-contrib can shake things up because it
+  "works fine for a while... and then doesn't"
+
+The errors are usually cryptic, to the lazy like me, and not worth
+investigating because they are fake errors.
