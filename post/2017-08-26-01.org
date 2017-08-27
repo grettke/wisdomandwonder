@@ -1,0 +1,16 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10689
+#+ORG2BLOG:
+#+DATE: [2017-08-26 Sat 20:16]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Packet Modem
+#+TITLE: (Packet Modem) Dire Wolf Is A Software Tnc/Aprs
+
+#+BEGIN_QUOTE
+[[https://github.com/wb2osz/direwolf][Dire Wolf]] is a software "soundcard" AX.25 packet modem/TNC and APRS
+encoder/decoder. It can be used stand-alone to observe APRS traffic, as a
+tracker, digipeater, APRStt gateway, or Internet Gateway (IGate). For more
+information, look at the bottom 1/4 of this page and in
+https://github.com/wb2osz/direwolf/blob/dev/doc/README.md
+#+END_QUOTE
