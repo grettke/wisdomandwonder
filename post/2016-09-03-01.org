@@ -3,7 +3,7 @@
 #+DATE: [2016-09-03 Sat 11:08]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article, Link
-#+TAGS: Unicode, Writing, Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TAGS: Unicode, Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
 #+TITLE: Best Way To Transliterate Unicode to ASCII? Python Help Needed With Solution.
 
 For creating audio-books I use a text-to-speech engine. One problem is that the
