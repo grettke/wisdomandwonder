@@ -2,7 +2,7 @@
 #+DATE: [2011-10-17 Mon 01:08]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
 #+CATEGORY: Link
-#+TAGS: Haskell, Utility, Writing
+#+TAGS: Haskell, Utility, Publishing
 #+TITLE: Pandoc A Universal File Markup Language Converter
 
 #+BEGIN_QUOTE
