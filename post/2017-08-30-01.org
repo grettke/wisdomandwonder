@@ -1,0 +1,14 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10691
+#+ORG2BLOG:
+#+DATE: [2017-08-30 Wed 22:36]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Go Lang
+#+TITLE: (Go Lang) A Go Almost REPL: The Gore Read-Generate-Run-Loop
+[[https://github.com/motemen/gore][Gore]] is "Yet another Go REPL that works nicely. Featured with line editing,
+code completion, and more."
+
+I tried it and it does work nicely.
+
+[[https://www.slideshare.net/motemen/gore-go-repl][Here]] is a presentation about it from the author.
