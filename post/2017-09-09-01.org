@@ -1,0 +1,15 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10692
+#+ORG2BLOG:
+#+DATE: [2017-09-09 Sat 15:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: If You Use Magit Then Do These Two Things
+
+1. Run it from source and update it every day using this shell command
+   #+NAME: org_gcr_2017-09-09_mara_F46FC1BF-05A1-4B4E-9F98-579B123E1F30
+   #+BEGIN_SRC sh
+cd ~/src/magit/ && git ls-remote && git pull && make clean && make
+   #+END_SRC
+2. Join the [[https://www.kickstarter.com/projects/1681258897/its-magit-the-magical-git-client][Kickstarter]] to support the next release
