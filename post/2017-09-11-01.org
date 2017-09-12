@@ -8,18 +8,6 @@
 #+TITLE: (Go Lang) Do You Dare Enable Go Vet Shadow?
 
 [[https://golang.org/src/cmd/vet/shadow.go][go vet shadow]] warns of variable shadowing. That is where you declare a
-variable with the same name, in the same scope. For example (from the link):
-
-#+NAME: org_gcr_2017-09-11_mara_07E9485B-F1D2-4FF3-B2A0-2CF0023C249F
-#+BEGIN_SRC go
-var err error
-for {
-  n, err := f.Read(buf) // shadows the function variable 'err'
-  if err != nil {
-    break // causes return of wrong value
-  }
-  foo(buf)
-}
-#+END_SRC
+variable with the same name, in the same scope.
 
 Do you dare enable it?
