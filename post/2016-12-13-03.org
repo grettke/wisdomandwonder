@@ -3,7 +3,7 @@
 #+DATE: [2016-12-13 Tue 19:46]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
-#+TAGS: Learning, Writing
+#+TAGS: Writing
 #+TITLE: Snoopy's Guide to the Writing Life
 
 [[http://amzn.to/2gJaza8][Snoopy's Guide to the Writing Life]] shows you the writing life through the eyes

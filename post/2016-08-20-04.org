@@ -3,7 +3,7 @@
 #+DATE: [2016-08-20 Sat 19:38]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
-#+TAGS: Writing, Screenplay, Tools
+#+TAGS: Screenwriting
 #+TITLE: Easily Write Modular Screenplays
 
 [[http://fountain.io/][Fountain]] rocks for writing screenplays.

@@ -3,7 +3,7 @@
 #+DATE: [2016-04-23 Sat 14:17]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
-#+TAGS: Writing, Screenwriting
+#+TAGS: Writing
 #+TITLE: Kwerrthack!
 
 As I stared at the tall can of juice, the anticipation of opening it was
