@@ -1,0 +1,28 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10699
+#+ORG2BLOG:
+#+DATE: [2017-09-26 Tue 20:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Bash
+#+TITLE: (Bash) Avoid Most Bash Errors Pretty Much By Quoting Everything, And More Best Practices
+
+#+BEGIN_QUOTE
+[[http://mywiki.wooledge.org/BashPitfalls][This page]] shows common errors that Bash programmers make. These examples are
+all flawed in some way.
+
+You will save yourself from many of these pitfalls if you simply always use
+quotes and never use WordSplitting for any reason! Word splitting is a broken
+legacy misfeature inherited from the Bourne shell that's stuck on by default
+if you don't quote expansions. The vast majority of pitfalls are in some way
+related to unquoted expansions, and the ensuing word splitting and globbing
+that result.
+#+END_QUOTE
+
+All of us have fallen into one of these pits.
+
+Why not use Python instead? :)
+
+Oh yea, ~non-interactive shells~ 😠.
+
+More on [[http://mywiki.wooledge.org/Quotes][Quotes]] and [[http://mywiki.wooledge.org/WordSplitting][Word Splitting]].
