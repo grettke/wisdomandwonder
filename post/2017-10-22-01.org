@@ -1,0 +1,24 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10704
+#+ORG2BLOG:
+#+DATE: [2017-10-22 Sun 13:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Hardware
+#+TITLE: (Hardware) Best Inexpensive Monitor Ever
+
+Last year I searched for a monitor with these attributes:
+- 23-inch
+- Great color and bright from all angles easy for all-day viewing
+- Cables: HDMI, DVI, and VGA
+- Inexpensive because of the obvious and also the possibility of building a
+  2x2 monitor grid
+
+The [[http://amzn.to/2h0gXK6][ASUS VS239H-P 23-Inch Full HD 1920x1080 IPS HDMI DVI VGA Back-lit LED Monitor]]
+is my winner: it meets all of the criteria.
+
+It is easy to use and looks great. One year old it still is selling well. It
+is an easy purchase because 8,299 owners ranked it a 4.5/5 so I'm not alone
+here.
+
+Now join the club.
