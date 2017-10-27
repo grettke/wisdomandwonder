@@ -6,16 +6,16 @@
 #+TITLE: All creativity is an extended form of a joke
 
 #+BEGIN_QUOTE
-  All creativity is an extended form of a joke. Most creativity is a transition from one context into another where things are more surprising. There's an element of surprise, and especially in science, there is often laughter that goes along with the "Aha." Art also has this element. Our job is to remind us that there are more contexts than the one that we're in--the one that we think is reality.
-
+All creativity is an extended form of a joke. Most creativity is a transition
+from one context into another where things are more surprising. There's an
+element of surprise, and especially in science, there is often laughter that
+goes along with the "Aha." Art also has this element. Our job is to remind us
+that there are more contexts than the one that we're in--the one that we think
+is reality.
 #+END_QUOTE
-
 
 -- Alan Kay
 
 This human is on to something... great.
 
 Via [[http://queue.acm.org/detail.cfm?id=1039523][ACM]]. Thanks [[http://log.scifihifi.com/post/18833460788/all-creativity-is-an-extended-form-of-a-joke-most][Buzz]] for helping me find the source.
-
-
-
