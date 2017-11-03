@@ -4,7 +4,7 @@
 #+DATE: [2017-11-01 Wed 20:51]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
-#+TAGS: Programming Language, Elisp
+#+TAGS: Programming Language, Elisp, Emacs
 #+TITLE: (Elisp) Yet Another Function To Save All File Buffers
 
 #+NAME: org_gcr_2017-11-01_mara_3B39F3EA-0BDD-483D-B10B-49C0BB0C63F2
