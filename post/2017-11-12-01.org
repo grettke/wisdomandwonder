@@ -1,0 +1,9 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10707
+#+ORG2BLOG:
+#+DATE: [2017-11-12 Sun 16:17]
+#+CATEGORY: Article
+#+TAGS: Programming Language, English, Fun
+#+TITLE: (English) Bag or Bay-g? Understanding Wisconsin's Accent
+
+You might ponder [[http://wuwm.com/post/bag-or-bay-g-understanding-wisconsins-accent-best-we-can#stream/0][this question]] while you are taking a drink at the bubbler.
