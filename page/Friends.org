@@ -2,6 +2,6 @@
 #+DATE: [2016-08-08 Mon 14:57]
 #+TITLE: Friends
 
-- [[https://www.socketloop.com/][Adam Ng: Apart from technical tutorials, there are also topics from marketing, inspirations, financial education and ideas from business leaders for developers branching out to start their own business.]]
-- [[http://aliveandhealthy.com/blair-lewis-empowerment-blog/][Blair Lewis: teachings on personal empowerment]]
+- [[https://www.socketloop.com][Adam Ng: SocketLoop]]
+- [[http://aliveandhealthy.com/blair-lewis-empowerment-blog/][Blair Lewis: Alive & Healthy]]
 - [[http://knowledgeasmedicine.com/][Theresa Oswald, MD: Knowledge as Medicine]]
