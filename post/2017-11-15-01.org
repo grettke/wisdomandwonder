@@ -1,0 +1,30 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10712
+#+ORG2BLOG:
+#+DATE: [2017-11-15 Wed 18:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: macOS, Utility, Emacs
+#+TITLE: (macOS) Manage Multiple Snippets Of Copied Text With Your Clipboard With Flycut
+
+After using it for a few days I already love it.
+
+Personal examples:
+
+- I have a document open, and I want copy a few parts from it, into an email.
+  But I don't want to have to command-tab between the document and the email.
+  So I just comand-c... and then go to my email. I do that all the time.
+- When I care about something that I am reading, a phrase, a word, and I want
+  to remember it... maybe. So, the copy buffer is persistent, and I can go
+  back anytime and look up what I may wanted to use.
+
+Flycut: It'll Remember It For You (but not Wholesale).
+
+If you are an Emacser you'll instantly know and love this as a macOS Kill
+Ring.
+
+Security concern: persisting sensitive information in your clipboard like
+this, it is easy to forget about it. Fortunately Flycut doesn't copy values
+from password fields. Additionally it keeps it's data local to your computer
+never [[https://support.apple.com/kb/PH25168?locale=en_US][sharing it between your other computers or devices]]. However, it is just
+like any other security concern so be careful what you keep in there.
