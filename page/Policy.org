@@ -69,8 +69,8 @@
 - I'm not responsible for republished content from this blog on other blogs or
   websites without my permission.
 - This privacy policy is subject to change without notice and was last updated
-  on <2017-04-12 Wed 15:59>. If you have any questions feel free to contact me
-  directly here: gcr@wisdomandwonder.com.
+  on <2017-11-15 Wed 18:14>. If you have any questions then feel free to
+  contact me directly here: gcr@wisdomandwonder.com.
 
 ** California Online Privacy Protection Act
 
@@ -82,7 +82,9 @@
   - When you leave comments or register for the site you are prompted for
     your first name, last name, website, and email address. This is considered
     PII.
-  - *I NEVER SHARE THIS WITH ANYONE*
+    - *I NEVER SHARE THIS WITH ANYONE*
+    - In fact your credentials aren't even verified so you can enter whatever
+      information you wish, if anything at all
 - The law's reach stretches well beyond California to require a person or
   company in the United States (and conceivably the world) that operates
   websites collecting personally identifiable information from California
@@ -97,54 +99,19 @@
 - Once this privacy policy is created, I will add a link to it on the home
   page in the footer at the location [[http://www.wisdomandwonder.com/site-policy][Privacy Policy]]
 - You will be notified of any privacy policy changes on the privacy policy page
-- You can change your personal information by logging into your account
+- If you have an account then you can change your personal information by
+  logging in
 - This site does not do anything when it receives a "Do Not Track" message
 
 ** Things Having Entirely to Do With Money
 
-- This blog relies upon advertisements to support itself
-- When it can't support itself, I pay for it
-- I chose the advertisements shown here because they (are)
-  - Trusted (both Google advertisements and Google Trusted Vendor
-    advertisement networks) *never* to serve malware
-  - *Never* have pop-ups
-  - *Never* have pornography
-- If you choose not to visit sites that utilize advertisement revenue, I
-  respect your decision
-  - Please respect my decision, too
-
-*** I Use Google AdSense Advertisements Here
-
-#+BEGIN_EXAMPLE
-Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
-#+END_EXAMPLE
-
-- Google shows you advertisements for things that it thinks that you like
-
-#+BEGIN_EXAMPLE
-Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
-#+END_EXAMPLE
-
-- Tracking cookies sent to your computer customize the advertisements that you
-  see
-
-#+BEGIN_EXAMPLE
-Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings.
-#+END_EXAMPLE
-
-- You can [[https://www.google.com/settings/u/0/ads/authenticated][opt-out of Google AdSense here]]
-
-*** I Use Google AdSense Third-Party Advertisements Here
-
-- They work exactly the same way that Google AdSense Advertisements work
-- You can [[https://developers.google.com/third-party-ads/adwords-vendors?rd=1][review the list of AdWords Certified External Vendors here]]
-- You can opt-out from cookie-based advertisements either on the individual
-  vendor website or if the advertiser is a member of the Digital Advertising
-  Alliance via [[https://www.aboutads.info/][their website]]
-
-*** I Use Amazon Affiliate Links Here
-
-- When I share a product here that I value I use an [[https://affiliate-program.amazon.com/][Amazon Affiliate Link]]
+- I pay for this site
+- I post Amazon Affiliate Links for products that I endorse
+  #+begin_quote
+We are a participant in the Amazon Services LLC Associates Program, an
+affiliate advertising program designed to provide a means for us to earn fees
+by linking to Amazon.com and affiliated sites.
+  #+end_quote
 
 ** Things Having Entirely to Do with the Server
 
