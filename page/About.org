@@ -1,0 +1,14 @@
+#+POSTID: 10714
+#+DATE: [2017-11-30 Thu 21:02]
+#+TITLE: About
+
+#+BEGIN_EXPORT html
+<img
+src="https://www.wisdomandwonder.com/wp-content/uploads/2007/12/GCR-1415x1600-PNG.png"
+alt="GCR-1415x1600-PNG" width="354" height="400" class="aligncenter size-full
+wp-image-10096" />
+
+This is my personal notebook.
+
+<a href="mailto:gcr@wisdomandwonder.com">Contact</a>.
+#+END_EXPORT
