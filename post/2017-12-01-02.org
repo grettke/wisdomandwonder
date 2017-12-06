@@ -4,7 +4,7 @@
 #+DATE: [2017-12-01 Fri 19:43]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
-#+TAGS: Happiness, Health, philosophy, Yoga
+#+TAGS: Happiness, Health, philosophy, Yoga, aliveandhealthy
 #+TITLE: (Happiness) Inspiration And Offense Are Usually Delivered In The Same Basket
 
 Inspiration and offense are usually delivered in the same basket.

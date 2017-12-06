@@ -4,7 +4,7 @@
 #+DATE: [2017-12-01 Fri 19:35]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
-#+TAGS: Happiness, Health, philosophy, Yoga
+#+TAGS: Happiness, Health, philosophy, Yoga, aliveandhealthy
 #+TITLE: (Happiness) Most Pain Is Caused My Carelessness
 
 Workout too much or too little.

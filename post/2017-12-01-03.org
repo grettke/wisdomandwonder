@@ -4,7 +4,7 @@
 #+DATE: [2017-12-01 Fri 19:54]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
-#+TAGS: Happiness, Health, philosophy, Yoga
+#+TAGS: Happiness, Health, philosophy, Yoga, aliveandhealthy
 #+TITLE: (Happiness) Personal Transformation Begins With Kindness
 
 Personal transformation begins with kindness.
