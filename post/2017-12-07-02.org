@@ -1,0 +1,154 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10721
+#+ORG2BLOG:
+#+DATE: [2017-12-07 Thu 22:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: (Emacs+Org-Mode) Emacser's Harbingers Of Change
+
+"Harbingers of change" announce significant changes. You see them in Emacs
+configuration (init) files all the time. Here are some of /my/ favorites:
+
+#+HTML: <!--more-->
+
+All in reference to my Emacs init file.
+
+- First file, thought completed ten or twenty times,
+  across three years when I started using Emacs in irritation and stopped
+  using it in anger each time.
+- Second re-write because I have /some/ sense of how to configure Emacs, or
+  rather I thought that I did.
+- Installing nearly every one of the top 20 packages downloaded on MELPA
+  because they are simple and powerful.
+- All of the ~Nth~ changes, all answers to questions long forgotten, now
+  codified in it, and the answers do still make sense.
+- The that had "beliefs" about how an editor should work "The Care
+  and Conservation of Computer Files ([[https://raw.githubusercontent.com/grettke/home/master/TC3F.org][TC3F]])".
+- Conversion into Literate Form basically pasting it into a source block and
+  calling ~org-babel-demarcate-block~ a bunch of times to add comments.
+- Doing everything (IRC, web browsing, editing) in Emacs and then just things
+  I really like doing in Emacs (editing).
+- Going between my-current-mode and fundamental-mode to make fixes that
+  my-current-mode is battling, and that using ~quoted-insert~ would take to long
+  to make
+- Re-write into literate file into one full of exploration, concluding with
+  more questions than answers, including development of core personal concepts
+  about my cognitive model for thought, ALEC: [[https://raw.githubusercontent.com/grettke/home/master/ALEC.org][
+  ALEC's a Language for Expressing Creativity]]
+- Writing macros. Then getting rid of all them. Then maybe using them at some
+  point.
+- Spending too many hours [[https://github.com/grettke/home/blob/master/Font.org][choosing a font]].
+- Leveraging mode-inheritance.
+- Diligently using ~global-set-key~ and mode-maps and other times using
+  ~global-set-key~ to "just make it work"
+- Using ~with-temp-buffer~ or ~narrow~.
+- Grokking that most of [[https://www.wisdomandwonder.com/tag/emacs][my blog posts]] exist because I didn't read the user
+  manual or package manuals, and /that was OK/
+- Thinking that I could make a standard config good for everybody then
+  realizing that is impossible.
+- Modeline configuration.
+- Binding successfully to an upper and lower cased character: order matters
+  and key syntax matters, can't just write 't' versus 'T'
+  #+NAME: org_gcr_2017-12-07_mara_F227947E-CA0C-4BC3-82A9-CB78C1F59030
+  #+BEGIN_SRC emacs-lisp
+(global-set-key [(control meta ?t)] #'help/insert-datestamp)
+(global-set-key [(control meta shift ?t)] #'help/insert-timestamp*-no-colons)
+  #+END_SRC
+- Finding my Emacs heroes
+- Having Org2Blog teach me the "real meaning" of open source
+- Grokking the "real meaning" of the GPL and then Free Software. Stunning.
+- Finding that when one way to unset a keybinding doesn't work that there is
+  another way, probably
+  #+NAME: org_gcr_2017-12-07_mara_D85B5465-E7BA-42E0-854E-8A742A6E0AF8
+  #+BEGIN_SRC emacs-lisp
+(define-key org-mode-map (kbd "C-,") nil)
+(global-unset-key (kbd "C-,"))
+(local-unset-key (kbd "C-,"))
+  #+END_SRC
+- Custom tool-bar. When I use Emacs with a mouse while reading Org-Mode files
+  or Emacs Lisp code, when I am not typing anything, my tool-bar is very
+  helpful. I use Emacs on MacOS, Linux, and Windows so I'm already using a
+  mouse all over the place. When I'm logged into a server using a terminal
+  emulator, running Emacs or VI, I use a mouse to drag the terminal emulator
+  window around. Long ago I spent a lot more money to get a computer with a
+  mouse and a GUI instead of /only/ text. Mice are great.
+- Re-write into literate file into one full of answers. Sped up tangling.
+  Wrote to make it easy for parts to be copy-pasted with as little hassle as
+  possible. Simplified splitting it into four parts, and files, for its four
+  concerns.
+  - [[https://raw.githubusercontent.com/grettke/help/master/Org-Mode_Exemple_Complet_Minimal.org][Org-Mode Bootstrap]]
+  - [[https://raw.githubusercontent.com/grettke/help/master/Org-Mode_Fundamentals.org][Org-Mode Literate Programming Configuration]]
+  - [[https://raw.githubusercontent.com/grettke/help/master/Contribute.org][Libraries Loaded By Source]]
+  - [[https://raw.githubusercontent.com/grettke/help/master/help.org][HELP Enables Literate Programming]]
+- Recognizing that referring to my configuration as "Emacs" means nothing both
+  to other Emacsers, and also to non-Emacsers, and changing the name in the
+  frame to "PIE Interactive Editor". "PIE's an Interactive Editor".
+  "PIE Isn't Emacs." 😄 (Joy)
+
+Here I don't want to explore anymore. Now I just want to make iterative
+refinements once in a while. My "Emacs System" is now satisfactory and perfect
+for me. That leaves more time for "working on things using Emacs". Then
+something interesting happened.
+
+O is an interesting person writing interesting code and doing interesting
+things. O's writing is entirely in lower-case. Probably six years ago is the
+first time I saw that style of writing and it made me wonder why. Then I
+forgot about it until a three weeks ago.
+
+Having made every Emacs' configuration change /perfect for me,/ writing has
+become fast and streamlined, again, perfect /for me/. Maybe too streamlined.
+
+Sitting here typing away I felt kind of mad because for me it is a painful
+interruption in /my flow/ to have to reach /way over/ to the SHIFT key in order to
+capitalize the first letter of a sentence (years ago I would have found such a
+claim surprising and now not at all). It is a /waste of time/ I said to myself.
+
+One school of thought says that you should /just write/ and worry about making
+corrections during the proofing stage. Agreed. But failing to capitalize the
+start of every sentence isn't a typo. Your editor would throw your writing in
+the trash. So I checked to see if there is code for auto-capitalization. Of
+course there is. I installed [[https://melpa.org/#/auto-capitalize][auto-capitalize]] mode and it works great (Why does
+it only have 1320 downloads? 😮(Surprise)). But I didn't stop there.
+
+I /observed/ my writing and noticed that reaching down with my pinky to hit ~.~
+happens so often that it is a waste of energy to have to drop my pinky off the
+home row so I mapped C-; to '.'. Great. Then I realized that I should just
+include a space after so it became '._'. But it didn't stop there.
+
+', 'is probably my second most frequently used punctuation mark, so I mapped
+'.' to ',_'. And ',' to '; '. It looks like this:
+
+#+NAME: org_gcr_2017-12-07_mara_43AD1761-4067-4702-B1CE-D692F2EA7C04
+#+BEGIN_SRC emacs-lisp
+(use-package auto-capitalize
+  :ensure t
+  :config
+  (diminish 'auto-capitalize)
+  (add-to-list 'auto-capitalize-words "http")
+  (add-to-list 'desktop-minor-mode-handlers
+               '(auto-capitalize . (lambda (desktop-buffer-locals)))))
+(add-hook 'prog-mode-hook #'turn-off-auto-capitalize-mode)
+(global-set-key (kbd "C-;") (lambda () (interactive) (insert ". ")))
+(global-set-key (kbd "C-.") (lambda () (interactive) (insert ", ")))
+(global-set-key (kbd "C-,") (lambda () (interactive) (insert "; ")))
+(define-key org-mode-map (kbd "C-,") nil)
+#+END_SRC
+
+This is the point was the hallmark totally surprising to me:
+
+- Getting mad about flow interruption by capitalization and hitting
+  punctuation marks.
+- So I automatically capitalize.
+- And remap punctuation marks to "closer" keys.
+
+Now on my init file timeline has become something that will be a complete
+oddity to the outside reader. Now it contains something even beyond
+micro-optimizations. It contains incomprehensible optimizations. This is a
+hallmark that I thought I would never reach but I am happy about it
+😄(Joy)😮(Surprise).
+
+That is the great thing about Emacs: if you stick around long enough it will
+continue to grant you surprises in the truest sense of the word.
+
+What are your favorite harbingers?
