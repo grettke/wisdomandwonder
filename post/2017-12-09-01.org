@@ -1,0 +1,22 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10723
+#+ORG2BLOG:
+#+DATE: [2017-12-09 Sat 12:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: (Emacs+Org-Mode) Try Naming Your Emacs Configuration And Instance
+
+For the fun of it try naming your Emacs configuration and instance.
+
+For example my configuration is named HELP, [[https://github.com/grettke/help][HELP Enables Literate Programming]].
+This is the collection of everything I find helpful for Literate Org Mode.
+Its also the collection of every single bit of code that people shared to help
+me out. It helps a lot. But that is not what I called my editor.
+
+I call my editor instance PIE, PIE Interactive Editor. It is fun calling it a
+name that I like instead of Emacs. Emacs mean so many things to all of us.
+Even Spacemacs names it especially for them. What is PIE? The PIE Interactive
+Editor? But what is PIE? PIE Isn't Emacs 😄(Joy)😮(Surprise).
+
+Have fun with it.
