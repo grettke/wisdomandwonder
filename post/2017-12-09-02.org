@@ -1,0 +1,52 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10724
+#+ORG2BLOG:
+#+DATE: [2017-12-09 Sat 19:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: (Emacs+Org-Mode) Make Eval Expression A Little Easier
+
+Once you've been using Emacs for a while you end up using ~eval-expression~ a
+lot. 99% of the time I use it to make function calls. I never noticed before
+that it is kind of tedious to reach for ~S-M-;~ and then ~()~ despite using it so
+much. Here is a binding and a function definition that make it easier to use
+binding it close to home and inserting the round parentheses.
+
+#+NAME: org_gcr_2017-12-09_mara_B6038523-39A2-4D99-8B07-34F8B608F406
+#+BEGIN_SRC emacs-lisp
+(global-set-key (kbd "M-;") #'my-eval-expression)
+(define-key org-mode-map (kbd "M-;") nil)
+(progn
+
+  (defvar my-read-expression-map
+    (let ((map (make-sparse-keymap)))
+      (set-keymap-parent map read-expression-map)
+      (define-key map [(control ?g)] #'minibuffer-keyboard-quit)
+      (define-key map [up]   nil)
+      (define-key map [down] nil)
+      map))
+
+  (defun my-read--expression (prompt &optional initial-contents)
+    (let ((minibuffer-completing-symbol t))
+      (minibuffer-with-setup-hook
+          (lambda ()
+            (emacs-lisp-mode)
+            (use-local-map my-read-expression-map)
+            (setq font-lock-mode t)
+            (funcall font-lock-function 1)
+            (insert "()")
+            (backward-char))
+        (read-from-minibuffer prompt initial-contents
+                              my-read-expression-map nil
+                              'read-expression-history))))
+
+  (defun my-eval-expression (expression &optional arg)
+    "Attribution: URL `https://lists.gnu.org/archive/html/help-gnu-emacs/2014-07/msg00135.html'."
+    (interactive (list (read (my-read--expression ""))
+                       current-prefix-arg))
+    (if arg
+        (insert (pp-to-string (eval expression lexical-binding)))
+      (pp-display-expression (eval expression lexical-binding)
+                             "*Pp Eval Output*"))))
+#+END_SRC
