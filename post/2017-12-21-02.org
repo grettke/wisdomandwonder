@@ -1,0 +1,22 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10728
+#+ORG2BLOG:
+#+DATE: [2017-12-21 Thu 18:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: utility, PDF
+#+TITLE: (PDF) Re-OCR A PDF Using PDFPenPro
+
+Sometimes I want to recreate the OCR layer in a PDF using PDFPenPro but the
+menu item is greyed out.
+
+[[https://smile.desk.com/customer/portal/articles/163690-the-ocr-option-is-grayed-out-how-do-i-manually-activate-ocr-][Here]] is how force a re-scan:
+
+1. Hold down COMMAND+OPTION
+2. And then click Edit \rarr{} OCR Document
+
+If you open the menu first like I did, then the menu item remains greyed out,
+oops 😮😢.
+
+[[https://smilesoftware.com/pdfpenpro][PDFPenPro]] is in the top five list of best software that I've ever used. Check
+it out.  
