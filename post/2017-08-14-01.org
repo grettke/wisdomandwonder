@@ -9,14 +9,17 @@
 
 [[https://github.com/org2blog/org2blog#mathjax-support][Use MathJax]] with Org2Blog.
 
-Thank you Jon for showing how to set this up in [[http://irreal.org/blog/?p=3018][this post]] and [[http://irreal.org/blog/?p=3048][this post]].
+Thank you Jon for showing how to set this up in [[http://irreal.org/blog/?p=3018][this post]] and [[http://irreal.org/blog/?p=3048][this post]] and
+[[http://irreal.org/blog/?p=6861][this post]].
 
 The only addition is that [[https://github.com/org2blog/org2blog#mathjax-support][these instructions]] uses a more
 actively maintained plugin.
 
 - Test it out using these ([[https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference][and more]]) examples
-  - The word LaTeX
+  - The word LaTeX *in Math Mode* (notice the italics)
     - $\LaTeX$
+  - The word LaTeX *in Text Mode* (notice the /lack of/ italics)
+    - $\mathrm{\LaTeX}$
   - Inline
     - $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
   - Equation
@@ -27,8 +30,10 @@ Here is the source code for the examples:
 #+NAME: org_gcr_2017-08-14_mara_88A43FAF-59D2-4EAA-9991-21980C40DF55
 #+BEGIN_SRC org
 - Test it out using these ([[https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference][and more]]) examples
-  - The word LaTeX
+  - The word LaTeX *in Math Mode* (notice the italics)
     - $\LaTeX$
+  - The word LaTeX *in Text Mode* (notice the /lack of/ italics)
+    - $\mathrm{\LaTeX}$
   - Inline
     - $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
   - Equation
