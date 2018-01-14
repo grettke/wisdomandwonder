@@ -1,0 +1,23 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10736
+#+ORG2BLOG:
+#+DATE: [2018-01-13 Sat 18:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, UNIX
+#+TITLE: (UNIX) V7/x86 - x86 port of UNIX V7
+
+You might have first used UNIX a long ago but if you haven't then here is x86
+port to [[http://www.nordier.com/v7x86/][try it for the first time]] pretty easily [[http://www.nordier.com/v7x86/vm.html][on a virtual machine]].
+
+Start exploring using commands ~cat ~cd~ ~ed~ ~diff~ ~egrep~ ~file~ ~pwd~ ~size~.
+
+#+NAME: org_gcr_2018-01-12_mara_121C3DB3-8626-4CD0-ACC9-1E21DB395992
+#+BEGIN_SRC sh
+cd /etc
+pwd
+file passwd
+cat passwd
+#+END_SRC
+
+UNIX'ers: how do I use ~less~ or ~more~ to preview a file?
