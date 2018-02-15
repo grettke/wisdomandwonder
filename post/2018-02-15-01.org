@@ -1,0 +1,41 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10744
+#+ORG2BLOG:
+#+DATE: [2018-02-15 Thu 00:32]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: (Emacs+Org-Mode) Emacs: Our Home For Creativity, Learning, Fellowship, And Fun
+
+My Emacs is like a kitchen that I've perfected over the years to prepare just
+about every kind of meal.
+
+The meals are configurations for example of the Go language, SML, OCaml, APL,
+IRC, and writing LaTeX, Pandoc, or Org-Mode. Some of the meals have been
+around and will stay around for a long time. Some of the meals are short
+lived, and welcome to come back. Either way I'm glad to be able to cook in
+such a great kitchen.
+
+There are always improvements to the kitchen. They are welcome because it can
+always get better. At this point there aren't going to be any major changes to
+the kitchen itself unless I have some major changes in the way that I think.
+It works how I like to work. Everything is where I like it to be. It is easy
+for me to add new things and remove them in a pleasant manner. Most importantly
+it is a reflection of my cognitive landscape, so I am happy there.
+
+Once you are at home in Emacs you will welcome new meals and say farewell to
+some, but you will always have a kitchen that you love. That is why the
+"Perfect Emacs Configuration" is never to be found and never will be: we are
+all unique and see the world with with a curiosity that is all our own.
+
+Fortunately we have a lot of similarities so good ideas spread fast and they
+bring great ease. Of even greater fortune we have a lot of differences so we
+can grow and learn from perspectives and preferences so totally different from
+our own. It is delightful and refreshing to see a cognitive landscape
+different from our own. That is where the fun is: going to new lands and being
+welcomed to learn about how people see the world. Our Emacs configurations are
+a sweet reminder of the joy and creativity that comes with computing. Emacs
+is the selfless and benevolent home where that kitchen lives.
+
+Long live Emacs—our eternal home of the joy and creativity of computing,
+shared learning, and flat out fun.
