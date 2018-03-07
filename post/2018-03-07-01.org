@@ -1,0 +1,22 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10748
+#+ORG2BLOG:
+#+DATE: [2018-03-07 Wed 12:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: (Emacs+Org-Mode) abo-abo's Hydra Makes You A Lightweight-Literate Programmer Hyper Boosting Your Productivity With About Ten Of Minutes Effort For Learning It
+
+abo-abo's [[https://github.com/abo-abo/hydra][Hydra]] functionality has changed both my learning /and/ Emacs workflow.
+If you give it a chance with my workflow below you will get even more
+power-user type stuff out of it.
+
+The Emacs workflow part is easy: it introduces a new logical namespace for
+function calls and brings a nice GUI along for the ride.
+
+The learning workflow is that while I am learning a new package (or anything)
+I can stick everything that seems important into a Hydra for that mode.
+Instead of writing notes or worrying about settings keybindings for things
+that I may or may not use I just put it in the Hydra and keep reading along.
+The Hydra becomes the notebook. It is like super lightweight literate
+programming because it becomes executable documentation.
