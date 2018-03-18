@@ -1,0 +1,53 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10752
+#+ORG2BLOG:
+#+DATE: [2018-03-18 Sun 17:57]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Bash
+#+TITLE: (Bash) You Are Using rsync Incorrectly And You Will Lose Everything Unless You Read This Now!
+
+[[https://rsync.samba.org/][rsync]] is generous in its functionality and flexible in how you use it. The
+only bad things it can do are what /you/ tell it. The most important thing that
+you need to know *immediately* about ~rsync~ is that you can get a preview of what
+you are telling it to do /before/ it actually does it. Here is how
+
+#+HTML: <!--more-->
+
+- First: Read the [[https://download.samba.org/pub/rsync/rsync.html][man]] page three times.
+  - Read one: You will feel a little overwhelmed
+  - Read two: You will feel OK
+  - Read three: You will feel good about ~rsync~
+- Second: Create a shell script in ~bash~ and paste in the contents below,
+  customizing it with your source and destination.
+  #+name: org_gcr_2018-03-18T11-52-22-05-00_mara_74D36DFA-DF9C-41D7-B107-A7526201EB95
+  #+begin_src sh
+#!/usr/local/bin/bash
+
+rsync -vv \
+      --archive \
+      --delete \
+      --compress \
+      --itemize-changes \
+      --human-readable \
+      --partial \
+      --progress \
+      $1 \
+      SOURCE \
+      DESTINATION
+  #+end_src
+  This is a simple call that mirrors a directory, handles interrupted
+  transfers and lets you re-start again, and keeps you informed of just about
+  every single thing that it is doing.
+- Third: call ~rsync~ but tell it only to preview it's work, not actually do it.
+  This is called a /dry run/. It lets you inspect changes, but it doesn't do
+  them. That is pretty important when it can delete things on /either/ end. At
+  best, it saves you some time having to re-push everything. You can initiate
+  a dry-run by passing the parameter to ~rsync~ as an argument to this script.
+  #+name: org_gcr_2018-03-18T11-52-22-05-00_mara_61B1E041-2476-4A22-820E-B05ED903A412
+  #+begin_src sh
+./siwput.sh --dry-run
+  #+end_src
+ _When you omit this argument_, the call *will execute* and do the work /for real/.
+
+There you have it. This will help you have a pretty good day using ~rsync~.
