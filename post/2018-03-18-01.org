@@ -48,6 +48,6 @@ rsync -vv \
   #+begin_src sh
 ./siwput.sh --dry-run
   #+end_src
- _When you omit this argument_, the call *will execute* and do the work /for real/.
+_When you omit this argument_, the call *will execute* and do the work /for real/.
 
 There you have it. This will help you have a pretty good day using ~rsync~.
