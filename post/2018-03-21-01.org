@@ -1,0 +1,30 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10753
+#+ORG2BLOG:
+#+DATE: [2018-03-21 Wed 12:01]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: (Emacs+Org-Mode) If You Enjoy Writing Even A Little Bit With Emacs Then Add This Em-Dash Code Now
+
+The EM-DASH provokes mixed feelings mostly in writers, and maybe readers if
+they notice it (probably the writers are the ones noticing it while reading).
+But the EM-DASH is a really nice way to break up a sentence when a COMMA or a
+SEMI-COLON or a COLON just won't do it.
+
+#+HTML: <!--more-->
+
+The usage advice out there keeps it really simple—when you use the EM-DASH don't put
+any spaces between in and the text it is separating.
+
+Here is the code—it deserves such a prime-placement as using CONTROL and your
+number row!
+
+#+name: org_gcr_2018-03-21T11-56-35-05-00_mara_DB72DA40-2179-412D-BF5D-2E749922F7F3
+#+begin_src emacs-lisp
+(defun help/insert-em-dash ()
+  "Inserts a M-DASH (not a HYPEN, not an N-DASH)"
+  (interactive)
+  (insert "—"))
+(global-set-key (kbd "C--") #'help/insert-em-dash)
+#+end_src
