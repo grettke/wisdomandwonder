@@ -18,13 +18,31 @@ The usage advice out there keeps it really simple—when you use the EM-DASH don
 any spaces between in and the text it is separating.
 
 Here is the code—it deserves such a prime-placement as using CONTROL and your
-number row!
+number row! Since it is so easy to add, set up EN-DASH, too.
 
 #+name: org_gcr_2018-03-21T11-56-35-05-00_mara_DB72DA40-2179-412D-BF5D-2E749922F7F3
 #+begin_src emacs-lisp
 (defun help/insert-em-dash ()
-  "Inserts a M-DASH (not a HYPEN, not an N-DASH)"
+  "Inserts an EM-DASH (not a HYPEN, not an N-DASH)"
   (interactive)
   (insert "—"))
+(defun help/insert-en-dash ()
+  "Inserts an EN-DASH (not a HYPEN, not an EM-DASH)"
+  (interactive)
+  (insert "–"))
 (global-set-key (kbd "C--") #'help/insert-em-dash)
+(global-set-key (kbd "M--") #'help/insert-en-dash)
+(global-set-key (kbd "C-M-y") #'insert-char)
 #+end_src
+
+Here is how they look: hypen EM-DASH EN-DASH
+#+BEGIN_EXAMPLE
+-
+—
+–
+#+END_EXAMPLE
+
+*ADDENDUM 2018-03-22T17-26-55-05-00*
+- Adds EN-DASH insertion
+- Adds C-M-y for "pasting any Unicode chars"
+
