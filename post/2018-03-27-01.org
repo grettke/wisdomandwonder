@@ -1,0 +1,38 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10755
+#+ORG2BLOG:
+#+DATE: [2018-03-27 Tue 22:42]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: (Emacs+Org-Mode) If You Go Insane Trying To Deal With Lisp Code Squashed Into One Line Then Read On To See The Fix
+
+There are two situations where I end up with really important Lisp code that
+is squashed up into one un-readable and consequently painful line:
+- Reading *Backtrace* when ~toggle-debug-on-error~ is true
+- Using Lisp in a YAS template like [[https://github.com/grettke/help/blob/master/yasnippet/org-mode/sc][this]] for example
+
+The thing is that those lines are really important to me. I need to get them
+readable.
+
+My solution had always been to manually re-indent them. Uggh. But after doing this
+way too many times, I ran into an issue tonight that demanded my full
+attention. Fortunately there is a really simple solution.
+
+#+HTML: <!--more-->
+
+abo-abo's [[https://github.com/abo-abo/lispy][lispy]] package provides functions to make a s-exp either a single or
+multi-line expression: he answered this very question [[https://emacs.stackexchange.com/questions/283/command-that-formats-prettifies-elisp-code][here]].
+
+*Amazing*. This is a brilliant, thousand dollar function that every Lisp
+programmer needs to know about!!!
+
+Here is how I set it up:
+
+#+name: org_gcr_2018-03-27T22-26-10-05-00_mara_95A60526-407E-4AB3-88EF-7DBE7534E993
+#+begin_src emacs-lisp
+(use-package lispy
+  :ensure t)
+(local-set-key (kbd "s-8") #'lispy-multiline)
+(local-set-key (kbd "s-*") #'lispy-oneline)
+#+end_src
