@@ -1,0 +1,51 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10759
+#+ORG2BLOG:
+#+DATE: [2018-04-23 Mon 11:31]
+#+CATEGORY: Article
+#+TAGS:  Emacs, Programming Language, AppleScript
+#+TITLE: Test Your Emacs Themes In Black And White On macOS
+
+A hardware and operating system implementer, whom I can't recall, once quipped
+that using color on computer monitors added no value and was in fact a waste
+of memory. Interesting. NeXT monitors started out grayscale, I wonder why.
+
+#+HTML: <!--more-->
+
+Whatever the case it is fun to see how your Mac looks in grayscale and it
+dawned on me that it is also a fun way to see how Emacs themes look in
+grayscale too.
+
+Initially it is very uncomfortable. Every time I look at the screen I am
+shocked by the lack of color. It feels like there might be something wrong
+with my vision.
+
+Emacs themes, obviously, look very different. It is fun though to compare your
+favorite theme with color to one of the many themes are grayscale.
+
+My box us running /El Capitan/ so I use the following [[http://apetronix.com/applescript-toggle-grayscale-onoff-with-a-keyboard-shortcut/][script]]. Run it in /Script
+Editor/ or put it in a file and run it with ~osascript~. Search the web for
+the script that works right for your macOS version if you aren't on /El Capitan/.
+
+#+name: org_gcr_2018-04-22T14-17-00-05-00_mara_CC5E7C70-A249-4BD8-8227-AD7E0580653F
+#+begin_src apples
+tell application "System Preferences"
+  activate
+  reveal (pane id "com.apple.preference.universalaccess")
+end tell
+
+tell application "System Events"
+  tell process "System Preferences"
+    tell window "Accessibility"
+      tell table 1 of scroll area 1
+        -- Added "delay 1" to work in 10.11 - El Capitan
+        delay 1
+        select (row 2)
+      end tell
+      click checkbox "Use grayscale"
+    end tell
+  end tell
+end tell
+tell application "System Preferences" to quit
+#+end_src
+
