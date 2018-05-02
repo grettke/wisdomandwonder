@@ -1,0 +1,89 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10760
+#+ORG2BLOG:
+#+DATE: [2018-05-01 Tue 19:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: (Emacs+Org-Mode) A Hydra To Help Describe
+
+Do you forget how to get help describing things? I always do.
+
+Here is how I remember.
+
+#+HTML: <!--more-->
+
+Nearly everything is built in and I like it better than using the built-in
+help GUI.
+
+#+name: org_gcr_2018-05-01T17-42-49-05-00_mara_BD996A7B-01B5-4B5A-BD7E-751C3B8025DF
+#+begin_src emacs-lisp
+(defhydra help/hydra/left/describe (:color blue
+                                           :hint nil)
+  "
+Describe Something: (q to quit)
+_a_ all help for everything screen
+_b_ bindings
+_B_ personal bindings
+_c_ char
+_C_ coding system
+_f_ function
+_F_ flycheck checker
+_i_ input method
+_k_ key briefly
+_K_ key
+_l_ language environment
+_L_ mode lineage
+_m_ major mode
+_M_ minor mode
+_n_ current coding system briefly
+_N_ current coding system full
+_o_ lighter indicator
+_O_ lighter symbol
+_p_ package
+_P_ text properties
+_s_ symbol
+_t_ theme
+_v_ variable
+_w_ where is something defined
+"
+  ("b" describe-bindings)
+  ("B" describe-personal-keybindings)
+  ("C" describe-categories)
+  ("c" describe-char)
+  ("C" describe-coding-system)
+  ("f" describe-function)
+  ("F" flycheck-describe-checker)
+  ("i" describe-input-method)
+  ("K" describe-key)
+  ("k" describe-key-briefly)
+  ("l" describe-language-environment)
+  ("L" help/parent-mode-display)
+  ("M" describe-minor-mode)
+  ("m" describe-mode)
+  ("N" describe-current-coding-system)
+  ("n" describe-current-coding-system-briefly)
+  ("o" describe-minor-mode-from-indicator)
+  ("O" describe-minor-mode-from-symbol)
+  ("p" describe-package)
+  ("P" describe-text-properties)
+  ("q" nil)
+  ("a" help)
+  ("s" describe-symbol)
+  ("t" describe-theme)
+  ("v" describe-variable)
+  ("w" where-is))
+(global-set-key (kbd "M-i") nil)
+(global-set-key (kbd "M-i") #'help/hydra/left/describe/body)
+(use-package parent-mode
+  :ensure t
+  :config
+  (defun help/parent-mode-display ()
+    "Display this buffer's mode hierarchy."
+    (interactive)
+    (let ((ls (parent-mode-list major-mode)))
+      (princ ls))))
+(use-package flycheck
+  :ensure t
+  :diminish flycheck-mode)
+#+end_src
