@@ -1,0 +1,84 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10764
+#+ORG2BLOG:
+#+DATE: [2018-05-12 Sat 13:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: (Emacs+Org-Mode) Hydra For Committing Thing Messages
+
+I want some statistics on my Git commits. Over a time period what did I spend
+most of it doing? My only questions: what was new, what was refined, and what
+was fixed. It is a simple question but sometimes I forget the difference
+between what I consider new versus refined. There are other kids of commits,
+too.
+
+When I work on GitHub (or the like) I want to handle numbered tasks within my
+commit message. For example you can close a ticket my writing "Closes #214".
+It is commit related. The last thing I use is sort of like a commit.
+
+My Org-Mode workflow is what I feel pretty basic but uses refiling, archiving, and
+refiling a lot. When I make those changes, it is to me, like a commit.So I
+put all of those messages in here, too.
+
+#+HTML: <!--more-->
+
+This is a super personal hydra, but it is worth sharing the reminder both
+about the modes and about making commit messages useful. They are most useful
+to me because there are things that I forget, and so the reminder is right
+there.
+
+I think that is the thing missed most by Hydra haters: Hydra's are virtually
+identical to custom key prefixes. Here is why, here is the workflow for a Hydra:
+
+1. You value some function, but don't use it much.
+2. So you put it in a Hydra with a note to remind you about it.
+3. Then that Hydra becomes so important and frequently used that you never even
+   read the Hydra anymore.
+
+If/when I use a prefix key or a custom keymap, that is always the workflow
+that I follow to get there. I don't waste time guessing what might be
+important and not.
+
+To provide some contrast, the entire right side of my keyboard has
+super-bindings for Org-Mode commands, so I know how to do that, too 😄.
+
+Here is the code.
+
+Quick note about intent of the change.
+
+#+NAME: org_gcr_2017-12-22_mara_9F9E1F38-1FD7-474F-B2D9-4D9086316632
+#+BEGIN_SRC emacs-lisp
+(defhydra help/hydra/commit-message (:color blue
+                                            :hint nil)
+  "
+Commit Message Descriptor (q to quit)
+_E_nhances: \"an increase or improvement in quality, value, or extent.\"
+_R_efines: \"the improvement or clarification of something by the making of small changes.\"
+_C_orrects: \"a change that rectifies an error or inaccuracy.\"
+C_l_oses | _F_ixes | Resol_v_es
+_A_rchives | Rest_o_res | Re_f_iles
+"
+  ("E" (lambda () (interactive) (insert "(nhncs) ")))
+  ("R" (lambda () (interactive) (insert "(rfns) ")))
+  ("C" (lambda () (interactive) (insert "(crrcts) ")))
+  ("l" (lambda () (interactive (insert "Closes #"))))
+  ("F" (lambda () (interactive (insert "Fixes #"))))
+  ("v" (lambda () (interactive (insert "Resolves #"))))
+  ("A" (lambda () (interactive (insert "(rchvs) "))))
+  ("o" (lambda () (interactive (insert "(rstrs) "))))
+  ("f" (lambda () (interactive (insert "(rfls) "))))
+  ("q" nil))
+#+END_SRC
+
+Commit message mode hook.
+
+#+NAME: org_gcr_2017-12-22_mara_93DCBFA6-1D9E-4126-ABA7-070A42297927
+#+BEGIN_SRC emacs-lisp
+(defun help/commit-message-mode-hook-fn ()
+"HELP Commit Message Mode Hook Function"
+(key-chord-define-local "hh" #'help/hydra/commit-message/body))
+(add-hook 'vc-git-log-edit-mode-hook #'help/commit-message-mode-hook-fn)
+(add-hook 'git-commit-setup-hook #'help/commit-message-mode-hook-fn)
+#+END_SRC
+
