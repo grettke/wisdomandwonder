@@ -1,0 +1,22 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10769
+#+ORG2BLOG:
+#+DATE: [2018-06-03 Sun 00:37]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Bash
+#+TITLE: (Bash) SSH Into Host And Attach To Tmux Session
+
+#+name: org_gcr_2018-06-02T18-25-17-05-00_mara_75CE6FDB-6D14-40A1-A838-A5892ED8E638
+#+begin_src sh
+function sshtmuxattach {
+  if [[ $# -ne 2 || -z "$1" || -z "$2" ]] ; then
+      printf "Usage: ${FUNCNAME[0]} <Host> <Session>\n"
+      printf "SSH into HOST and attach to Tmux SESSION.\n"
+      return 1
+  fi
+  local host=$1;
+  local session=$2
+  ssh "$host" -t tmux attach -t "$session"
+}
+#+end_src
