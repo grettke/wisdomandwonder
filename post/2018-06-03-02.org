@@ -1,0 +1,20 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10770
+#+ORG2BLOG:
+#+DATE: [2018-06-03 Sun 21:01]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: (Emacs+Org-Mode) File mode specification error: (error Invalid duration format: "energy")
+
+Today I got the error:
+
+#+begin_example
+File mode specification error: (error Invalid duration format: "energy")
+#+end_example
+
+This has shown up ten or twenty times over the last year or two.
+
+I couldn't figure out what caused it.
+
+When I killed all of my buffers and restarted Emacs then the error went away.
