@@ -3,1304 +3,172 @@
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
 #+CATEGORY: Article
 #+TAGS: Git, Linux, OSX, Version Control, Windows
-#+TITLE: 3 Nice Looking Diff Tools and My Pick
-
-#+BEGIN_HTML
-  <div id="outline-container-sec-1" class="outline-2">
-#+END_HTML
-
-
-
+#+DATE: [2018-06-05 Tue 11:03]
+#+TITLE: Three Nice Looking Diff Tools and My Pick
 ** 1 Desire
 
-
-
-
-#+BEGIN_HTML
-  <div id="text-1" class="outline-text-2">
-#+END_HTML
-
-
-
-
-I want a GUI diff/merge tool. Text-based diff is fine for easy stuff. I want a
-tool that makes difficult merges easy. I want a single download,
-install, and run. I want something with first class support. It should run
-well on Windows, OSX, and Linux. This was my original goal.
-
-
-
-
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-
-
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-
-
-
-
-
-
-#+BEGIN_HTML
-  <div id="outline-container-sec-2" class="outline-2">
-#+END_HTML
-
-
-
-** 2 Questions
-
-
-
-
-#+BEGIN_HTML
-  <div id="text-2" class="outline-text-2">
-#+END_HTML
-
-
-
-
--  Name
-
-
-   -  Product name : string
-
-   -  URL : string
-
-
-   
-
--  Cross Platform
-
-
-   -  *First-class* support on Windows, Linux, and OSX : boolean
-
-
-   
-
--  VC Configuration mentions
-
-
-   -  Git : boolean
-
-   -  SVN : boolean
-
-
-   
-
--  Block Guide : boolean
-
-
-   -  Indicator to show you where blocks of code moved in the diff
-
-
-   
-
--  Unicode support : boolean
-
--  Comparisons : structure
-
-
-   -  3 way : boolean
-
-   -  visual diff : boolean
-
-   -  directory compare : boolean
-
-   -  image compare : boolean
-
-
-   
-
--  Binary files : structure
-
-
-   -  MS Office : boolean
-
-   -  PDF : boolean
-
-   -  XLS : boolean
-
-   -  iWork : boolean
-
-
-   
-
--  Reviews (1(00-40), 2(40-60), 3(60-80), 4(80-100))
-
-
-   -  SDWest : symbol
-
-   -  Jolt : symbol
-
-   -  Tucows : symbol
-
-   -  C/NET-Download.com : symbol
-
-
-   
-
--  Gut feeling
-
-
-   -  Good/Bad : boolean
-
-
-   
-
--  Overall feeling : symbol
-
-
-   -  Unacceptable, Acceptable, Wonderful
-
-
-   
-
--  License cost
-
-
-   -  USD : integer
-
-
-   
-
--  Comments
-
-
-   -  string
-
-
-   
-
-
-
-
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-
-
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-
-
-
-
-#+BEGIN_HTML
-  <div id="outline-container-sec-3" class="outline-2">
-#+END_HTML
-
-
-
-** 3 Steps
-
-
-
-
-#+BEGIN_HTML
-  <div id="text-3" class="outline-text-2">
-#+END_HTML
-
-
-
-
--  Make many observations
-
--  Discover preferences
-
-
-   -  Review observations
-
-   -  Refine observations
-
-
-   
-
--  Separate observations into above and below the bar
-
-
-   -  Explain why
-
-
-   
-
-
-
-
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-
-
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-
-
-
-
-#+BEGIN_HTML
-  <div id="outline-container-sec-4" class="outline-2">
-#+END_HTML
-
-
-
+Diff's are hard. 80% of the time they are simple and fast. 20% of the time
+they are, well, /complicated/! My days of text-only diffs are coming to an end.
+They remain a part of my toolbox but I want a grown-up GUI diff tool.
+Fortunately there are plenty of options. But how to choose?
+
+- My decision making process was pretty simple: write down questions about them
+  and answer them in a big spreadsheet
+- See where that takes me
+- Make a decision
+
+Here is how it went.
+
+#+HTML: <!--more-->
+
+** 2 Questions For The Spreadsheet
+While this section is here for completeness, it is pretty boring to read.
+
+You can probably just skim the column headers to get the intent of the column.
+
+Unless you want detailed evaluation criteria, move on.
+
+- Name
+  - Product name : string
+  - URL : string
+- Cross Platform
+  - *First-class* support on Windows, Linux, and OSX : boolean
+- VC Configuration mentions
+  - Git : boolean
+  - SVN : boolean
+- Block Guide : boolean
+  - Indicator to show you where blocks of code moved in the diff
+- Unicode support : boolean
+- Comparisons : structure
+  - 3 way : boolean
+  - visual diff : boolean
+  - directory compare : boolean
+  - image compare : boolean
+- Binary files : structure
+  - MS Office : boolean
+  - PDF : boolean
+  - XLS : boolean
+  - iWork : boolean
+- Reviews (1(00-40), 2(40-60), 3(60-80), 4(80-100))
+  - SDWest : symbol
+  - Jolt : symbol
+  - Tucows : symbol
+  - C/NET-Download.com : symbol
+- Gut feeling
+  - Good/Bad : boolean
+- Overall feeling : symbol
+  - Unacceptable, Acceptable, Wonderful
+- License cost
+  - USD : integer
+- Comments
+  - string
+
+** 3 Workflow
+- Make many observations
+- Iterate over observations to discover previously unknown personal preferences
+  - Review observations
+  - Refine observations
+- Classify the observations
+  - Top choice: Consider it
+  - Near top choice: Looks great but not going to consider it
+  - Not an option: Won't work for me
 ** 4 Observations
 
-
-
-
-#+BEGIN_HTML
-  <div id="text-4" class="outline-text-2">
-#+END_HTML
-
-
-
-
-Four groupings
-
-
-
-
-
--  Top pics
-
--  Near top pics
-
--  Declined top pics with explanation
-
--  Can never be a top pic
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Name
-
-
-Crx
-
-
-VC
-
-
-BGd
-
-
-Unc
-
-
-Comp
-
-
-Bin
-
-
-G
-
-
-O
-
-
-Lc
-
-
-Com
-
-
-
-
-
-
-
-
-
-
-[[http://www.deltawalker.com/][DeltaWalker]]
-
-
-tru
-
-
-++
-
-
-tru
-
-
-tru
-
-
-++++
-
-
-++++
-
-
-G
-
-
-W
-
-
-90
-
-
-Intelligent text-comparison between iWork and Office files. Same between archive files.
-
-
-
-
-
-
-
-[[http://www.guiffy.com/][Guiffy]]
-
-
-tru
-
-
-++
-
-
-fls
-
-
-tru
-
-
-++++
-
-
-+++'
-
-
-G
-
-
-W
-
-
-75
-
-
-Website covered all of the key stuff. Seems like "it just works". Advanced 3-way merge algorithms is eye catching. Java based. Unicode and 150 other encoding support. 30 language syntax highlighting. Everything keeps sounding better. Great developer reviews. Included notes for .gitconfig settings so they are real developers.
-
-
-
-
-
-
-
-[[http://www.scootersoftware.com/][BeyondCompare]]
-
-
-tru
-
-
-+++
-
-
-fls
-
-
-tru
-
-
-++++
-
-
-+++'
-
-
-G
-
-
- 
-
-
-80
-
-
-Delimeted data file merging, very nice. Compare CSV, tab delimited, HTML tables, and Excel worksheets. Compare CSV, tab delimited, HTML tables, and Excel worksheets.
-
-
-
-
-
-
-
-
-
-
-[[http://www.syntevo.com/smartsynchronize/][SmrtSyncnz]]
-
-
-tru
-
-
-++
-
-
-tru
-
-
-tru
-
-
-+++'
-
-
-''''
-
-
-G
-
-
-A
-
-
-40
-
-
- 
-
-
-
-
-
-
-
-[[http://kdiff3.sourceforge.net/][KDiff3]]
-
-
-tru
-
-
-++
-
-
-fls
-
-
-tru
-
-
-+++'
-
-
-''''
-
-
-G
-
-
-A
-
-
- 
-
-
- 
-
-
-
-
-
-
-
-
-
-
-[[http://www.sourcegear.com/diffmerge/][DiffMerge]]
-
-
-tru
-
-
-++
-
-
-fls
-
-
-tr*
-
-
-+++-
-
-
----
-
-
-G
-
-
-A
-
-
-0
-
-
-Unicode files are normalized during load [[http://support.sourcegear.com/viewtopic.php?f=33&t=13545][see]].
-
-
-
-
-
-
-
-[[http://www.elliecomputing.com/products/merge_overview.asp][ECMerge]]
-
-
-tru
-
-
-''
-
-
-tru
-
-
-?
-
-
-+++++
-
-
-+''?
-
-
-G
-
-
-A
-
-
-50
-
-
-Not developer focused. Not the end of the world. Hard to get a sense of this product's flavor.
-
-
-
-
-
-
-
-
-
-
-[[http://furius.ca/xxdiff/][xxdiff]]
-
-
-tru
-
-
- 
-
-
- 
-
-
-fls
-
-
- 
-
-
- 
-
-
-G
-
-
-U
-
-
- 
-
-
-Looks like a stunnning tool, but primarily UNIX. Builds exist for Windows but are not first class.
-
-
-
-
-
-
-
-[[http://diffuse.sourceforge.net/download.html][Diffuse]]
-
-
-tru
-
-
-''
-
-
-fls
-
-
- 
-
-
-'+''
-
-
-'''
-
-
-B
-
-
- 
-
-
- 
-
-
-Not my cup of tea.
-
-
-
-
-
-
-
-[[http://sourceforge.net/projects/tkdiff/][tkdiff]]
-
-
-tru
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-B
-
-
- 
-
-
- 
-
-
-Not my cup of tea.
-
-
-
-
-
-
-
-[[http://vimdoc.sourceforge.net/htmldoc/diff.html][Vim (diff)]]
-
-
-tru
-
-
-+++
-
-
-fls
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-Not my cup of tea.
-
-
-
-
-
-
-
-[[http://www.perforce.com/product/components/perforce-clients-integrations][Perforce]]
-
-
-tru
-
-
-''
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-Probably works best with Perforce; that holds its tru focus.
-
-
-
-
-
-
-
-[[http://www.araxis.com/merge/][AraxisMerge]]
-
-
-tr*
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-No Linux support.
-
-
-
-
-
-
-
-[[http://tortoisesvn.net/downloads.html][Tortoise]]
-
-
-Win
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-
-
-
-
-
-[[https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/opendiff.1.html][OpenDiff]]
-
-
-OSX
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-
-
-
-
-
-[[http://martiancraft.com/products/changes.html][Changes]]
-
-
-OSX
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-
-
-
-
-
-[[http://www.dotfork.com/difffork/][DiffFork]]
-
-
-OSX
-
-
-++
-
-
-tru
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-
-
-
-
-
-[[http://visualdiffer.com/][VisualDiffer]]
-
-
-OSX
-
-
---
-
-
-fls
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-
-
-
-
-
-[[https://itunes.apple.com/ca/app/comparemerge/id478570084?mt=12][CompareMerge]]
-
-
-OSX
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-
-
-
-
-
-[[http://www.kaleidoscopeapp.com/][Kaleidoscope]]
-
-
-OSX
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-
-
-
-
-
-
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-
-
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-
-
-
-
-#+BEGIN_HTML
-  <div id="outline-container-sec-5" class="outline-2">
-#+END_HTML
-
-
-
-** 5 Conclusion
-
-
-
-
-#+BEGIN_HTML
-  <div id="text-5" class="outline-text-2">
-#+END_HTML
-
-
-
-
--  There are many options
-
--  They all have great strengths
-
--  By collecting observations the conclusion became obvious
-
--  There are three great options
-
--  One of them has block diffs
-
-
-   -  It has more, too, but not critical
-
-
-   
-
--  DeltaWalker it is
-
-
-
-
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-
-
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-
-
-
-
-#+BEGIN_HTML
-  <div id="outline-container-sec-6" class="outline-2">
-#+END_HTML
-
-
-
-** 6 Adoption
-
-
-
-
-#+BEGIN_HTML
-  <div id="text-6" class="outline-text-2">
-#+END_HTML
-
-
-
-
--  Read the [[http://www.deltawalker.com/documentation.jsp][Welcome document]]
-
--  Read the [[http://www.deltawalker.com/faq/install-upgrade-uninstall.jsp][How Do I?]] section
-
--  Read about how to [[http://www.deltawalker.com/integrate/git-hg-bazaar-svn.jsp][integrate Git]]
-
--  Read the [[http://www.deltawalker.com/compare-files/text-comparison.jsp][Comparing Files]] section
-
--  Skimmed [[http://www.deltawalker.com/everything-else/comparison-history.jsp][EverythingElse]] section
-
-
-   -  You may [[http://www.deltawalker.com/scripting/scripting.jsp][script]] DW using JS via Rhino
-
-
-   
-
--  All you may only need to read are the [[http://www.deltawalker.com/everything-else/tips-and-tricks.jsp][Tips & Tricks]] as it covers all of the
-really useful productivity stuff and you can dig into detals in the main
-document
-
--  Read the [[http://www.deltawalker.com/preferences/preferences-overview.jsp][preferences]] section
-
-
-   -  Overview
-
-
-      -  You my customize the differencing algorithm, interesting
-
-      -  Per comparison preferences are forked and stored, interesting
-
-
-      
-
-   -  All Comparisons
-
-
-      -  Must read this
-
-      -  Can choose the differencing algorithm
-
-
-      
-
-   -  Also Image and Text Comparisons
-
-
-   
-
--  Skimmed [[http://www.deltawalker.com/compare-folders/folder-comparison.jsp][FolderComparisons]] and thye seem to be virtually identical
-
--  Bought the ORO
-
-
-
-
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-
-
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-
-
+I broke out the simple answers the comments into two sections so they would
+fit on the page.
+*** Comments
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Name          | Com                                                                                                                                                                                                                                                                                                                               |
+|---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [[http://www.deltawalker.com/][DeltaWalker]]   | Intelligent text-comparison between iWork and Office files. Same between archive files.                                                                                                                                                                                                                                           |
+| [[http://www.guiffy.com/][Guiffy]]        | Website covered all of the key stuff. Seems like "it just works". Advanced 3-way merge algorithms is eye catching. Java based. Unicode and 150 other encoding suppor language syntax highlighting. Everything keeps sounding better. Great developer reviews. Included notes for .gitconfig settings so they are real developers. |
+| [[http://www.scootersoftware.com/][BeyondCompare]] | Delimeted data file merging, very nice. Compare CSV, tab delimited, HTML tables, and Excel worksheets. Compare CSV, tab delimited, HTML tables, and Excel worksheets.                                                                                                                                                             |
+|---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [[http://www.syntevo.com/smartsynchronize/][SmrtSyncnz]]    | No comment                                                                                                                                                                                                                                                                                                                        |
+| [[http://kdiff3.sourceforge.net/][KDiff3]]        | No comment                                                                                                                                                                                                                                                                                                                        |
+| [[http://www.sourcegear.com/diffmerge/][DiffMerge]]     | Unicode files are normalized during load [[http://support.sourcegear.com/viewtopic.php?f=33&#038;t=13545][see here]].                                                                                                                                                                                                                                                                                |
+| [[http://www.elliecomputing.com/products/merge_overview.asp][ECMerge]]       | Not developer focused. Not the end of the world. Hard to get a sense of this product's flavor.                                                                                                                                                                                                                                    |
+| [[http://furius.ca/xxdiff/][xxdiff]]        | Looks like a stunnning tool, but primarily UNIX. Builds exist for Windows but are not first class.                                                                                                                                                                                                                                |
+|---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [[http://diffuse.sourceforge.net/download.html][Diffuse]]       | Not my cup of tea.                                                                                                                                                                                                                                                                                                                |
+| [[http://sourceforge.net/projects/tkdiff/][tkdiff]]        | Not my cup of tea.                                                                                                                                                                                                                                                                                                                |
+| [[http://vimdoc.sourceforge.net/htmldoc/diff.html][Vim (diff)]]    | Not my cup of tea.                                                                                                                                                                                                                                                                                                                |
+| [[http://www.perforce.com/product/components/perforce-clients-integrations][Perforce]]      | Probably works best with Perforce; that holds its focus.                                                                                                                                                                                                                                                                          |
+| [[http://www.araxis.com/merge/][AraxisMerge]]   | No Linux support.                                                                                                                                                                                                                                                                                                                 |
+| [[http://tortoisesvn.net/downloads.html][Tortoise]]      | No comment                                                                                                                                                                                                                                                                                                                        |
+| [[https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/opendiff.1.html][OpenDiff]]      | No comment                                                                                                                                                                                                                                                                                                                        |
+| [[http://martiancraft.com/products/changes.html][Changes]]       | No comment                                                                                                                                                                                                                                                                                                                        |
+| [[http://www.dotfork.com/difffork/][DiffFork]]      | No comment                                                                                                                                                                                                                                                                                                                        |
+| [[http://visualdiffer.com/][VisualDiffer]]  | No comment                                                                                                                                                                                                                                                                                                                        |
+| [[https://itunes.apple.com/ca/app/comparemerge/id478570084?mt=12][CompareMerge]]  | No comment                                                                                                                                                                                                                                                                                                                        |
+| [[http://www.kaleidoscopeapp.com/][Kaleidoscope]]  | No comment                                                                                                                                                                                                                                                                                                                        |
+
+*** Simple
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Name          | Crx | VC | BGd | Unc | Comp | Bin | G | O | Lc |
+|---------------+-----+----+-----+-----+------+-----+---+---+----|
+| [[http://www.deltawalker.com/][DeltaWalker]]   | All | ++ | T   | T   | ++   | ++  | G | W | 90 |
+| [[http://www.guiffy.com/][Guiffy]]        | All | ++ | F   | T   | ++   | +"  | G | W | 75 |
+| [[http://www.scootersoftware.com/][BeyondCompare]] | All | +  | F   | T   | ++   | +"  | G |   | 80 |
+|---------------+-----+----+-----+-----+------+-----+---+---+----|
+| [[http://www.syntevo.com/smartsynchronize/][SmrtSyncnz]]    | All | ++ | T   | T   | +"   | ""  | G | A | 40 |
+| [[http://kdiff3.sourceforge.net/][KDiff3]]        | All | ++ | F   | T   | +"   | ""  | G | A |    |
+| [[http://www.sourcegear.com/diffmerge/][DiffMerge]]     | All | ++ | F   | T*  | +-   | -   | G | A |  0 |
+| [[http://www.elliecomputing.com/products/merge_overview.asp][ECMerge]]       | All | "  | T   | ?   | +    | +"? | G | A | 50 |
+| [[http://furius.ca/xxdiff/][xxdiff]]        | All |    |     | F   |      |     | G | U |    |
+|---------------+-----+----+-----+-----+------+-----+---+---+----|
+| [[http://diffuse.sourceforge.net/download.html][Diffuse]]       | All | "  | F   |     | +"   | "   | B |   |    |
+| [[http://sourceforge.net/projects/tkdiff/][tkdiff]]        | All |    |     |     |      |     | B |   |    |
+| [[http://vimdoc.sourceforge.net/htmldoc/diff.html][Vim (diff)]]    | All | +  | F   |     |      |     |   |   |    |
+| [[http://www.perforce.com/product/components/perforce-clients-integrations][Perforce]]      | All | "  |     |     |      |     |   |   |    |
+| [[http://www.araxis.com/merge/][AraxisMerge]]   | OW- |    |     |     |      |     |   |   |    |
+| [[http://tortoisesvn.net/downloads.html][Tortoise]]      | Win |    |     |     |      |     |   |   |    |
+| [[https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/opendiff.1.html][OpenDiff]]      | OSX |    |     |     |      |     |   |   |    |
+| [[http://martiancraft.com/products/changes.html][Changes]]       | OSX |    |     |     |      |     |   |   |    |
+| [[http://www.dotfork.com/difffork/][DiffFork]]      | OSX | ++ | T   |     |      |     |   |   |    |
+| [[http://visualdiffer.com/][VisualDiffer]]  | OSX | -  | F   |     |      |     |   |   |    |
+| [[https://itunes.apple.com/ca/app/comparemerge/id478570084?mt=12][CompareMerge]]  | OSX |    |     |     |      |     |   |   |    |
+| [[http://www.kaleidoscopeapp.com/][Kaleidoscope]]  | OSX |    |     |     |      |     |   |   |    |
+
+** 5 Decision On What To Evaluate
+There are so many great options. It is hard to figure out which one to use.
+
+These questions made it easy for me to narrow them down to these top three:
+- [[http://www.deltawalker.com/][DeltaWalker]]
+- [[http://www.guiffy.com/][Guiffy]]
+- [[http://www.scootersoftware.com/][BeyondCompare]]
+
+After performing some more gut checks, my choice for evaluation: DeltaWalker.
+
+Why? It was really just my gut feeling. There are all so similar so I went
+with my gut.
+
+** 6 Evaluation
+
+- Read the [[http://www.deltawalker.com/documentation.jsp][Welcome document]]
+- Read the [[http://www.deltawalker.com/faq/install-upgrade-uninstall.jsp][How Do I?]] section
+- Read about how to [[http://www.deltawalker.com/integrate/git-hg-bazaar-svn.jsp][integrate Git]]
+- Read the [[http://www.deltawalker.com/compare-files/text-comparison.jsp][Comparing Files]] section
+- Skimmed [[http://www.deltawalker.com/everything-else/comparison-history.jsp][EverythingElse]] section
+  - You may [[http://www.deltawalker.com/scripting/scripting.jsp][script]] DW using JS via Rhino
+- All you may only need to read are the [[http://www.deltawalker.com/everything-else/tips-and-tricks.jsp][Tips & Tricks]] as it covers all of the
+  really useful productivity stuff and you can dig into details in the main document
+- Read the [[http://www.deltawalker.com/preferences/preferences-overview.jsp][preferences]] section
+  - Overview
+    - You my customize the diffing algorithm, interesting
+    - Per comparison preferences are forked and stored, interesting
+  - All Comparisons
+    - Must read this
+    - Can choose the diffing algorithm
+  - Also Image and Text Comparisons
+- Skimmed [[http://www.deltawalker.com/compare-folders/folder-comparison.jsp][FolderComparisons]] and they seem to be virtually identical
+
+** 7 Purchase
+
+- Bought DeltaWalker
+- *This is one of the best pieces of software that I have ever used in
+  seventeen years of professional software development and I love it.*
+
+#  LocalWords:  boolean
