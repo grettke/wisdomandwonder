@@ -1,0 +1,27 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10771
+#+ORG2BLOG:
+#+DATE: [2018-06-05 Tue 19:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: (Emacs+Org-Mode) Run Two Copies of Emacs To Provide Multithreading
+
+A couple weeks ago I was working on an analysis program in Elisp. I would
+write the code, run the results out to a file, study the results, make some
+changes, and go back to the beginning. Sometimes the code would take ten
+seconds to run. My fault, it just isn't written for speed. Still I griped
+about Emacs's lack of multitheading because I couldn't do anything for 10
+seconds. Then it hit me: Doh! Just start two copies of Emacs, one to run the
+code in and another to do everything else in.
+
+Sure, that sounds really bad to say it, but I'll go on: most computers today
+run with multiple cores and gigabytes of RAM so it has virtually no impact on
+your operating system to run two instances. Everybody knows this, but my gut
+says that this is poor OS management and just a bad way to solve problems.
+But, my gut still thinks about a world where it was excited to double the RAM
+on it's 33MHz computer from 4MB to 8MB.
+
+My gut needs to join modern times considering it runs a copy of macOS inside
+of VMWare all the day while I do everything else, including using two Emacs
+instances 😄😮.
