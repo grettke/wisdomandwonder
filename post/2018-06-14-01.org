@@ -1,0 +1,36 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10774
+#+ORG2BLOG:
+#+DATE: [2018-06-14 Thu 19:37]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: (Emacs+Org-Mode) Visualize Org Mode Plain List Bullets As Em-Dash
+
+[[https://orgmode.org/manual/Plain-lists.html][Org Mode plain lists]] uses the hyphen (minus sign) character as it's default
+bullet. The hyphen is pretty wimpy compared to the Asterisk character so it
+can be hard to read. Here is some code to visualize it with an Em-Dash
+instead—so much easier to read!
+
+#+HTML: <!--more-->
+
+#+name: org_gcr_2018-06-14T14-15-42-05-00_mara_2F1F424E-F780-4D04-B582-7770987CC960
+#+begin_src emacs-lisp
+(font-lock-add-keywords
+ 'org-mode
+ '(("^[[:space:]]*\\(-\\) "
+    0 (prog1 () (compose-region (match-beginning 1) (match-end 1) "—")))))
+
+#+end_src
+
+Hyphen on the left and em-dash on the right
+
+[[./image/org_mode_plain_list_em-dash_bullets-off.png]] [[./image/org_mode_plain_list_em-dash_bullets-on.png]]
+
+Via [[http://jessicastringham.net/2016/10/02/org-mode-bullet.html][jessicastringham]] via [[http://www.howardism.org/Technical/Emacs/orgmode-wordprocessor.html][howardism]]. I made two changes: first don't work on
+headline bullets and second match the first list bullet because it didn't on
+my system.
+
+You can use that code for any character not just em-dash
+# ./image/org_mode_plain_list_em-dash_bullets-off.png https://www.wisdomandwonder.com/wp-content/uploads/2018/06/org_mode_plain_list_em-dash_bullets-off.png
+# ./image/org_mode_plain_list_em-dash_bullets-on.png https://www.wisdomandwonder.com/wp-content/uploads/2018/06/org_mode_plain_list_em-dash_bullets-on.png
