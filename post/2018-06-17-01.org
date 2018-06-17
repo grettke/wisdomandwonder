@@ -1,0 +1,41 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10777
+#+ORG2BLOG:
+#+DATE: [2018-06-17 Sun 11:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: (Emacs+Org-Mode) Personal Grammar Reminder Affect vs Effect
+
+I always forget a few grammar rules and can't seem to get them remembered so I
+wrote an Elisp snippet to help me remember. Langtool catches this but it isn't
+worth waiting. It seems silly to me to write a reminder, but, I bet hundreds of
+us Emacs users face this. The definition is my own, and includes my opinion
+about how /not/ to use both words!
+
+#+name: org_gcr_2018-06-17T11-45-33-05-00_mara_822AA568-3A18-4289-9FEB-EDC897272232
+#+begin_src emacs-lisp
+(defun affect-vs-effect-explanation ()
+  "Definition and example of the most frequent use of Affect vs. Effect."
+  (interactive)
+  (let* ((title "Affect Versus Effect")
+         (sep (make-string (length title) ?=))
+         (buf (get-buffer-create (concat "*" title "*"))))
+    (switch-to-buffer buf)
+    (insert (concat title "\n"))
+    (insert (concat sep "\n\n"))
+    (insert "Affect is a verb. It means \"to have influence upon\". In the present tense
+affect is followed by a noun in the form of \"X affects Y\". For example
+\"Choosing between tabs or spaces for indentation affects our happiness.\"
+In the past tense it is followed by a preposition before the noun.
+For example \"Most people are deeply affected by the their choice between
+using tabs or spaces for indentation.\"
+
+Effect is a noun. It is an outcome or result of a verb. For example
+\"Choosing spaces for indentation had a positive effect on her happiness.\"
+
+There are other definitions for affect and effect and you probably
+shouldn't use them.")
+    (help-mode)
+    (setq buffer-read-only t)))
+#+end_src
