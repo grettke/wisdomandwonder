@@ -1,0 +1,20 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10775
+#+ORG2BLOG:
+#+DATE: [2018-06-16 Sat 19:36]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: (Emacs+Org-Mode) How To Probably Configure Everything For UTF-8 In Emacs
+
+There are a lot of snippets laying around about how to configure Emacs for
+Unicode UTF-8. I've copy and pasted all of them at one time of another.
+Tonight I read the manual about how to configure Language Environments and it
+is pretty simple:
+
+#+name: org_gcr_2018-06-16T20-36-10-05-00_mara_9670D936-AF70-4D1D-A66B-FF7D9509FFE2
+#+begin_src emacs-lisp
+(let ((lang 'utf-8))
+  (set-language-environment lang)
+  (prefer-coding-system lang))
+#+end_src
