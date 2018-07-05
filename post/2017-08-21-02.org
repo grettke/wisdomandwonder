@@ -92,3 +92,14 @@ Here is a snippet to make it easier to remember.
 #+BEGIN_SRC emacs-lisp
 (lambda () (interactive) (insert "#+ATTR_HTML: :border 2 :rules all :frame border"))
 #+END_SRC
+
+Here is how to set the properties if you aren't using HTML5. Most of us don't
+need to anyway.
+
+#+name: org_gcr_2018-07-02T08-14-50-05-00_mara_D3138EF5-6B74-4D3D-AC70-3E8F5CDF26CD
+#+begin_src emacs-lisp
+(setq org-html-table-default-attributes
+      (plist-put org-html-table-default-attributes :rules "all"))
+(setq org-html-table-default-attributes
+      (plist-put org-html-table-default-attributes :frame "border"))
+#+end_src
