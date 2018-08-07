@@ -1,0 +1,39 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10782
+#+ORG2BLOG:
+#+DATE: [2018-08-07 Tue 16:59]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: macOS
+#+TITLE: (macOS) Handling Too Many Application Windows Overload on macOS
+
+My desk has 3 monitor on it—two external and one built into the Mac. They are
+used like this:
+
+- Top left
+  - Chrome
+  - Maybe
+    - Inkscape
+    - VMWare
+    - iTunes
+- Top right
+  - Emacs
+- Bottom
+  - Terminal
+  - WhatsApp
+  - Pulse SMS
+
+I tried to keep it simple but it is still easy to forget which application
+that I'm working with. I wanted a way to highlight the window that had focus
+and I found it with [[https://hazeover.com/][HazeOver — Distraction Dimmer for Mac]].
+
+Probably the most under-recognized piece of software for multi monitor users
+you'll only ever care about it /after/ your mac is driving you nuts :).
+
+It is simple: when you turn it one then every other window than the one with
+focus is dimmed. There are other nice options but I care most about the
+basics.
+
+Been using it for months and it's been rock-solid.
+
+Love it!
