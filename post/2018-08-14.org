@@ -1,0 +1,33 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10783
+#+ORG2BLOG:
+#+DATE: [2018-08-14 Tue 11:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Python3
+#+TITLE: (Python3+Hardware+Network) Map And Track Wi-Fi Networks You're Not Connected To
+
+Ever wonder how wifi devices talk to each other when they don't know that you
+are listening?
+
+#+HTML: <!--more-->
+
+The hardware components of most critical systems, for example Cell Phones and
+Wi-Fi access points, operate on an implicit model of trust. In other words if
+other "members" of the system /think that you are like them/ then they will help
+you do your job. This is a feature that makes our critical system likes Cell
+Phones and Wi-Fi access points /so easy/ to use! It also makes them very easy to
+explore.
+
+If you are curious about how Wi-Fi networks /really work/ then Caleb's tool
+[[https://github.com/calebmadrigal/trackerjacker][trackerjacker]] is a great way to see how connected Wi-Fi devices talk to each
+other and more. You don't even need a Wi-Fi access point password just /to look/.
+
+That is one of the lessons learned—at the end of the day people can learn a
+lot about you without you ever knowing about it.
+
+Why they are so curious about you? Good question!
+
+[[https://github.com/calebmadrigal][Caleb]] is a genius. Learn from him.
+
+#  LocalWords:  trackerjacker
