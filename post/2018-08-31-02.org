@@ -1,0 +1,26 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10787
+#+ORG2BLOG:
+#+DATE: [2018-08-31 Fri 12:03]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: (Emacs+Org-Mode) Personal Magit From The Terminal
+
+Thanks to [[http://irreal.org/blog/?p=7445][Jon]] and [[https://www.reddit.com/r/emacs/comments/9b1bhs/emacsshell_protip_alias_magit/][UnwashedMeme]] I've got the best shell-based Git IDE could
+have ever imaged! And it is based on Emacs 😄😮.
+
+#+HTML: <!--more-->
+
+Here is my Bash alias. It is unique to my box simply because:
+
+- It uses full parameter names
+- It loads a subset of my configuration so it loads a little faster
+- It uses double quotes for the alias
+
+#+name: org_gcr_2018-08-26T08-45-14-05-00_globigerina_5DF684F1-A440-4CBD-B7F5-699EE72FDDC8
+#+begin_src sh
+alias magit="emacs --no-window-system --no-init-file --load \
+      ~/src/help/.org-mode-contribute.emacs.el --eval '(progn (magit-status) (delete-other-windows))'"
+
+#+end_src
