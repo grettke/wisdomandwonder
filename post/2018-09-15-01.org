@@ -1,0 +1,27 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10789
+#+ORG2BLOG:
+#+DATE: [2018-09-15 Sat 01:17]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode, Bash, Shell
+#+TITLE: (Emacs+Bash) bash: update_terminal_cwd: command not found resolution
+
+When you run =Bash= under ~shell~ in =Emacs= on =macOS= then ~update_terminal_cwd~ is
+never defined and after every command you get the error message
+=bash: update_terminal_cwd: command not found= making the shell
+unusable.
+
+The simplest solution is to define ~update_terminal_cwd~ when it isn't defined.
+
+Here is the code:
+
+#+name: org_gcr_2018-09-15T00-32-28-05-00_cosmicality_68572F75-85C3-41CE-BF9A-08FF3CD31519
+#+begin_src sh
+if [ -z "$(type -t update_terminal_cwd)" ] || [ "$(type -t update_terminal_cwd)" != "function" ]; then
+  update_terminal_cwd() {
+    true
+  }
+fi
+#+end_src
+
