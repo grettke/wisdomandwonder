@@ -27,11 +27,15 @@ I tried to keep it simple but it is still easy to forget which application
 that I'm working with. I wanted a way to highlight the window that had focus
 and I found it with [[https://hazeover.com/][HazeOver — Distraction Dimmer for Mac]].
 
+#+HTML: <!--more-->
+
 Probably the most under-recognized piece of software for multi monitor users
 you'll only ever care about it /after/ your mac is driving you nuts :).
 
 It is simple: when you turn it one then every other window than the one with
-focus is dimmed. There are other nice options but I care most about the
+focus is dimmed. You can decide whether to enable the dimming across one
+monitor or all of your monitors—I enable it across /all/ of them so it is even
+easier for me to focus! There are other nice options but I care most about the
 basics.
 
 Been using it for months and it's been rock-solid.
