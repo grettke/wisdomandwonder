@@ -2,7 +2,7 @@
 #+DATE: [2011-06-28 Tue 01:56]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
 #+CATEGORY: Link
-#+TAGS: Reproducible research, Research, Utility
+#+TAGS: Reproducible research, Research, Utility, TeX
 #+TITLE: Managing bibliography references with JabRef
 
 #+BEGIN_QUOTE
