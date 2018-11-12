@@ -1,0 +1,42 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10792
+#+ORG2BLOG:
+#+DATE: [2018-11-11 Sun 14:47]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Link
+#+TAGS: Reproducible research, Research, Utility, TeX
+#+TITLE: How The Heck Are You Supposed To Choose Your BibTeX Keys?!
+
+There are plenty of ways to do it and [[https://serialmentor.com/blog/2015/10/2/Bibtex][this]] article is one of the best.
+
+It's checklist is worth reviewing nearly every time you work directly with
+your BibTeX file.
+
+Here is a copy of the checklist:
+
+#+HTML: <!--more-->
+
+- Capitalization
+  - Are all article titles typeset in sentence case, or do some remain in
+    title case?
+  - Are any proper nouns or abbreviations typeset in lower case even though
+    they should be capitalized?
+- Author initials
+  - Are all author first names replaced by initials?
+  - Are all middle initials present? (This may be cumbersome to check, but a
+    warning sign would be the presence of multiple references in which no
+    authors have middle initials. Most authors do have middle initials.)
+- Author lists
+  - Are author names showing up properly and completely? Warning signs would
+    be papers that appear to be written by one or two people with way too many
+    initials (four or more; few authors have four initials).
+- Journal names
+  - Are all journal names properly abbreviated?
+  - Are journals named consistently throughout the bibliography?
+- Superfluous items in bibliography
+  - Do any references contain items that shouldn’t be there, such as issue
+    numbers, months, ISSN or ISBN numbers, or article URLs?
+- Compilation
+  - Do Latex and Bibtex run on your document without raising any errors or
+    warnings?
+
