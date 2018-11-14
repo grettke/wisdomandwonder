@@ -1,0 +1,11 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10794
+#+ORG2BLOG:
+#+DATE: [2018-11-14 Wed 09:11]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: (Emacs+Org-Mode) Three Different Ways To Export From Org To A Calendar
+
+Never had the want to export to a calendar from Org but [[https://www.pengmeiyu.com/blog/sync-org-mode-agenda-to-calendar-apps/][here are]] what looks
+like three pretty nice ways to do it.
