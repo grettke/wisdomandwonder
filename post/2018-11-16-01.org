@@ -1,0 +1,15 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10797
+#+ORG2BLOG:
+#+DATE: [2018-11-16 Fri 12:04]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Engineering
+#+TITLE: (Engineering) Watch A Flat Bottom Ditch Get Created
+
+Never seen it before now watching a flat bottom ditch get created [[https://www.youtube.com/watch?v=6_vpjcGoJ_w][here]].
+
+It is so interesting to see even without knowing the terms and approach you
+can understand some of it by the context.
+
+Definitely worth 14m of your time!
