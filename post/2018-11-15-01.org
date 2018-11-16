@@ -1,0 +1,15 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10796
+#+ORG2BLOG:
+#+DATE: [2018-11-15 Thu 23:14]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: UNIX
+#+TITLE: (UNIX) Your First UNIX Love Should Have Been PWB/UNIX
+
+[[https://en.wikipedia.org/wiki/PWB/UNIX][PWB/UNIX]] is the first UNIX with
+- The First Source code control /ever/
+- A really nice shell
+- ~make~, ~find~, and ~head~
+
+Bet it was a lot of fun.   
