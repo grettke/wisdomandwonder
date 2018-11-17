@@ -1,0 +1,274 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10801
+#+ORG2BLOG:
+#+DATE: [2018-11-17 Sat 14:14]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: (Emacs+Org-Mode) A Literate LS
+
+I can never remember what parameters I want for ~ls~ so I made an alias for it.
+I still couldn't remember them so I copy and pasted the documentation into a
+literate document and tangle that into a function to do what I want:
+
+#+HTML: <!--more-->
+
+Literate programming is under a lot of pressure to deliver massive
+productivity gains so you never see any simple examples that are useful to
+people. I've got them all over the place for things that are difficult for me.
+Some of them are necessarily complex and interesting. Others are simplistic
+and boring. Each still help me a lot because of reasons unique to me. This is
+one of the simple ones :). First is the function itself, second is the part
+for humans, and finally the code for the document iself. For the second
+section for humans, I don't add the source block names (e.g. ~#+name:
+ls-hide-dotdot-dirs~) to the document for humans because I usually just read the
+document source code:
+
+*Bash Function*
+
+#+name: org_gcr_2018-11-16T21-54-40-06-00_cosmicality_50FC936F-D6FF-405C-8B2A-0E3FDE04CB89
+#+begin_src sh
+function l {
+  gls \
+    --almost-all \
+    --author \
+    -C \
+    --group-directories-first \
+    --si \
+    --indicator-style=classify \
+    -l \
+    --quote-name \
+    --quoting-style=c \
+    --time-style=long-iso \
+    "$@"
+}
+#+end_src
+
+*Document To Read*
+
+July 2018 -- GNU coreutils 8.30
+
+ls - list directory contents
+
+#+name: org_gcr_2018-09-07T21-25-20-05-00_globigerina_1F948D28-CEF0-4389-AB1B-F8546C7DE36E
+#+begin_src sh :comments no
+function l {
+  gls \
+      ⟪ls-hide-dotdot-dirs⟫ \
+      ⟪ls-show-file-author⟫ \
+      ⟪ls-list-in-columns⟫ \
+      ⟪ls-list-dirs-first⟫ \
+      ⟪ls-file-size-units-policy⟫ \
+      ⟪ls-show-file-type-indicator⟫ \
+      ⟪ls-use-long-lines⟫ \
+      ⟪ls-double-quote-entry-names⟫ \
+      ⟪ls-quoting-style⟫ \
+      ⟪ls-timestamp-format⟫ \
+      ⟪ls-take-additional-arguments⟫
+      }
+#+end_src
+
+do not list implied . and ..
+
+#+name: ls-hide-dotdot-dirs
+#+begin_src sh :tangle no
+--almost-all
+#+end_src
+
+with -l, print the author of each file
+
+#+name: ls-show-file-author
+#+begin_src sh :tangle no
+--author
+#+end_src
+
+list entries by columns
+
+#+name: ls-list-in-columns
+#+begin_src sh :tangle no
+-C
+#+end_src
+
+group directories before files;
+
+can be augmented  with a --sort option, but  any use of
+--sort=\,none\/ (-U) disables grouping
+
+#+name: ls-list-dirs-first
+#+begin_src sh :tangle no
+--group-directories-first
+#+end_src
+
+print sizes like 1K 234M 2G etc.
+but use the SI format, powers of 1000 not 1024
+
+#+name: ls-file-size-units-policy
+#+begin_src sh :tangle no
+--si
+#+end_src
+
+append indicator  with style WORD to  entry names: none
+(default),   slash   (-p),   file-type   (--file-type),
+classify (-F)
+
+#+name: ls-show-file-type-indicator
+#+begin_src sh :tangle no
+--indicator-style=classify
+#+end_src
+
+use a long listing format
+
+#+name: ls-use-long-lines
+#+begin_src sh :tangle no
+-l
+#+end_src
+
+enclose entry names in double quotes
+
+#+name: ls-double-quote-entry-names
+#+begin_src sh :tangle no
+--quote-name
+#+end_src
+
+use  quoting  style  WORD  for  entry  names:  literal,
+locale,     shell,      shell-always,     shell-escape,
+shell-escape-always, c, escape (overrides QUOTING_STYLE
+environment variable)
+
+#+name: ls-quoting-style
+#+begin_src sh :tangle no
+--quoting-style=c
+#+end_src
+
+time/date format with -l; see TIME_STYLE below
+
+#+name: ls-timestamp-format
+#+begin_src sh :tangle no
+--time-style=long-iso
+#+end_src
+
+Accept additional arguments to function
+~"$@"~ expands to separate words: ~"$1" "$2" ...~
+(see [[https://unix.stackexchange.com/questions/41571/what-is-the-difference-between-and][here]])
+
+#+name: ls-take-additional-arguments
+#+begin_src sh :tangle no
+"$@"
+#+end_src
+
+*Document Source Code*
+
+#+name: org_gcr_2018-11-16T21-54-40-06-00_cosmicality_C7E973C3-68AF-4D77-B143-801D145D0861
+#+begin_src org
+July 2018 -- GNU coreutils 8.30
+
+ls - list directory contents
+
+,#+name: org_gcr_2018-09-07T21-25-20-05-00_globigerina_1F948D28-CEF0-4389-AB1B-F8546C7DE36E
+,#+begin_src sh :comments no
+function l {
+  gls \
+      ⟪ls-hide-dotdot-dirs⟫ \
+      ⟪ls-show-file-author⟫ \
+      ⟪ls-list-in-columns⟫ \
+      ⟪ls-list-dirs-first⟫ \
+      ⟪ls-file-size-units-policy⟫ \
+      ⟪ls-show-file-type-indicator⟫ \
+      ⟪ls-use-long-lines⟫ \
+      ⟪ls-double-quote-entry-names⟫ \
+      ⟪ls-quoting-style⟫ \
+      ⟪ls-timestamp-format⟫ \
+      ⟪ls-take-additional-arguments⟫
+      }
+,#+end_src
+
+do not list implied . and ..
+
+,#+name: ls-hide-dotdot-dirs
+,#+begin_src sh :tangle no
+--almost-all
+,#+end_src
+
+with -l, print the author of each file
+
+,#+name: ls-show-file-author
+,#+begin_src sh :tangle no
+--author
+,#+end_src
+
+list entries by columns
+
+,#+name: ls-list-in-columns
+,#+begin_src sh :tangle no
+-C
+,#+end_src
+
+group directories before files;
+
+can be augmented  with a --sort option, but  any use of
+--sort=\,none\/ (-U) disables grouping
+
+,#+name: ls-list-dirs-first
+,#+begin_src sh :tangle no
+--group-directories-first
+,#+end_src
+
+print sizes like 1K 234M 2G etc.
+but use the SI format, powers of 1000 not 1024
+
+,#+name: ls-file-size-units-policy
+,#+begin_src sh :tangle no
+--si
+,#+end_src
+
+append indicator  with style WORD to  entry names: none
+(default),   slash   (-p),   file-type   (--file-type),
+classify (-F)
+
+,#+name: ls-show-file-type-indicator
+,#+begin_src sh :tangle no
+--indicator-style=classify
+,#+end_src
+
+use a long listing format
+
+,#+name: ls-use-long-lines
+,#+begin_src sh :tangle no
+-l
+,#+end_src
+
+enclose entry names in double quotes
+
+,#+name: ls-double-quote-entry-names
+,#+begin_src sh :tangle no
+--quote-name
+,#+end_src
+
+use  quoting  style  WORD  for  entry  names:  literal,
+locale,     shell,      shell-always,     shell-escape,
+shell-escape-always, c, escape (overrides QUOTING_STYLE
+environment variable)
+
+,#+name: ls-quoting-style
+,#+begin_src sh :tangle no
+--quoting-style=c
+,#+end_src
+
+time/date format with -l; see TIME_STYLE below
+
+,#+name: ls-timestamp-format
+,#+begin_src sh :tangle no
+--time-style=long-iso
+,#+end_src
+
+Accept additional arguments to function
+~"$@"~ expands to separate words: ~"$1" "$2" ...~
+(see [[https://unix.stackexchange.com/questions/41571/what-is-the-difference-between-and][here]])
+
+,#+name: ls-take-additional-arguments
+,#+begin_src sh :tangle no
+"$@"
+,#+end_src
+#+end_src
+
+
