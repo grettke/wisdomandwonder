@@ -1,0 +1,106 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10798
+#+ORG2BLOG:
+#+DATE: [2018-11-17 Sat 01:27]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: (Emacs+Org-Mode) Don't Dash Your Hopes Of Utilizing Dashes
+
+You've got Unicode and Emacs so take advantage of the *3* kinds of dashes
+available to every writer. Here is how with a little detail you might find
+pretty useful totally unrelated to dashes!
+
+#+HTML: <!--more-->
+
+It is tough to remember when, where, and how to use the hyphen-minus ~-~,
+en-dash ~–~,  and the em-dash ~—~ so I put everything to remember in a function.
+That is the most useful part of this hyphen story and I love it.
+
+The other fun part about this was learning about how to insert characters so
+that Emacs thinks that you typed them. What I mean by this is that when you
+type on the keyboard Emacs tells other functions and code what happened and
+they do something about of it compared with just ~(insert "ing")~ it.
+
+Here is the code, it uses the same keybindings to get those characters in macOS:
+
+#+name: org_gcr_2018-11-16T21-54-40-06-00_cosmicality_A75B3526-9FD2-4299-8540-BA443280B9A4
+#+begin_src emacs-lisp
+(defun help/real-insert (char)
+  (cl-flet ((do-insert
+             () (if (bound-and-true-p org-mode)
+                    (org-self-insert-command 1)
+                  (self-insert-command 1))))
+    (setq last-command-event char)
+    (do-insert)))
+
+(defun help/insert-em-dash ()
+  "Insert a EM-DASH.
+
+- \"best limited to two appearances per sentence\"
+- \"can be used in place of commas to enhance readability.
+   Note, however, that dashes are always more emphatic than
+   commas\"
+- \"can replace a pair of parentheses. Dashes are considered
+   less formal than parentheses; they are also more intrusive.
+   If you want to draw attention to the parenthetical content,
+   use dashes. If you want to include the parenthetical content
+   more subtly, use parentheses.\"
+  - \"Note that when dashes are used in place of parentheses,
+     surrounding punctuation should be omitted.\"
+- \"can be used in place of a colon when you want to emphasize
+   the conclusion of your sentence. The dash is less formal than
+   the colon.\"
+- \"Two em dashes can be used to indicate missing portions of a
+   word, whether unknown or intentionally omitted.\"
+  - \"When an entire word is missing, either two or three em
+     dashes can be used. Whichever length you choose, use it
+     consistently throughout your document. Surrounding punctuation
+     should be placed as usual.\"
+- \"The em dash is typically used without spaces on either side,
+   and that is the style used in this guide. Most newspapers,
+   however, set the em dash off with a single space on each side.\"
+
+Source: URL `https://www.thepunctuationguide.com/em-dash.html'"
+  (interactive)
+  (help/real-insert ?—))
+
+(defun help/insert-en-dash ()
+  "Insert a EN-DASH.
+
+- \"is used to represent a span or range of numbers, dates,
+   or time. There should be no space between the en dash and
+   the adjacent material. Depending on the context, the en
+   dash is read as “to” or “through.”\"
+  - \"If you introduce a span or range with words such as
+     'from' or 'between', do not use the en dash.\"
+- \"is used to report scores or results of contests.\"
+- \"an also be used between words to represent conflict,
+   connection, or direction.\"
+- \"When a compound adjective is formed with an element that
+   is itself an open compound or hyphenated compound, some
+   writers replace the customary hyphen with an en dash. This
+   is an aesthetic choice more than anything.
+
+Source: URL `https://www.thepunctuationguide.com/en-dash.html'"
+  (interactive)
+  (help/real-insert ?–))
+
+(defun help/insert-hyphen ()
+  "Insert a HYPHEN
+
+- \"For most writers, the hyphen’s primary function is the
+   formation of certain compound terms. The hyphen is also
+   used for word division [in typesetting].
+- \"Compound terms are those that consist of more than one
+   word but represent a single item or idea.\"
+
+Source: URL `https://www.thepunctuationguide.com/hyphen.html'"
+
+  (interactive)
+  (help/real-insert ?-))
+
+(global-set-key (kbd "-") #'help/insert-hyphen)
+(global-set-key (kbd "s-_") #'help/insert-em-dash)
+(global-set-key (kbd "s--") #'help/insert-en-dash)
+#+end_src
