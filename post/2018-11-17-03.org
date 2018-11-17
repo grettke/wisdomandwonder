@@ -1,0 +1,13 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10800
+#+ORG2BLOG:
+#+DATE: [2018-11-17 Sat 13:55]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
+#+TITLE: (Emacs+Org-Mode) Quickly Figure Out How To Write A Function By Decompiling A Macro Using It
+
+When I can't figure out how to write a function to do what I want then I
+record a macro of what I want to do and then "decompile" it to Elisp using
+[[https://github.com/Silex/elmacro][elmacro]]. This is a super-power package if you want to figure out how something
+works.
