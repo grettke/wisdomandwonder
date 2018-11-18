@@ -1,0 +1,63 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10804
+#+ORG2BLOG:
+#+DATE: [2018-11-18 Sun 14:47]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, AppleScript, macOS
+#+TITLE: (AppleScript+macOS) Maybe The Only Working Applescript For Toggling Grayscale And Inverting Colors On macOS Sierra In The World
+
+THANK YOU [[https://gist.github.com/silesky/2da3a6bef1703e38d901ec9c623eecbd][SILESKY]]
+
+*Toggle Grayscale*
+
+#+name: org_gcr_2018-11-17T18-06-00-06-00_cosmicality_D2546034-BFE0-48B4-825E-30BDCACA6056
+#+begin_src apples
+tell application "System Preferences"
+	activate
+	set the current pane to pane id "com.apple.preference.universalaccess"
+	delay 1 # needs time to open universal access
+	tell application "System Events" to tell process "System Preferences" to tell window "Accessibility"
+		tell scroll area 2 to tell table 1 to tell row 6 #open display preferences
+			select
+		end tell
+		click checkbox "Use grayscale"
+	end tell
+end tell
+
+tell application "System Preferences" to quit
+
+# Sierra: System Preferences -> Accessibility -> Display -> Use grayscale
+#+end_src
+
+*Invert Colors*
+
+#+name: org_gcr_2018-11-17T18-06-00-06-00_cosmicality_E203F0DC-3E9E-4D9E-A240-2E6A22F033BD
+#+begin_src apples
+tell application "System Preferences"
+	activate
+	set the current pane to pane id "com.apple.preference.universalaccess"
+	delay 1 # needs time to open universal access
+	tell application "System Events" to tell process "System Preferences" to tell window "Accessibility"
+		tell scroll area 2 to tell table 1 to tell row 6 #open display preferences
+			select
+		end tell
+		click checkbox "Invert colors"
+	end tell
+end tell
+
+tell application "System Preferences" to quit
+
+# Sierra: System Preferences -> Accessibility -> Display -> Invert colors
+#+end_src
+
+*Aliases*
+
+Run them from the command line. Maybe make your screen black and white at
+night or invert colors for screencasts or working in sunligh.
+
+#+name: org_gcr_2018-11-17T18-06-00-06-00_cosmicality_5591664D-8B53-44F4-9804-EB0E0E5D3C44
+#+begin_src sh
+alias togglegrayscale='osascript /Users/gcr/util/sspadtogglegrayscale.scpt'
+alias invertcolors='osascript /Users/gcr/util/sspadtogglecolors.scpt'
+#+end_src
