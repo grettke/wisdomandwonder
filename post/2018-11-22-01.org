@@ -1,0 +1,166 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10805
+#+ORG2BLOG:
+#+DATE: [2018-11-22 Thu 11:46]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode, tex, latex
+#+TITLE: (Emacs+Org-Mode) Choosing The Best Writing And Publishing Software
+
+In regards to writing and publishing literature (mostly articles, books,
+essays, and dissertations) there is a lot of discussion about choosing the
+right (software) tools for the job. And for good reason—literary endeavors are
+mentally laborious difficult work. As anybody would expect the software should
+help you a lot. At best you only want to worry about choosing the right
+software to /help/ you write.
+
+Yet the sad and all too common reality is that you are really worried about
+choosing the software that is the least-worst painful impediment to your
+creative process. Discussions that praise particular tools are pretty
+difficult to take any value from until you've suffered greatly at the hands of
+the tools deemed inferior by them. When people are suffering that is the
+/worst/ time to get their feedback. First get them better, then find out what
+works and what doesn't.
+
+This post is what I've got to share with you,  when I am feeling pretty great about
+life, and have something good to share about the topic, in regards to
+$\LaTeX$ and Org-Mode.
+
+If you are considering using $\LaTeX$ and Org-Mode for some reason then please
+read on:
+
+#+HTML: <!--more-->
+
+* Read Me First
+
+Here is my take on it, and it is as brief as I can make it. It took years and
+years of effort and pain and help from others and more effort and pain to get
+to the point where my feedback can be this brief—and it is still too long.
+Please know that the volume includes the abundance of clarity that I'd already
+gained. Sorry for it being longer because I didn't make enough time for it to
+be shorter.
+
+* The Tools Compared
+
+$\LaTeX$ is a typesetting system. Org-Mode+Emacs is a knowledge (text, writing
+(literature), notes, schedules and more) management system built inside of a
+text editor. *They are incomparable*. Finding acceptance is essential to moving
+forward and finding a place for them in your workflow, because there is a good
+place for them to work together.
+
+* How To Move Forward With Them Together
+
+First take enough time to learn and enjoy each of them individually.
+Internalize their strengths and identify their place in your workflow. Have
+fun, writing is hard.
+
+If you find value in both of them, then you will enjoy using them
+together—where their unique strengths are magnified by each other.
+
+* Org-Mode+$\LaTeX$ Utilization Failure Risk Mitigation
+
+It can be daunting considering making the transition from $\LaTeX$ to
+Org-Mode+$\LaTeX$ in one fell swoop. And rightly so! Each is powerful and
+simple but not simplistic. It can be like "drinking from a firehose"! A lot of
+us fail here, "rage quitting" and abandoning the whole effort, and that is
+worth addressing because using Org-Mode can be a very wrong choice, so the
+trick is to discover if it is or not (and that is different for everyone
+because of their unique creative process):
+
+A reasonable demand for any software (or any tool for that matter) is to get
+the most benefit out of it from the least effort. Here is a reasonable way to
+do that here:
+
+** Decide How To Publish
+
+Publishing isn't easy. Read up on it. Talk to your publisher and collaborators
+and friends and strangers online. One way to publish is using using $\LaTeX$.
+If you made that choice, then read on.
+
+** Learn $\LaTeX$
+
+Take enough time to learn and enjoy $\LaTeX$ *basics but nothing more*. For
+content just write a little bit, maybe a few pages that contain most of the
+elements for your writing style (paragraphs, lists, pictures, tables,
+references, whatever) keep it non-trivial but very simple. Learn how to
+include content in other files and include them into your main file as a way
+to simplify managing different chapters or sections, a simple and powerful
+tool for abstraction. Be forewarned that /the basics/ are many so get all the
+help you can.
+
+Study, read books, play around, setup a good editor. This is where
+Emacs+AucTeX are mandatory. Definitely setup Latexmk. Get jumping back and
+forth between your editor and your code working. You don't need to be a wizard
+to learn the basics, but by learning the basics, non-tex'ies /will/ view you as
+a wizard. That is a big problem: the loudest voices exclaiming the difficulties
+in learning $\LaTeX$ come from those who have never learned the basics of
+$\LaTeX$. Do your best to ignore them and focus on your writing process: it is
+your responsibility and no-one else's.
+
+By now you are comfortable with a good typesetting system and text editor in
+which you can write content. At this point you've got everything that you
+need. Were you to stop here you can produce any kind of literature with the
+least time and effort required and in fact enjoy the entire experience.
+
+** When The Entire Experience Becomes Less Pleasant
+
+A lot of us run into projects that are less simple. Managing them becomes too
+painful. Handling deadlines, notes, references, ways to break down sections of
+the text—you name it, they become too painful. And this isn't unique to
+publishing: it is a problem for everybody taking on a large project. That is
+how a lot of people end up with Org-Mode.
+
+If you ended up here and you already wanted to publish using $\LaTeX$ then you
+are in a win-win situation because
+
+1) Your publishing problems are solved with $\LaTeX$
+2) You already know $\LaTeX$ so no more effort is required
+3) You already know Emacs, and there are so many great resources about
+   Org-Mode out there, and it is very easy to ease-into it, that learning
+   Org-Mode is very pleasant and even fun
+4) Org-Mode can export to $\LaTeX$ and you can set it up in a very less
+   powerful way or a very powerful way: whatever gets you the most value
+   faster.
+5) Whatever way you choose: rage-quit risk mitigation is critical here
+
+** Rage-Quitting Org-Mode+$\LaTeX$ Mitigation Approach
+
+Having heard a lot of amazing claims about the benefits of using both a lot of
+people hit a wall pretty quickly and quite painfully. Nobody deserves that
+especially in the face of their literary endeavor. This article tries to help
+avoid that experience, because that was /my/ personal experience, but no article
+is perfect. Trying to make this process failure-proof, here is how I would do
+it:
+
+1) Learn the single feature of Org-Mode that solves your most painful problem.
+   That might not have anything to do with generating $\LaTeX$. This is really
+   important because you need to start collecting positive experiences with
+   Org-Mode early on.
+2) Create a new Org file from scratch. Export it to $\LaTeX$ just to see that
+   it does work. Then look at the code it generates. Study it. You will be
+   very familiar with it since you already learned $\LaTeX$ by this point.
+3) Add some font formatting and tables then do the same thing. Everything
+   should look familiar. If it doesn't then go back to learning more about
+   $\LaTeX$.
+4) Now take some parts of your main document and copy paste them into this
+   document. Try to publish it. Whether or not it worked look at the code.
+   Does it make sense? Does it look right? Now make it compile and publish
+   correctly.
+5) This should take some effort and you should start to feel whether it is
+   useful or not. Since you are solving problems in your workflow, making your
+   life better, and you are using $\LaTeX$ that you already know, this should
+   be a relatively pleasant process. But maybe not. You haven't invested much
+   at this point, so consider stopping now. It might not be work it to go any
+   further.
+
+If you go any further from here then you are probably convinced that it is worth
+learning more about using Org-Mode to manage your content and $\LaTeX$
+to publish it.
+
+Know that it is a really pleasant, fun and easy way to do it. It is simple!
+But it isn't /simplistic/. I would never argue that anybody learn either of
+these tools, but if they asked what worked for me, and why it helped me, and
+how I found them both to be useful—then the process I documented here is what
+I would tell them.
+
+Best wishes to you and all of your literary endeavors!
