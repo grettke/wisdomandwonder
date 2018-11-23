@@ -3,753 +3,211 @@
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
 #+CATEGORY: Article
 #+TAGS: Font, HTML, Usability, User experience, User experience design, Word wide web
-#+TITLE: How to choose a font
-
-
-Audience: Computer users. Programmers. User experience designers (UXD).
-
-
-
-
-
-
-
-Every computer-user has a different strategy for choosing the best font for long
-periods working at the computer. They all involve many metrics, strategies, and
-rubrics. Based on that, they are probably all wrong. Well not really, they are
-right based upon experience, and experience is really all that matters. 
-
-
-
-
-
-
-
-I was curious about whether my experience had any basis in reality, and I really
-wanted to dig into what is the "right way" to choose a font for any particular
-user or situation. The following are notes and ultimately a decision on what is
-the best for me. Hopefully the notes alone are revealing and help you reach your
-own conclusion, too. At the very least you ought to be educated, informed, and
-probably surprised, too, about some of the factors involved in font selection.
-
-
-
-
-
-
-
-
-
-[[http://thenextweb.com/dd/2011/03/02/whats-the-most-readable-font-for-the-screen/][What's the most readable font for the screen?]]
-
-
-
-
-
-
-
-Serifs are tips for the reader's eyes for flow.
-
-
-
-
-
-
-
-San-serifs are better for low-res.
-
-
-
-
-
-
-
-Simultaneously states that is no difference between serif and san-serif.
-
-
-
-
-
-
-
-Rec: Helvetica/Arial
-
-
-
-
-
-
-
-Comment recommendations:
-
-
-
-
-
-
-
-Designed for digital, Hermann Zapf's Optima, or as a backup Verdana
-
-
-
-
-
-
-
-Designed for digital, Open Sans
-
-
-
-
-
-
-
-Both, Calibri
-
-
-
-
-
-
-
-San-serifs are easier on the eyes as you get older, citing retinal tears
-specifically
-
-
-
-
-
-
-
-[[http://www.webpagecontent.com/arc_archive/182/5/][Time to change your fonts]]
-
-
-
-
-
-
-
-Designed for screen: Verdana, Trebuchet MS, and (the serif) Georgia.
-
-
-
-
-
-
-
-Easy to read, available on virtually all machines.
-
-
-
-
-
-
-
-Let go of times new roman, Arial, and Helvetica.
-
-
-
-
-
-
-
-Traditionally a serif font was used for the main body of a document, and
-sans-serif for headings. Today, those principles are often reversed.
-
-
-
-
-
-
-
-[[http://www.awaionline.com/2011/10/the-best-fonts-to-use-in-print-online-and-email/][The Best Fonts to Use in Print, Online, and Email]]
-
-
-
-
-
-
-
-Popular serif fonts are Times New Roman, Palatino, Georgia, Courier,
-Bookman and Garamond.
-
-
-
-
-
-
-
-Some popular San Serif fonts are Helvetica, Arial, Calibri, Century
-Gothic and Verdana.
-
-
-
-
-
-
-
-It's been said that serif fonts are for "readability," while sans-serif
-fonts are for "legibility."
-
-
-
-
-
-
-
-Best fonts for online: go with sans-serif.
-
-
-
-
-
-
-
-2002 study by the Software Usability and Research Laboratory:
-
-
-
-
-
--  The most legible fonts were Arial, Courier, and Verdana.
-
--  At 10-point size, participants preferred Verdana. Times New Roman was
-the least preferred.
-
--  At 12-point size, Arial was preferred and Times New Roman was the
-least preferred.
-
--  The preferred font overall was Verdana, and Times New Roman was the
-least preferred.
-
-
-
-
-
-
-
-For easiest online reading, use Arial 12-point size and larger. If
-you're going smaller than 12 points, Verdana at 10 points is your best
-choice. If you're after a formal look, use the font "Georgia." And for
-older readers, use at least a 14-point font.
-
-
-
-
-
-
-
-Dr. Ralph F. Wilson, an e-commerce consultant, did a series of tests in 2001. He also came to the conclusion that the sans-serif fonts are more suited to the computer screen.Some of the highlights of the test results
-were that at 12 points, respondents showed a preference for Arial over
-Verdana -- 53% to 43% (with 4% not being able to distinguish between the
-two).Two-thirds of respondents found that Verdana at 12 points was too
-large for body text, but Verdana at 10 points was voted more readable
-than Arial at 10 points by a 2 to 1 margin.In conclusion, for the best
-font readability, use Arial 12 point or Verdana at 10 points and 9
-points for body text. For headlines, he suggests using larger bold
-Verdana.
-
-
-
-
-
-
-
-Comments: Good.
-
-
-
-
-
-
-
-My comments: no links to cited papers
-
-
-
-
-
-
-
-[[https://tex.stackexchange.com/questions/20149/which-font-is-the-most-comfortable-for-on-screen-viewing][Which font is the most comfortable for on-screen viewing?]]
-
-
-
-
-
-
-
-Post: Advice to use san-serif is outdated and inappropriate for today's
-high resolution screens. San-serif or not is irrelevant; instead the
-measure of success is to use a large font that was specifically designed
-for on-screen usage. For inspiration, look at the free fonts listed at
-the Google Web Fonts directory, especially Vollkorn or the Droid Serif
-font which was particularly developed with small font size in mind.
-
-
-
-
-
-
-
-GCR: That post is confusing because he later explains that we are not
-there yet, but rather getting close.
-
-
-
-
-
-
-
-Post: Sans-serif are best for on-screen.
-
-
-
-
-
-
-
-[[http://www.google.com/fonts/specimen/Vollkorn][Vollkorn]]
-
-
-
-
-
-
-
-[[http://www.google.com/fonts/specimen/Droid+Serif][Droid Serif]]
-
-
-
-
-
-
-
-[[http://river-valley.tv/minion-math-a-new-math-font-family/][The Design of a New Math Font Family]]
-
-
-
-
-
-
-
-Interesting.
-
-
-
-
-
-
-
-[[http://edutechwiki.unige.ch/en/Font_readability][Font readability]]
-
-
-
-
-
-
-
-Legibility refers to being able to read a text in bad conditions.
-“Legibility is concerned with the very fine details of typeface design,
-and in an operational context this usually means the ability to
-recognize individual letters or words. Readability however concerns the
-optimum arrangement and layout of whole bodies of text”
-
-
-
-
-
-
-
-Studies that contrast serif vs. non-serif fonts seem to be
-controversial.
-
-
-
-
-
-
-
-There are some ground rules one can find, like:
-
-
-
-
-
--  Don't make long lines nor too long paragraphs
-
--  Use wide fonts such as Palatino or Verdana for small fonts
-
--  Use spaces between lines, e.g. about 1.2 at least. E.g. in Word 2007,
-1.15 is the default I believe. to be controversial.
-
-
-
-
-
-
-
-Sans serif: Verdana (a humanist font) or Arial
-
-
-
-
-
-
-
-Serif: Georgia
-
-
-
-
-
-
-
-Some references for studies and research done on fonts.
-
-
-
-
-
-
-
-“two roles for type: a functional role (relating to legibility) and an
-aesthetic/semantic role, which impacts the "apparent 'fitness' or
-'suitability' for different functions, and which imbue it with the power
-to evoke in the perceiver certain emotional and cognitive response" (p.
-38)””
-
-
-
-
-
-
-
-In her study: Calibri came out as a winner against Courier New and Curlz.
-
-
-
-
-
-
-
-GCR: Very exciting and interesting with good links
-
-
-
-
-
-
-
-[[http://usabilitynews.org/the-effect-of-typeface-on-the-perception-of-email/][The Effect of Typeface on the Perception of Email]]
-
-
-
-
-
-
-
-People take Calibri seriously via this study.
-
-
-
-
-
-
-
-[[http://usabilitynews.org/know-your-typefaces-semantic-differential-presentation-of-40-onscreen-typefaces/][Know Your Typefaces! Semantic Differential Presentation of 40 Onscreen Typefaces]]
-
-
-
-
-
-
-
-Study showing how people emotionally react to certain fonts.
-
-
-
-
-
-
-
-[[http://typoface.blogspot.com/2009/08/academic-base.html][The Academic Evidence Base for Typeface Readability]]
-
-
-
-
-
-
-
-Study.
-
-
-
-
-
-
-
-Young people like serif; older like sans-serif.
-
-
-
-
-
-
-
-[[http://liinwww.ira.uka.de/bibliography/Typesetting/reading.html][Bibliography on font readability]]
-
-
-
-
-
-
-
-Links to papers on font readability.
-
-
-
-
-
-
-
-[[http://www.kathymarks.com/archives/2006/11/best_fonts_for_the_web_1.html][Best Fonts for the Web]]
-
-
-
-
-
-
-
-Serif: Georgia. It was designed especially for screen. Other options are
-listed.
-
-
-
-
-
-
-
-Sans-Serif: Tahoma. Geneva, Tahoma, and Verdana were designed especially
-for the screen. Tahoma in particular is cited for legibility. Another
-pick: Lucida Sans Unicode: Cited as remarkably legible for some reason.
-
-
-
-
-
-
-
-Monospaced: Monaco/Lucida Console.
-
-
-
-
-
-
-
-GCR: Great article.
-
-
-
-
-
-
-
-[[http://psychology.wichita.edu/surl/usabilitynews/52/uk_font.htm][A Comparison of Two Computer Fonts: Serif versus Ornate Sans Serif]]
-
-
-
-
-
-
-
-Another study, unsure what to conclude from it.
-
-
-
-
-
-
-
-[[http://usabilitynews.org/a-comparison-of-popular-online-fonts-which-size-and-type-is-best/][A Comparison of Popular Online Fonts: Which Size and Type is Best?]]
-
-
-
-
-
-
-
-Excellent details.
-
-
-
-
-
-
-
-Tahoma and Verdana, sans-serifs, were designed specifically for viewing
-on computer screens. J, I, and 1 were made distinguishable. Tahoma is
-wider than Verdana.
-
-
-
-
-
-
-
-Great article but leaves so many questions and stuff unanswered and
-explored.
-
-
-
-
-
-
-
-[[http://usabilitynews.org/a-comparison-of-popular-online-fonts-which-is-best-and-when/][A Comparison of Popular Online Fonts: Which is Best and When?]]
-
-
-
-
-
-
-
-Big fonts generally don't matter and are easy to read.
-
-
-
-
-
-
-
-Tahoma is well-read.
-
-
-
-
-
-
-
-Verdana and Georgia have good legibility.
-
-
-
-
-
-
-
-Whole other range of evaluations: personality, elegant, youthful and
-fun, business-like,
-
-
-
-
-
-
-
-Most legible: Courier, Comic, Verdana, Georgia, and Times.
-
-
-
-
-
-
-
-
-
-#+BEGIN_HTML
-  <div id="outline-container-sec-1-1" class="outline-3">
-#+END_HTML
-
-
-
-*** 1.1 Thoughts
-
-
-
-
-#+BEGIN_HTML
-  <div id="text-1-1" class="outline-text-3">
-#+END_HTML
-
-
-
-
--  Ideals
-
--  Current state of technology along with aging-eyes means that
-sans-serif is the best option
-
--  Emacs suggest mono-spaced fonts for coding
-
--  Experienced teaches me that Unicode support is mandatory
-
--  Matching
-
--  Prefer fonts that focus on legibility over emotional evocation
-
--  Results: Verdana, Calibri, Tahoma, Lucida Sans Unicode, Lucida Sans
-Console
-
--  Notes: [[http://ergoemacs.org/emacs/emacs_unicode_fonts.html][Best Unicode Fonts for Programming]]
-
--  DejaVu Sans Mono: best Unicode support
-
--  Based on Andale Mono, a monospaced san-serif designed for coding
-
--  [[http://www.slant.co/topics/67/viewpoints/4/~what-are-the-best-programming-fonts~dejavu-sans-mono][What are the best programming fonts?]]
-
--  Tons of coding related fonts. Why not for reading?!
-
--  Source Code Pro is highest ranked, then Consolas, and Monaco
-
--  [[http://www.codeproject.com/Articles/30040/Font-Survey-42-of-the-Best-Monospaced-Programming][Font Survey: 42 of the Best Monospaced Programming Fonts]]
-
--  The options, although only 42, are insanely overwhelming.
-
-
-   -  Comments
-
-   -  There isn't a ton of digestible info available on Unicode support for
-the fonts that I listed.
-
-   -  I am recalling now that my original selection of DejaVu Sans Mono was
-specifically for its excellent Unicode support; specifically that it
-had better support than Lucida Console which is monospaced but lacked
-characters and looks at least as nice.
-
-   -  Seems like it is just haphazard and quasi-scientific how people are
-choosing fonts; and maybe even designing them.
-
-   -  Founds evidence that Lucida is just fine for display; and thus
-DejaVu Sans Mono is fine for display.
-
-
-   
-
--  Conclusion
-
-
-   -  DejaVu Sans Mono is the best available font for computer work.
-
-
-   
-
-
-
-
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-
-
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-
-
+#+TITLE: How To Choose A Font
+
+Every computer-user has a different strategy for choosing the best font for
+long periods working at the computer. They all involve many metrics,
+strategies, and rubrics. Based on that, they are probably all wrong. Well not
+really, they are right based upon experience, and experience is really all
+that matters.
+
+I was curious about whether my experience had any basis in reality, and I
+really wanted to dig into what is the "right way" to choose a font for any
+particular user or situation. The following are notes and ultimately a
+decision on what is the best for me. Hopefully the notes alone are revealing
+and help you reach your own conclusion, too. At the very least you ought to be
+educated, informed, and probably surprised, too, about some of the factors
+involved in font selection.
+
+This might be interesting for programmers,  UX people and probably every
+computer user out there.
+
+#+HTML: <!--more-->
+
+* [[http://thenextweb.com/dd/2011/03/02/whats-the-most-readable-font-for-the-screen/][What's the most readable font for the screen?]]
+
+- Serifs are tips for the reader's eyes for flow.
+- San-serifs are better for low-res.
+- Simultaneously states that is no difference between serif and san-serif.
+- Rec: Helvetica/Arial
+- Comment recommendations:
+- Designed for digital, Hermann Zapf's Optima, or as a backup Verdana
+- Designed for digital, Open Sans
+- Both, Calibri
+- San-serifs are easier on the eyes as you get older, citing retinal tears
+  specifically
+
+* [[http://www.webpagecontent.com/arc_archive/182/5/][Time to change your fonts]]
+
+- Designed for screen: Verdana, Trebuchet MS, and (the serif) Georgia.
+- Easy to read, available on virtually all machines.
+- Let go of times new roman, Arial, and Helvetica.
+- Traditionally a serif font was used for the main body of a document, and
+  sans-serif for headings. Today, those principles are often reversed.
+
+* [[http://www.awaionline.com/2011/10/the-best-fonts-to-use-in-print-online-and-email/][The Best Fonts to Use in Print, Online, and Email]]
+
+- Popular serif fonts are Times New Roman, Palatino, Georgia, Courier,
+  Bookman and Garamond.
+- Some popular San Serif fonts are Helvetica, Arial, Calibri, Century
+  Gothic and Verdana.
+- It's been said that serif fonts are for "readability," while sans-serif
+  fonts are for "legibility."
+- Best fonts for online: go with sans-serif.
+- 2002 study by the Software Usability and Research Laboratory:
+- The most legible fonts were Arial, Courier, and Verdana.
+- At 10-point size, participants preferred Verdana. Times New Roman was
+  the least preferred.
+- At 12-point size, Arial was preferred and Times New Roman was the
+  least preferred.
+- The preferred font overall was Verdana, and Times New Roman was the
+  least preferred.
+- For easiest online reading, use Arial 12-point size and larger. If
+  you're going smaller than 12 points, Verdana at 10 points is your best
+  choice. If you're after a formal look, use the font "Georgia." And for
+  older readers, use at least a 14-point font.
+- Dr. Ralph F. Wilson, an e-commerce consultant, did a series of tests
+  in 2001. He also came to the conclusion that the sans-serif fonts are more
+  suited to the computer screen.Some of the highlights of the test results
+  were that at 12 points, respondents showed a preference for Arial over
+  Verdana -- 53% to 43% (with 4% not being able to distinguish between the
+  two).Two-thirds of respondents found that Verdana at 12 points was too large
+  for body text, but Verdana at 10 points was voted more readable than Arial
+  at 10 points by a 2 to 1 margin.In conclusion, for the best font
+  readability, use Arial 12 point or Verdana at 10 points and 9 points for
+  body text. For headlines, he suggests using larger bold Verdana.
+- Comments: Good.
+- My comments: no links to cited papers
+
+* [[https://tex.stackexchange.com/questions/20149/which-font-is-the-most-comfortable-for-on-screen-viewing][Which font is the most comfortable for on-screen viewing?]]
+
+- Post: Advice to use san-serif is outdated and inappropriate for today's
+  high resolution screens. San-serif or not is irrelevant; instead the
+  measure of success is to use a large font that was specifically designed
+  for on-screen usage. For inspiration, look at the free fonts listed at
+  the Google Web Fonts directory, especially Vollkorn or the Droid Serif
+  font which was particularly developed with small font size in mind.
+- GCR: That post is confusing because he later explains that we are not
+  there yet, but rather getting close.
+- Post: Sans-serif are best for on-screen.
+
+* [[http://www.google.com/fonts/specimen/Vollkorn][Vollkorn]]
+
+- No comment
+
+* [[http://www.google.com/fonts/specimen/Droid+Serif][Droid Serif]]
+
+- No comment
+
+* [[http://river-valley.tv/minion-math-a-new-math-font-family/][The Design of a New Math Font Family]]
+
+- Interesting.
+
+* [[http://edutechwiki.unige.ch/en/Font_readability][Font readability]]
+
+- Legibility refers to being able to read a text in bad conditions.
+  “Legibility is concerned with the very fine details of typeface design,
+  and in an operational context this usually means the ability to
+  recognize individual letters or words. Readability however concerns the
+  optimum arrangement and layout of whole bodies of text”
+- Studies that contrast serif vs. non-serif fonts seem to be
+  controversial.
+- There are some ground rules one can find, like:
+  - Don't make long lines nor too long paragraphs
+  - Use wide fonts such as Palatino or Verdana for small fonts
+  - Use spaces between lines, e.g. about 1.2 at least. E.g. in Word 2007,
+- 1.15 is the default I believe. to be controversial.
+- Sans serif: Verdana (a humanist font) or Arial
+- Serif: Georgia
+- Some references for studies and research done on fonts.
+- “two roles for type: a functional role (relating to legibility) and an
+  aesthetic/semantic role, which impacts the "apparent 'fitness' or
+  'suitability' for different functions, and which imbue it with the power
+  to evoke in the perceiver certain emotional and cognitive response" (p.
+  38)””
+- In her study: Calibri came out as a winner against Courier New and Curlz.
+- GCR: Very exciting and interesting with good links
+
+* [[http://usabilitynews.org/the-effect-of-typeface-on-the-perception-of-email/][The Effect of Typeface on the Perception of Email]]
+
+- People take Calibri seriously via this study.
+
+* [[http://usabilitynews.org/know-your-typefaces-semantic-differential-presentation-of-40-onscreen-typefaces/][Know Your Typefaces! Semantic Differential Presentation of 40 Onscreen Typefaces]]
+
+- Study showing how people emotionally react to certain fonts.
+
+* [[http://typoface.blogspot.com/2009/08/academic-base.html][The Academic Evidence Base for Typeface Readability]]
+
+- Study.
+- Young people like serif; older like sans-serif.
+
+* [[http://liinwww.ira.uka.de/bibliography/Typesetting/reading.html][Bibliography on font readability]]
+
+- Links to papers on font readability.
+
+* [[http://www.kathymarks.com/archives/2006/11/best_fonts_for_the_web_1.html][Best Fonts for the Web]]
+
+- Serif: Georgia. It was designed especially for screen. Other options are
+  listed.
+- Sans-Serif: Tahoma. Geneva, Tahoma, and Verdana were designed especially
+  for the screen. Tahoma in particular is cited for legibility. Another
+  pick: Lucida Sans Unicode: Cited as remarkably legible for some reason.
+- Monospaced: Monaco/Lucida Console.
+- GCR: Great article.
+
+* [[http://psychology.wichita.edu/surl/usabilitynews/52/uk_font.htm][A Comparison of Two Computer Fonts: Serif versus Ornate Sans Serif]]
+
+- Another study, unsure what to conclude from it.
+
+* [[http://usabilitynews.org/a-comparison-of-popular-online-fonts-which-size-and-type-is-best/][A Comparison of Popular Online Fonts: Which Size and Type is Best?]]
+
+- Excellent details.
+- Tahoma and Verdana, sans-serifs, were designed specifically for viewing
+  on computer screens. J, I, and 1 were made distinguishable. Tahoma is
+  wider than Verdana.
+- Great article but leaves so many questions and stuff unanswered and
+  explored.
+
+* [[http://usabilitynews.org/a-comparison-of-popular-online-fonts-which-is-best-and-when/][A Comparison of Popular Online Fonts: Which is Best and When?]]
+
+- Big fonts generally don't matter and are easy to read.
+- Tahoma is well-read.
+- Verdana and Georgia have good legibility.
+- Whole other range of evaluations: personality, elegant, youthful and
+  fun, business-like,
+- Most legible: Courier, Comic, Verdana, Georgia, and Times.
+
+* Thoughts
+
+- Ideals
+  - Current state of technology along with aging-eyes means that
+    sans-serif is the best option
+  - Emacs suggest mono-spaced fonts for coding
+  - Experienced teaches me that Unicode support is mandatory
+- Matching
+  - Prefer fonts that focus on legibility over emotional evocation
+  - Results: Verdana, Calibri, Tahoma, Lucida Sans Unicode, Lucida Sans
+  - Console
+- Notes: [[http://ergoemacs.org/emacs/emacs_unicode_fonts.html][Best Unicode Fonts for Programming]]
+- DejaVu Sans Mono: best Unicode support
+- Based on Andale Mono, a monospaced san-serif designed for coding
+- [[http://www.slant.co/topics/67/viewpoints/4/~what-are-the-best-programming-fonts~dejavu-sans-mono][What are the best programming fonts?]]
+- Tons of coding related fonts. Why not for reading?!
+- Source Code Pro is highest ranked, then Consolas, and Monaco
+- [[http://www.codeproject.com/Articles/30040/Font-Survey-42-of-the-Best-Monospaced-Programming][Font Survey: 42 of the Best Monospaced Programming Fonts]]
+- The options, although only 42, are insanely overwhelming.
+  - Comments
+  - There isn't a ton of digestible info available on Unicode support for
+    the fonts that I listed.
+   - I am recalling now that my original selection of DejaVu Sans Mono was
+     specifically for its excellent Unicode support; specifically that it
+     had better support than Lucida Console which is monospaced but lacked
+     characters and looks at least as nice.
+- Seems like it is just haphazard and quasi-scientific how people are
+  choosing fonts; and maybe even designing them.
+- Founds evidence that Lucida is just fine for display; and thus
+  DejaVu Sans Mono is fine for display.
+
+* Conclusion
+
+-  DejaVu Sans Mono is the best available font for computer work.
