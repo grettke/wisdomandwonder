@@ -5,4 +5,5 @@
 - [[https://www.socketloop.com][Adam Ng: SOCKETLOOP]]
 - [[http://aliveandhealthy.com/blair-lewis-empowerment-blog/][Blair Lewis: Alive & Healthy]]
 - [[http://calebmadrigal.com/][Caleb Madrigal: Programming, Hacking, Math, and Art]]
+- [[https://gilfaloartdesign.bigcartel.com/][Christopher Gill: Gilfalo Art Design]]
 - [[http://knowledgeasmedicine.com/][Theresa Oswald, MD: Knowledge as Medicine]]
