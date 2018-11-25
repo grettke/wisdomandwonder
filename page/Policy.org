@@ -93,7 +93,7 @@
   is being shared, and to comply with this policy.
 - See more [[http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf][here]]
 
-** According to CalOPPA I agree to the following
+*** According to CalOPPA I agree to the following
 
 - You can visit this site anonymously
 - Once this privacy policy is created, I will add a link to it on the home
