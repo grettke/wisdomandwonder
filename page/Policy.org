@@ -60,16 +60,22 @@
 
 # https://support.google.com/adsense/answer/1348695?hl=en
 
+- What is "personally identifiable information (PII)" on this site?
+  - When you leave comments on this site you are prompted for
+    your name, email address, and optionally website URL, in addition to the
+    comment that you are leaving. This is considered PII.
+    - This non-sensitive personal data is your only data stored here
+    - *I NEVER SHARE THIS WITH ANYONE*
 - I don't share your personal information with third parties nor do I store any
-  information about your visit to this blog other than to analyze and optimize
-  your content and reading experience through the use of cookies (primarily
-  using [[https://analytics.google.com][Google Analytics]]).
+  information about your visit to this blog.
+- I do analyze and optimize your content and reading experience through the
+  use of cookies using primarily using [[https://analytics.google.com][Google Analytics]]).
 - You can turn off the use of cookies at anytime by changing your specific
   browser settings.
 - I'm not responsible for republished content from this blog on other blogs or
   websites without my permission.
 - This privacy policy is subject to change without notice and was last updated
-  on <2018-11-23 Fri 22:42>. If you have any questions then feel free to
+  on <2018-11-24 Sat 18:52>. If you have any questions then feel free to
   contact me directly here: gcr@wisdomandwonder.com.
 
 ** California Online Privacy Protection Act
@@ -78,13 +84,6 @@
   and online services to post a privacy policy
 - This is a personal website, not commercial, but I feel like it is useful
   here
-- What is "personally identifiable information (PII)"?
-  - When you leave comments or register for the site you are prompted for
-    your first name, last name, website, and email address. This is considered
-    PII.
-    - *I NEVER SHARE THIS WITH ANYONE*
-    - In fact your credentials aren't even verified so you can enter whatever
-      information you wish, if anything at all
 - The law's reach stretches well beyond California to require a person or
   company in the United States (and conceivably the world) that operates
   websites collecting personally identifiable information from California
@@ -102,6 +101,15 @@
 - If you have an account then you can change your personal information by
   logging in
 - This site does not do anything when it receives a "Do Not Track" message
+
+** General Data Protection Regulation (GDPR)
+
+- At your request I will
+  - Erase your data
+  - Export your data and send it to
+    - you
+    - another party you specify
+  - Update your data
 
 ** Things Having Entirely to Do With Money
 
