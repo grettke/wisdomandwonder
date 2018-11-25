@@ -66,8 +66,6 @@
     comment that you are leaving. This is considered PII.
     - This non-sensitive personal data is your only data stored here
     - *I NEVER SHARE THIS WITH ANYONE*
-- I don't share your personal information with third parties nor do I store any
-  information about your visit to this blog.
 - I do analyze and optimize your content and reading experience through the
   use of cookies using primarily using [[https://analytics.google.com][Google Analytics]]).
 - You can turn off the use of cookies at anytime by changing your specific
