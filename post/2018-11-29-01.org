@@ -1,0 +1,102 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10810
+#+ORG2BLOG:
+#+DATE: [2018-11-29 Thu 10:59]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Unicode, Emoticons
+#+TITLE: How To Choose The Perfect Emoticon
+
+Emoticons are pretty fun to use but they are hard to choose because there are
+so many!
+
+Here is how to make it easy: go over this list and then use /search/ to find the
+noun or verb that you are looking for like "triumph" or "savouring" or "unamused"
+
+Even if you don't have anything to search for, it is still in alphabetical
+order and it is pretty fun to see all eighty faces out there available right now!
+
+#+HTML: <!--more-->
+
+| Face                                                 | Name |
+|------------------------------------------------------+------|
+| Angry Face                                           | 😠   |
+| Anguished Face                                       | 😧   |
+| Astonished Face                                      | 😲   |
+| Cat Face with Tears of Joy                           | 😹   |
+| Cat Face with Wry Smile                              | 😼   |
+| Confounded Face                                      | 😖   |
+| Confused Face                                        | 😕   |
+| Crying Cat Face                                      | 😿   |
+| Crying Face                                          | 😢   |
+| Disappointed But Relieved Face                       | 😥   |
+| Disappointed Face                                    | 😞   |
+| Dizzy Face                                           | 😵   |
+| Expressionless Face                                  | 😑   |
+| Face Savouring Delicious Food                        | 😋   |
+| Face Screaming in Fear                               | 😱   |
+| Face Throwing A Kiss                                 | 😘   |
+| Face Without Mouth                                   | 😶   |
+| Face with Cold Sweat                                 | 😓   |
+| Face with Look of Triumph                            | 😤   |
+| Face with Medical Mask                               | 😷   |
+| Face with No Good Gesture                            | 🙅   |
+| Face with Ok Gesture                                 | 🙆   |
+| Face with Open Mouth                                 | 😮   |
+| Face with Open Mouth and Cold Sweat                  | 😰   |
+| Face with Rolling Eyes                               | 🙄   |
+| Face with Stuck-Out Tongue                           | 😛   |
+| Face with Stuck-Out Tongue and Tightly-Closed Eyes   | 😝   |
+| Face with Stuck-Out Tongue and Winking Eye           | 😜   |
+| Face with Tears of Joy                               | 😂   |
+| Fearful Face                                         | 😨   |
+| Flushed Face                                         | 😳   |
+| Frowning Face with Open Mouth                        | 😦   |
+| Grimacing Face                                       | 😬   |
+| Grinning Cat Face with Smiling Eyes                  | 😸   |
+| Grinning Face                                        | 😀   |
+| Grinning Face with Smiling Eyes                      | 😁   |
+| Happy Person Raising One Hand                        | 🙋   |
+| Hear-No-Evil Monkey                                  | 🙉   |
+| Hushed Face                                          | 😯   |
+| Kissing Cat Face with Closed Eyes                    | 😽   |
+| Kissing Face                                         | 😗   |
+| Kissing Face with Closed Eyes                        | 😚   |
+| Kissing Face with Smiling Eyes                       | 😙   |
+| Loudly Crying Face                                   | 😭   |
+| Neutral Face                                         | 😐   |
+| Pensive Face                                         | 😔   |
+| Persevering Face                                     | 😣   |
+| Person Bowing Deeply                                 | 🙇   |
+| Person Frowning                                      | 🙍   |
+| Person Raising Both Hands in Celebration             | 🙌   |
+| Person with Folded Hands                             | 🙏   |
+| Person with Pouting Face                             | 🙎   |
+| Pouting Cat Face                                     | 😾   |
+| Pouting Face                                         | 😡   |
+| Relieved Face                                        | 😌   |
+| See-No-Evil Monkey                                   | 🙈   |
+| Sleeping Face                                        | 😴   |
+| Sleepy Face                                          | 😪   |
+| Slightly Frowning Face                               | 🙁   |
+| Slightly Smiling Face                                | 🙂   |
+| Smiling Cat Face with Heart-Shaped Eyes              | 😻   |
+| Smiling Cat Face with Open Mouth                     | 😺   |
+| Smiling Face with Halo                               | 😇   |
+| Smiling Face with Heart-Shaped Eyes                  | 😍   |
+| Smiling Face with Horns                              | 😈   |
+| Smiling Face with Open Mouth                         | 😃   |
+| Smiling Face with Open Mouth and Cold Sweat          | 😅   |
+| Smiling Face with Open Mouth and Smiling Eyes        | 😄   |
+| Smiling Face with Open Mouth and Tightly-Closed Eyes | 😆   |
+| Smiling Face with Smiling Eyes                       | 😊   |
+| Smiling Face with Sunglasses                         | 😎   |
+| Smirking Face                                        | 😏   |
+| Speak-No-Evil Monkey                                 | 🙊   |
+| Tired Face                                           | 😫   |
+| Unamused Face                                        | 😒   |
+| Upside-Down Face                                     | 🙃   |
+| Weary Cat Face                                       | 🙀   |
+| Weary Face                                           | 😩   |
+| Winking Face                                         | 😉   |
+| Worried Face                                         | 😟   |
