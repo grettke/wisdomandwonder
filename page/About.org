@@ -4,9 +4,9 @@
 
 #+BEGIN_EXPORT html
 <img
-src="https://www.wisdomandwonder.com/wp-content/uploads/2007/12/GCR-1415x1600-PNG.png"
-alt="GCR-1415x1600-PNG" width="354" height="400" class="aligncenter size-full
-wp-image-10096" />
+src="https://www.wisdomandwonder.com/wp-content/uploads/2018/12/CroppedToSquareOneMb-768x768.png"
+alt="Grant Rettke Profile Picture"
+class="aligncenter size-full" />
 #+END_EXPORT
 
 This site is my personal notebook.
