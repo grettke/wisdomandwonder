@@ -16,6 +16,8 @@ challenge the status quo of what we currently consider "the best". All of
 those perspectives are valuable so I wanted to create a simple list that can
 include all of them.
 
+#+HTML: <!--more-->
+
 [[https://github.com/grettke/every-emacs-initialization-file][Here]] it is.
 
 So far I put my favorites in there. Since caisah's list /is/ so stellar, I would
