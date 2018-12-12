@@ -7,8 +7,6 @@
 #+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
 #+TITLE: (Emacs+Org-Mode) HELP: Yet Another Literate Emacs Configuration!
 
-[[https://github.com/grettke/help][HELP Enables Literate Programming]]!
-
 HELP is the culmination of everything that I've learned about literate
 programming (LP) in Org-Mode—written with the intent to share it with others
 in total and complete respect and consideration of you and the value of your
