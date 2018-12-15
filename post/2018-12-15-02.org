@@ -1,0 +1,12 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10819
+#+ORG2BLOG:
+#+DATE: [2018-12-15 Sat 14:05]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Article
+#+TAGS: Programming Language, Hacking
+#+TITLE: (Hacking) How To Ask Questions The Smart Way
+
+Learn how [[http://www.catb.org/esr/faqs/smart-questions.html][here]] and it will change your life a lot for the better.
+
+Do it ASAP. 
