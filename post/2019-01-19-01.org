@@ -1,0 +1,13 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 10835
+#+ORG2BLOG:
+#+DATE: [2019-01-19 Sat 13:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Happiness
+#+TITLE: Always Be Ready To Ride Again!
+
+#+begin_quote
+No hour of life is wasted that is spent in the saddle.
+#+end_quote
+
+— [[https://www.goodreads.com/quotes/128529-no-hour-of-life-is-wasted-that-is-spent-in][Winston S. Churchill]]
