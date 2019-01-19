@@ -5,9 +5,8 @@
 #+CATEGORY: Article
 #+TAGS: org2blog, Blogging, Web, WordPress, Test
 #+TITLE: Test Post
-#+HTML_HEAD: <script type="text/javascript"
-#+HTML_HEAD:   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js">
-#+HTML_HEAD: </script>
+
+[mathjax]
 
 This is a test post to help evaluate the system.
 * MathJax
