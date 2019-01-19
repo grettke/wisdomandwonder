@@ -9,6 +9,6 @@ alt="Grant Rettke Profile Picture"
 class="aligncenter size-full" />
 #+END_EXPORT
 
-This site is my personal notebook.
+This site is my personal notebook ✎.
 
 Email me [[mailto:gcr@wisdomandwonder.com][here]].
