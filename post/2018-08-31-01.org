@@ -7,8 +7,8 @@
 #+TAGS: Coffee, Grinds
 #+TITLE: (coffee+grinds) Hario Skerton Pro at 13th Click
 
-[[./image/GRINDS_2018-08-31_Hario-Skerton-Pro-G13.jpeg][Here]] is the second grind from the Hario Skerton Pro at the 13th click. 
+#+begin_export html
+[caption id="attachment_11600" align="aligncenter" width="1920"]<img src="https://wisdomandwonder.com/wp-content/uploads/2019/01/GRINDS_2018-08-31_Hario-Skerton-Pro-G13.jpeg" alt="" width="1920" height="1080" class="size-full wp-image-11600" /> The second grind from the Hario Skerton Pro at the 13th click.[/caption]
+#+end_export
 
 After brewing for 4m in the French Press it smelled and tasted great.
-
-# ./image/GRINDS_2018-08-31_Hario-Skerton-Pro-G13.jpeg https://www.wisdomandwonder.com/wp-content/uploads/2018/08/GRINDS_2018-08-31_Hario-Skerton-Pro-G13.jpeg
