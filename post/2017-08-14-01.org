@@ -3,9 +3,11 @@
 #+ORG2BLOG:
 #+DATE: [2017-08-14 Mon 21:29]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Article
-#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode, Blogging, Web, WordPress, Test
+#+CATEGORY: Org2Blog
+#+TAGS: MathJax
 #+TITLE: MathJax Support In Org2Blog
+
+[mathjax]
 
 [[https://github.com/org2blog/org2blog#mathjax-support][Use MathJax]] with Org2Blog.
 
@@ -24,18 +26,3 @@ actively maintained plugin.
     - $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
   - Equation
     - $$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
-
-Here is the source code for the examples:
-
-#+NAME: org_gcr_2017-08-14_mara_88A43FAF-59D2-4EAA-9991-21980C40DF55
-#+BEGIN_SRC org
-- Test it out using these ([[https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference][and more]]) examples
-  - The word LaTeX *in Math Mode* (notice the italics)
-    - $\LaTeX$
-  - The word LaTeX *in Text Mode* (notice the /lack of/ italics)
-    - $\mathrm{\LaTeX}$
-  - Inline
-    - $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
-  - Equation
-    - $$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
-#+END_SRC
