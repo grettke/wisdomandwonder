@@ -5,7 +5,7 @@
 #+CATEGORY: Article
 #+TAGS: Yoga, philosophy, Health
 #+TITLE: Brené Brown: Listening to shame
-y
+
 - [[https://www.ted.com/talks/brene_brown_listening_to_shame#t-65347][URL]]
 - "Vulnerability is not weakness"
 - "[It] is our most accurate measurement of courage; it fuels our daily life"
