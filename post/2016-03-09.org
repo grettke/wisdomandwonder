@@ -2,8 +2,8 @@
 #+POSTID: 10100
 #+DATE: [2016-03-09 Wed 20:30]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Org2Blog
-#+TAGS: MathJax
+#+CATEGORY: Org mode
+#+TAGS: MathJax, Org2Blog
 #+TITLE: MathJax Test Post
 
 [mathjax]

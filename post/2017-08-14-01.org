@@ -3,8 +3,8 @@
 #+ORG2BLOG:
 #+DATE: [2017-08-14 Mon 21:29]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Org2Blog
-#+TAGS: MathJax
+#+CATEGORY: Org mode
+#+TAGS: MathJax, Org2Blog
 #+TITLE: MathJax Support In Org2Blog
 
 [mathjax]

@@ -4,7 +4,7 @@
 #+DATE: [2018-08-31 Fri 10:47]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Coffee
-#+TAGS: Grind
+#+TAGS: Tools
 #+TITLE: Hario Skerton Pro at 13th Click
 
 #+begin_export html
