@@ -3,9 +3,9 @@
 #+ORG2BLOG:
 #+DATE: [2018-12-17 Mon 20:05]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Article
-#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
-#+TITLE: (Emacs+Org-Mode) Emacs Users: Do You Know The Power Of 1993?
+#+CATEGORY: Emacs
+#+TAGS: History
+#+TITLE: Do You Know The Power Of 1993?
 
 Check out what Emacs was [[https://www.youtube.com/watch?v=pQQTScuApWk][was doing in 1993]]—it took years and years and years
 before anything like this got mainstream.
