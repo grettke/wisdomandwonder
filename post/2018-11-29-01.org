@@ -3,8 +3,8 @@
 #+ORG2BLOG:
 #+DATE: [2018-11-29 Thu 10:59]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Article
-#+TAGS: Unicode, Emoticons
+#+CATEGORY: Unicode
+#+TAGS: Emoticons, Fun
 #+TITLE: How To Choose The Perfect Emoticon
 
 Emoticons are pretty fun to use but they are hard to choose because there are
