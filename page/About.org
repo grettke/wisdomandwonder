@@ -1,14 +1,14 @@
 #+POSTID: 10714
+#+ORG2BLOG:
 #+DATE: [2017-11-30 Thu 21:02]
 #+TITLE: About
 
 #+BEGIN_EXPORT html
 <img
 src="https://www.wisdomandwonder.com/wp-content/uploads/2018/12/CroppedToSquareOneMb-768x768.png"
-alt="Grant Rettke Profile Picture"
-class="aligncenter size-full" />
+alt="Grant Rettke Profile Picture" class="aligncenter size-full" />
 #+END_EXPORT
 
 This site is my personal notebook ✎.
 
-Email me [[mailto:gcr@wisdomandwonder.com][here]].
+Email me [[mailto:grant@wisdomandwonder.com][here]].

@@ -1,4 +1,5 @@
 #+POSTID: 10252
+#+ORG2BLOG:
 #+DATE: [2016-05-28 Sat 15:08]
 #+TITLE: Privacy Policy
 
@@ -73,7 +74,7 @@
   websites without my permission.
 - This privacy policy is subject to change without notice and was last updated
   on 2019-01-28. If you have any questions then feel free to
-  contact me directly here: gcr@wisdomandwonder.com.
+  contact me directly here: grant@wisdomandwonder.com.
 
 ** California Online Privacy Protection Act
 
