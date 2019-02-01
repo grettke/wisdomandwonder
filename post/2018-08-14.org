@@ -3,9 +3,9 @@
 #+POSTID: 10783
 #+DATE: [2018-08-14 Tue 11:54]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Article
-#+TAGS: Programming Language, Python3
-#+TITLE: (Python3+Hardware+Network) Map And Track Wi-Fi Networks You're Not Connected To
+#+CATEGORY: Programming Language,
+#+TAGS: Python
+#+TITLE: Map And Track Wi-Fi Networks You're Not Connected To
 
 Ever wonder how wifi devices talk to each other when they don't know that you
 are listening?
