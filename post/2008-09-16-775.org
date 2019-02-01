@@ -1,3 +1,4 @@
+#+ORG2BLOG:
 #+POSTID: 775
 #+DATE: [2008-09-16 Tue 03:50]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil

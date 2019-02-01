@@ -1,3 +1,4 @@
+#+ORG2BLOG:
 -*- mode: ag; default-directory: "~/git/github/wisdomandwonder/post/" -*-
 Ag started at Wed May 10 19:17:50
 

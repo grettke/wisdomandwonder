@@ -1,6 +1,6 @@
+#+ORG2BLOG:
 #+BLOG: wisdomandwonder
 #+POSTID: 10759
-#+ORG2BLOG:
 #+DATE: [2018-04-23 Mon 11:31]
 #+CATEGORY: Article
 #+TAGS:  Emacs, Programming Language, AppleScript

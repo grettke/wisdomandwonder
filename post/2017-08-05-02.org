@@ -1,6 +1,6 @@
+#+ORG2BLOG:
 #+BLOG: wisdomandwonder
 #+POSTID: 10648
-#+ORG2BLOG:
 #+DATE: [2017-08-05 Sat 20:06]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article

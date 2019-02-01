@@ -1,3 +1,4 @@
+#+ORG2BLOG:
 #+BLOG: wisdomandwonder
 #+POSTID: 10393
 #+DATE: [2016-09-19 Mon 19:00]

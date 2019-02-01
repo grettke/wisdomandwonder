@@ -1,3 +1,4 @@
+#+ORG2BLOG:
 #+BLOG: wisdomandwonder
 #+POSTID: 10544
 #+DATE: [2017-04-11 Tue 21:08]

@@ -1,10 +1,10 @@
+#+ORG2BLOG:
 #+BLOG: wisdomandwonder
 #+POSTID: 10818
-#+ORG2BLOG:
 #+DATE: [2018-12-15 Sat 13:56]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
 #+TAGS: Programming Language, Hacking
 #+TITLE: (Hacking) How To Become A Hacker (The Good Kind)
 
-It is pretty simple: [[http://www.catb.org/esr/faqs/hacker-howto.html][read here]]. 
+It is pretty simple: [[http://www.catb.org/esr/faqs/hacker-howto.html][read here]].

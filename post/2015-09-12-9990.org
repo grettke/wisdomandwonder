@@ -1,3 +1,4 @@
+#+ORG2BLOG:
 #+BLOG: wisdomandwonder
 #+POSTID: 9990
 #+DATE: [2015-09-12 Sat 11:11]

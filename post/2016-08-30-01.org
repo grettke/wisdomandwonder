@@ -1,3 +1,4 @@
+#+ORG2BLOG:
 #+BLOG: wisdomandwonder
 #+POSTID: 10377
 #+DATE: [2016-08-30 Tue 15:13]

@@ -1,6 +1,6 @@
+#+ORG2BLOG:
 #+BLOG: wisdomandwonder
 #+POSTID: 10793
-#+ORG2BLOG:
 #+DATE: [2018-11-11 Sun 15:10]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Link
@@ -9,4 +9,4 @@
 
 BiTeX is something I've learned as little about as possible doing just enough
 to "make it work right". Glad to know about [[http://tug.ctan.org/info/bibtex/tamethebeast/ttb_en.pdf][this]] for when I don't know how to
-do that. 
+do that.

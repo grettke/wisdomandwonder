@@ -1,6 +1,5 @@
 #+BLOG: wisdomandwonder
 #+POSTID: 10697
-#+ORG2BLOG:
 #+DATE: [2017-09-13 Wed 11:33]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article

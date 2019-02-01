@@ -1,3 +1,4 @@
+#+ORG2BLOG:
 #+BLOG: wisdomandwonder
 #+POSTID: 10214
 #+DATE: [2016-05-03 Tue 19:54]

@@ -1,10 +1,10 @@
+#+ORG2BLOG:
 #+BLOG: wisdomandwonder
 #+POSTID: 10835
-#+ORG2BLOG:
 #+DATE: [2019-01-19 Sat 13:40]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Happiness
-#+TAGS: inspiration
+#+CATEGORY: Happiness,
+#+TAGS: inspiration,
 #+TITLE: Always Be Ready To Ride Again 🐎!
 
 #+begin_quote

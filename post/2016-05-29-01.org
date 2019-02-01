@@ -1,3 +1,4 @@
+#+ORG2BLOG:
 #+DATE: [2016-05-29 Sun 06:38]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article

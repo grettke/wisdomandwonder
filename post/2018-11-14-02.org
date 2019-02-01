@@ -1,6 +1,6 @@
+#+ORG2BLOG:
 #+BLOG: wisdomandwonder
 #+POSTID: 10795
-#+ORG2BLOG:
 #+DATE: [2018-11-14 Wed 21:17]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
@@ -40,7 +40,7 @@ to the power of Ivy+Counsel+Swiper well I still don't get it but now I have
 it. I'm just using the plain old stuff for now. So what do you do with it anyway?
 
 The documentation explains what Ivy functions to use to replace the built in
-equivalents. Here were the most obvious places to start. 
+equivalents. Here were the most obvious places to start.
 
 #+name: org_gcr_2018-11-14T14-46-04-06-00_cosmicality_E916E316-E704-45B0-83F6-2E3F3C57321B
 #+begin_src emacs-lisp
