@@ -14,4 +14,6 @@ there is to it. All of the markup works. Even MathJax works:
 
 The most beautiful equation in mathematics, Euler's Formula: $e^{ \pm i\theta } = \cos \theta \pm i\sin \theta$
 
-Start using it [[https://github.com/org2blog/org2bloghttps://github.com/org2blog/org2blog/wiki/Usage][here]]!
+[[https://raw.githubusercontent.com/grettke/wisdomandwonder/master/post/2019-02-01.org][Here]] is this post itself 😄😮. 
+
+Start using it [[https://github.com/org2blog/org2blog/wiki/Usage][here]]!
