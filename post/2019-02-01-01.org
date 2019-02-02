@@ -1,0 +1,17 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 11659
+#+ORG2BLOG:
+#+DATE: [2019-02-01 Fri 19:38]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Emacs,
+#+TAGS: MathJax, Org2Blog, Org mode, WordPress
+#+TITLE: Blogging With Emacs🐃 From Org2Blog🦄 to WordPress
+
+[mathjax]
+
+Blogging from Org2Blog to WordPress /just works/ and that is just about all
+there is to it. All of the markup works. Even MathJax works:
+
+The most beautiful equation in mathematics, Euler's Formula: $e^{ \pm i\theta } = \cos \theta \pm i\sin \theta$
+
+Start using it [[https://github.com/org2blog/org2bloghttps://github.com/org2blog/org2blog/wiki/Usage][here]]!
