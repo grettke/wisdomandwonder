@@ -3,9 +3,9 @@
 #+POSTID: 10721
 #+DATE: [2017-12-07 Thu 22:40]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Article
-#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
-#+TITLE: (Emacs+Org-Mode) Emacser's Harbingers Of Change
+#+CATEGORY: Emacs,
+#+TAGS: fun, 
+#+TITLE: Emacser's Harbingers Of Change
 
 "Harbingers of change" announce significant changes. You see them in Emacs
 configuration (init) files all the time. Here are some of /my/ favorites:

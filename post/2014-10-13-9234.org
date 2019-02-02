@@ -2,9 +2,9 @@
 #+POSTID: 9234
 #+DATE: [2014-10-13 Mon 01:08]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
-#+CATEGORY: Article
-#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
-#+TITLE: (Emacs+Org-Mode) Warn About Unexpanded Macros On Export
+#+CATEGORY: Emacs
+#+TAGS: Org mode
+#+TITLE: Warn About Unexpanded Macros On Export
 
 [[https://lists.gnu.org/archive/html/emacs-orgmode/2014-09/msg00873.html][This]] post discussed the issues with failing to report macro expansion issues
 during export of an =org= document. Most would want publishing to fail if a

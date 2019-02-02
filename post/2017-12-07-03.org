@@ -3,9 +3,9 @@
 #+POSTID: 10722
 #+DATE: [2017-12-07 Thu 23:20]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Article
-#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
-#+TITLE: (Emacs+Org-Mode) Always End Your List Items With A Period
+#+CATEGORY: Emacs,
+#+TAGS: org-mode, 
+#+TITLE: Always End Your List Items With A Period
 
 Always end your list items with a period so your text-to-speech engine pauses
 after reaching the end of the line.
