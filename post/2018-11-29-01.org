@@ -100,3 +100,15 @@ order and it is pretty fun to see all eighty faces out there available right now
 | Weary Face                                           | 😩   |
 | Winking Face                                         | 😉   |
 | Worried Face                                         | 😟   |
+
+*Addendum 2019-02-03*
+
+Just learned that there is a difference between
+[[https://en.wikipedia.org/wiki/Emoji][Emoticons]] (aka /Emoji/) and [[https://en.wikipedia.org/wiki/Unicode][Unicode characters]]. The difference comes down to
+whether or not your operating system understands what to do with it. Even if
+you have a font that /can/ display the character, it is up to the operating
+system whether it will show it to you or not. For example in macOS, it will
+display the "SUPERHERO" 🦸 character in TextEdit, but not in WhatsApp. That
+choice by the operating system seems to be the difference between the two.
+Whatever the case, all of the characters listed here are plain old Unicode
+characters that will display everywhere you've got a font that includes them.
