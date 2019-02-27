@@ -5,18 +5,25 @@
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Article
 #+TAGS: Yoga, philosophy, Health
-#+TITLE: My Favorite Brain Foods And Supplements
+#+TITLE: Best High-Neuro Transmitter, Anti-Inflammatory, And Total Health: Brain And Body Edition
 
-| Supplement                                          | Servings/Size         | Properties                                                       | In Food                                                 |
-|-----------------------------------------------------+-----------------------+------------------------------------------------------------------+---------------------------------------------------------|
-| [[https://amzn.to/2nhxzzL][DHA (vegan)]] or [[http://amzn.to/2adUinV][DHA & EPA (non-vegan non-vegetarian)]] | Once                  | [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4404917/][Brain health, protection and repair]]                              |                                                         |
-| [[https://www.amazon.com/gp/product/B0009U84Z4?ie=UTF8&tag=wisdomandwo0f-20&camp=1789&linkCode=xm2&creativeASIN=B0009U84Z4][Folic Acid]]                                          | Once                  | [[https://www.ncbi.nlm.nih.gov/pubmed/15671130][Anti-depressant]]                                                  |                                                         |
-| [[http://amzn.to/2amTWut][Ginger]]                                              | Twice                 | [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3665023/][Anti-inflammatory, anti-oxidative]]                                |                                                         |
-| [[http://amzn.to/2amEgxt][Inositol]]                                            | Once (1200mg)         | [[http://www.europeanneuropsychopharmacology.com/article/S0924-977X(97)00409-4/abstract][Anti-depressant, Anti-anxiety]]                                    |                                                         |
-| [[http://amzn.to/2amDHUt][Magnesium]]                                           | Once                  | [[https://www.ncbi.nlm.nih.gov/pubmed/23950577][Brain biochemistry, neuronal membrane fluidity for mental health]] | Maple, syrup, nuts, raw baby spinach                    |
-| [[http://amzn.to/2adWStK][Phosphatidyl Serine]]                                 | Once                  | [[https://www.ncbi.nlm.nih.gov/pubmed/24992464][Neurotransmitters and optimal function]]                           |                                                         |
-| [[http://amzn.to/2aIZXEE][Selenium]]                                            | Once (Two Whole Nuts) | [[https://www.ncbi.nlm.nih.gov/pubmed/10963212][Whole body operational health]]                                    | Brazil Nuts                                             |
-| Seratonin                                           | Hourly                | [[https://www.ncbi.nlm.nih.gov/pubmed/7508830][Anti-depressant]]                                                  | 50% Black Tea / 50% Whole Cow Milk, Sugar. Whole grain. |
-| [[http://amzn.to/2amXrRU][Turmeric]]                                            | Twice                 | [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3535097/][Anti-Everything]]                                                  |                                                         |
-| Vitamin B Complex                                   | Once (100mg)          | [[https://www.ncbi.nlm.nih.gov/pubmedhealth/PMHT0022013/][Whole body operational health]]                                    | Chicken Eggs. Enriched Cereals                          |
-| [[https://smile.amazon.com/gp/product/B002RL8FE8/ref=oh_aui_search_detailpage?ie=UTF8&psc=1][Vitamin D3]]                                          | Once                  | [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3356951/][Bright shining minds]]                                             |                                                         |
+Goal was:
+- thinking more easily, longer, faster, clearly, and precisely
+- reducing inflammation
+- basic total health
+
+And this is what I found @@html:<!--more-->@@
+
+- /Format: Supplement, Servings/Size, Good Thing It Does For You (Reference),
+  Found In Food/
+- [[https://smile.amazon.com/gp/product/B002XDQSSK?th=1][DHA (vegan)]] or [[https://www.amazon.com/gp/product/B001HJYUDG][DHA & EPA (non-vegan non-vegetarian)]], Once, [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4404917/][Brain health, protection and repair]],
+- [[https://smile.amazon.com/gp/product/B0009U84Z4][Folic Acid]], Once, [[https://www.ncbi.nlm.nih.gov/pubmed/15671130][Anti-depressant]], —
+- [[https://smile.amazon.com/gp/product/B00014EECK][Ginger]], Twice, [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3665023/][Anti-inflammatory, anti-oxidative]], —
+- [[https://smile.amazon.com/gp/product/B000GFSVUK][Inositol]], Once (1200mg), [[http://www.europeanneuropsychopharmacology.com/article/S0924-977X(97)00409-4/abstract][Anti-depressant, Anti-anxiety]], —
+- [[https://smile.amazon.com/gp/product/B0001556VW][Magnesium]], Once, [[https://www.ncbi.nlm.nih.gov/pubmed/23950577][Brain biochemistry, neuronal membrane fluidity for mental health]], Maple, syrup, nuts, raw baby spinach
+- [[https://smile.amazon.com/gp/product/B000GFSVOG][Phosphatidyl Serine]], Once, [[https://www.ncbi.nlm.nih.gov/pubmed/24992464][Neurotransmitters and optimal function]], —
+- [[https://smile.amazon.com/gp/product/B001PB4LR6][Selenium]] , Once (Two Whole Nuts), [[https://www.ncbi.nlm.nih.gov/pubmed/10963212][Whole body operational health]], Brazil Nuts
+- Seratonin, Hourly, [[https://www.ncbi.nlm.nih.gov/pubmed/7508830][Anti-depressant]], 50% Black Tea / 50% Whole Cow Milk, Sugar. Whole grains.
+- [[https://smile.amazon.com/gp/product/B00BI8OG2Q][Turmeric]], Twice, [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3535097/][Anti-Everything]], —
+- [[https://smile.amazon.com/gp/product/B000RZQNV8][Vitamin B Complex]], Once (100mg), [[https://clinicaltrials.gov/search/open/intervention=%2522Vitamin+B+Complex%2522][Whole body operational health]], Chicken Eggs. Enriched Cereals
+- [[https://smile.amazon.com/gp/product/B002RL8FE8][Vitamin D3]], Once, [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3356951/][Bright shining minds]], —
