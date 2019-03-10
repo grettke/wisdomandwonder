@@ -2,15 +2,17 @@
 #+POSTID: 9066
 #+DATE: [2014-09-02 Tue 00:48]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
-#+CATEGORY: Link
-#+TAGS: Health, Motorcycle, Running, Safety
+#+CATEGORY: Happiness,
+#+TAGS: safety, fitness, 
 #+TITLE: Tracer360 - Noxgear
 
 #+BEGIN_QUOTE
-  It's dark outside and all you want is to hit the road for some well-deserved miles. Our [[https://www.noxgear.com/tracer360][Tracer360]] uses the full color spectrum in specially designed illumination modes to keep you highly visible. Paired with high quality 3M reflective materials the Tracer360 is the perfect, lightweight replacement for your bulky and uncomfortable safety vest.
+  It's dark outside and all you want is to hit the road for some well-deserved
+  miles. Our [[https://www.noxgear.com/tracer360][Tracer360]] uses the full color spectrum in specially designed
+  illumination modes to keep you highly visible. Paired with high quality 3M
+  reflective materials the Tracer360 is the perfect, lightweight replacement
+  for your bulky and uncomfortable safety vest.
 #+END_QUOTE
-
-
 
 Want it for motorcycling, will start running just to be able to wear it.
 
