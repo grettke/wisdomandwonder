@@ -12,8 +12,13 @@
 Blogging from Org2Blog to WordPress /just works/ and that is just about all
 there is to it. All of the markup works. Even MathJax works:
 
-The most beautiful equation in mathematics, Euler's Formula: $e^{ \pm i\theta } = \cos \theta \pm i\sin \theta$
+Brad told me that this is the most beautiful equation in mathematics:
+
+Euler's Formula: $e^{ \pm i\theta } = \cos \theta \pm i\sin \theta$
+
+Thank you Brad.
 
 [[https://raw.githubusercontent.com/grettke/wisdomandwonder/master/post/2019-02-01-01.org][Here]] is this post itself 😄😮.
 
 Start using it [[https://github.com/org2blog/org2blog][here]]!
+
