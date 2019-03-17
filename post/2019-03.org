@@ -1,0 +1,35 @@
+#+ORG2BLOG
+
+* Go To The Logical Begin And End Of A Buffer's Content
+:PROPERTIES:
+:BLOG:     wisdomandwonder
+:DATE: [2019-03-16 Sat 00:31]
+:OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+:CATEGORY: Emacs,
+:POST_TAGS: emacs, Package,
+:ID:       o2b:AD61406E-0DB3-46F7-A261-C08DA345E150
+:POST_DATE: [2019-03-16 Sat 01:02]
+:POSTID:   12181
+:END:
+
+The only time that I call ~beginning-of-buffer~ is when I want to visit the file
+header, which isn't very often. The rest of the time I only want to go up to
+where the code begins, or at least close to it. That is the logical beginning
+of the buffer. Another example is going to the beginning of a ~magit-status~
+invoked buffer: I've never use the first first 3 lines of it. The logical
+start of it is the Untracked file listing. The Beginend package moves your
+cursor to the the logical beginning of the buffer content. It also implements a
+logical ~end-of-buffer~. It might not sound like much, but it bumps up your user
+experience by more than a few notches: it makes the modes do what many of us
+are thinking and that is the ultimate feel good experience. Here is an
+example:
+
+@@html:<!--more Demonstration Follows-->@@
+
+[[./gif/beginend.gif]]
+
+- [[https://github.com/DamienCassou/beginend][Source Code]]
+- [[https://emacs.cafe/emacs/package/2017/08/01/beginend.html][Explanatory Blog Post By Author]]
+- [[https://melpa.org/#/beginend][MELPA Package Name]]: ~beginend~
+
+# ./gif/beginend.gif https://www.wisdomandwonder.com/wp-content/uploads/2019/03/beginend.gif
