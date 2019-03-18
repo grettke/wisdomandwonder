@@ -3,7 +3,7 @@
 #+DATE: [2013-05-30 Thu 18:39]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
 #+CATEGORY: Emacs,
-#+TAGS: Org mode, Literate Programming, Reproducible Research
+#+TAGS: Emacs, Org mode, Literate Programming
 #+TITLE: Reproducible Research, Literate Programming and Inter-Language Programming with Babel
 
 #+BEGIN_QUOTE

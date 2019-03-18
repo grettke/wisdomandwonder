@@ -4,7 +4,7 @@
 #+DATE: [2007-12-01 Sat 12:00]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Wisdom and Wonder
-#+TAGS: Fun
+#+TAGS: wisdom-and-wonder, Fun
 #+TITLE: First Post 🌻!
 
 First Post 🌻!

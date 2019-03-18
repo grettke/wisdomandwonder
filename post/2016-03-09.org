@@ -4,7 +4,7 @@
 #+DATE: [2016-03-09 Wed 20:30]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Emacs,
-#+TAGS: MathJax, Org2Blog, Org mode
+#+TAGS: Emacs, Org2Blog, Org mode, latex, 
 #+TITLE: MathJax Test Post
 
 [mathjax]

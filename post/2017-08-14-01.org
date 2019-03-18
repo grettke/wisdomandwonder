@@ -3,8 +3,8 @@
 #+POSTID: 10660
 #+DATE: [2017-08-14 Mon 21:29]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Org mode
-#+TAGS: MathJax, Org2Blog
+#+CATEGORY: Emacs
+#+TAGS: Emacs, Org2Blog, Org mode, latex, 
 #+TITLE: MathJax Support In Org2Blog
 
 [mathjax]

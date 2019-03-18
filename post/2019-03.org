@@ -6,7 +6,7 @@
 :DATE: [2019-03-16 Sat 00:31]
 :OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 :CATEGORY: Emacs,
-:POST_TAGS: emacs, Package,
+:POST_TAGS: emacs
 :ID:       o2b:AD61406E-0DB3-46F7-A261-C08DA345E150
 :POST_DATE: [2019-03-16 Sat 01:02]
 :POSTID:   12181

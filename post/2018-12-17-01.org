@@ -4,7 +4,7 @@
 #+DATE: [2018-12-17 Mon 18:21]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Happiness
-#+TAGS: Humor
+#+TAGS: Happiness, Humor
 #+TITLE: But Can't You See That I'm Changing The Lightbulb?!
 
 [[yt:_UZFI-8D5uA]]

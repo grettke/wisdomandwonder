@@ -4,7 +4,7 @@
 #+DATE: [2018-12-24 Mon 22:05]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Motorcycle
-#+TAGS: Maintenance
+#+TAGS: Motorcycle, Maintenance
 #+TITLE: Store Your Motorcycle Or Car In A Protective Bubble
 
 Clean, dry and easy storage of your motorcycle or car (or anything) in a
