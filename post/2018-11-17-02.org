@@ -3,9 +3,9 @@
 #+POSTID: 10799
 #+DATE: [2018-11-17 Sat 13:50]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Article
-#+TAGS: Programming Language, macOS, Bash
-#+TITLE: (macOS+Bash) Lock And Unlock Your Files From The Command Line Using Finder
+#+CATEGORY: Programming Language,
+#+TAGS: Programming Language, Bash, macOS
+#+TITLE: Lock And Unlock Your Files From The Command Line Using Finder
 
 If you want to lock and unlock your files from the command line using Finder
 instead of using ~chmod~ there here are two aliases to do it:

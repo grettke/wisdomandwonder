@@ -3,9 +3,9 @@
 #+POSTID: 10789
 #+DATE: [2018-09-15 Sat 01:17]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Article
-#+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode, Bash, Shell
-#+TITLE: (Emacs+Bash) bash: update_terminal_cwd: command not found resolution
+#+CATEGORY: Emacs
+#+TAGS: Emacs, Org mode, Literate Programming
+#+TITLE: bash: update_terminal_cwd: command not found resolution
 
 When you run =Bash= under ~shell~ in =Emacs= on =macOS= then ~update_terminal_cwd~ is
 never defined and after every command you get the error message

@@ -3,9 +3,9 @@
 #+POSTID: 10752
 #+DATE: [2018-03-18 Sun 17:57]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Article
-#+TAGS: Programming Language, Bash
-#+TITLE: (Bash) You Are Using rsync Incorrectly And You Will Lose Everything Unless You Read This Now!
+#+CATEGORY: System Administration
+#+TAGS: System Administration, Rsync
+#+TITLE: You Are Using rsync Incorrectly And You Will Lose Everything Unless You Read This Now!
 
 [[https://rsync.samba.org/][rsync]] is generous in its functionality and flexible in how you use it. The
 only bad things it can do are what /you/ tell it. The most important thing that

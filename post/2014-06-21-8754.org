@@ -2,18 +2,16 @@
 #+POSTID: 8754
 #+DATE: [2014-06-21 Sat 17:38]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
-#+CATEGORY: Link
-#+TAGS: OSX, Utility, Shell, Bash
-#+TITLE: Update OSX 10.9 to use bash4
+#+CATEGORY: Programming Language,
+#+TAGS: Programming Language, Bash, macOS
+#+TITLE: Update macOS 10.9 to use Bash Version 4
 
 [[http://buddylindsey.com/upgrade-bash-to-4-on-os-x/][Source]].
 
 
-
-
+@@html:<!--more Example Below-->@@
 
 #+BEGIN_EXAMPLE
-    
 Script started on Sat Jun 21 12:25:07 2014
 ESC[~> echo $BASH_VERSION
 3.2.51(1)-release
@@ -58,7 +56,7 @@ ESC[1;34m==>ESC[1;39m SummaryESC[0m
 gcr@orion:~> /usr/local/bin/bash --versinESCESC[Kon
 GNU bash, version 4.3.18(1)-release (x86_64-apple-darwin13.2.0)
 Copyright (C) 2013 Free Software Foundation, Inc.
-License GPLv3+: GNU GPL version 3 or later 
+License GPLv3+: GNU GPL version 3 or later
 
 This is free software; you are free to change and redistribute it.
 There is NO WARRANTY, to the extent permitted by law.
@@ -77,16 +75,11 @@ ESC[?1049hESC[?1hESC=ESC[1;25rESC[?12;25hESC[?12lESC[?25hESC[27mESC[mESC[HESC[2J
 /bin/tcsh
 /bin/zsh
 gcr@orion:~> chsh
-
 #+END_EXAMPLE
-
-
 
 Then login again
 
-
 #+BEGIN_EXAMPLE
-    
 gcr@orion:~> which bash
 /usr/local/bin/bash
 gcr@orion:~> echo $BASH-VESCESC[KESCESC[K_VERSION
@@ -94,13 +87,9 @@ gcr@orion:~> echo $BASH-VESCESC[KESCESC[K_VERSION
 gcr@orion:~> bash --version
 GNU bash, version 4.3.18(1)-release (x86_64-apple-darwin13.2.0)
 Copyright (C) 2013 Free Software Foundation, Inc.
-License GPLv3+: GNU GPL version 3 or later 
+License GPLv3+: GNU GPL version 3 or later
 
 This is free software; you are free to change and redistribute it.
 There is NO WARRANTY, to the extent permitted by law.
 gcr@orion:~> exit
-
 #+END_EXAMPLE
-
-
-

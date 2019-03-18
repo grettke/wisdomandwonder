@@ -2,9 +2,9 @@
 #+POSTID: 10699
 #+DATE: [2017-09-26 Tue 20:00]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Article
-#+TAGS: Programming Language, Bash
-#+TITLE: (Bash) Avoid Most Bash Errors Pretty Much By Quoting Everything, And More Best Practices
+#+CATEGORY: Programming Language,
+#+TAGS: Programming Language, Bash,
+#+TITLE: Avoid Most Bash Errors Pretty Much By Quoting Everything, And More Best Practices
 
 #+BEGIN_QUOTE
 [[http://mywiki.wooledge.org/BashPitfalls][This page]] shows common errors that Bash programmers make. These examples are

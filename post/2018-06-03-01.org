@@ -3,8 +3,8 @@
 #+POSTID: 10769
 #+DATE: [2018-06-03 Sun 00:37]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Article
-#+TAGS: Programming Language, Bash
+#+CATEGORY: System Administration,
+#+TAGS: System Administration, SSH, 
 #+TITLE: (Bash) SSH Into Host And Attach To Tmux Session
 
 #+name: org_gcr_2018-06-02T18-25-17-05-00_mara_75CE6FDB-6D14-40A1-A838-A5892ED8E638

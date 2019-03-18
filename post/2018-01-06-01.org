@@ -3,9 +3,9 @@
 #+POSTID: 10733
 #+DATE: [2018-01-06 Sat 01:58]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Article
-#+TAGS: macOS, Utility, Bash
-#+TITLE: (macOS+Bash) Find All Locations Of A Binary Using `type' not `which'
+#+CATEGORY: Programming Language,
+#+TAGS: Programming Language, Bash, macOS
+#+TITLE: Find All Locations Of A Binary Using `type' not `which'
 
 I can't find the ~git~ 2.10 binary so I run
 

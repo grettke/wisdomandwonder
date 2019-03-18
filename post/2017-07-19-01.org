@@ -3,8 +3,8 @@
 #+POSTID: 10608
 #+DATE: [2017-07-19 Wed 11:39]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Article
-#+TAGS: OSX, Utility, Shell, Bash
+#+CATEGORY: Programming Language,
+#+TAGS: Programming Language, Bash, macOS
 #+TITLE: Fix For When Bash Can't Find Its Debugger On macOS
 
 Sometimes Bash needs its debugger but it can't find it. It looks like this:

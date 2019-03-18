@@ -3,9 +3,9 @@
 #+POSTID: 10698
 #+DATE: [2017-09-26 Tue 17:17]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Article
+#+CATEGORY: Programming Language,
 #+TAGS: Programming Language, Bash
-#+TITLE: (Bash) ShellCheck, A Static Analysis Tool For Shell Scripts
+#+TITLE: ShellCheck, A Static Analysis Tool For Shell Scripts
 
 - Bash Programming Rules
   - Don't
