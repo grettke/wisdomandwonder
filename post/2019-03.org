@@ -33,3 +33,33 @@ example:
 - [[https://melpa.org/#/beginend][MELPA Package Name]]: ~beginend~
 
 # ./gif/beginend.gif https://www.wisdomandwonder.com/wp-content/uploads/2019/03/beginend.gif
+* In Bash—Pass Arguments From Function To Another
+:PROPERTIES:
+:BLOG:     wisdomandwonder
+:DATE: [2019-03-19 Tue 18:12]
+:OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+:CATEGORY: Programming Language,
+:POST_TAGS: programming-language, bash,
+:ID:       o2b:32C1A2AD-7D4F-4646-9EE6-1DBEA2BBCE2D
+:POST_DATE: [2019-03-19 Tue 18:24]
+:POSTID:   12234
+:END:
+
+When I'm good about using and re-using functions in Bash I /always/ end up
+passing arguments through from one function to another. For example:
+
+#+name: Function Passings Arguments To Another Function
+#+begin_src shell
+function pie {
+  open /Applications/Emacs.app --args --debug-init "$@"
+}
+
+function pienthm {
+  EMACSNOTHEME=t pie --reverse-video "$@"
+}
+#+end_src
+
+Horrible to admit but I keep forgetting the syntax even are taking copious
+notes on the [[https://www.gnu.org/software/bash/manual/][GNU Bash manual]].
+
+BTW: hear, hear to including Bash-isms in every shell script!
