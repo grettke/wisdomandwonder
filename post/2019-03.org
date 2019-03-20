@@ -1,4 +1,4 @@
-#+ORG2BLOG
+j#+ORG2BLOG
 
 * Go To The Logical Begin And End Of A Buffer's Content
 :PROPERTIES:
@@ -114,3 +114,44 @@ it if you are using [[https://jetpack.com/][Jetpack's]] [[https://jetpack.com/su
 }
 
 #+end_src
+
+* Customizing SyntaxHighlighter Evolved For Undefined Languages
+:PROPERTIES:
+:BLOG:     wisdomandwonder
+:DATE: [2019-03-19 Tue 21:17]
+:OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+:CATEGORY: Wisdom And Wonder,
+:POST_TAGS: wisdom-and-wonder, wordpress, emacs, org-mode,
+:ID:       o2b:9D4555C9-384E-43AE-B4D1-6BB1398CB31B
+:POST_DATE: [2019-03-19 Tue 21:58]
+:POSTID:   12266
+:END:
+
+SyntaxHighlighter Evolved supports [[https://en.support.wordpress.com/code/posting-source-code/][a lot]] of languages. It would be impossible
+to support all of them. Fortunately many languages are similar /enough/ to ones already
+supported by it. For example Common Lisp (not supported) is similar enough to
+Clojure (supported). Therefore you can alias Common Lisp to use
+Clojure's formatter.
+
+@@html:<!--more Here Is How-->@@
+
+1) Log into WordPress,
+1) Deactive the plugin
+1) Go through the menu system to
+1) Plugins, Plugin Editor, SyntaxHilighter Evolved, Select
+1) syntaxhighlighter/syntaxhighlighter.php
+1) Find the section where brush aliases are defined and add this to the end
+   #+name: Add Undefined Language Aliases
+   #+begin_src php
+   	'clisp'         => 'clojure',
+   	'elisp'         => 'clojure',
+   	'emacs-lisp'    => 'clojure',
+   	'lisp'          => 'clojure',
+   	'scheme'        => 'clojure',
+   	'sh'            => 'bash',
+   	'shell'         => 'bash',
+   #+end_src
+1) Save the change
+1) Activate the plugin
+
+Thank you [[http://blog.binchen.org/posts/how-to-use-org2blog-effectively-as-a-programmer.html][Chen Bin]] for sharing this!
