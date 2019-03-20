@@ -63,3 +63,54 @@ Horrible to admit but I keep forgetting the syntax even are taking copious
 notes on the [[https://www.gnu.org/software/bash/manual/][GNU Bash manual]].
 
 BTW: hear, hear to including Bash-isms in every shell script!
+
+* Customizing SyntaxHighlighter Evolved For Code
+:PROPERTIES:
+:BLOG:     wisdomandwonder
+:DATE: [2019-03-19 Tue 20:10]
+:OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+:CATEGORY: Wisdom And Wonder,
+:POST_TAGS: wisdom-and-wonder, wordpress,
+:ID:       o2b:67089D24-43B8-43F1-BEF9-7BD9C8635C00
+:POST_DATE: [2019-03-19 Tue 20:14]
+:POSTID:   12247
+:END:
+
+
+
+[[https://wordpress.org/plugins/syntaxhighlighter/][SyntaxHighlighter Evolved]] is brilliant. Its text is too skinny for my eyes
+though. [[http://blog.tawfiq.me/changing-the-font-size-line-height-and-code-box-padding-of-syntaxhighlighter-evolved-plugin/][Here]] is a fix though thank you very much Tawfiq. It is easy to apply
+it if you are using [[https://jetpack.com/][Jetpack's]] [[https://jetpack.com/support/custom-css/][Custom CSS]] feature.
+
+@@html:<!--more Custom CSS Follows-->@@
+
+#+name: SyntaxHighlighter Evolved Custom CSS
+#+begin_src  css
+/* font-size */
+.syntaxhighlighter a,
+.syntaxhighlighter div,
+.syntaxhighlighter code,
+.syntaxhighlighter table,
+.syntaxhighlighter table td,
+.syntaxhighlighter table tr,
+.syntaxhighlighter table tbody,
+.syntaxhighlighter table thead,
+.syntaxhighlighter table caption,
+.syntaxhighlighter textarea {
+    font-size: 14px !important;
+}
+
+/* top and bottom padding in code box */
+.syntaxhighlighter {
+    padding: 1em 0 !important;
+}
+
+/* increase line number and code line height */
+.syntaxhighlighter table td.gutter .line {
+    padding: 3px 0.5em 3px 1em !important;
+}
+.syntaxhighlighter table td.code .line {
+    padding: 3px 1em !important;
+}
+
+#+end_src
