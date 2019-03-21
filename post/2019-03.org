@@ -155,3 +155,42 @@ Clojure's formatter.
 1) Activate the plugin
 
 Thank you [[http://blog.binchen.org/posts/how-to-use-org2blog-effectively-as-a-programmer.html][Chen Bin]] for sharing this!
+
+* VIM Changes Acronym to "VIM Imitates eMacs"
+:PROPERTIES:
+:BLOG:     wisdomandwonder
+:DATE: [2019-03-21 Thu 07:09]
+:OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+:CATEGORY: Emacs,
+:POST_TAGS: emacs
+:ID:       o2b:3F021C4E-E80A-4DD4-AA13-A91835F0023D
+:POST_DATE: [2019-03-21 Thu 07:26]
+:POSTID:   12271
+:END:
+
+
+
+[[https://en.wikipedia.org/wiki/Vi][VI]] is the second editor that I learned. The six commands that I use in it will
+always be dear to me. Twenty-five years have passed, I still use the same six
+commands. The landscape has changed a lot though: [[https://en.wikipedia.org/wiki/Vim_(text_editor)][VIM]] has taken VI into the
+stratosphere.
+
+@@html:<!--more Read more-->@@
+
+My buddy showed me how he uses VIM. It has plugin equivalents that every
+Emacser would recognize: multiple cursors, regex style file and command completion, modeline,
+tree browser, code-completion, project defintions, most recently used files,
+=ag= integration, jump to character,  region expansion, undo history visualization, and kill ring.
+Even cooler is that he runs it all in [[https://en.wikipedia.org/wiki/Tmux][Tmux]] so from my perspective he adds even
+more to VIM. Even better is the synergy (:P) between VIM and Emacs. All of the
+features I listed either started in Emacs or VIM and were duplicated. That is great to see the feature cross pollination.
+
+After demonstrating all of these cool features I remarked:
+
+"So—VIM doesn't stand for VI iMproved any more. Now it stands for VIM Imitates
+eMacs, cool!"
+
+A cool icy silence filled the work-space.
+
+I ran ~M-x butterfly~ and we both smiled as VIM and Emacs converge.
+
