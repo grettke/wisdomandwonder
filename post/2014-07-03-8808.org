@@ -2,8 +2,8 @@
 #+POSTID: 8808
 #+DATE: [2014-07-03 Thu 01:43]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
-#+CATEGORY: Article
-#+TAGS: Font, HTML, Usability, User experience, User experience design, Word wide web
+#+CATEGORY: Text,
+#+TAGS: Text, Font, Unicode
 #+TITLE: How To Choose A Font
 
 Every computer-user has a different strategy for choosing the best font for
@@ -23,7 +23,7 @@ involved in font selection.
 This might be interesting for programmers,  UX people and probably every
 computer user out there.
 
-#+HTML: <!--more-->
+#+HTML: <!--Details Follow -->
 
 * [[http://thenextweb.com/dd/2011/03/02/whats-the-most-readable-font-for-the-screen/][What's the most readable font for the screen?]]
 
