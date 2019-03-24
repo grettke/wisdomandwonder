@@ -19,7 +19,6 @@ set ~shopt -s extdebug~. Another example is when your [[https://gitlab.com/gnach
 
 Here is the fix that worked on my box:
 
-#+NAME: org_gcr_2017-07-18_mara_6E52FCE7-8639-40A3-AD11-AC37D3D87AE3
 #+BEGIN_SRC sh
 brew install bashdb
 bashhome=$(brew --prefix bash)

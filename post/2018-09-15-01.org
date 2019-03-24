@@ -8,15 +8,14 @@
 #+TITLE: bash: update_terminal_cwd: command not found resolution
 
 When you run =Bash= under ~shell~ in =Emacs= on =macOS= then ~update_terminal_cwd~ is
-never defined and after every command you get the error message
-=bash: update_terminal_cwd: command not found= making the shell
-unusable.
+never defined and after every command you get the error message =bash:
+update_terminal_cwd: command not found= making the shell unusable.
 
 The simplest solution is to define ~update_terminal_cwd~ when it isn't defined.
 
 Here is the code:
 
-#+name: org_gcr_2018-09-15T00-32-28-05-00_cosmicality_68572F75-85C3-41CE-BF9A-08FF3CD31519
+#+name: Handle missing update_terminal_cwd
 #+begin_src sh
 if [ -z "$(type -t update_terminal_cwd)" ] || [ "$(type -t update_terminal_cwd)" != "function" ]; then
   update_terminal_cwd() {

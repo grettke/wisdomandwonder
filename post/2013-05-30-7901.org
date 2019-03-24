@@ -16,14 +16,13 @@ embedded in the document.
 #+END_QUOTE
 
 My current approach is to use multiple languages, build scripts, intermediate
-files to share data, and finally weaving it together inside of LaTeX. The
+files to share data, and finally weave it together inside of LaTeX. The
 babel way looks intriguing, with excellent support (via Emacs modes) for
 numerous languages. Very exciting.
 
-
 *2014-02-14*
 
-[[http://www.jstatsoft.org/v46/i03][Here]] is a writeup that may speak to readers in a way good for them to hear it.
+[[http://www.jstatsoft.org/v46/i03][This]] paper might pique your interest. 
 
 
 

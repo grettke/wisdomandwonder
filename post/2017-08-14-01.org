@@ -4,7 +4,7 @@
 #+DATE: [2017-08-14 Mon 21:29]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Emacs
-#+TAGS: Emacs, Org2Blog, Org mode, latex, 
+#+TAGS: Emacs, Org2Blog, Org mode, latex,
 #+TITLE: MathJax Support In Org2Blog
 
 [mathjax]
@@ -14,8 +14,8 @@
 Thank you Jon for showing how to set this up in [[http://irreal.org/blog/?p=3018][this post]] and [[http://irreal.org/blog/?p=3048][this post]] and
 [[http://irreal.org/blog/?p=6861][this post]].
 
-The only addition is that [[https://github.com/org2blog/org2blog#mathjax-support][these instructions]] uses a more
-actively maintained plugin.
+The only addition is that [[https://github.com/org2blog/org2blog#mathjax-support][these instructions]] uses a more actively maintained
+plugin.
 
 - Test it out using these ([[https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference][and more]]) examples
   - The word LaTeX *in Math Mode* (notice the italics)

@@ -25,3 +25,5 @@ Why not use Python instead? :)
 Oh yea, ~non-interactive shells~ 😠.
 
 More on [[http://mywiki.wooledge.org/Quotes][Quotes]] and [[http://mywiki.wooledge.org/WordSplitting][Word Splitting]].
+
+#  LocalWords:  WordSplitting

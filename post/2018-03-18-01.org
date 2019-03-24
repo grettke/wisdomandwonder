@@ -12,7 +12,7 @@ only bad things it can do are what /you/ tell it. The most important thing that
 you need to know *immediately* about ~rsync~ is that you can get a preview of what
 you are telling it to do /before/ it actually does it. Here is how
 
-#+HTML: <!--more-->
+@@html:<!--more Read more-->@@
 
 - First: Read the [[https://download.samba.org/pub/rsync/rsync.html][man]] page three times.
   - Read one: You will feel a little overwhelmed

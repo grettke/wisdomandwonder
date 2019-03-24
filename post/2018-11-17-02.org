@@ -10,7 +10,7 @@
 If you want to lock and unlock your files from the command line using Finder
 instead of using ~chmod~ there here are two aliases to do it:
 
-#+name: org_gcr_2018-11-16T21-54-40-06-00_cosmicality_F5DC4FBD-4D26-42F1-856F-ADD0F2C98168
+#+name: Locking Aliases
 #+begin_src sh
 alias flock='chflags -R uchg'
 alias funlock='chflags -R nouchg'

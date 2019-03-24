@@ -9,12 +9,12 @@
 
 I can't find the ~git~ 2.10 binary so I run
 
-#+NAME: org_gcr_2018-01-06_mara_69ABC15C-36F7-41BF-A371-74BB2151435A
+#+NAME: Where is Git?
 #+BEGIN_SRC sh
 which git
 #+END_SRC
 
-#+RESULTS: org_gcr_2018-01-06_mara_69ABC15C-36F7-41BF-A371-74BB2151435A
+#+RESULTS: Where is Git?
 #+BEGIN_EXAMPLE
 /usr/local/bin/git
 #+END_EXAMPLE
@@ -23,14 +23,14 @@ Excellent, found it.
 
 And then I check it's version to verify I am looking at the right version
 
-#+NAME: org_gcr_2018-01-06_mara_9700318B-01A1-4B82-818B-333B3D3909DE
+#+NAME: What is Git's version?
 #+BEGIN_SRC sh
 /usr/local/bin/git --version
 #+END_SRC
 
-#+RESULTS: org_gcr_2018-01-06_mara_9700318B-01A1-4B82-818B-333B3D3909DE
+#+RESULTS: What is Git's version?
 #+BEGIN_EXAMPLE
-git version 2.15.1
+git version 2.21.0
 #+END_EXAMPLE
 
 Oops that isn't what I wanted.
@@ -39,12 +39,12 @@ There must be another ~git~ getting loaded earlier in the search path.
 
 Here is how to find out where /all/ copies of ~git~ live
 
-#+NAME: org_gcr_2018-01-06_mara_E19D5B7C-7919-4D69-86B3-6A8A2654F5C3
+#+NAME: Show every Git out there
 #+BEGIN_SRC sh
 type -a git
 #+END_SRC
 
-#+RESULTS: org_gcr_2018-01-06_mara_E19D5B7C-7919-4D69-86B3-6A8A2654F5C3
+#+RESULTS: Show every Git out there
 #+BEGIN_EXAMPLE
 git is /usr/local/bin/git
 git is /usr/local/bin/git
@@ -53,16 +53,16 @@ git is /usr/bin/git
 
 Look for the right ~git~ at version 2.10
 
-#+NAME: org_gcr_2018-01-06_mara_AFF0427B-55A4-4B0F-96C7-16AB4A9A478F
+#+NAME: Check all Git versions
 #+BEGIN_SRC sh
 /usr/local/bin/git --version
 /usr/bin/git --version
 #+END_SRC
 
-#+RESULTS: org_gcr_2018-01-06_mara_AFF0427B-55A4-4B0F-96C7-16AB4A9A478F
+#+RESULTS: Check all Git versions
 #+BEGIN_EXAMPLE
-git version 2.15.1
-git version 2.10.1 (Apple Git-78)
+git version 2.21.0
+git version 2.14.3 (Apple Git-98)
 #+END_EXAMPLE
 
 I want the second one.

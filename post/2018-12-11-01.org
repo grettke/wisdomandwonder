@@ -6,7 +6,7 @@
 #+CATEGORY: Emacs
 #+TAGS: Emacs, Org mode, Literate Programming
 #+TITLE: HELP: Yet Another Literate Emacs Configuration!
-
+ 
 HELP is the culmination of everything that I've learned about literate
 programming (LP) in Org-Mode—written with the intent to share it with others
 in total and complete respect and consideration of you and the value of your
