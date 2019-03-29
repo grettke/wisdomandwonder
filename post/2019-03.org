@@ -1,4 +1,4 @@
-j#+ORG2BLOG
+#+ORG2BLOG
 
 * Go To The Logical Begin And End Of A Buffer's Content
 :PROPERTIES:
@@ -168,8 +168,6 @@ Thank you [[http://blog.binchen.org/posts/how-to-use-org2blog-effectively-as-a-p
 :POSTID:   12271
 :END:
 
-
-
 [[https://en.wikipedia.org/wiki/Vi][VI]] is the second editor that I learned. The six commands that I use in it will
 always be dear to me. Twenty-five years have passed, I still use the same six
 commands. The landscape has changed a lot though: [[https://en.wikipedia.org/wiki/Vim_(text_editor)][VIM]] has taken VI into the
@@ -194,3 +192,136 @@ A cool icy silence filled the work-space.
 
 I ran ~M-x butterfly~ and we both smiled as VIM and Emacs converge.
 
+* Choosing A Monospace Font: 2019-March
+:PROPERTIES:
+:BLOG: wisdomandwonder
+:DATE: [2019-03-24 Sun 00:19]
+:OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+:CATEGORY: Text
+:POST_TAGS: Text, Font, Unicode, Editor, Emacs
+:POSTID:   12298
+:ID:       o2b:868F763D-8024-4EB7-BF6D-A254B77B2419
+:POST_DATE: [2019-03-24 Sun 00:20]
+:END:
+
+On 2014/07/03 I wrote [[https://www.wisdomandwonder.com/text/8808/how-to-choose-a-font][How To Choose A Font]]. My font choice would get used
+mostly in a text editor, a web page, or a printed page. Based on notable
+information I ended up choosing [[https://dejavu-fonts.github.io/][DejaVu Sans Mono]]. Five years later I'm still
+in love with it.
+
+Right now though I've got important life-tasks that I need to complete, that I
+want to avoid. So it seemed like a great time to revisit my font choice.
+
+@@html:<!--more Read on-->@@
+
+** Strategy
+
+Just like five years ago there a lot of choices out there. Too many choices.
+It is easier to narrow them down by choosing a monospace font. But there are
+still too many to evaluate. Here are more criteria (in addition to the
+original) to hopefully make it simpler:
+
+- Lots of momentum behind it: lots of users vouching for it
+- Unicode support is huge
+- Thoughtful blog posts praise the font
+- Zero Cost
+- Looks good using the [[https://github.com/martinus/programming-font-test-pattern][programming-font-test-pattern]]. It is the fastest way to review
+  a programming font:
+
+#+begin_export html
+<pre>
+o0O s5S z2Z !|l1Iij {([|})] .,;: ``''"" www
+a@#* vVuUwW <>;^°=-~ öÖüÜäÄßµ \/\/ -- == __
+the quick brown fox jumps over the lazy dog
+THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
+0123456789 &-+@ for (int i=0; i<=j; ++i) {}
+</pre>
+#+end_export
+
+From there I'm going to choose five
+and dig a little deeper.
+
+** Resources
+
+- Blog Post Source Material
+  - [[https://blog.checkio.org/top-10-most-popular-coding-fonts-5f6e65282266][10 most popular coding fonts]], Sep 5, 2017
+  - [[https://rsms.me/monaco-inconsolata-and-panic-sans][Monaco, Inconsolata and Panic Sans]], Jun 11, 2007
+  - [[https://itnext.io/11-best-programming-fonts-724283a9ed57][11 Best Programming Fonts]], May 15, 2018
+  - [[http://www.programmingfonts.com/][programming-fonts-collection]], last commit Jan 13, 2019
+  - [[https://opensource.com/article/17/11/how-select-open-source-programming-font][5 open source fonts ideal for programming]], Nov 17, 2017
+  - [[https://www.developer-tech.com/news/2018/may/16/10-best-fonts-programming/][The 10 best fonts for programming: A guide]], May 16, 2018
+
+** Reactions
+
+The first five fonts that I added to my list were all related via the DejaVu
+Sans lineage so I didn't learn anything new there. However I chose one that
+seemed to be the best variant.
+
+The next ten were notably different and I reduced that list down to five.
+
+Here are the contenders:
+
+- [[https://fonts.google.com/specimen/Fira+Mono][Fira Mono]]
+- [[https://www.marksimonson.com/fonts/view/anonymous-pro][Anonymous Pro]]
+- [[https://adobe-fonts.github.io/source-code-pro/][Source Code Pro]]
+- [[https://github.com/source-foundry/Hack][Hack]]
+- [[https://dejavu-fonts.github.io/][DejaVu]] (my current favorite)
+
+** Evaluation
+
+The animation changes to the next
+font every two seconds. This
+provides two good evaluation
+approaches. The first is to just
+observe the entire body of the text.
+Without having to think about it you
+will notice how the shape changes
+and have a reaction to that. Second,
+again without having to think about
+it, individual areas will jump out
+at you. Focus on them as the video
+progresses. Continue to scan for
+areas that jump out and watch them
+cycle. That will give a better
+feel for the fonts. Take your time.
+
+*** Top 5
+
+[[./gif/top5.gif]]
+
+Watch it for a while.
+
+All of them are impressive.
+
+Fira and Anonymous Pro stand out as the most different from my preference (not
+very different though). The other three are closer to Deja Vu, and their
+documentation already spells that out so no surprise.
+
+*** Top 2
+
+[[./gif/top2.gif]]
+
+I stuck close to Deja Vu, so I only had to choose from three of the top five.
+
+I already liked Deja Vu Sans Mono and so it was cool to find similar but
+different enough versions of it (albeit only two but that was enough).
+Ultimately I ended up comparing Deja Vu Sans Mono with Hack.
+
+Between them there are not a ton of changes between it and Hack but they are
+noticeable. Hack makes the font a little more human to me: it is easier to
+read and feels a little warmer and friendlier. Maybe the only noticeable
+things are the sort of similarity between "l" and "i", the "0" feels very
+different, and the parens are centered. None of them are showstoppers however.
+
+** Decision
+
+Hack is the winner 😄😮.
+
+It is a small but worthwhile change.
+
+Can't wait to see how it pans out for the next five years.
+
+What are your top three programming fonts?
+
+# ./gif/top5.gif https://www.wisdomandwonder.com/wp-content/uploads/2019/03/top5.gif
+# ./gif/top2.gif https://www.wisdomandwonder.com/wp-content/uploads/2019/03/top2.gif
