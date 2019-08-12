@@ -1,0 +1,27 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 12746
+#+ORG2BLOG:
+#+DATE: [2019-08-12 Mon 11:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Emacs,
+#+TAGS: Org2Blog, Org mode, WordPress
+#+TITLE: Interested in testing Org2Blog v1.1.0?
+
+Org2Blog v1.1.0 has some improvements to it. The README has a lot more in it.
+There is a user interface (Hydra) now that makes all of the features very
+visible and easy to use. Some code was refactored and some features were
+implemented and completed. There are a a lot more status and other messages to
+help make sense of what the application is doing. There is a [[https://github.com/org2blog/org2blog/blob/v1.1.0/docs/TestPlan.org][Test Plan]] and
+notes about [[https://github.com/org2blog/org2blog/blob/v1.1.0/docs/CONTRIBUTING.org][Contributing]].
+
+Tonight I finished coding and testing [[https://github.com/org2blog/org2blog/tree/v1.1.0][Org2Blog 1.1.0]] as far as I can take it.
+You know the point where you lose the ability to see the artifacts anymore?
+That is where I am. Everything seems to work, I've been using it and "it works
+on my computer" lol. It is ready for folks that feel like trying out the new
+version. Folks who are patient and curious and pretty OK with bugs ranging
+from the dumb to the painful along with suggesting improvements for better
+documentation and even new functionality might enjoy this sort of thing.
+
+The source code is [[https://github.com/org2blog/org2blog/tree/v1.1.0][here]]. If you want to try it out from a package [[https://www.wisdomandwonder.com/?attachment_id=12748][here]] is the
+latest build.
+
