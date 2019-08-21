@@ -4,8 +4,8 @@
 #+DATE: [2019-08-12 Mon 11:51]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Emacs,
-#+TAGS: Org2Blog, Org mode, WordPress
-#+TITLE: Interested in testing Org2Blog v1.1.0?
+#+TAGS: Org2Blog, Org mode, WordPress, Emacs, 
+#+TITLE: Interested in testing Org2Blog v1.1.0?/f1
 
 Org2Blog v1.1.0 has some improvements to it. The README has a lot more in it.
 There is a user interface (Hydra) now that makes all of the features very
