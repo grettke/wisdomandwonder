@@ -4,13 +4,13 @@
 #+DATE: [2019-08-12 Mon 11:51]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Emacs,
-#+TAGS: Org2Blog, Org mode, WordPress, Emacs, 
-#+TITLE: Interested in testing Org2Blog v1.1.0?/f1
+#+TAGS: Org2Blog, Org mode, WordPress, Emacs,
+#+TITLE: Interested in testing Org2Blog v1.1.0?
 
 Org2Blog v1.1.0 has some improvements to it. The README has a lot more in it.
 There is a user interface (Hydra) now that makes all of the features very
 visible and easy to use. Some code was refactored and some features were
-implemented and completed. There are a a lot more status and other messages to
+implemented and completed. There are a lot more status and other messages to
 help make sense of what the application is doing. There is a [[https://github.com/org2blog/org2blog/blob/v1.1.0/docs/TestPlan.org][Test Plan]] and
 notes about [[https://github.com/org2blog/org2blog/blob/v1.1.0/docs/CONTRIBUTING.org][Contributing]].
 
