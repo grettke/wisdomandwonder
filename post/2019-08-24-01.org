@@ -1,0 +1,16 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 12753
+#+ORG2BLOG:
+#+DATE: [2019-08-24 Sat 21:43]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Emacs,
+#+TAGS: Emacs,
+#+TITLE: How To Disable Global Eldoc Mode
+
+[[https://emacsredux.com/blog/2018/11/13/eldoc-goes-global/][This explains]] how to disable global Eldoc mode
+
+#+name: Remember to require eldoc first
+#+BEGIN_SRC emacs-lisp
+(require 'eldoc)
+(global-eldoc-mode -1)
+#+END_SRC
