@@ -1,0 +1,19 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 12786
+#+ORG2BLOG:
+#+DATE: [2019-09-07 Sat 22:59]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Happiness,
+#+TAGS: Happiness,
+#+TITLE: Superman's Sage Advice
+
+#+BEGIN_QUOTE
+Seeking isn't about finding perfection, it's about finding who you are and
+your reason for being here in the world. Just being you is your superpower.
+
+-- Superman
+#+END_QUOTE
+
+#+BEGIN_EXPORT html
+<a href="https://www.wisdomandwonder.com/wp-content/uploads/2019/09/supermanheartbeat.jpg"><img src="https://www.wisdomandwonder.com/wp-content/uploads/2019/09/supermanheartbeat-150x150.jpg" alt="" width="150" height="150" class="aligncenter size-thumbnail wp-image-12788" /></a>
+#+END_EXPORT
