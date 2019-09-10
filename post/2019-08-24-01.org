@@ -10,7 +10,7 @@
 [[https://emacsredux.com/blog/2018/11/13/eldoc-goes-global/][This explains]] how to disable global Eldoc mode
 
 #+caption: Remember to include the package first
-#+name: Eldoc
+#+name: Eld
 #+BEGIN_SRC emacs-lisp
 (require 'eldoc)
 (global-eldoc-mode -1)
