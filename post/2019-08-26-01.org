@@ -1,0 +1,34 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 12783
+#+ORG2BLOG:
+#+DATE: [2019-08-26 Mon 20:02]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Emacs,
+#+TAGS: Emacs,
+#+TITLE: Is `with-eval-after-load' Always A Bad Idea?
+
+No,
+
+@@html:<!--more but...-->@@
+
+It usually is.
+
+My own experience has only been to use it when I don't understand the load
+order and want to "just make it work". Very pragmatic and in the long run it
+has to change.
+
+According to [[https://www.gnu.org/software/emacs/manual/html_node/elisp/Hooks-for-Loading.html][the manual]]:
+
+#+BEGIN_QUOTE
+Normally, well-designed Lisp programs should not use ~with-eval-after-load~.
+#+END_QUOTE
+
+Its great to be normal.
+
+
+*Addendum: 2019-09-09*
+
+Thank you Phil for pointing out the inaccuracy in this post. I'd written the
+wrong thing down and it totally changed the meaning of the post. The title had
+been "Is Are Load Hooks Always A Bad Idea?" and I changed it to
+"Is `with-eval-after-load' Always A Bad Idea?"
