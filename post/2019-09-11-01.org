@@ -7,15 +7,15 @@
 #+TAGS: Org2Blog, Org mode, WordPress, Emacs,
 #+TITLE: Try Out Org2Blog v1.1.0 Using This Package
 
-Right now you can't try out an Org2Blog v1.1.0 package from MELPA because it
+Right now you can't try out an [[https://github.com/org2blog/org2blog/tree/v1.1.0][Org2Blog v1.1.0]] package from MELPA because it
 isn't yet building using Org2Blog's new recipe. Eventually the pull request
 will get merged. Once it does I will push the changes. However, you can still
-try out v1.1.0 using a package.
+try out [[https://github.com/org2blog/org2blog/tree/v1.1.0][v1.1.0]] using a package.
 
-If you've been waiting to try Org2Blog v1.1.0 using a package then you can
-download it [[https://github.com/org2blog/org2blog/blob/v1.1.0/package/org2blog-master.tar][here]]. After downloading it you can install it from Emacs by typing
-~M-x package-install-file~ and then choosing the file =org2blog-master.tar= you
-just downloaded.
+If you've been waiting to try [[https://github.com/org2blog/org2blog/tree/v1.1.0][Org2Blog v1.1.0]] using a package then you can
+download it [[https://github.com/org2blog/org2blog/tree/v1.1.0/package][here]] just download the tar file. After downloading it you can
+install it from Emacs by typing ~M-x package-install-file~ and then choosing the
+file =org2blog-master.tar= you just downloaded.
 
 The package manager /should/ install the required packages but if it doesn't it
 will warn you and you can manually install them. Depending on how you
