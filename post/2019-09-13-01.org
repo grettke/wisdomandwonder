@@ -1,0 +1,16 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 12797
+#+ORG2BLOG:
+#+DATE: [2019-09-13 Fri 11:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Happiness,
+#+TAGS: Birthday
+#+TITLE: Celebrating Your Hitchhiker's Guide to the Galaxy Birthday Year
+
+Just occurred to me today that as of last May I'm celebrating my
+[[https://en.wikipedia.org/wiki/The_Hitchhiker%2527s_Guide_to_the_Galaxy][Hitchhiker's Guide to the Galaxy]] birthday year [[https://en.wikipedia.org/wiki/42_(number)][#42]].
+
+To all sci-fi fanatics, writers, hackers, composers, burners, Deadheads,
+Emacsers, VIMmers, Sādhakas, seekers, survivors, and more:
+
+What a fine well and good excuse to have some fun this year.
