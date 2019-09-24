@@ -2,13 +2,17 @@
 #+POSTID: 5845
 #+DATE: [2011-06-28 Tue 01:56]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
-#+CATEGORY: Link
-#+TAGS: Reproducible research, Research, Utility, TeX
+#+CATEGORY: Writing
+#+TAGS: Writing, Reproducible research, Research, Utility, TeX, LaTeX, BibTeX
 #+TITLE: Managing bibliography references with JabRef
 
 #+BEGIN_QUOTE
-  [[http://jabref.sourceforge.net/][JabRef]]is an open source bibliography reference manager. The native file format used by JabRef is BibTeX, the standard LaTeX bibliography format. JabRef runs on the Java VM (version 1.5 or newer), and should work equally well on Windows, Linux and Mac OS X.
+[[http://jabref.sourceforge.net/][JabRef ]]is an open source bibliography reference manager. The native file format
+used by JabRef is BibTeX, the standard LaTeX bibliography format. JabRef runs
+on the Java VM (version 1.5 or newer), and should work equally well on
+Windows, Linux and Mac OS X.
 #+END_QUOTE
 
+*Addendum: 2019-09-24*
 
-
+JabRef continues to be an excellent bibliography manager.
