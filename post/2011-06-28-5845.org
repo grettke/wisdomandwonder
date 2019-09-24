@@ -3,7 +3,7 @@
 #+DATE: [2011-06-28 Tue 01:56]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
 #+CATEGORY: Writing
-#+TAGS: Writing, Reproducible research, Research, Utility, TeX, LaTeX, BibTeX
+#+TAGS: Writing, Reproducible research, Research, Utility, TeX, LaTeX, BibTeX, Emacs
 #+TITLE: Managing bibliography references with JabRef
 
 #+BEGIN_QUOTE
@@ -16,3 +16,6 @@ Windows, Linux and Mac OS X.
 *Addendum: 2019-09-24*
 
 JabRef continues to be an excellent bibliography manager.
+
+Using BibTeX as the master database and JabRef to populate, manage, and export
+from it has been really nice.
