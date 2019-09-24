@@ -18,4 +18,5 @@ Windows, Linux and Mac OS X.
 JabRef continues to be an excellent bibliography manager.
 
 Using BibTeX as the master database and JabRef to populate, manage, and export
-from it has been really nice.
+from it has been really nice. The key has been letting Emacs manage the keys
+and sorting.
