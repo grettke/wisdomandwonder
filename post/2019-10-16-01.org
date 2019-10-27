@@ -1,22 +1,10 @@
 #+BLOG: wisdomandwonder
-#+POSTID: 12835
+#+POSTID: 12839
 #+ORG2BLOG:
-#+DATE: [2019-10-16 Wed 14:52]
+#+DATE: [2019-10-16 Wed 22:56]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: System Administration,
-#+TAGS: macOS, Brew, Emacs
-#+TITLE: macOS 12 Sierra Brew Users: Read This Before Updating Anything
+#+CATEGORY: Emacs
+#+TAGS: Emacs
+#+TITLE: Use all of Emacs's modifiers on macOS with various keyboards.
 
-When I update Brew I minimize the terminal window so I can work on something else while it is running. Every so often I check to see if it finished. Then I read through the history to see if there is any work I need to perform by hand. For example sometimes Brew can't link things and other times the package won't even install. This has always worked well. Today I had a funny surprise though.
-
-@@html:<!--more-->@@
-
-The first message in the history says something like "FYI Brew no longer supports macOS 10.12 Sierra so if anything I install breaks right now well you are out of luck if things break you are going to have to deal with it". That is fine with me. They can't support old versions of macOS forever. The next message says "Now I'm going to update 27 packages including some heavy hitters like =gcc= and some network libraries". And it dutifully proceeds to update all of them. Couldn't you have asked me first if I wanted to continue with the update? Hahaha what?!
-
-Next time you run Brew maybe check first if it is going to install software that might not even work anymore. This might sound like fear-mongering but if you screw up your Brew installation it won't be fun to get it back: I've gone through that and it costs a lot of your time.
-
-Seriously:
-
-Next time you run Brew maybe check first if it is going to install software that might not even work anymore. The easiest way to do that is to pin all of your software when it is working right for you. Big hassle but easier to control what definitely works and might not work. You don't really run into this problem if you are always on the bleeding edge. For some of us though it helps a lot to stay a version or two behind.
-
-By the way if there is a configuration flag to force prompting whether to continue or not, please share it.
+When non-Emacs users observe Emacs users laboring over their key binding configuration their typical range of reactions include finding it to be interesting, surprising, remarkable, strange, weird, incredible, striking, bizarre, deviant, eccentric, freakish, monstrous, incomprehensible, inconceivable, incredible, unimaginable, and unthinkable. With that range reactions in mind it is self-evident that if you are reading this then you already know /why/ you want to use more of the Emacs's modifier keys you just want to know /how/. The purpose of [[https://github.com/grettke/maccadet][this]] project is to capture /one/ way of using all of Emacs's modifier keys.X

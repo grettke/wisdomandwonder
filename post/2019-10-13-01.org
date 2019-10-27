@@ -1,0 +1,38 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 12825
+#+ORG2BLOG:
+#+BLOG: wisdomandwonder
+#+DATE: [2019-10-13 Sun 18:22]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Emacs,
+#+TAGS: Org2Blog, Org mode, WordPress, Emacs,
+#+TITLE: Just Released Org2Blog v1.1.0
+
+I just released Org2Blog v1.1.0.
+
+@@html:<!--more-->@@
+
+Here are the release notes for bloggers:
+
+- Adds a simple and powerful user interface exposing every aspect of
+  Org2Blog—many of which you may never have known even existed before.
+  - Use the one-keypress help menu to look up the documentation behind every
+    menu entry along with the function name behind it if you want to bind it
+    to a key.
+- Includes the manual built-in to the application. It is the README.org so you
+  don't have to go to the web page to read it.
+- Expands on and revises every aspect of documentation including explanations
+  and screenshots.
+  - Blogging styles and strategies covered range from first-time blogging to
+    advanced use with multiple blogs and diverse workflows.
+- Adds an API for automating bulk import of Org files when you want to move
+  from another Org based blogging platform to Org2Blog.
+- Added a new logo:
+  - A WordPress operator's inky hand, colored by Org mode, cradles a special
+    press plate for Org2Blog: Org2Blog's first logo. Thank you Cari at
+    [[http://sepiarainbow.com/][Sepia Rainbow Designs]] for this brilliant logo.
+- Adds a built-in README with links to learn more about this project, how to
+  start having fun blogging, and even how Free Software is critical to you as
+  a user and society as a whole.
+
+For developers and maintainers [[https://github.com/org2blog/org2blog/blob/master/HISTORY.org][here]] are more.
