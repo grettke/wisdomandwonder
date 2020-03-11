@@ -1,0 +1,35 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 12969
+#+ORG2BLOG:
+#+DATE: [2020-03-02 Mon 20:57]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Entry
+#+TAGS: Org2Blog, Org mode, WordPress, Emacs,
+#+TITLE: Org2Blog v1.1.(1-8) Updates Overview
+
+Since its v1.1.0 release on 2019-10-13 there've been enough updates that are worth reviewing if you haven't already:
+
+@@html:<!--more-->@@
+
+Here are the changes in order of impact:
+
+*New Features*
+
+- Default Tag values are now configurable. Categories already were and Tags now work the same way.
+- Subtree Entries are made with a template now.
+- Added =FUTURE.org= to store ideas and requests for functionality that could be implemented in the future rather than leave them as open issues.
+
+*Corrections*
+
+- Automatic Image Uploading
+  - Now an Option, that is disabled by default. Normally a change that disables a feature would warrant a major version number change but not this time. The feature is for advanced users. Everyone else is likely to find the behavior confusing. Sorry for the hassle this imposes on current users.
+  - No longer uploads =A HREF= links. This behavior has prevented using relative blog links. In fact it prevented any kind of link.
+  - Greatly expanded documentation.
+- Load =subr-x=.
+- Remove "Listing" prefix ~ox-wp-src-block-shortcode~ and ~ox-wp-src-block-html~.
+- Correct listing format spacing in ~ox-wp-src-block-shortcode~ and ~ox-wp-src-block-html~.
+- Accidentally completely disabled publishing so re-enabled it. No biggie =O_O=.
+
+*Refactorings*
+
+- Standardized version numbers across Org2Blog, OX-WP, and MetaWeblog.
