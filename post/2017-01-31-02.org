@@ -3,8 +3,8 @@
 #+POSTID: 10507
 #+DATE: [2017-01-31 Tue 20:14]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Article
-#+TAGS: Radio, Amateur, Ham, APRS
+#+CATEGORY: Entry
+#+TAGS: Amateur radio
 #+TITLE: Shockingly Inexpensive Mobilinkd APRS Bluetooth TNC
 
 The [[http://www.mobilinkd.com/][Mobilinkd]] bluetooth APRS TNC is only $65USD and works from both APRSdroid

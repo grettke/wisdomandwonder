@@ -3,8 +3,8 @@
 #+POSTID: 10544
 #+DATE: [2017-04-11 Tue 21:08]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Article
-#+TAGS: Radio, Amateur, Ham
+#+CATEGORY: Entry
+#+TAGS: Amateur radio
 #+TITLE: Camping, Hiking and Talking To People Via Radio
 
 Check out [[https://www.youtube.com/watch?v=fokNeNvT1Ok&feature=youtu.be][this trip]] camping at a bunch of scenic locations.
