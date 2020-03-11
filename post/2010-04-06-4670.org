@@ -2,7 +2,7 @@
 #+POSTID: 4670
 #+DATE: [2010-04-06 Tue 15:43]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
-#+CATEGORY: Link
+#+CATEGORY: Entry, 
 #+TAGS: PLT, Programming Language, Scheme
 #+TITLE: Write Android and Webapps in PLT Scheme with Moby
 
