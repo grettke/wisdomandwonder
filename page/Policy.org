@@ -3,10 +3,10 @@
 #+DATE: [2016-05-28 Sat 15:08]
 #+TITLE: Privacy Policy
 
-- This site is a "notebook style" blog. Intending to capture my personal notes,
+- This site is a "notebook style" blog. Intending to capture my notes,
   it includes everything ranging from simple links and personal reflection to
   code, articles, and projects. Keeping to the "notebook style" blog approach,
-  if you find anything valuable here then I am happy to have shared it with
+  if you find anything valuable here, then I am happy to have shared it with
   you.
 - My pledge to you is that I am honest and open about both my intent and means
   by which I publish that content on this site
@@ -23,25 +23,24 @@
 # http://hrc-assets.s3-website-us-east-1.amazonaws.com//files/assets/resources/International_Business_Machines_Corp_-_2009_CEI_EEOPolicy.pdf
 
 - The user community gives life to this blog. They represent a talented and
-  diverse cross section of the world and it's interests. Achieving the full
+  diverse cross-section of the world, and it's interests. Achieving the full
   potential of this diversity is a priority that is fundamental to everyone's
-  success. A key vehicle for that success is this site's commitment to equal
+  success. An essential vehicle for that success is this site's commitment to equal
   opportunity.
-- Blogging activities such as reading, commenting, and sharing should be easily
-  conducted without regard to race, color, religion, gender, gender identity
+- Blogging activities such as reading, commenting, and sharing should be effortlessly conducted without regard to race, color, religion, gender, gender identity
   or expression, sexual orientation, national origin, genetics, disability, or
   age.
-- To the best of my ability, this blog both complies with and faciliates all
-  applicable laws in both letter and in spirit to make that happen
+- To the best of my ability, this blog both complies with and facilitates all
+  applicable laws in both letter and spirit to make that happen
 
 * Content Policy
 
 - The content on this site would most be of interest to adults
-- My nieces and nephews might read it some day, so I want it
+- My nieces and nephews might read it someday, so I want it
   accessible, pleasant, and safe for them, and *everyone else*, too
 - That applies to everyone operating at every cognitive level
-- To the best of my ability, this blog both complies with and faciliates all
-  applicable laws in both letter and in spirit to make that happen
+- To the best of my ability, this blog both complies with and facilitates all
+  applicable laws in both letter and spirit to make that happen
 
 # http://olkb.com/privacy/
 
@@ -60,20 +59,20 @@
 # http://john.do/privacy-policy/
 
 - What is "personally identifiable information (PII)" on this site?
-  - When you leave comments on this site you are prompted for
-    your name, email address, and optionally website URL, in addition to the
+  - When you leave comments on this site the following PII is collected:
+    your name, email address, maybe website URL, and
     comment that you are leaving. This is considered PII.
     - This non-sensitive personal data is your only data stored here
     - *I NEVER SHARE THIS WITH ANYONE*
-- Using [[https://analytics.google.com][Google Analytics]] I analyze and optimize your content and reading
+- Using [[https://analytics.google.com][Google Analytics,]] I analyze and optimize your content and reading
   experience through the use of cookies. [[https://policies.google.com/technologies/partner-sites][Here]] is how Google uses your
-  information and [[https://support.google.com/analytics/answer/6004245][here]] is how they protect it along with your confidentiality.
-- You can turn off the use of cookies at anytime by changing your specific
+  information, and [[https://support.google.com/analytics/answer/6004245][here]] is how they protect it along with your confidentiality.
+- You can turn off the use of cookies at any time by changing your specific
   browser settings.
 - I'm not responsible for republished content from this blog on other blogs or
   websites without my permission.
 - This privacy policy is subject to change without notice and was last updated
-  on 2019-01-28. If you have any questions then feel free to
+  on 2019-01-28. If you have any questions, then feel free to
   contact me directly here: grant@wisdomandwonder.com.
 
 ** California Online Privacy Protection Act
@@ -85,17 +84,15 @@
 - The law's reach stretches well beyond California to require a person or
   company in the United States (and conceivably the world) that operates
   websites collecting personally identifiable information from California
-  consumers to post a conspicuous privacy policy on its website stating
-  exactly the information being collected and those individuals with whom it
-  is being shared, and to comply with this policy.
-- See more [[http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf][here]]
+  consumers to post a conspicuous privacy policy on its website accurately stating the data being collected and those individuals with whom it
+  is being shared and to comply with this policy.
+- See more [[http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf][here]].
 
 *** According to CalOPPA I agree to the following
 
 - You can visit this site anonymously
-- Once this privacy policy is created, I will add a link to it on the home
-  page in the footer at the location [[http://www.wisdomandwonder.com/site-policy][Privacy Policy]]
-- You will be notified of any privacy policy changes on the privacy policy page
+- The footer of every page on this site contains a link to this [[http://www.wisdomandwonder.com/site-policy][Privacy Policy]].
+  - You will be notified of any privacy policy changes on the privacy policy page
 - If you have an account then you can change your personal information by
   logging in
 - This site does not do anything when it receives a "Do Not Track" message
@@ -125,9 +122,9 @@
 
 - I post Amazon Affiliate Links for products that I endorse
   #+begin_quote
-We are a participant in the Amazon Services LLC Associates Program, an
-affiliate advertising program designed to provide a means for us to earn fees
-by linking to Amazon.com and affiliated sites.
+  We are a participant in the Amazon Services LLC Associates Program, an
+  affiliate advertising program designed to provide a means for us to earn fees
+  by linking to Amazon.com and affiliated sites.
   #+end_quote
 
 ** Things Having Entirely to Do with the Server
@@ -135,7 +132,7 @@ by linking to Amazon.com and affiliated sites.
 *** Transport Layer Security (TLS) and Secure Sockets Layer (SSL)
 
 - This website is only available over a secure protocol increasing the
-  likelihood that when your site talks to my site it is /really/ your site
+  likelihood that when your site talks to my site, it is /really/ your site
   talking to my site
 
 *** Scanning
@@ -148,7 +145,7 @@ by linking to Amazon.com and affiliated sites.
 - Apache keeps access and error logs
 - The logs contain IP addresses of URLs requested
 - They are helpful to debug site errors and issues
-- The logs are private to me and I don't share them with anyone unless I am
+- The logs are private to me, and I don't share them with anyone unless I am
   legally required to do so
 - I keep them around for as long as is useful
 
