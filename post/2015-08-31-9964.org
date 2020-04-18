@@ -3,8 +3,8 @@
 #+POSTID: 9964
 #+DATE: [2015-08-31 Mon 15:50]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Article, Link
-#+TAGS: Science, Yoga, philosophy
+#+CATEGORY: Entry
+#+TAGS: Science, Yoga, philosophy, Health
 #+TITLE: New To Me Smoothie Recipe
 
 - 1 banana
