@@ -75,7 +75,7 @@
   on 2019-01-28. If you have any questions, then feel free to
   contact me directly here: grant@wisdomandwonder.com.
 
-** California Online Privacy Protection Act
+** California Online Privacy Protection Act (CalOPPA)
 
 - CalOPPA is the first state law in the nation to require commercial websites
   and online services to post a privacy policy
