@@ -3,8 +3,8 @@
 #+POSTID: 10520
 #+DATE: [2017-02-12 Sun 13:53]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Article
-#+TAGS: Radio, Amateur, Ham
+#+CATEGORY: Entry
+#+TAGS: Amateur radio
 #+TITLE: How To Get A Vanity Ham Radio Call-sign
 
 - Read [[http://www.ae7q.com/query/text/Vanity.php][this]] and [[http://www.arrl.org/applying-for-a-vanity-call][this]] for an overview with relevant links

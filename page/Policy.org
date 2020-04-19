@@ -3,159 +3,123 @@
 #+DATE: [2016-05-28 Sat 15:08]
 #+TITLE: Privacy Policy
 
-- This site is a "notebook style" blog. Intending to capture my personal notes,
+- This site is a "notebook style" blog. Intending to capture my notes,
   it includes everything ranging from simple links and personal reflection to
   code, articles, and projects. Keeping to the "notebook style" blog approach,
-  if you find anything valuable here then I am happy to have shared it with
+  if you find anything valuable here, then I am happy to have shared it with
   you.
 - My pledge to you is that I am honest and open about both my intent and means
-  by which I publish that content on this site
-- I will
-  - Say what I do
-  - Do what I say
-  - Conspicuously document it in [[http://www.wisdomandwonder.com/site-policy][this privacy policy]]
-  - Comply with [[http://www.wisdomandwonder.com/site-policy][this privacy policy]]
-- The following policy definitions spell it all out
+  by which I publish that content on this site.
+- I will:
+  - Say what I do.
+  - Do what I say.
+  - Conspicuously document it in [[http://www.wisdomandwonder.com/site-policy][this privacy policy]].
+  - Comply with [[http://www.wisdomandwonder.com/site-policy][this privacy policy]].
+  - To the best of my ability, this blog both complies with and facilitates
+    all applicable laws in both letter and spirit to make that happen.
+- The following policy definitions spell it all out.
 
 * Values Policy
 
 # http://jsoftware.com/forums.htm
 # http://hrc-assets.s3-website-us-east-1.amazonaws.com//files/assets/resources/International_Business_Machines_Corp_-_2009_CEI_EEOPolicy.pdf
 
-- The user community gives life to this blog. They represent a talented and
-  diverse cross section of the world and it's interests. Achieving the full
+- User communities give life to a blog. They represent an enthusiastic and
+  diverse cross-section of the world, and its interests. Achieving the full
   potential of this diversity is a priority that is fundamental to everyone's
-  success. A key vehicle for that success is this site's commitment to equal
-  opportunity.
-- Blogging activities such as reading, commenting, and sharing should be easily
-  conducted without regard to race, color, religion, gender, gender identity
-  or expression, sexual orientation, national origin, genetics, disability, or
-  age.
-- To the best of my ability, this blog both complies with and faciliates all
-  applicable laws in both letter and in spirit to make that happen
+  success. An essential vehicle for that success is this site's commitment to equal opportunity.
+- Blogging activities such as reading, commenting, and sharing should be effortlessly conducted without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, or age.
 
 * Content Policy
 
-- The content on this site would most be of interest to adults
-- My nieces and nephews might read it some day, so I want it
-  accessible, pleasant, and safe for them, and *everyone else*, too
-- That applies to everyone operating at every cognitive level
-- To the best of my ability, this blog both complies with and faciliates all
-  applicable laws in both letter and in spirit to make that happen
+- The content on this site would most be of interest to adults.
+- I want it accessible, pleasant, and safe for everyone.
 
 # http://olkb.com/privacy/
 
 * Copyright Policy
 
+- Everything on this site is licensed according to the following:
+  #+begin_export html
+  <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
+  #+end_export
 - I value copyright and gladly invest effort in giving full attribution to all
-  referenced content
+  referenced content.
 - I will do my best and sometimes I will fail: *PLEASE NOTIFY WHEN I DO AND I
-  WILL CORRECT IT AS QUICKLY AS POSSIBLE*
-- Everything not given attribution is copyright myself since I started this
-  blog
-- See more about licensing under [[https://www.wisdomandwonder.com/Copying][Copying]].
+  WILL CORRECT IT AS QUICKLY AS POSSIBLE*.
 
 * Disclosure Policy
 
 # http://john.do/privacy-policy/
 
 - What is "personally identifiable information (PII)" on this site?
-  - When you leave comments on this site you are prompted for
-    your name, email address, and optionally website URL, in addition to the
+  - When you leave comments on this site the following PII is collected:
+    your name, email address, maybe website URL, and
     comment that you are leaving. This is considered PII.
-    - This non-sensitive personal data is your only data stored here
-    - *I NEVER SHARE THIS WITH ANYONE*
-- Using [[https://analytics.google.com][Google Analytics]] I analyze and optimize your content and reading
+    - This non-sensitive personal data is your only data stored here.
+    - *I NEVER SHARE THIS WITH ANYONE*.
+- Using [[https://analytics.google.com][Google Analytics,]] I analyze and optimize your content and reading
   experience through the use of cookies. [[https://policies.google.com/technologies/partner-sites][Here]] is how Google uses your
-  information and [[https://support.google.com/analytics/answer/6004245][here]] is how they protect it along with your confidentiality.
-- You can turn off the use of cookies at anytime by changing your specific
+  information, and [[https://support.google.com/analytics/answer/6004245][here]] is how they protect it along with your confidentiality.
+- You can turn off the use of cookies at any time by changing your specific
   browser settings.
 - I'm not responsible for republished content from this blog on other blogs or
   websites without my permission.
-- This privacy policy is subject to change without notice and was last updated
-  on 2019-01-28. If you have any questions then feel free to
-  contact me directly here: grant@wisdomandwonder.com.
+- This privacy policy is subject to change without notice. If you have any questions, then feel free to contact me directly here: grant@wisdomandwonder.com.
 
-** California Online Privacy Protection Act
+** California Online Privacy Protection Act (CalOPPA)
 
 - CalOPPA is the first state law in the nation to require commercial websites
-  and online services to post a privacy policy
+  and online services to post a privacy policy.
 - This is a personal website, not commercial, but I feel like it is useful
-  here
+  here.
 - The law's reach stretches well beyond California to require a person or
   company in the United States (and conceivably the world) that operates
   websites collecting personally identifiable information from California
-  consumers to post a conspicuous privacy policy on its website stating
-  exactly the information being collected and those individuals with whom it
-  is being shared, and to comply with this policy.
-- See more [[http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf][here]]
+  consumers to post a conspicuous privacy policy on its website accurately stating the data being collected and those individuals with whom it
+  is being shared and to comply with this policy.
+- See more [[http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf][here]].
 
 *** According to CalOPPA I agree to the following
 
-- You can visit this site anonymously
-- Once this privacy policy is created, I will add a link to it on the home
-  page in the footer at the location [[http://www.wisdomandwonder.com/site-policy][Privacy Policy]]
-- You will be notified of any privacy policy changes on the privacy policy page
+- You can visit this site anonymously.
+- The footer of every page on this site contains a link to this [[http://www.wisdomandwonder.com/site-policy][Privacy Policy]].
+  - Any privacy policy changes will be noted here.
 - If you have an account then you can change your personal information by
-  logging in
-- This site does not do anything when it receives a "Do Not Track" message
+  logging in.
+- This site does not implement "Do Not Track" signals.
 
 ** General Data Protection Regulation (GDPR)
 
-- At your request I will
-  - Erase your data
-  - Export your data and send it to
-    - you
-    - another party you specify
-  - Update your data
+- At your request I will:
+  - Erase your data.
+  - Export your data and send it to:
+    - you.
+    - another party you specify.
+  - Update your data.
 
 ** Things Having Entirely to Do With Money
 
-- This blog relies upon advertisements to support itself
-- When it can't support itself, I pay for it
-- I chose the advertisements shown here because they (are)
-  - Trusted *never* to serve malware
-  - *Never* have pop-ups
-  - *Never* have pornography
-- If you choose not to visit sites that utilize advertisement revenue, I
-  respect your decision
-  - Please respect my decision, too
-
-*** I Use Amazon Affiliate Links Here
-
-- I post Amazon Affiliate Links for products that I endorse
-  #+begin_quote
-We are a participant in the Amazon Services LLC Associates Program, an
-affiliate advertising program designed to provide a means for us to earn fees
-by linking to Amazon.com and affiliated sites.
-  #+end_quote
+- This blog relies on me to pay for it. I am it's only source of funding.
+- You will never find ads, affiliate links, sponsored content, or any other such things here.
+  - *IF YOU DO THEN PLEASE NOTIFY ME IMMEDIATELY!*
+- If I were ever gifted something in exchange for an honest unbiased review then I will disclose that in the post.
 
 ** Things Having Entirely to Do with the Server
 
 *** Transport Layer Security (TLS) and Secure Sockets Layer (SSL)
 
 - This website is only available over a secure protocol increasing the
-  likelihood that when your site talks to my site it is /really/ your site
+  likelihood that when your site talks to my site, it is /really/ your site
   talking to my site
-
-*** Scanning
-
-- This website is scanned daily for security holes, known vulnerabilities, and
-  malware in order to make your visit here as safe as possible.
 
 *** Web Server Logs
 
-- Apache keeps access and error logs
-- The logs contain IP addresses of URLs requested
-- They are helpful to debug site errors and issues
-- The logs are private to me and I don't share them with anyone unless I am
-  legally required to do so
-- I keep them around for as long as is useful
-
-*** Image Host Logs
-
-- When I first set up this blog I used Flickr for image hosting
-- Their [[https://policies.yahoo.com/us/en/yahoo/privacy/products/flickr/index.htm][privacy policy is here]]
-- Now I host all images right on the blog
+- Apache keeps access and error logs.
+- The logs contain IP addresses of URLs requested.
+- They are helpful to debug site errors and issues.
+- The logs are private to me, and I don't share them with anyone unless I am
+  legally required to do so.
+- I keep them around for as long as is useful.
 
 #  LocalWords:  AdSense AdWords SiteGround Flickr src emacs PII CalOPPA TLS

@@ -3,8 +3,8 @@
 #+POSTID: 10549
 #+DATE: [2017-04-24 Mon 10:42]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Article
-#+TAGS: Radio, Amateur, Ham
+#+CATEGORY: Entry
+#+TAGS: Amateur radio
 #+TITLE: @IcomAmericaInc Sending One Ham On Vacation To Japan
 
 [[http://www.icomamerica.com/en/amateur/][Icom America]] is sending one American Ham to Japan for the [[https://en.wikipedia.org/wiki/Japan_Amateur_Radio_League][JARL]] Ham Fair 2017.

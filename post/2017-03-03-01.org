@@ -3,8 +3,8 @@
 #+POSTID: 10523
 #+DATE: [2017-03-03 Fri 21:48]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Article
-#+TAGS: Radio, Amateur, Ham
+#+CATEGORY: Entry
+#+TAGS: Amateur radio
 #+TITLE: BaoFeng UV-82WP Micro Review
 
 The [[http://amzn.to/2mPGqan][BaoFeng UV-82WP]] is a great first radio. It is /my/ first radio. So my

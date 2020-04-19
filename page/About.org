@@ -9,6 +9,6 @@ src="https://www.wisdomandwonder.com/wp-content/uploads/2018/12/CroppedToSquareO
 alt="Grant Rettke Profile Picture" class="aligncenter size-full" />
 #+END_EXPORT
 
-This site is my personal notebook ✎.
+This site is my personal notebook ✎🕮.
 
 Email me [[mailto:grant@wisdomandwonder.com][here]].

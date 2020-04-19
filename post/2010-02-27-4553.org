@@ -2,8 +2,8 @@
 #+POSTID: 4553
 #+DATE: [2010-02-27 Sat 19:14]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
-#+CATEGORY: Link
-#+TAGS: Architecture, Conference
+#+CATEGORY: Entry
+#+TAGS: Data
 #+TITLE: DEBS 2010
 
 Looks pretty fun!
@@ -13,8 +13,8 @@ Via the [[http://debs10.doc.ic.ac.uk/][homepage]]:
 
 
 #+BEGIN_QUOTE
-  
-The 4th ACM International Conference on Distributed Event-Based Systems (DEBS) builds on the success of first three editions from 2007. DEBS Conference success is rooted in five editions of the DEBS workshops held from 2002 to 2006 in companion with major conferences such as ICDCS, ICSE, and SIGMOD/PODS. The conference has received full ACM sponsorship since 2009. 
+
+The 4th ACM International Conference on Distributed Event-Based Systems (DEBS) builds on the success of first three editions from 2007. DEBS Conference success is rooted in five editions of the DEBS workshops held from 2002 to 2006 in companion with major conferences such as ICDCS, ICSE, and SIGMOD/PODS. The conference has received full ACM sponsorship since 2009.
 
 The objectives of the DEBS Conference are to provide a forum dedicated to the dissemination of original research, the discussion of practical insights, and the reporting on relevant experience relating to event-based computing that was previously scattered across several scientific and professional communities. The conference also aims at providing a forum for academia and industry to exchange ideas, for example, through industry papers and demo papers.
 
@@ -27,7 +27,7 @@ Via [[http://caml.inria.fr/pub/ml-archives/caml-list/2010/02/94e3a5d51904da224ec
 
 
 #+BEGIN_EXAMPLE
-    
+
 --------------------------------------------------------------------------
 
 Event-based systems are rapidly gaining importance in many application

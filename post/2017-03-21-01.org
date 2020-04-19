@@ -3,8 +3,8 @@
 #+POSTID: 10532
 #+DATE: [2017-03-21 Tue 23:15]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Article
-#+TAGS: Radio, Amateur, Ham
+#+CATEGORY: Entry
+#+TAGS: Amateur radio
 #+TITLE: Review of the HamTestOnline (HTO) Ham Radio Exam Courses
 
 HamTestOnline (HTO) helps you learn more than required to earn your licenses

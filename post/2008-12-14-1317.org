@@ -2,8 +2,8 @@
 #+POSTID: 1317
 #+DATE: [2008-12-14 Sun 19:56]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
-#+CATEGORY: Link
-#+TAGS: Perl, Programming Language, Scheme, philosophy
+#+CATEGORY: Entry
+#+TAGS: Programming Language, Scheme, philosophy
 #+TITLE: Scheme and the Philosophy Behind Perl 6
 
 Contrast [[http://www.wall.org/~larry/][Larry Wall]]'s take on the "soon to be released" [[http://en.wikipedia.org/wiki/Perl_6][Perl 6]] today [in 2008]:
@@ -11,8 +11,8 @@ Contrast [[http://www.wall.org/~larry/][Larry Wall]]'s take on the "soon to be r
 
 
 #+BEGIN_QUOTE
-  
-Don't design everything you will need in the next 100 years, but design the ability to create things we will need in 20 or 100 years. The heart of the Perl 6 effort is the extensibility we have built into the parser and introduced language changes as non-destructively as possible. 
+
+Don't design everything you will need in the next 100 years, but design the ability to create things we will need in 20 or 100 years. The heart of the Perl 6 effort is the extensibility we have built into the parser and introduced language changes as non-destructively as possible.
 
 #+END_QUOTE
 
@@ -25,7 +25,7 @@ with that of [R3RS] Scheme in 1986:
 
 
 #+BEGIN_QUOTE
-  
+
 Programming languages should be designed not by piling feature on top of feature, but by removing the weaknesses and restrictions that make additional features appear necessary.
 
 #+END_QUOTE

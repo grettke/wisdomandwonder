@@ -3,8 +3,8 @@
 #+POSTID: 10506
 #+DATE: [2017-01-31 Tue 19:54]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Article
-#+TAGS: Radio, Amateur, Ham
+#+CATEGORY: Entry
+#+TAGS: Amateur radio
 #+TITLE: Easily Program Your Amateur Radio
 
 It is more fun to use a handheld ham radio when you can tell it to scan

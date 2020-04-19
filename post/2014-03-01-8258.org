@@ -2,11 +2,11 @@
 #+POSTID: 8258
 #+DATE: [2014-03-01 Sat 17:03]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
-#+CATEGORY: Article
-#+TAGS: Amplifier, Bass, Guitar, Modeling, Music
+#+CATEGORY: Entry
+#+TAGS: Amplifier, Bass, Guitar, Music
 #+TITLE: Setting Up a Line6 POD XT on Windows 7
 
-Whether not you play guitar, or do custom software development, you ought to pay homage and respect to Line6 for supporting their gear for years and years after the release date with excellent software drivers and tools. Surely their excellent long-term gear support and quality eats into their profits a bit, but they create life-own Line6 fans with nearly every purchase. 
+Whether not you play guitar, or do custom software development, you ought to pay homage and respect to Line6 for supporting their gear for years and years after the release date with excellent software drivers and tools. Surely their excellent long-term gear support and quality eats into their profits a bit, but they create life-own Line6 fans with nearly every purchase.
 
 My reason for posting here is that setting up my old POD XT on Windows 7 required accepting just a couple of oddities, and then everything worked fine, and I can't be the only one facing this. Here is how I did it in order.
 
@@ -18,9 +18,9 @@ Ran [Line 6 Monkey v1.65 Installer].exe.
 
 Ran [Line 6 Edit v3.06.0 Installer].exe.
 
-At my preference, I reinstalled the firmware and patches, because I forgot what was even on there and why. 
+At my preference, I reinstalled the firmware and patches, because I forgot what was even on there and why.
 
-Bought the Bass Expansion pack. Downloaded the PDFs for it to make sense of what is on there. Line6 Money will install the plugin and that worked flawlessly. The only oddities were two things. The first was that the new amp models for the bass didn't show up. Literally amps #79 to #104 were gone. Rebooting the POD fixed this. The second was that in Line6 Edit, when you go to edit the amps, the tool complains that I don't have support for those amps. Not sure what to do but things seem to work fine. 
+Bought the Bass Expansion pack. Downloaded the PDFs for it to make sense of what is on there. Line6 Money will install the plugin and that worked flawlessly. The only oddities were two things. The first was that the new amp models for the bass didn't show up. Literally amps #79 to #104 were gone. Rebooting the POD fixed this. The second was that in Line6 Edit, when you go to edit the amps, the tool complains that I don't have support for those amps. Not sure what to do but things seem to work fine.
 
 That is my story.
 

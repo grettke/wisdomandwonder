@@ -2,12 +2,12 @@
 #+POSTID: 4705
 #+DATE: [2010-04-16 Fri 02:26]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
-#+CATEGORY: Link
-#+TAGS: Pharo, Programming Language, Smalltalk
+#+CATEGORY: Entry
+#+TAGS: Programming Language, Smalltalk
 #+TITLE: Pharo Smalltalk
 
 #+BEGIN_QUOTE
-  [[http://pharo-project.org/about][Pharo]] is a fork from the Squeak open-source Smalltalk. We decided to start Pharo because as active Squeakers, and responsible for Squeak 3.9, we felt the need to reconsider choices made. We want to create a better Smalltalk and be free to enhance it without fear of backwards compatibility to Squeak.
+[[http://pharo-project.org/about][Pharo]] is a fork from the Squeak open-source Smalltalk. We decided to start Pharo because as active Squeakers, and responsible for Squeak 3.9, we felt the need to reconsider choices made. We want to create a better Smalltalk and be free to enhance it without fear of backwards compatibility to Squeak.
 #+END_QUOTE
 
 
