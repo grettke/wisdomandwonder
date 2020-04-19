@@ -3,7 +3,7 @@
 #+POSTID: 10554
 #+DATE: [2017-05-07 Sun 20:26]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+CATEGORY: Article
+#+CATEGORY: Emacs
 #+TAGS: Babel, Emacs, Ide, Lisp, Literate Programming, Programming Language, Reproducible research, elisp, org-mode
 #+TITLE: Org-Mode's Two Most Useful Data Table Functions That You Probably Never Used
 
