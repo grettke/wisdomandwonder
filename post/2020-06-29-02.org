@@ -1,0 +1,71 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 13161
+#+ORG2BLOG:
+#+DATE: [2020-06-29 Mon 09:38]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Health
+#+TAGS: Disinfectant
+#+TITLE: Can You Disinfect Your Keyboard In Only 5 Minutes?
+
+It looks like: yes.
+
+Here is why and how…
+
+@@html:<!--more-->@@
+
+As of writing this, the world is managing the COVID-19 epidemic. Epidemic or not, it is still always a good idea to disinfect your keyboard. The [[https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention][Centers for Disease Control and Prevention (CDC)]] website explains more.
+
+The CDC recommends that you disinfect your [[https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cleaning-disinfection.html][electronics]] (and all hard non-porous surfaces that can). Step 1 is to clean it. That might mean scrubbing it with a normal wet-wipe to get the crud off. It is virtually impossible to get disinfecting wipes (Like Clorox or Lysol) right now, so you probably can’t clean and disinfect in one step. Step 2 is disinfecting it. There are many ways to do it, but I think the easiest one is the best one.
+
+The CDC explains that [[https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/disinfecting-your-home.html]["Alcohol solutions with at least 70% alcohol may also be used."]] to disinfect surfaces. That means finding some [[https://en.wikipedia.org/wiki/Isopropyl_alcohol][Isopropyl alcohol (IPA)]] that is at least 70%.
+
+From March to May 2020, finding reasonably priced Isopropyl alcohol became virtually impossible. Pandemic profiteers were marking it up, making it four times the reasonable cost (kudos to their business sense is one good thing to say about them!). Now (06/29/20), it is easy to find and back at the previous prices for the 70% version. The CDC goes into great detail about [[https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2-covid-19][List N: Disinfectants for Use Against SARS-CoV-2 (COVID-19)]] and Isopropyl is expanded up there.
+
+Although I am not a doctor (full disclaimer this is not medical advice), here are some critical points for a specific brand of Isopropyl alcohol. I’m going to assume these properties are real for any Isopropyl alcohol brand.:
+
+- EPA Registration Number: 1677-249
+- Active Ingredient(s): Isopropanol (Isopropyl alcohol)
+- Product Name: 70/30 IPA
+- Company: Ecolab Inc
+- To kill SARS- CoV-2 (COVID-19), follow disinfection directions for the following virus(es): Rhinovirus
+- Contact Time (in minutes): 5
+- Formulation Type: Ready-to-use
+- Surface Types: Hard
+- Use Sites: Healthcare
+- Emerging Viral Pathogen Claim?: Yes
+- Date Added to List N: 03/03/2020
+
+Based on everything else that I’ve read online, these seem to be the key details:
+
+- Contact Time: You need to let the IPA sit on the surface for at least 5
+  minutes. If it dries up before 5 minutes, then it didn’t work. That might
+  mean you need to apply more then you would expect
+- Ratio: Use 70% IPA and not too much more. If you use too high a percentage,
+  it will evaporate too quickly and fail to meet the Contact Time requirement.
+  Reading all of that was enough to convince that IPA is an easy and fast way
+  to disinfect my computer keyboard safely. Here is how I did it using what
+  products and steps and I can vouch for the ease and convenience of it
+
+Reading all of that was enough to convince that IPA is an easy and fast way to safely disinfect my computer keyboard. Here is how I did it using what products and steps and I can totally vouch for the ease and convenience of it
+
+- Get some 70% IPA from your drugstore.
+- Get a little [[https://smile.amazon.com/gp/product/B07FSLCM4Q][spray bottle]] and [[https://smile.amazon.com/gp/product/B078Z9LWDW][funnel]] to fill it.
+- Get [[https://smile.amazon.com/s?k=printable+labels&ref=nb_sb_noss_1][printable labels]] so you know what is in the spray bottle.
+- *Unplug* your keyboard: an electric charge runs though your USB cable.
+  What about ruining your keyboard? It didn't ruin mine. The IPA just sits on
+  top of the keys and outside of the case. The IPA that went inbetween the
+  keys just dried up. Although you are unlikely to run into any problems,
+  you should never spray a liquid into something that is plugged in.
+- Somewhat liberally spray your keyboard and let it sit for 5 minutes.
+  - It will take trial and error to get the amount right but
+- Let it dry until the IPA is visibly gone.
+
+  One of the best things about IPA is that it doesn’t leave any residue behind. If you read the back of your favorite disinfectant, you’ll find that after the Contact Time has passed, you have to rinse it off with “clear, freshwater”.  When you use IPA no rinsing is required.
+
+You can disinfect your keyboard in five minutes by spraying it with IPA and letting it sit for 5 minutes.
+
+BTW here are the stars of the show:
+
+#+BEGIN_EXPORT html
+[caption id="attachment_13164" align="aligncenter" width="840"]<a href="https://www.wisdomandwonder.com/wp-content/uploads/2020/06/2020-06-27-21.23.40-scaled.jpg"><img src="https://www.wisdomandwonder.com/wp-content/uploads/2020/06/2020-06-27-21.23.40-1024x576.jpg" alt="Keyboard and With Isopropyl Alcohol Applied" width="840" height="473" class="size-large wp-image-13164" /></a> Keyboard and With Isopropyl Alcohol Applied And Nearly Evaporated (Click to enlarge)[/caption]
+#+END_EXPORT
