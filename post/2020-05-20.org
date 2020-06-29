@@ -1,0 +1,20 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 13027
+#+ORG2BLOG:
+#+DATE: [2020-05-20 Wed 22:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Entry
+#+TAGS: Yoga, philosophy, Health
+#+TITLE: Vishoka Meditation Calendar File
+
+The [[https://www.himalayaninstitute.org/event/vishoka-meditation/][Vishoka Meditation The Yoga of Inner Radiance]] seminar begins tomorrow.
+
+There are 15 events so I put them all into a calendar. Then I exported them into an ICS file.
+
+You should be able to import it into Google, Outlook, Mac Mail, and iCloud Mail. It will probably save you some time from typing them all into your calendar manually yourself.
+
+Here is the file:
+
+#+begin_export html
+<a href="https://www.wisdomandwonder.com/wp-content/uploads/2020/05/Vishoka-Meditation.calendar.ics">Vishoka Meditation.calendar</a>
+#+end_export
