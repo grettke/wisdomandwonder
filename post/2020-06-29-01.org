@@ -1,0 +1,28 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 13155
+#+ORG2BLOG:
+#+DATE: [2020-06-29 Mon 09:01]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Programming Language,
+#+TAGS: Programming Language,
+#+TITLE: Using Colors To Show Changes To Files
+
+Can you use colors to show the changes being made to your files? Yes definitely.
+
+@@html:<!--more-->@@
+
+If you are a programmer you will probably use a Diff tool for example [[https://www.deltawalker.com/][DeltaWalker Pro]]. You might use this with [[https://en.wikipedia.org/wiki/Git][Git]].
+
+If you use macOS you might use [[https://support.apple.com/guide/mac-help/tag-files-and-folders-mchlp15236/mac][file tags]] in Finder. You might use this to keep track of editing that you are doing in MS Word to multiple files.
+
+Whatever your tool here are my favorite colors for indicating the type of change:
+
+- Differences
+  - Additions: Green
+  - Changes: Orange
+  - Conflicts: Red
+  - Deletions: Cyan
+
+#+BEGIN_EXPORT html
+<a href="https://www.wisdomandwonder.com/wp-content/uploads/2020/06/SoftwareDiffColors.png"><img src="https://www.wisdomandwonder.com/wp-content/uploads/2020/06/SoftwareDiffColors-150x150.png" alt="Colors To Show Changes To Files" width="150" height="150" class="alignleft size-thumbnail wp-image-13157" /></a>
+#+END_EXPORT
