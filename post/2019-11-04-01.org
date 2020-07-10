@@ -1,0 +1,14 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 12849
+#+ORG2BLOG:
+#+DATE: [2019-11-04 Mon 11:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Emacs
+#+TAGS: Emacs
+#+TITLE: Some Pretty Good Configuration Options To Copy
+
+[[https://github.com/grettke/lolsmacs][Here]] are some pretty good configuration options to copy.
+
+Seriously they are pretty good and very objective. I tried to keep as little subjective preference in there. Although I definitely failed at least partly, there is good stuff in there.
+
+And it is super short anyway.
