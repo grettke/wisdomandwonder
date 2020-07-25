@@ -1,0 +1,22 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 13168
+#+ORG2BLOG:
+#+DATE: [2020-07-25 Sat 18:12]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Emacs
+#+TAGS: Emacs
+#+TITLE: Make Your Emacs Frame Fit Flush On macOS
+
+When you try to align your Emacs frame flush on macOS and it just doesn't quite reach the edge
+
+You can fix it with
+
+#+BEGIN_SRC emacs-lisp
+(setq frame-resize-pixelwise t)
+#+END_SRC
+
+#+BEGIN_EXPORT html
+<a href="https://www.wisdomandwonder.com/wp-content/uploads/2020/07/2020-07-25-01-post.gif"><img src="https://www.wisdomandwonder.com/wp-content/uploads/2020/07/2020-07-25-01-post-1024x666.gif" alt="" width="840" height="546" class="aligncenter size-large wp-image-13171" /></a>
+#+END_EXPORT
+
+Via [[https://www.reddit.com/r/emacs/comments/hsszos/how_to_get_rid_of_black_border_around_emacsmacosx/][Reddit]].
