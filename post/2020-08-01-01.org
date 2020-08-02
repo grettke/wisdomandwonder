@@ -1,0 +1,24 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 13175
+#+ORG2BLOG:
+#+DATE: [2020-08-01 Sat 19:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Emacs
+#+TAGS: emacs, org-mode
+#+TITLE: Is It Impossible To Print Org-Mode Files With Unicode To PDF?
+
+Org-Mode uses UTF-8 files. Therefore you can use the full range of Unicode characters in them. As long as you have a font that contains them, then they will show up correctly. However, when you export to a PDF, why don't they show up in the PDF?
+
+@@html:<!--more-->@@
+
+The reason is that the exporter from Org-Mode to the PDF doesn't know what fonts to use. It can be extremely frustrating when you run into this problem. Is it impossible to print Org-Mode files with Unicode to PDF? No, it is possible, and here is one way to make it happen.
+
+[[https://github.com/grettke/org-utf-to-xetex%20][This package]] makes it very easy to export your Unicode characters to PDF. The whole topic is somewhat mundane when you think about it, but if you are facing this problem, then you will probably find the solution tantalizing.
+
+Whether Unicode is an issue for you or not, you should still read about the package because, as an Org-Mode user, you should know #1 that such a problem exists #2 that a solution exists for it. People moving to Org-Mode from everything ranging from WYSIWYG editors to other markup languages must consider the "Using Unicode Characters" problem. If you're ever going to recommend that somebody replace their existing tools with Org-Mode, you are duty-bound to understand both the problem and the solution.
+
+Thanks for reading this. Be well.
+
+Crossposted to [[https://www.reddit.com/r/orgmode/][/r/orgmode]]
+
+Crossposted to [[https://www.reddit.com/r/emacs/][/r/emacs]]
