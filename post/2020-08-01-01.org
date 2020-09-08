@@ -9,7 +9,7 @@
 
 Org-Mode uses UTF-8 files. Therefore you can use the full range of Unicode characters in them. As long as you have a font that contains them, then they will show up correctly. However, when you export to a PDF, why don't they show up in the PDF?
 
-@@html:<!--more-->@@
+@@html:<!--more Click here to read more-->@@
 
 The reason is that the exporter from Org-Mode to the PDF doesn't know what fonts to use. It can be extremely frustrating when you run into this problem. Is it impossible to print Org-Mode files with Unicode to PDF? No, it is possible, and here is one way to make it happen.
 
