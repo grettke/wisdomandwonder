@@ -6,22 +6,19 @@
 #+TAGS: Utility
 #+TITLE: Custom display sizes with Remote Desktop Connection
 
-Microsoft's Remote Desktop Connection is a nice piece of software. Wondering how to configure a desktop size so that it would fit perfectly into rotated monitor, I found the directions [[http://technet.microsoft.com/en-us/library/cc772472%28WS.10%29.aspx][here]]to be very simple: 
+Microsoft's Remote Desktop Connection is a nice piece of software. Wondering how to configure a desktop size so that it would fit perfectly into rotated monitor, I found the directions [[http://technet.microsoft.com/en-us/library/cc772472%28WS.10%29.aspx][here]]to be very simple:
 
 
-
-#+BEGIN_QUOTE
-  
+#+BEGIN_EXAMPLE
 To set a custom display resolution in an .rdp file
 
- Open the .rdp file in a text editor. Add or change the following settings:
+Open the .rdp file in a text editor. Add or change the following settings:
 
- desktopwidth:i:
+desktopwidth:i:<value>
 
- desktopheight:i:
+desktopheight:i:<value>
 
- where is the resolution, such as 1680 or 1050.
-#+END_QUOTE
+where <value> is the resolution, such as 1680 or 1050.
+#+END_EXAMPLE
 
-
-
+The articles goes into detail about other ways to set the values.
