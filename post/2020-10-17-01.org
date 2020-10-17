@@ -1,3 +1,5 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 13197
 #+ORG2BLOG:
 #+DATE: [2020-10-17 Sat 14:12]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
@@ -21,7 +23,15 @@ When The Mad Scientist committed an inter-reality incursion from the Monster-Mas
 - We know that the singer of Monster-Mash-Universe-Monster-Mash-Song is at the party and wants to sing again: Dracula
 - A person is at the party listening to all this, and it is apparently not you: you are listening to Our-Universe-Monster-Mash-Song
 
-Start by studying the diagram (as a PDF), illustrating all of the evidence and relationships explaining everything. Be sure to click on the links for who wrote the song, the lyrics, and the video to get the full background. As a backup, there is an image below, without links, though.
+Start by studying the diagram as a [[https://www.wisdomandwonder.com/wp-content/uploads/2020/10/monster-mash.pdf][PDF]], illustrating all of the evidence and relationships explaining everything. Be sure to click on the links for who wrote the song, the lyrics, and the video to get the full background. If you can't do PDFs on your device then here is an image instead:
+
+#+BEGIN_EXPORT html
+<a href="https://www.wisdomandwonder.com/wp-content/uploads/2020/10/monster-mash.png"><img src="https://www.wisdomandwonder.com/wp-content/uploads/2020/10/monster-mash-300x176.png" alt="" width="300" height="176" class="aligncenter size-medium wp-image-13200" />
+<center>
+Click to get full-size version
+</center>
+</a><p>
+#+END_EXPORT
 
 Now that you've wrapped your head around it, you know that we /can/ hear Monster-Mash-Universe-Monster-Mash-Song. Yet you are still left with an awkward feeling of discomfort and confusion. You know that something is very, very wrong with this song. Despite the above: something is left unexplained. You must be wondering why precisely the music is crafted so that we never hear Monster-Mash-Universe-Monster-Mash-Song?
 
