@@ -1,0 +1,58 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 13211
+#+ORG2BLOG:
+#+DATE: [2021-04-16 Fri 11:41]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: macOS
+#+TAGS: macOS
+#+TITLE: Invert Colors and Toggle Grayscale with JavaScript on macOS
+
+Via [[https://forum.keyboardmaestro.com/t/toggling-day-night-settings-for-dark-mode-background-color-inversion/1001/2][reboot81]]:
+
+Open [[https://support.apple.com/en-qa/guide/script-editor/welcome/mac][Script Editor]] and paste each block into a new script for you to use.
+
+* Invert Colors
+
+#+BEGIN_SRC javascript
+var systemEvents = Application("System Events");
+var systemPreferences = Application("System Preferences");
+
+systemPreferences.activate();
+
+systemPreferences.panes.byId(
+    "com.apple.preference.universalaccess"
+  ).anchors.byName("Seeing_Display").reveal();
+
+
+chkInvert = systemEvents.applicationProcesses.byName(
+    "System Preferences"
+  ).windows.byName("Accessibility").checkboxes.
+      byName("Invert colors");
+
+systemEvents.click(chkInvert);
+
+systemPreferences.quit();
+#+END_SRC
+
+* Toggle Grayscale
+
+#+BEGIN_SRC javascript
+var systemEvents = Application("System Events");
+var systemPreferences = Application("System Preferences");
+
+systemPreferences.activate();
+
+systemPreferences.panes.byId(
+    "com.apple.preference.universalaccess"
+  ).anchors.byName("Seeing_Display").reveal();
+
+
+chkInvert = systemEvents.applicationProcesses.byName(
+    "System Preferences"
+  ).windows.byName("Accessibility").checkboxes.
+      byName("Use grayscale");
+
+systemEvents.click(chkInvert);
+
+systemPreferences.quit();
+#+END_SRC
