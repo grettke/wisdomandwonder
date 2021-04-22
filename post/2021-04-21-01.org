@@ -1,0 +1,26 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 13258
+#+org2blog:
+#+date: [2021-04-21 Wed 23:22]
+#+options: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+category: Emacs,
+#+tags: org2blog,
+#+title: Org2Blog v1.1.11 Released
+
+I just tagged [[https://github.com/org2blog/org2blog/tree/master][Org2Blog]] v1.1.11. It's got a few nice changes for easier blogging. It got a lot of changes to make it easier to contribute and report issues. After this, all of the work will bring it up to the current version of Emacs and Org mode. That work will begin in the [[https://github.com/org2blog/org2blog/tree/v1.2.0][v1.2.0]] branch. For the sake of simplicity, consider it unstable (no matter how unlikely, that is where issues could show up). When it is ready, I'll post it for people who want to test it out.
+
+Happy Blogging!
+
+Here is the change summary:
+
+@@wp:<!--more-->@@
+
+- Raw HTML support with ~wp~ snippets and blocks for more straightforward custom HTML.
+- Narrowing approach to store multiple posts in a single file makes exporting to other formats easier.
+- Improved Contribution Expectations for Documentation and Coding style makes contributing easier.
+- Added Issue template, Bug report template, and Pull request template for easier creation and resolution.
+- Unfilled documentation making grammar enabling the use of checking tools for more straightforward grammar checking.
+- Structure templates for inserting RAW HTML using snippets or blocks.
+- Minor refactorings to ease maintenance.
+- Added testimonials for the fun of it.
+- After this release, only bug fixes: new development in v1.2.0 branch starting with migration to the latest Emacs and Org mode.
