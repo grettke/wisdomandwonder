@@ -1,0 +1,12 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 13265
+#+org2blog:
+#+date: [2021-05-11 Tue 19:53]
+#+options: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+category: Programming Language,
+#+tags: Python
+#+title: A Hand-Held Mobile Computer Running Python
+
+[[https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-plus-ce-python][Here]] is a hand-held mobile computer running Python.
+
+It does GRAPHING pretty well too!
