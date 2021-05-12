@@ -1,0 +1,12 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 13263
+#+org2blog:
+#+date: [2021-05-11 Tue 19:31]
+#+options: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+category: Computing,
+#+tags: Cray,
+#+title: So You Want To Build Your Own Cray-1a?
+
+How hard can it be?
+
+[[http://www.chrisfenton.com/homebrew-cray-1a/][Here is how.]]
