@@ -1,0 +1,12 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 13267
+#+org2blog:
+#+date: [2021-05-11 Tue 19:57]
+#+options: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+category: Computing,
+#+tags: Apple, II, HPC
+#+title: AppleCrate II: A New Apple II-Based Parallel Computer
+
+[[http://michaeljmahon.com/AppleCrateII.html][Here]] is a High Performance Computing (HPC) system with sevente Apple II motherboards: one controller and sixteen nodes.
+
+It is probably as great as you imagine.
