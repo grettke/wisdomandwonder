@@ -1,0 +1,21 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 13270
+#+org2blog:
+#+date: [2021-05-19 Wed 00:07]
+#+options: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+category: writing,
+#+tags: Punctuation,
+#+title: What dash should I use when attributing a quotation?
+
+- Use an *EM*-DASH, which is this: =—=
+  - /Not/ an *EN*-DASH, which is this: =–=
+  - /Nor/ a HYPHEN-MINUS, which is this: =-=
+- Do not leave a space between the space and the name.
+
+For example:
+
+#+begin_quote
+Wisdom begins in wonder.
+
+—Socrates
+#+end_quote
