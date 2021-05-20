@@ -10,7 +10,7 @@
 - Use an *EM*-DASH, which is this: =—=
   - /Not/ an *EN*-DASH, which is this: =–=
   - /Nor/ a HYPHEN-MINUS, which is this: =-=
-- Do not leave a space between the space and the name.
+- Do not leave a space between the *EM*-DASH and the name.
 
 For example:
 
