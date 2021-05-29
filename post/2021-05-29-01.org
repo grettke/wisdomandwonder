@@ -1,0 +1,15 @@
+#+BLOG: wisdomandwonder
+#+POSTID: 13277
+#+org2blog:
+#+date: [2021-05-29 Sat 11:09]
+#+options: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+category: Happiness,
+#+tags: Happiness,
+#+title: Can you ever set your standards too low?
+
+#+begin_quote
+The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low, and achieving our mark.
+
+—Michelangelo
+#+end_quote
+
